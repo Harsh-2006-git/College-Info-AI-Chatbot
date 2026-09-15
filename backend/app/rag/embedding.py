@@ -19,12 +19,16 @@ class EmbeddingModel:
 
     def embed_documents(self, texts: List[str]) -> List[List[float]]:
         """Generate embeddings for a list of documents."""
+        clean_texts = [(t.strip() if t and t.strip() else "document content") for t in texts]
         if self.use_local:
-            return self.model(texts)
-        return self.model.embed_documents(texts)
+            return self.model(clean_texts)
+        return self.model.embed_documents(clean_texts)
 
     def embed_query(self, text: str) -> List[float]:
         """Generate an embedding for a single query string."""
+        clean_text = (text or "").strip()
+        if not clean_text:
+            clean_text = "general inquiry"
         if self.use_local:
-            return self.model([text])[0]
-        return self.model.embed_query(text)
+            return self.model([clean_text])[0]
+        return self.model.embed_query(clean_text)

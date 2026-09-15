@@ -12,6 +12,11 @@ class Retriever:
         Optionally filter by document_ids.
         Uses a hybrid search combining vector similarity search and keyword matching.
         """
+        clean_query = (query or "").strip()
+        if not clean_query:
+            return []
+        query = clean_query
+
         
         # Build filter if document_ids are provided
         filters = []

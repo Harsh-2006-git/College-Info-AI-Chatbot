@@ -93,16 +93,20 @@ class ChatService:
         if retrieval_mode in ["history_aware", "advanced"] and request.history:
             print(f"Rewriting query to be standalone...")
             search_query = self._rewrite_query(request.question, history_log, model_name)
+            if not search_query or not search_query.strip():
+                search_query = request.question.strip()
             print(f"Rewritten standalone query: {search_query}")
             retrieved_queries.append(search_query)
         else:
-            retrieved_queries.append(request.question)
+            search_query = request.question.strip()
+            retrieved_queries.append(search_query)
             
         # STEP B: Retrieve relevant contexts
         if retrieval_mode in ["multi_query", "advanced"]:
             # Generate 3 variations using standalone/original query
             print(f"Generating search variations for: {search_query}...")
             variations = self._generate_query_variations(search_query, model_name)
+            variations = [v.strip() for v in variations if v and v.strip()]
             print(f"Generated variations: {variations}")
             retrieved_queries.extend(variations)
             
