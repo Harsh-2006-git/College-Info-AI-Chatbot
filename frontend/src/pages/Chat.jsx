@@ -64,12 +64,17 @@ export default function Chat() {
     }
   };
 
-  // Open upload modal if passed in query string
+  // Handle incoming query or upload from landing page
   useEffect(() => {
     const searchParams = new URLSearchParams(location.search);
     if (searchParams.get('upload') === 'true') {
       setUploadModalOpen(true);
-      // Remove query param without reloading
+      window.history.replaceState({}, '', '/chat');
+    }
+
+    const initialQuery = location.state?.query || searchParams.get('q');
+    if (initialQuery) {
+      handleSendMessage(initialQuery);
       window.history.replaceState({}, '', '/chat');
     }
   }, [location]);
