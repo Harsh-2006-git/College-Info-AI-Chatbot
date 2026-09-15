@@ -25,7 +25,7 @@ import {
 
 // 1. 24/7 Instant Support — Solid Blue Speech Bubble with 3 Dots
 const ChatSupportIcon = () => (
-  <div className="w-12 h-12 sm:w-13 sm:h-13 rounded-full bg-[#1557D6] flex items-center justify-center shadow-[0_6px_18px_rgba(21,87,214,0.28)] transition-transform group-hover:scale-105">
+  <div className="w-12 h-12 sm:w-[52px] sm:h-[52px] rounded-full bg-[#1557D6] flex items-center justify-center shadow-[0_6px_18px_rgba(21,87,214,0.28)] transition-transform group-hover:scale-105">
     <svg className="w-6 h-6 sm:w-7 sm:h-7" viewBox="0 0 24 24" fill="none">
       <path
         d="M20 11.5C20 16.1944 15.9706 20 11 20C9.62648 20 8.32439 19.708 7.15814 19.1832L3.5 20.5L4.85501 16.9935C3.70773 15.4852 3 13.5937 3 11.5C3 6.80558 7.02944 3 12 3C16.9706 3 20 6.80558 20 11.5Z"
@@ -40,7 +40,7 @@ const ChatSupportIcon = () => (
 
 // 2. Academic Information — Solid Blue Graduation Cap
 const AcademicCapIcon = () => (
-  <div className="w-12 h-12 sm:w-13 sm:h-13 flex items-center justify-center transition-transform group-hover:scale-105">
+  <div className="w-12 h-12 sm:w-[52px] sm:h-[52px] flex items-center justify-center transition-transform group-hover:scale-105">
     <svg className="w-10 h-10 sm:w-11 sm:h-11" viewBox="0 0 48 48" fill="none">
       <path d="M24 8L4 18L24 28L44 18L24 8Z" fill="#1557D6" />
       <path d="M12 23V31C12 31 16 37 24 37C32 37 36 31 36 31V23L24 29L12 23Z" fill="#0F46B3" />
@@ -52,7 +52,7 @@ const AcademicCapIcon = () => (
 
 // 3. Admission Guidance — Solid Blue Classical Campus Building
 const AdmissionBuildingIcon = () => (
-  <div className="w-12 h-12 sm:w-13 sm:h-13 flex items-center justify-center transition-transform group-hover:scale-105">
+  <div className="w-12 h-12 sm:w-[52px] sm:h-[52px] flex items-center justify-center transition-transform group-hover:scale-105">
     <svg className="w-10 h-10 sm:w-11 sm:h-11" viewBox="0 0 48 48" fill="none">
       <path d="M24 7L8 16H40L24 7Z" fill="#1557D6" />
       <path d="M24 3V7M24 3L28 5L24 7" stroke="#1557D6" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round" />
@@ -69,7 +69,7 @@ const AdmissionBuildingIcon = () => (
 
 // 4. Exams & Results — Solid Blue Clipboard with Checklist & Pen
 const ExamsClipboardIcon = () => (
-  <div className="w-12 h-12 sm:w-13 sm:h-13 flex items-center justify-center transition-transform group-hover:scale-105">
+  <div className="w-12 h-12 sm:w-[52px] sm:h-[52px] flex items-center justify-center transition-transform group-hover:scale-105">
     <svg className="w-10 h-10 sm:w-11 sm:h-11" viewBox="0 0 48 48" fill="none">
       <rect x="10" y="8" width="28" height="34" rx="4" fill="#1557D6" />
       <path d="M18 6C18 4.89543 18.8954 4 20 4H28C29.1046 4 30 4.89543 30 6V9H18V6Z" fill="#0B378F" />
@@ -554,12 +554,12 @@ export default function Landing() {
   ];
 
   return (
-    <div className="min-h-screen bg-white text-[#172033] font-sans selection:bg-[#EAF3FF] selection:text-[#1557D6] overflow-x-hidden">
+    <div className="min-h-screen bg-white text-[#172033] font-sans selection:bg-[#EAF3FF] selection:text-[#1557D6]">
 
       {/* ========================================================= */}
-      {/* 1. HEADER / NAVIGATION                                    */}
+      {/* 1. HEADER / NAVIGATION (FULL-WIDTH STICKY TOP BAR)        */}
       {/* ========================================================= */}
-      <header className="w-full bg-white/95 backdrop-blur-md sticky top-0 z-50 border-b border-[#F0F4FA] transition-all">
+      <header className="fixed top-0 left-0 right-0 z-50 w-full bg-white/95 backdrop-blur-md border-b border-[#F0F4FA] shadow-[0_2px_12px_rgba(21,87,214,0.04)] transition-all">
         <div className="max-w-[1400px] mx-auto px-6 sm:px-8 lg:px-12 h-[76px] flex items-center justify-between">
 
           {/* Exact Logo & Brand */}
@@ -723,7 +723,7 @@ export default function Landing() {
       {/* ========================================================= */}
       <section
         id="hero"
-        className="relative min-h-[calc(100vh-76px)] flex items-center justify-center overflow-hidden bg-white py-8 lg:py-2"
+        className="relative min-h-screen min-h-[100dvh] flex flex-col justify-between items-center overflow-hidden bg-white pt-[155px] sm:pt-[125px] lg:pt-[110px] pb-8 lg:pb-12"
         style={{
           background: `
             radial-gradient(circle at 74% 48%, rgba(21, 87, 214, 0.07) 0%, rgba(255, 255, 255, 0) 55%),
@@ -804,20 +804,20 @@ export default function Landing() {
             className="lg:col-span-6 xl:col-span-6 flex flex-col justify-center text-left"
           >
 
-            {/* Serif Display Headline */}
-            <h1 className="font-serif text-[34px] sm:text-[44px] md:text-[48px] lg:text-[52px] xl:text-[58px] leading-[1.04] tracking-[-0.02em] font-bold">
-              <span className="text-[#0B1F44] block whitespace-nowrap">AI Chatbot for</span>
-              <span className="text-[#1557D6] block whitespace-nowrap">Academic and College</span>
-              <span className="text-[#1557D6] block whitespace-nowrap">Information Services</span>
+            {/* Serif Display Headline (Pulled up on mobile only) */}
+            <h1 className="font-serif -mt-12 sm:mt-0 text-[36px] sm:text-[42px] md:text-[46px] lg:text-[52px] xl:text-[58px] leading-[1.1] sm:leading-[1.06] lg:leading-[1.04] tracking-[-0.02em] font-bold">
+              <span className="text-[#0B1F44] block whitespace-normal lg:whitespace-nowrap">AI Chatbot for</span>
+              <span className="text-[#1557D6] block whitespace-normal lg:whitespace-nowrap">Academic and College</span>
+              <span className="text-[#1557D6] block whitespace-normal lg:whitespace-nowrap">Information Services</span>
             </h1>
 
             {/* Subtitle Paragraph */}
-            <p className="mt-5 sm:mt-6 text-[#5F6878] text-[16px] sm:text-[18px] leading-[1.65] max-w-[480px] font-normal">
+            <p className="mt-4 sm:mt-6 text-[#5F6878] text-[14.5px] sm:text-[17px] lg:text-[18px] leading-[1.6] sm:leading-[1.65] max-w-[480px] font-normal">
               Empowering students with instant answers to academic, admission, and campus related queries.
             </p>
 
             {/* 4 Feature Badges */}
-            <div className="mt-9 sm:mt-11 flex items-start justify-between max-w-[480px]">
+            <div className="mt-7 sm:mt-9 lg:mt-11 grid grid-cols-4 gap-1.5 sm:gap-4 max-w-[480px]">
               {heroFeatureItems.map((item, idx) => {
                 const Icon = item.IconComponent;
                 return (
@@ -826,13 +826,13 @@ export default function Landing() {
                     onClick={() => handleQuickAction(item.titleLine1 + ' ' + item.titleLine2)}
                     className="flex flex-col items-center text-center cursor-pointer group"
                   >
-                    <div className="mb-2">
+                    <div className="mb-1.5 sm:mb-2 scale-90 sm:scale-100">
                       <Icon />
                     </div>
-                    <span className="text-[13px] sm:text-[14px] font-bold text-[#0B1F44] group-hover:text-[#1557D6] transition-colors leading-tight block">
+                    <span className="text-[11.5px] sm:text-[13px] lg:text-[14px] font-bold text-[#0B1F44] group-hover:text-[#1557D6] transition-colors leading-tight block">
                       {item.titleLine1}
                     </span>
-                    <span className="text-[13px] sm:text-[14px] font-bold text-[#0B1F44] group-hover:text-[#1557D6] transition-colors leading-tight block">
+                    <span className="text-[11.5px] sm:text-[13px] lg:text-[14px] font-bold text-[#0B1F44] group-hover:text-[#1557D6] transition-colors leading-tight block">
                       {item.titleLine2}
                     </span>
                   </div>
@@ -844,26 +844,26 @@ export default function Landing() {
 
 
           {/* ------------------------------------------------------- */}
-          {/* RIGHT HERO VISUAL (SHIFTED DOWN & BALANCED)             */}
+          {/* RIGHT HERO VISUAL (BALANCED MOBILE + EXACT DESKTOP)     */}
           {/* ------------------------------------------------------- */}
           <motion.div
             initial={{ opacity: 0, scale: 0.98 }}
             animate={{ opacity: 1, scale: 1 }}
             transition={{ duration: 0.6 }}
-            className="lg:col-span-6 xl:col-span-6 relative flex flex-col items-center justify-center min-h-[480px] sm:min-h-[520px] lg:min-h-[550px] pt-8 sm:pt-12"
+            className="lg:col-span-6 xl:col-span-6 relative flex flex-col items-center justify-center min-h-[420px] sm:min-h-[500px] lg:min-h-[550px] pt-4 sm:pt-8 lg:pt-12"
           >
 
             {/* Subtle Circular Rings around Robot Base */}
-            <div className="absolute left-[54%] top-[62%] -translate-x-1/2 -translate-y-1/2 w-[300px] sm:w-[360px] h-[300px] sm:h-[360px] rounded-full border border-[#85B8FD]/40 pointer-events-none z-1" />
-            <div className="absolute left-[54%] top-[62%] -translate-x-1/2 -translate-y-1/2 w-[370px] sm:w-[440px] h-[370px] sm:h-[440px] rounded-full border border-[#B8D7FD]/20 pointer-events-none z-1" />
+            <div className="absolute left-[54%] top-[62%] -translate-x-1/2 -translate-y-1/2 w-[240px] sm:w-[320px] lg:w-[360px] h-[240px] sm:h-[320px] lg:h-[360px] rounded-full border border-[#85B8FD]/40 pointer-events-none z-1" />
+            <div className="absolute left-[54%] top-[62%] -translate-x-1/2 -translate-y-1/2 w-[300px] sm:w-[390px] lg:w-[440px] h-[300px] sm:h-[390px] lg:h-[440px] rounded-full border border-[#B8D7FD]/20 pointer-events-none z-1" />
 
             {/* Floating Greeting Bubble (Compact, 2 Lines Only) */}
-            <div className="absolute left-2 sm:left-4 lg:left-8 top-5 sm:top-7 z-30 bg-white border border-[#C8DEFF] rounded-[20px] sm:rounded-[22px] px-4 py-2.5 shadow-[0_10px_30px_rgba(37,99,235,0.10)] max-w-[245px] sm:max-w-[260px]">
-              <p className="text-[#0B1F44] font-bold text-[13.5px] sm:text-[14px] leading-snug flex items-center gap-1">
+            <div className="absolute left-1 sm:left-4 lg:left-8 top-1 sm:top-5 lg:top-7 z-30 bg-white border border-[#C8DEFF] rounded-[18px] sm:rounded-[22px] px-3 py-2 sm:px-4 sm:py-2.5 shadow-[0_10px_30px_rgba(37,99,235,0.10)] max-w-[215px] sm:max-w-[260px]">
+              <p className="text-[#0B1F44] font-bold text-[12px] sm:text-[13.5px] lg:text-[14px] leading-snug flex items-center gap-1">
                 <span>👋</span>
                 <span>Hello! I'm your AI Assistant.</span>
               </p>
-              <p className="text-[#5F6878] text-[12px] sm:text-[12.5px] mt-0.5 font-normal leading-tight">
+              <p className="text-[#5F6878] text-[11px] sm:text-[12px] lg:text-[12.5px] mt-0.5 font-normal leading-tight">
                 How can I help you today?
               </p>
 
@@ -871,51 +871,51 @@ export default function Landing() {
               <div className="absolute -bottom-1.5 right-7 w-3 h-3 bg-white border-b border-r border-[#C8DEFF] transform rotate-45" />
             </div>
 
-            {/* Quick Action Pills (Compact, Lowered) */}
-            <div className="absolute left-0 sm:left-2 lg:left-4 top-[160px] sm:top-[175px] z-30 flex flex-col gap-1.5 sm:gap-2 w-[175px] sm:w-[195px]">
+            {/* Quick Action Pills (100% Full Text Visible on Mobile & Desktop) */}
+            <div className="absolute left-1 sm:left-2 lg:left-4 top-[75px] sm:top-[160px] lg:top-[175px] z-30 flex flex-col gap-1.5 sm:gap-2 w-[160px] sm:w-[175px] lg:w-[195px]">
               {quickActionItems.map((item, idx) => {
                 const Icon = item.IconComponent;
                 return (
                   <button
                     key={idx}
                     onClick={() => handleQuickAction(item.title)}
-                    className="flex items-center gap-2.5 bg-white/95 backdrop-blur-sm border border-[#C8DEFF] hover:border-[#1557D6] hover:bg-[#F5F9FF] text-[#1E293B] hover:text-[#1557D6] font-medium text-[12px] sm:text-[13px] px-3.5 py-1.5 sm:py-2 rounded-full shadow-[0_3px_10px_rgba(37,99,235,0.05)] hover:shadow-[0_6px_16px_rgba(37,99,235,0.12)] transition-all duration-200 hover:scale-[1.02] cursor-pointer text-left group"
+                    className="flex items-center gap-1.5 sm:gap-2.5 bg-white/95 backdrop-blur-sm border border-[#C8DEFF] hover:border-[#1557D6] hover:bg-[#F5F9FF] text-[#1E293B] hover:text-[#1557D6] font-medium text-[11px] sm:text-[12px] lg:text-[13px] px-2.5 py-1.5 sm:px-3.5 sm:py-2 rounded-full shadow-[0_3px_10px_rgba(37,99,235,0.06)] hover:shadow-[0_6px_16px_rgba(37,99,235,0.12)] transition-all duration-200 hover:scale-[1.02] cursor-pointer text-left group"
                   >
-                    <div className="flex-shrink-0 group-hover:scale-110 transition-transform">
+                    <div className="flex-shrink-0 scale-90 sm:scale-100 group-hover:scale-110 transition-transform">
                       <Icon />
                     </div>
-                    <span className="truncate">{item.title}</span>
+                    <span className="whitespace-nowrap text-[11px] sm:text-[12px] lg:text-[13px]">{item.title}</span>
                   </button>
                 );
               })}
             </div>
 
-            {/* 3D AI Robot (Static, Shifted Down) */}
-            <div className="relative z-20 flex items-center justify-center translate-x-10 sm:translate-x-14 lg:translate-x-18 pt-10 pb-5 select-none pointer-events-none">
+            {/* 3D AI Robot (Aligned to far right edge on mobile, exact desktop translate) */}
+            <div className="relative z-20 w-full flex items-center justify-end pr-1 sm:justify-center sm:pr-0 sm:translate-x-12 lg:translate-x-18 pt-2 sm:pt-8 lg:pt-10 pb-2 sm:pb-5 select-none pointer-events-none">
               <img
                 src="/assets/robot.png"
                 alt="AI Campus Robot"
-                className="w-[220px] sm:w-[260px] lg:w-[290px] xl:w-[325px] max-h-[340px] object-contain drop-shadow-[0_14px_28px_rgba(21,87,214,0.14)]"
+                className="w-[210px] sm:w-[250px] lg:w-[290px] xl:w-[325px] max-h-[290px] sm:max-h-[320px] lg:max-h-[340px] object-contain drop-shadow-[0_14px_28px_rgba(21,87,214,0.14)]"
               />
             </div>
 
-            {/* Chat Input Bar */}
-            <div className="relative z-30 w-full max-w-[360px] sm:max-w-[390px] -mt-3 sm:-mt-4">
+            {/* Chat Input Bar (Completely Visible: Sticky on Mobile, Inline on Desktop) */}
+            <div className="sticky bottom-3 sm:relative sm:bottom-auto sm:left-auto sm:right-auto z-40 sm:z-30 w-full max-w-[340px] sm:max-w-[390px] mt-2 sm:-mt-4 mx-auto">
               <form
                 onSubmit={handleSearchSubmit}
-                className="w-full bg-white border border-[#C8DEFF] focus-within:border-[#1557D6] rounded-full p-1.5 pl-4.5 shadow-[0_10px_30px_rgba(37,99,235,0.10)] hover:shadow-[0_12px_35px_rgba(37,99,235,0.14)] flex items-center justify-between gap-2.5 transition-all"
+                className="w-full bg-white/95 backdrop-blur-md border border-[#C8DEFF] focus-within:border-[#1557D6] rounded-full p-1.5 pl-4.5 shadow-[0_10px_30px_rgba(21,87,214,0.18)] sm:shadow-[0_10px_30px_rgba(37,99,235,0.10)] hover:shadow-[0_12px_35px_rgba(37,99,235,0.14)] flex items-center justify-between gap-2.5 transition-all"
               >
                 <input
                   type="text"
                   value={heroQuery}
                   onChange={(e) => setHeroQuery(e.target.value)}
                   placeholder="Type your question..."
-                  className="w-full bg-transparent text-[14px] text-[#0B1F44] placeholder-[#8A94A6] focus:outline-none font-normal"
+                  className="w-full bg-transparent text-[13.5px] sm:text-[14px] text-[#0B1F44] placeholder-[#8A94A6] focus:outline-none font-normal"
                 />
                 <button
                   type="submit"
                   aria-label="Send Query"
-                  className="w-9.5 h-9.5 sm:w-10 sm:h-10 rounded-full bg-[#1557D6] hover:bg-[#0f46b3] text-white flex items-center justify-center flex-shrink-0 shadow-[0_4px_12px_rgba(21,87,214,0.30)] hover:scale-105 active:scale-95 transition-all cursor-pointer"
+                  className="w-9 h-9 sm:w-10 sm:h-10 rounded-full bg-[#1557D6] hover:bg-[#0f46b3] text-white flex items-center justify-center flex-shrink-0 shadow-[0_4px_12px_rgba(21,87,214,0.30)] hover:scale-105 active:scale-95 transition-all cursor-pointer"
                 >
                   <svg className="w-4 h-4 -translate-x-0.5 translate-y-0.5" viewBox="0 0 24 24" fill="none">
                     <path d="M21 3L10.5 13.5" stroke="white" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" />
@@ -950,14 +950,14 @@ export default function Landing() {
             Trusted by Educational Institutions
           </h2>
 
-          {/* Stats & Trust Elements Row */}
-          <div className="flex flex-wrap items-center justify-between gap-6 sm:gap-8 lg:gap-4 xl:gap-6">
+          {/* Stats & Trust Elements (Clean 2-Col Card Grid on Mobile, Exact Horizontal Row on Desktop) */}
+          <div className="grid grid-cols-2 lg:flex lg:flex-row items-center justify-between gap-3 sm:gap-4 lg:gap-4 xl:gap-6">
             
             {/* 1. 100+ Colleges */}
-            <div className="flex items-center gap-3.5 group cursor-default">
+            <div className="bg-white/95 lg:bg-transparent border border-[#E2EEFC] lg:border-none rounded-2xl lg:rounded-none p-3.5 sm:p-4 lg:p-0 shadow-[0_2px_10px_rgba(21,87,214,0.04)] lg:shadow-none flex items-center gap-3 sm:gap-3.5 group cursor-default">
               <TrustCollegesIcon />
-              <div className="flex flex-col text-left">
-                <span className="font-extrabold text-[23px] sm:text-[26px] md:text-[28px] text-[#1557D6] leading-none tracking-tight">
+              <div className="flex flex-col text-left min-w-0">
+                <span className="font-extrabold text-[22px] sm:text-[25px] lg:text-[28px] text-[#1557D6] leading-none tracking-tight">
                   100+
                 </span>
                 <span className="text-[13px] sm:text-[13.5px] font-medium text-[#4B5563] mt-1 leading-tight">
@@ -970,10 +970,10 @@ export default function Landing() {
             <div className="hidden xl:block h-10 w-[1px] bg-gradient-to-b from-transparent via-[#D8E6F8] to-transparent" />
 
             {/* 2. 1M+ Students */}
-            <div className="flex items-center gap-3.5 group cursor-default">
+            <div className="bg-white/95 lg:bg-transparent border border-[#E2EEFC] lg:border-none rounded-2xl lg:rounded-none p-3.5 sm:p-4 lg:p-0 shadow-[0_2px_10px_rgba(21,87,214,0.04)] lg:shadow-none flex items-center gap-3 sm:gap-3.5 group cursor-default">
               <TrustStudentsIcon />
-              <div className="flex flex-col text-left">
-                <span className="font-extrabold text-[23px] sm:text-[26px] md:text-[28px] text-[#1557D6] leading-none tracking-tight">
+              <div className="flex flex-col text-left min-w-0">
+                <span className="font-extrabold text-[22px] sm:text-[25px] lg:text-[28px] text-[#1557D6] leading-none tracking-tight">
                   1M+
                 </span>
                 <span className="text-[13px] sm:text-[13.5px] font-medium text-[#4B5563] mt-1 leading-tight">
@@ -986,10 +986,10 @@ export default function Landing() {
             <div className="hidden xl:block h-10 w-[1px] bg-gradient-to-b from-transparent via-[#D8E6F8] to-transparent" />
 
             {/* 3. 10M+ Queries Answered */}
-            <div className="flex items-center gap-3.5 group cursor-default">
+            <div className="bg-white/95 lg:bg-transparent border border-[#E2EEFC] lg:border-none rounded-2xl lg:rounded-none p-3.5 sm:p-4 lg:p-0 shadow-[0_2px_10px_rgba(21,87,214,0.04)] lg:shadow-none flex items-center gap-3 sm:gap-3.5 group cursor-default">
               <TrustQueriesIcon />
-              <div className="flex flex-col text-left">
-                <span className="font-extrabold text-[23px] sm:text-[26px] md:text-[28px] text-[#1557D6] leading-none tracking-tight">
+              <div className="flex flex-col text-left min-w-0">
+                <span className="font-extrabold text-[22px] sm:text-[25px] lg:text-[28px] text-[#1557D6] leading-none tracking-tight">
                   10M+
                 </span>
                 <span className="text-[13px] sm:text-[13.5px] font-medium text-[#4B5563] mt-1 leading-tight">
@@ -1002,10 +1002,10 @@ export default function Landing() {
             <div className="hidden xl:block h-10 w-[1px] bg-gradient-to-b from-transparent via-[#D8E6F8] to-transparent" />
 
             {/* 4. 99.5% Response Accuracy */}
-            <div className="flex items-center gap-3.5 group cursor-default">
+            <div className="bg-white/95 lg:bg-transparent border border-[#E2EEFC] lg:border-none rounded-2xl lg:rounded-none p-3.5 sm:p-4 lg:p-0 shadow-[0_2px_10px_rgba(21,87,214,0.04)] lg:shadow-none flex items-center gap-3 sm:gap-3.5 group cursor-default">
               <TrustAccuracyIcon />
-              <div className="flex flex-col text-left">
-                <span className="font-extrabold text-[23px] sm:text-[26px] md:text-[28px] text-[#1557D6] leading-none tracking-tight">
+              <div className="flex flex-col text-left min-w-0">
+                <span className="font-extrabold text-[22px] sm:text-[25px] lg:text-[28px] text-[#1557D6] leading-none tracking-tight">
                   99.5%
                 </span>
                 <span className="text-[13px] sm:text-[13.5px] font-medium text-[#4B5563] mt-1 leading-tight">
@@ -1017,8 +1017,8 @@ export default function Landing() {
             {/* Main Distinct Vertical Divider before Security Badge */}
             <div className="hidden lg:block h-12 w-[1.5px] bg-[#D4E3F8]" />
 
-            {/* 5. Secure. Reliable. Built for Education */}
-            <div className="flex items-center gap-3.5 group cursor-default">
+            {/* 5. Secure. Reliable. Built for Education (Desktop Only) */}
+            <div className="hidden lg:flex items-center gap-3.5 group cursor-default">
               <TrustSecurityShieldIcon />
               <div className="flex flex-col text-left">
                 <span className="font-bold text-[15.5px] sm:text-[16px] text-[#0B1F44] leading-tight">
@@ -1048,14 +1048,14 @@ export default function Landing() {
           }}
         />
 
-        <div className="max-w-[1360px] mx-auto px-6 sm:px-8 lg:px-12 relative z-10">
+        <div className="max-w-[1360px] mx-auto px-5 sm:px-8 lg:px-12 relative z-10">
           
           {/* Section Header */}
           <div className="text-center max-w-3xl mx-auto mb-7 sm:mb-9">
             <span className="inline-flex items-center gap-1.5 px-3.5 py-1 rounded-full bg-white text-[#1557D6] font-bold text-[11px] sm:text-[11.5px] uppercase tracking-wider mb-2 border border-[#D5E6FA] shadow-[0_2px_8px_rgba(21,87,214,0.06)]">
               <Sparkles className="w-3.5 h-3.5" /> Next-Gen AI Platform
             </span>
-            <h2 className="font-serif text-[26px] sm:text-[32px] lg:text-[36px] font-bold text-[#0B1F44] tracking-tight">
+            <h2 className="font-serif text-[25px] sm:text-[32px] lg:text-[36px] font-bold text-[#0B1F44] tracking-tight">
               Why Choose Our AI Chatbot?
             </h2>
             <p className="mt-1.5 text-[#5F6878] text-[13.5px] sm:text-[14.5px] max-w-xl mx-auto font-normal">
@@ -1063,35 +1063,45 @@ export default function Landing() {
             </p>
           </div>
 
-          {/* 6 Feature Cards Grid (3 Columns on Desktop, 2 on Tablet, 1 on Mobile) */}
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 sm:gap-4.5 lg:gap-5">
+          {/* 6 Feature Cards Grid (3 Columns on Desktop, 2 on Tablet, Single in a Row on Mobile) */}
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-3.5 sm:gap-4.5 lg:gap-5">
             {whyChooseItems.map((item, idx) => {
               const Icon = item.IconComponent;
               return (
                 <div
                   key={idx}
-                  className={`bg-white rounded-[18px] sm:rounded-[20px] border border-[#E2EDFA] ${item.hoverBorder} p-4.5 sm:p-5 shadow-[0_4px_16px_rgba(21,87,214,0.03)] ${item.hoverShadow} hover:-translate-y-1 transition-all duration-300 flex flex-col justify-between group`}
+                  className={`relative bg-white rounded-[18px] sm:rounded-[20px] border border-[#E2EDFA] ${item.hoverBorder} p-4 sm:p-5 shadow-[0_3px_12px_rgba(21,87,214,0.03)] ${item.hoverShadow} hover:-translate-y-1 transition-all duration-300 flex flex-col justify-between group`}
                 >
-                  <div>
-                    {/* Top Row: Thematic Icon + Tag */}
-                    <div className="flex items-center justify-between gap-3 mb-3.5">
-                      <div className={`w-11 h-11 sm:w-12 sm:h-12 rounded-[14px] bg-gradient-to-b ${item.iconBg} border ${item.iconBorder} ${item.iconColor} flex items-center justify-center p-2 flex-shrink-0 group-hover:scale-105 shadow-[0_3px_10px_rgba(0,0,0,0.04)] transition-all duration-300`}>
-                        <Icon />
+                  <div className="flex flex-row sm:flex-col items-start gap-3.5 sm:gap-0">
+                    {/* Thematic Icon */}
+                    <div className={`w-[38px] h-[38px] sm:w-12 sm:h-12 rounded-[11px] sm:rounded-[14px] bg-gradient-to-b ${item.iconBg} border ${item.iconBorder} ${item.iconColor} flex items-center justify-center p-1.5 sm:p-2 flex-shrink-0 group-hover:scale-105 shadow-[0_2px_8px_rgba(0,0,0,0.04)] transition-all duration-300 sm:mb-3.5`}>
+                      <Icon />
+                    </div>
+
+                    {/* Content Body */}
+                    <div className="flex-1 min-w-0">
+                      {/* Title & Mobile Tag */}
+                      <div className="flex items-center justify-between gap-2 mb-1.5">
+                        <h3 className={`font-bold text-[15.5px] sm:text-[16.5px] text-[#0B1F44] ${item.hoverText} transition-colors leading-tight`}>
+                          {item.title}
+                        </h3>
+                        <span className={`text-[10px] font-bold uppercase tracking-wider px-2.5 py-0.5 rounded-full border ${item.tagBg} flex-shrink-0 sm:hidden`}>
+                          {item.tag}
+                        </span>
                       </div>
-                      <span className={`text-[10.5px] sm:text-[11px] font-bold uppercase tracking-wider px-2.5 py-0.5 rounded-full border ${item.tagBg}`}>
+
+                      {/* Description */}
+                      <p className="text-[#5F6878] text-[13px] leading-[1.5] sm:leading-[1.55] font-normal">
+                        {item.desc}
+                      </p>
+                    </div>
+
+                    {/* Tablet/Desktop Tag (Top Right) */}
+                    <div className="hidden sm:block absolute top-5 right-5">
+                      <span className={`text-[11px] font-bold uppercase tracking-wider px-2.5 py-0.5 rounded-full border ${item.tagBg}`}>
                         {item.tag}
                       </span>
                     </div>
-
-                    {/* Title */}
-                    <h3 className={`font-bold text-[16px] sm:text-[16.5px] text-[#0B1F44] ${item.hoverText} transition-colors leading-snug mb-1.5`}>
-                      {item.title}
-                    </h3>
-
-                    {/* Description */}
-                    <p className="text-[#5F6878] text-[12.5px] sm:text-[13px] leading-[1.55] font-normal">
-                      {item.desc}
-                    </p>
                   </div>
 
                   {/* Subtle Footer Link */}
@@ -1192,161 +1202,209 @@ export default function Landing() {
       {/* ========================================================= */}
       {/* 4. INSTANT ANSWERS ACROSS ALL CAMPUS SERVICES            */}
       {/* ========================================================= */}
-      <section id="services" className="py-16 sm:py-20 lg:py-24 bg-[#F5F9FF] border-t border-[#EAF3FF] relative overflow-hidden">
+      <section id="services" className="py-10 sm:py-16 lg:py-24 bg-[#F5F9FF] border-t border-[#EAF3FF] relative overflow-hidden">
         {/* Background decoration */}
         <div className="absolute inset-0 pointer-events-none select-none">
           <div style={{ background: 'radial-gradient(ellipse 60% 50% at 80% 10%, rgba(21,87,214,0.05) 0%, transparent 70%)' }} className="absolute inset-0" />
           <div style={{ background: 'radial-gradient(ellipse 40% 40% at 20% 90%, rgba(21,87,214,0.04) 0%, transparent 70%)' }} className="absolute inset-0" />
         </div>
 
-        <div className="max-w-[1400px] mx-auto px-6 sm:px-8 lg:px-12 relative z-10">
+        <div className="max-w-[1400px] mx-auto px-5 sm:px-8 lg:px-12 relative z-10">
 
           {/* Section Header */}
-          <div className="text-center max-w-3xl mx-auto mb-12 sm:mb-14">
-            <span className="inline-flex items-center gap-1.5 px-3.5 py-1.5 rounded-full bg-[#EAF3FF] text-[#1557D6] font-semibold text-[11px] uppercase tracking-widest mb-4">
+          <div className="text-center max-w-3xl mx-auto mb-7 sm:mb-12 lg:mb-14">
+            <span className="inline-flex items-center gap-1.5 px-3 py-1 sm:px-3.5 sm:py-1.5 rounded-full bg-[#EAF3FF] text-[#1557D6] font-semibold text-[10.5px] sm:text-[11px] uppercase tracking-widest mb-2 sm:mb-4">
               <svg className="w-3.5 h-3.5" viewBox="0 0 24 24" fill="currentColor"><path d="M9 21c0 .55.45 1 1 1h4c.55 0 1-.45 1-1v-1H9v1zm3-19C8.14 2 5 5.14 5 9c0 2.38 1.19 4.47 3 5.74V17c0 .55.45 1 1 1h6c.55 0 1-.45 1-1v-2.26c1.81-1.27 3-3.36 3-5.74 0-3.86-3.14-7-7-7z"/></svg>
               Campus Intelligence
             </span>
-            <h2 className="text-[28px] sm:text-[34px] lg:text-[40px] font-extrabold text-[#0B1F44] tracking-tight leading-[1.15]">
+            <h2 className="text-[24px] sm:text-[34px] lg:text-[40px] font-extrabold text-[#0B1F44] tracking-tight leading-[1.2]">
               Instant Answers Across<br className="hidden sm:block" /> All Campus Services
             </h2>
-            <p className="mt-4 text-[#5F6878] text-[15px] sm:text-[16px] leading-relaxed max-w-2xl mx-auto">
+            <p className="mt-2 sm:mt-4 text-[#5F6878] text-[13.5px] sm:text-[16px] leading-relaxed max-w-2xl mx-auto">
               DocuChat connects directly with official handbooks, university portals, and notices to give you verified answers in seconds.
             </p>
           </div>
 
           {/* 6 Service Category Cards */}
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5 sm:gap-6">
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3.5 sm:gap-6">
 
             {/* 1. Academics */}
-            <div className="group bg-white rounded-[22px] border border-[#E2EDFA] p-6 shadow-[0_4px_20px_rgba(21,87,214,0.04)] hover:shadow-[0_16px_36px_rgba(21,87,214,0.10)] hover:border-[#1557D6]/30 hover:-translate-y-1 transition-all duration-300 flex flex-col gap-4">
-              <div className="flex items-start gap-4">
-                <div className="w-11 h-11 rounded-[13px] bg-[#EAF3FF] flex items-center justify-center flex-shrink-0 group-hover:bg-[#1557D6] transition-colors duration-300">
-                  <svg className="w-5.5 h-5.5 text-[#1557D6] group-hover:text-white transition-colors duration-300" width="22" height="22" viewBox="0 0 24 24" fill="currentColor"><path d="M12 3L1 9l11 6 9-4.91V17h2V9L12 3zM5 13.18v4L12 21l7-3.82v-4L12 17l-7-3.82z"/></svg>
+            <div className="group bg-white rounded-[18px] sm:rounded-[22px] border border-[#E2EDFA] hover:border-[#1557D6]/40 p-4 sm:p-5.5 shadow-[0_3px_14px_rgba(21,87,214,0.03)] hover:shadow-[0_16px_36px_rgba(21,87,214,0.08)] hover:-translate-y-1 transition-all duration-300 flex flex-col justify-between gap-3">
+              <div>
+                {/* Clean Header: Icon + Badge + Title */}
+                <div className="flex items-start gap-3 mb-2.5">
+                  <div className="w-10 h-10 sm:w-11 sm:h-11 rounded-[11px] sm:rounded-[13px] bg-gradient-to-b from-[#EFF6FF] to-[#DBEAFE] border border-[#BFDBFE] text-[#1557D6] flex items-center justify-center flex-shrink-0 shadow-[0_2px_6px_rgba(21,87,214,0.06)] group-hover:scale-105 transition-transform">
+                    <svg className="w-5 h-5 sm:w-6 sm:h-6" viewBox="0 0 24 24" fill="currentColor"><path d="M12 3L1 9l11 6 9-4.91V17h2V9L12 3zM5 13.18v4L12 21l7-3.82v-4L12 17l-7-3.82z"/></svg>
+                  </div>
+                  <div className="flex-1 min-w-0">
+                    <span className="inline-block text-[9.5px] sm:text-[10px] font-bold uppercase tracking-wider px-2.5 py-0.5 rounded-full bg-[#EFF6FF] text-[#1557D6] border border-[#BFDBFE] mb-1">
+                      Academics
+                    </span>
+                    <h3 className="font-bold text-[15px] sm:text-[17px] text-[#0B1F44] leading-tight group-hover:text-[#1557D6] transition-colors">
+                      Course Catalog &amp; Syllabi
+                    </h3>
+                  </div>
                 </div>
-                <div className="flex-1 min-w-0">
-                  <span className="text-[11px] font-bold uppercase tracking-widest text-[#1557D6] bg-[#EAF3FF] px-2.5 py-0.5 rounded-full">Academics</span>
-                  <h3 className="mt-2 font-bold text-[17px] text-[#0B1F44] leading-tight group-hover:text-[#1557D6] transition-colors">Course Catalog &amp; Syllabi</h3>
-                </div>
+                <p className="text-[#5F6878] text-[13px] sm:text-[13.5px] leading-[1.5] sm:leading-[1.6]">
+                  Instant access to department-wise credit structures, prerequisites, syllabus PDFs, and faculty listings.
+                </p>
               </div>
-              <p className="text-[#5F6878] text-[13.5px] leading-[1.6] flex-1">
-                Instant access to department-wise credit structures, prerequisites, syllabus PDFs, and faculty listings.
-              </p>
               <button
                 onClick={() => handleQuickAction('Course Catalog and Syllabi')}
-                className="mt-1 self-start inline-flex items-center gap-1.5 text-[#1557D6] text-[13px] font-semibold hover:gap-2.5 transition-all group-hover:underline"
+                className="self-start inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-[#F0F6FF] hover:bg-[#1557D6] text-[#1557D6] hover:text-white text-[12px] sm:text-[12.5px] font-semibold transition-all duration-200 cursor-pointer group/btn"
               >
-                Ask about this <ArrowRight className="w-3.5 h-3.5" />
+                <span>Ask about this</span>
+                <ArrowRight className="w-3.5 h-3.5 group-hover/btn:translate-x-0.5 transition-transform" />
               </button>
             </div>
 
             {/* 2. Enrollment */}
-            <div className="group bg-white rounded-[22px] border border-[#E2EDFA] p-6 shadow-[0_4px_20px_rgba(21,87,214,0.04)] hover:shadow-[0_16px_36px_rgba(21,87,214,0.10)] hover:border-[#1557D6]/30 hover:-translate-y-1 transition-all duration-300 flex flex-col gap-4">
-              <div className="flex items-start gap-4">
-                <div className="w-11 h-11 rounded-[13px] bg-[#EFF6FF] flex items-center justify-center flex-shrink-0 group-hover:bg-[#2563EB] transition-colors duration-300">
-                  <svg className="w-5.5 h-5.5 text-[#2563EB] group-hover:text-white transition-colors duration-300" width="22" height="22" viewBox="0 0 24 24" fill="currentColor"><path d="M16 11c1.66 0 2.99-1.34 2.99-3S17.66 5 16 5c-1.66 0-3 1.34-3 3s1.34 3 3 3zm-8 0c1.66 0 2.99-1.34 2.99-3S9.66 5 8 5C6.34 5 5 6.34 5 8s1.34 3 3 3zm0 2c-2.33 0-7 1.17-7 3.5V19h14v-2.5c0-2.33-4.67-3.5-7-3.5zm8 0c-.29 0-.62.02-.97.05 1.16.84 1.97 1.97 1.97 3.45V19h6v-2.5c0-2.33-4.67-3.5-7-3.5z"/></svg>
+            <div className="group bg-white rounded-[18px] sm:rounded-[22px] border border-[#E2EDFA] hover:border-[#2563EB]/40 p-4 sm:p-5.5 shadow-[0_3px_14px_rgba(21,87,214,0.03)] hover:shadow-[0_16px_36px_rgba(37,99,235,0.08)] hover:-translate-y-1 transition-all duration-300 flex flex-col justify-between gap-3">
+              <div>
+                {/* Clean Header: Icon + Badge + Title */}
+                <div className="flex items-start gap-3 mb-2.5">
+                  <div className="w-10 h-10 sm:w-11 sm:h-11 rounded-[11px] sm:rounded-[13px] bg-gradient-to-b from-[#EFF6FF] to-[#DBEAFE] border border-[#BFDBFE] text-[#2563EB] flex items-center justify-center flex-shrink-0 shadow-[0_2px_6px_rgba(37,99,235,0.06)] group-hover:scale-105 transition-transform">
+                    <svg className="w-5 h-5 sm:w-6 sm:h-6" viewBox="0 0 24 24" fill="currentColor"><path d="M16 11c1.66 0 2.99-1.34 2.99-3S17.66 5 16 5c-1.66 0-3 1.34-3 3s1.34 3 3 3zm-8 0c1.66 0 2.99-1.34 2.99-3S9.66 5 8 5C6.34 5 5 6.34 5 8s1.34 3 3 3zm0 2c-2.33 0-7 1.17-7 3.5V19h14v-2.5c0-2.33-4.67-3.5-7-3.5zm8 0c-.29 0-.62.02-.97.05 1.16.84 1.97 1.97 1.97 3.45V19h6v-2.5c0-2.33-4.67-3.5-7-3.5z"/></svg>
+                  </div>
+                  <div className="flex-1 min-w-0">
+                    <span className="inline-block text-[9.5px] sm:text-[10px] font-bold uppercase tracking-wider px-2.5 py-0.5 rounded-full bg-[#EFF6FF] text-[#2563EB] border border-[#BFDBFE] mb-1">
+                      Enrollment
+                    </span>
+                    <h3 className="font-bold text-[15px] sm:text-[17px] text-[#0B1F44] leading-tight group-hover:text-[#2563EB] transition-colors">
+                      Admissions &amp; Eligibility
+                    </h3>
+                  </div>
                 </div>
-                <div className="flex-1 min-w-0">
-                  <span className="text-[11px] font-bold uppercase tracking-widest text-[#2563EB] bg-[#EFF6FF] px-2.5 py-0.5 rounded-full">Enrollment</span>
-                  <h3 className="mt-2 font-bold text-[17px] text-[#0B1F44] leading-tight group-hover:text-[#1557D6] transition-colors">Admissions &amp; Eligibility</h3>
-                </div>
+                <p className="text-[#5F6878] text-[13px] sm:text-[13.5px] leading-[1.5] sm:leading-[1.6]">
+                  Verify cutoff scores, required documentation, fee waivers, and step-by-step registration timelines.
+                </p>
               </div>
-              <p className="text-[#5F6878] text-[13.5px] leading-[1.6] flex-1">
-                Verify cutoff scores, required documentation, fee waivers, and step-by-step registration timelines.
-              </p>
               <button
                 onClick={() => handleQuickAction('Admissions and Eligibility')}
-                className="mt-1 self-start inline-flex items-center gap-1.5 text-[#1557D6] text-[13px] font-semibold hover:gap-2.5 transition-all group-hover:underline"
+                className="self-start inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-[#EFF6FF] hover:bg-[#2563EB] text-[#2563EB] hover:text-white text-[12px] sm:text-[12.5px] font-semibold transition-all duration-200 cursor-pointer group/btn"
               >
-                Ask about this <ArrowRight className="w-3.5 h-3.5" />
+                <span>Ask about this</span>
+                <ArrowRight className="w-3.5 h-3.5 group-hover/btn:translate-x-0.5 transition-transform" />
               </button>
             </div>
 
             {/* 3. Examinations */}
-            <div className="group bg-white rounded-[22px] border border-[#E2EDFA] p-6 shadow-[0_4px_20px_rgba(21,87,214,0.04)] hover:shadow-[0_16px_36px_rgba(21,87,214,0.10)] hover:border-[#1557D6]/30 hover:-translate-y-1 transition-all duration-300 flex flex-col gap-4">
-              <div className="flex items-start gap-4">
-                <div className="w-11 h-11 rounded-[13px] bg-[#FFF7ED] flex items-center justify-center flex-shrink-0 group-hover:bg-[#EA580C] transition-colors duration-300">
-                  <svg className="w-5.5 h-5.5 text-[#EA580C] group-hover:text-white transition-colors duration-300" width="22" height="22" viewBox="0 0 24 24" fill="currentColor"><path d="M17 12h-5v5h5v-5zM16 1v2H8V1H6v2H5c-1.11 0-1.99.9-1.99 2L3 19c0 1.1.89 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2h-1V1h-2zm3 18H5V8h14v11z"/></svg>
+            <div className="group bg-white rounded-[18px] sm:rounded-[22px] border border-[#E2EDFA] hover:border-[#EA580C]/40 p-4 sm:p-5.5 shadow-[0_3px_14px_rgba(21,87,214,0.03)] hover:shadow-[0_16px_36px_rgba(234,88,12,0.08)] hover:-translate-y-1 transition-all duration-300 flex flex-col justify-between gap-3">
+              <div>
+                {/* Clean Header: Icon + Badge + Title */}
+                <div className="flex items-start gap-3 mb-2.5">
+                  <div className="w-10 h-10 sm:w-11 sm:h-11 rounded-[11px] sm:rounded-[13px] bg-gradient-to-b from-[#FFF7ED] to-[#FFEDD5] border border-[#FED7AA] text-[#EA580C] flex items-center justify-center flex-shrink-0 shadow-[0_2px_6px_rgba(234,88,12,0.06)] group-hover:scale-105 transition-transform">
+                    <svg className="w-5 h-5 sm:w-6 sm:h-6" viewBox="0 0 24 24" fill="currentColor"><path d="M17 12h-5v5h5v-5zM16 1v2H8V1H6v2H5c-1.11 0-1.99.9-1.99 2L3 19c0 1.1.89 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2h-1V1h-2zm3 18H5V8h14v11z"/></svg>
+                  </div>
+                  <div className="flex-1 min-w-0">
+                    <span className="inline-block text-[9.5px] sm:text-[10px] font-bold uppercase tracking-wider px-2.5 py-0.5 rounded-full bg-[#FFF7ED] text-[#EA580C] border border-[#FED7AA] mb-1">
+                      Examinations
+                    </span>
+                    <h3 className="font-bold text-[15px] sm:text-[17px] text-[#0B1F44] leading-tight group-hover:text-[#EA580C] transition-colors">
+                      Exam Schedules &amp; Dates
+                    </h3>
+                  </div>
                 </div>
-                <div className="flex-1 min-w-0">
-                  <span className="text-[11px] font-bold uppercase tracking-widest text-[#EA580C] bg-[#FFF7ED] px-2.5 py-0.5 rounded-full">Examinations</span>
-                  <h3 className="mt-2 font-bold text-[17px] text-[#0B1F44] leading-tight group-hover:text-[#1557D6] transition-colors">Exam Schedules &amp; Dates</h3>
-                </div>
+                <p className="text-[#5F6878] text-[13px] sm:text-[13.5px] leading-[1.5] sm:leading-[1.6]">
+                  Check midterm, final semester schedules, practical exam dates, and hall ticket download guidelines.
+                </p>
               </div>
-              <p className="text-[#5F6878] text-[13.5px] leading-[1.6] flex-1">
-                Check midterm, final semester schedules, practical exam dates, and hall ticket download guidelines.
-              </p>
               <button
                 onClick={() => handleQuickAction('Exam Schedules and Dates')}
-                className="mt-1 self-start inline-flex items-center gap-1.5 text-[#1557D6] text-[13px] font-semibold hover:gap-2.5 transition-all group-hover:underline"
+                className="self-start inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-[#FFF7ED] hover:bg-[#EA580C] text-[#EA580C] hover:text-white text-[12px] sm:text-[12.5px] font-semibold transition-all duration-200 cursor-pointer group/btn"
               >
-                Ask about this <ArrowRight className="w-3.5 h-3.5" />
+                <span>Ask about this</span>
+                <ArrowRight className="w-3.5 h-3.5 group-hover/btn:translate-x-0.5 transition-transform" />
               </button>
             </div>
 
             {/* 4. Evaluation */}
-            <div className="group bg-white rounded-[22px] border border-[#E2EDFA] p-6 shadow-[0_4px_20px_rgba(21,87,214,0.04)] hover:shadow-[0_16px_36px_rgba(21,87,214,0.10)] hover:border-[#1557D6]/30 hover:-translate-y-1 transition-all duration-300 flex flex-col gap-4">
-              <div className="flex items-start gap-4">
-                <div className="w-11 h-11 rounded-[13px] bg-[#F0FDF4] flex items-center justify-center flex-shrink-0 group-hover:bg-[#16A34A] transition-colors duration-300">
-                  <svg className="w-5.5 h-5.5 text-[#16A34A] group-hover:text-white transition-colors duration-300" width="22" height="22" viewBox="0 0 24 24" fill="currentColor"><path d="M16 6l2.29 2.29-4.88 4.88-4-4L2 16.59 3.41 18l6-6 4 4 6.3-6.29L22 12V6z"/></svg>
+            <div className="group bg-white rounded-[18px] sm:rounded-[22px] border border-[#E2EDFA] hover:border-[#16A34A]/40 p-4 sm:p-5.5 shadow-[0_3px_14px_rgba(21,87,214,0.03)] hover:shadow-[0_16px_36px_rgba(22,163,74,0.08)] hover:-translate-y-1 transition-all duration-300 flex flex-col justify-between gap-3">
+              <div>
+                {/* Clean Header: Icon + Badge + Title */}
+                <div className="flex items-start gap-3 mb-2.5">
+                  <div className="w-10 h-10 sm:w-11 sm:h-11 rounded-[11px] sm:rounded-[13px] bg-gradient-to-b from-[#F0FDF4] to-[#DCFCE7] border border-[#BBF7D0] text-[#16A34A] flex items-center justify-center flex-shrink-0 shadow-[0_2px_6px_rgba(22,163,74,0.06)] group-hover:scale-105 transition-transform">
+                    <svg className="w-5 h-5 sm:w-6 sm:h-6" viewBox="0 0 24 24" fill="currentColor"><path d="M16 6l2.29 2.29-4.88 4.88-4-4L2 16.59 3.41 18l6-6 4 4 6.3-6.29L22 12V6z"/></svg>
+                  </div>
+                  <div className="flex-1 min-w-0">
+                    <span className="inline-block text-[9.5px] sm:text-[10px] font-bold uppercase tracking-wider px-2.5 py-0.5 rounded-full bg-[#F0FDF4] text-[#16A34A] border border-[#BBF7D0] mb-1">
+                      Evaluation
+                    </span>
+                    <h3 className="font-bold text-[15px] sm:text-[17px] text-[#0B1F44] leading-tight group-hover:text-[#16A34A] transition-colors">
+                      Results &amp; Grade Criteria
+                    </h3>
+                  </div>
                 </div>
-                <div className="flex-1 min-w-0">
-                  <span className="text-[11px] font-bold uppercase tracking-widest text-[#16A34A] bg-[#F0FDF4] px-2.5 py-0.5 rounded-full">Evaluation</span>
-                  <h3 className="mt-2 font-bold text-[17px] text-[#0B1F44] leading-tight group-hover:text-[#1557D6] transition-colors">Results &amp; Grade Criteria</h3>
-                </div>
+                <p className="text-[#5F6878] text-[13px] sm:text-[13.5px] leading-[1.5] sm:leading-[1.6]">
+                  Detailed breakdown of grading formulas, SGPA/CGPA evaluation, revaluation windows, and transcripts.
+                </p>
               </div>
-              <p className="text-[#5F6878] text-[13.5px] leading-[1.6] flex-1">
-                Detailed breakdown of grading formulas, SGPA/CGPA evaluation, revaluation windows, and transcripts.
-              </p>
               <button
                 onClick={() => handleQuickAction('Results and Grade Criteria')}
-                className="mt-1 self-start inline-flex items-center gap-1.5 text-[#1557D6] text-[13px] font-semibold hover:gap-2.5 transition-all group-hover:underline"
+                className="self-start inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-[#F0FDF4] hover:bg-[#16A34A] text-[#16A34A] hover:text-white text-[12px] sm:text-[12.5px] font-semibold transition-all duration-200 cursor-pointer group/btn"
               >
-                Ask about this <ArrowRight className="w-3.5 h-3.5" />
+                <span>Ask about this</span>
+                <ArrowRight className="w-3.5 h-3.5 group-hover/btn:translate-x-0.5 transition-transform" />
               </button>
             </div>
 
             {/* 5. Campus Life */}
-            <div className="group bg-white rounded-[22px] border border-[#E2EDFA] p-6 shadow-[0_4px_20px_rgba(21,87,214,0.04)] hover:shadow-[0_16px_36px_rgba(21,87,214,0.10)] hover:border-[#1557D6]/30 hover:-translate-y-1 transition-all duration-300 flex flex-col gap-4">
-              <div className="flex items-start gap-4">
-                <div className="w-11 h-11 rounded-[13px] bg-[#F5F3FF] flex items-center justify-center flex-shrink-0 group-hover:bg-[#7C3AED] transition-colors duration-300">
-                  <svg className="w-5.5 h-5.5 text-[#7C3AED] group-hover:text-white transition-colors duration-300" width="22" height="22" viewBox="0 0 24 24" fill="currentColor"><path d="M10 20v-6h4v6h5v-8h3L12 3 2 12h3v8z"/></svg>
+            <div className="group bg-white rounded-[18px] sm:rounded-[22px] border border-[#E2EDFA] hover:border-[#7C3AED]/40 p-4 sm:p-5.5 shadow-[0_3px_14px_rgba(21,87,214,0.03)] hover:shadow-[0_16px_36px_rgba(124,58,237,0.08)] hover:-translate-y-1 transition-all duration-300 flex flex-col justify-between gap-3">
+              <div>
+                {/* Clean Header: Icon + Badge + Title */}
+                <div className="flex items-start gap-3 mb-2.5">
+                  <div className="w-10 h-10 sm:w-11 sm:h-11 rounded-[11px] sm:rounded-[13px] bg-gradient-to-b from-[#FAF5FF] to-[#F3E8FF] border border-[#E9D5FF] text-[#7C3AED] flex items-center justify-center flex-shrink-0 shadow-[0_2px_6px_rgba(124,58,237,0.06)] group-hover:scale-105 transition-transform">
+                    <svg className="w-5 h-5 sm:w-6 sm:h-6" viewBox="0 0 24 24" fill="currentColor"><path d="M10 20v-6h4v6h5v-8h3L12 3 2 12h3v8z"/></svg>
+                  </div>
+                  <div className="flex-1 min-w-0">
+                    <span className="inline-block text-[9.5px] sm:text-[10px] font-bold uppercase tracking-wider px-2.5 py-0.5 rounded-full bg-[#FAF5FF] text-[#7C3AED] border border-[#E9D5FF] mb-1">
+                      Campus Life
+                    </span>
+                    <h3 className="font-bold text-[15px] sm:text-[17px] text-[#0B1F44] leading-tight group-hover:text-[#7C3AED] transition-colors">
+                      Hostels &amp; Amenities
+                    </h3>
+                  </div>
                 </div>
-                <div className="flex-1 min-w-0">
-                  <span className="text-[11px] font-bold uppercase tracking-widest text-[#7C3AED] bg-[#F5F3FF] px-2.5 py-0.5 rounded-full">Campus Life</span>
-                  <h3 className="mt-2 font-bold text-[17px] text-[#0B1F44] leading-tight group-hover:text-[#1557D6] transition-colors">Hostels &amp; Campus Amenities</h3>
-                </div>
+                <p className="text-[#5F6878] text-[13px] sm:text-[13.5px] leading-[1.5] sm:leading-[1.6]">
+                  Explore campus map, digital library access, sports complexes, cafeteria menus, and hostel allotment rules.
+                </p>
               </div>
-              <p className="text-[#5F6878] text-[13.5px] leading-[1.6] flex-1">
-                Explore campus map, digital library access, sports complexes, cafeteria menus, and hostel allotment rules.
-              </p>
               <button
                 onClick={() => handleQuickAction('Hostels and Campus Amenities')}
-                className="mt-1 self-start inline-flex items-center gap-1.5 text-[#1557D6] text-[13px] font-semibold hover:gap-2.5 transition-all group-hover:underline"
+                className="self-start inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-[#FAF5FF] hover:bg-[#7C3AED] text-[#7C3AED] hover:text-white text-[12px] sm:text-[12.5px] font-semibold transition-all duration-200 cursor-pointer group/btn"
               >
-                Ask about this <ArrowRight className="w-3.5 h-3.5" />
+                <span>Ask about this</span>
+                <ArrowRight className="w-3.5 h-3.5 group-hover/btn:translate-x-0.5 transition-transform" />
               </button>
             </div>
 
             {/* 6. Financial Aid */}
-            <div className="group bg-white rounded-[22px] border border-[#E2EDFA] p-6 shadow-[0_4px_20px_rgba(21,87,214,0.04)] hover:shadow-[0_16px_36px_rgba(21,87,214,0.10)] hover:border-[#1557D6]/30 hover:-translate-y-1 transition-all duration-300 flex flex-col gap-4">
-              <div className="flex items-start gap-4">
-                <div className="w-11 h-11 rounded-[13px] bg-[#FFF1F2] flex items-center justify-center flex-shrink-0 group-hover:bg-[#E11D48] transition-colors duration-300">
-                  <svg className="w-5.5 h-5.5 text-[#E11D48] group-hover:text-white transition-colors duration-300" width="22" height="22" viewBox="0 0 24 24" fill="currentColor"><path d="M11.8 10.9c-2.27-.59-3-1.2-3-2.15 0-1.09 1.01-1.85 2.7-1.85 1.78 0 2.44.85 2.5 2.1h2.21c-.07-1.72-1.12-3.3-3.21-3.81V3h-3v2.16c-1.94.42-3.5 1.68-3.5 3.61 0 2.31 1.91 3.46 4.7 4.13 2.5.6 3 1.48 3 2.41 0 .69-.49 1.79-2.7 1.79-2.06 0-2.87-.92-2.98-2.1h-2.2c.12 2.19 1.76 3.42 3.68 3.83V21h3v-2.15c1.95-.37 3.5-1.5 3.5-3.55 0-2.84-2.43-3.81-4.7-4.4z"/></svg>
+            <div className="group bg-white rounded-[18px] sm:rounded-[22px] border border-[#E2EDFA] hover:border-[#E11D48]/40 p-4 sm:p-5.5 shadow-[0_3px_14px_rgba(21,87,214,0.03)] hover:shadow-[0_16px_36px_rgba(225,29,72,0.08)] hover:-translate-y-1 transition-all duration-300 flex flex-col justify-between gap-3">
+              <div>
+                {/* Clean Header: Icon + Badge + Title */}
+                <div className="flex items-start gap-3 mb-2.5">
+                  <div className="w-10 h-10 sm:w-11 sm:h-11 rounded-[11px] sm:rounded-[13px] bg-gradient-to-b from-[#FFF1F2] to-[#FFE4E6] border border-[#FECDD3] text-[#E11D48] flex items-center justify-center flex-shrink-0 shadow-[0_2px_6px_rgba(225,29,72,0.06)] group-hover:scale-105 transition-transform">
+                    <svg className="w-5 h-5 sm:w-6 sm:h-6" viewBox="0 0 24 24" fill="currentColor"><path d="M11.8 10.9c-2.27-.59-3-1.2-3-2.15 0-1.09 1.01-1.85 2.7-1.85 1.78 0 2.44.85 2.5 2.1h2.21c-.07-1.72-1.12-3.3-3.21-3.81V3h-3v2.16c-1.94.42-3.5 1.68-3.5 3.61 0 2.31 1.91 3.46 4.7 4.13 2.5.6 3 1.48 3 2.41 0 .69-.49 1.79-2.7 1.79-2.06 0-2.87-.92-2.98-2.1h-2.2c.12 2.19 1.76 3.42 3.68 3.83V21h3v-2.15c1.95-.37 3.5-1.5 3.5-3.55 0-2.84-2.43-3.81-4.7-4.4z"/></svg>
+                  </div>
+                  <div className="flex-1 min-w-0">
+                    <span className="inline-block text-[9.5px] sm:text-[10px] font-bold uppercase tracking-wider px-2.5 py-0.5 rounded-full bg-[#FFF1F2] text-[#E11D48] border border-[#FECDD3] mb-1">
+                      Financial Aid
+                    </span>
+                    <h3 className="font-bold text-[15px] sm:text-[17px] text-[#0B1F44] leading-tight group-hover:text-[#E11D48] transition-colors">
+                      Scholarships &amp; Aid
+                    </h3>
+                  </div>
                 </div>
-                <div className="flex-1 min-w-0">
-                  <span className="text-[11px] font-bold uppercase tracking-widest text-[#E11D48] bg-[#FFF1F2] px-2.5 py-0.5 rounded-full">Financial Aid</span>
-                  <h3 className="mt-2 font-bold text-[17px] text-[#0B1F44] leading-tight group-hover:text-[#1557D6] transition-colors">Scholarships &amp; Aid</h3>
-                </div>
+                <p className="text-[#5F6878] text-[13px] sm:text-[13.5px] leading-[1.5] sm:leading-[1.6]">
+                  Merit-based, need-based, and government scholarship details, application deadlines, and disbursement status.
+                </p>
               </div>
-              <p className="text-[#5F6878] text-[13.5px] leading-[1.6] flex-1">
-                Merit-based, need-based, and government scholarship details, application deadlines, and disbursement status.
-              </p>
               <button
                 onClick={() => handleQuickAction('Scholarships and Financial Aid')}
-                className="mt-1 self-start inline-flex items-center gap-1.5 text-[#1557D6] text-[13px] font-semibold hover:gap-2.5 transition-all group-hover:underline"
+                className="self-start inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-[#FFF1F2] hover:bg-[#E11D48] text-[#E11D48] hover:text-white text-[12px] sm:text-[12.5px] font-semibold transition-all duration-200 cursor-pointer group/btn"
               >
-                Ask about this <ArrowRight className="w-3.5 h-3.5" />
+                <span>Ask about this</span>
+                <ArrowRight className="w-3.5 h-3.5 group-hover/btn:translate-x-0.5 transition-transform" />
               </button>
             </div>
 
@@ -1395,7 +1453,7 @@ export default function Landing() {
                       className="w-full px-4 py-3.5 sm:px-4.5 sm:py-4 flex items-center justify-between gap-3 text-left font-semibold text-[13.5px] sm:text-[14.5px] text-[#0B1F44] hover:text-[#1557D6] transition-colors cursor-pointer group"
                     >
                       <div className="flex items-center gap-2.5 min-w-0 flex-1">
-                        <span className={`w-5.5 h-5.5 sm:w-6 sm:h-6 rounded-full flex items-center justify-center text-[11px] font-bold flex-shrink-0 transition-colors ${
+                        <span className={`w-6 h-6 sm:w-6 sm:h-6 rounded-full flex items-center justify-center text-[11px] font-bold flex-shrink-0 transition-colors ${
                           isOpen ? 'bg-[#1557D6] text-white' : 'bg-[#F0F5FF] text-[#1557D6] group-hover:bg-[#E0EDFF]'
                         }`}>
                           {origIdx + 1}
@@ -1404,7 +1462,7 @@ export default function Landing() {
                           {faq.q}
                         </span>
                       </div>
-                      <div className={`w-6.5 h-6.5 sm:w-7 sm:h-7 rounded-full flex items-center justify-center flex-shrink-0 transition-all duration-200 ${
+                      <div className={`w-7 h-7 sm:w-7 sm:h-7 rounded-full flex items-center justify-center flex-shrink-0 transition-all duration-200 ${
                         isOpen ? 'bg-[#EAF3FF] text-[#1557D6] rotate-180' : 'bg-[#F4F7FB] text-[#718096] group-hover:bg-[#EBF2FE] group-hover:text-[#1557D6]'
                       }`}>
                         <ChevronDown className="w-4 h-4" />
@@ -1447,7 +1505,7 @@ export default function Landing() {
                       className="w-full px-4 py-3.5 sm:px-4.5 sm:py-4 flex items-center justify-between gap-3 text-left font-semibold text-[13.5px] sm:text-[14.5px] text-[#0B1F44] hover:text-[#1557D6] transition-colors cursor-pointer group"
                     >
                       <div className="flex items-center gap-2.5 min-w-0 flex-1">
-                        <span className={`w-5.5 h-5.5 sm:w-6 sm:h-6 rounded-full flex items-center justify-center text-[11px] font-bold flex-shrink-0 transition-colors ${
+                        <span className={`w-6 h-6 sm:w-6 sm:h-6 rounded-full flex items-center justify-center text-[11px] font-bold flex-shrink-0 transition-colors ${
                           isOpen ? 'bg-[#1557D6] text-white' : 'bg-[#F0F5FF] text-[#1557D6] group-hover:bg-[#E0EDFF]'
                         }`}>
                           {origIdx + 1}
@@ -1456,7 +1514,7 @@ export default function Landing() {
                           {faq.q}
                         </span>
                       </div>
-                      <div className={`w-6.5 h-6.5 sm:w-7 sm:h-7 rounded-full flex items-center justify-center flex-shrink-0 transition-all duration-200 ${
+                      <div className={`w-7 h-7 sm:w-7 sm:h-7 rounded-full flex items-center justify-center flex-shrink-0 transition-all duration-200 ${
                         isOpen ? 'bg-[#EAF3FF] text-[#1557D6] rotate-180' : 'bg-[#F4F7FB] text-[#718096] group-hover:bg-[#EBF2FE] group-hover:text-[#1557D6]'
                       }`}>
                         <ChevronDown className="w-4 h-4" />
@@ -1573,9 +1631,9 @@ export default function Landing() {
 
 
       {/* ========================================================= */}
-      {/* 6. FOOTER (MODERN COMPACT & BALANCED)                     */}
+      {/* 6. FOOTER (COMPACT & STREAMLINED)                         */}
       {/* ========================================================= */}
-      <footer className="bg-[#051329] text-[#8EA2C6] pt-12 sm:pt-14 pb-7 border-t border-[#13284C] relative overflow-hidden">
+      <footer className="bg-[#051329] text-[#8EA2C6] py-6 sm:py-8 border-t border-[#13284C] relative overflow-hidden">
         {/* Subtle Ambient Radial Glow */}
         <div
           className="absolute inset-0 pointer-events-none select-none"
@@ -1584,21 +1642,19 @@ export default function Landing() {
           }}
         />
 
-        <div className="max-w-[1360px] mx-auto px-6 sm:px-8 lg:px-12 relative z-10">
+        <div className="max-w-[1360px] mx-auto px-5 sm:px-8 lg:px-12 relative z-10">
           
-          {/* Main 12-Column Grid (3 + 2 + 2 + 2 + 3 = 12) */}
-          <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 lg:grid-cols-12 gap-7 lg:gap-6 pb-10 border-b border-[#13284C]">
+          {/* Streamlined Grid: 2-Col on Mobile, 4-Col on Desktop */}
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-6 sm:gap-8 pb-5 border-b border-[#13284C]">
 
-            {/* Column 1: Brand & Bio & Socials (3 of 12) */}
-            <div className="sm:col-span-2 md:col-span-4 lg:col-span-3 flex flex-col items-start pr-0 lg:pr-4">
-              {/* Logo & Brand Name */}
+            {/* Column 1: Brand & Socials */}
+            <div className="col-span-2 md:col-span-1 flex flex-col items-start">
               <div
                 onClick={() => navigate('/')}
-                className="flex items-center gap-3 cursor-pointer select-none group"
+                className="flex items-center gap-2.5 cursor-pointer select-none group"
               >
-                {/* White Rounded Squircle with Blue Open Book */}
-                <div className="w-10 h-10 rounded-[12px] bg-white flex items-center justify-center shadow-[0_4px_14px_rgba(0,0,0,0.25)] flex-shrink-0 group-hover:scale-105 transition-transform">
-                  <svg className="w-5.5 h-5.5" viewBox="0 0 32 32" fill="none">
+                <div className="w-8 h-8 rounded-[9px] bg-white flex items-center justify-center shadow-md flex-shrink-0 group-hover:scale-105 transition-transform">
+                  <svg className="w-4 h-4" viewBox="0 0 32 32" fill="none">
                     <path
                       d="M6 8.5C9.5 7.8 13 8.2 16 10C19 8.2 22.5 7.8 26 8.5V23.5C22.5 22.5 19 22.5 16 24.5C13 22.5 9.5 22.5 6 23.5V8.5Z"
                       fill="#1557D6"
@@ -1609,161 +1665,88 @@ export default function Landing() {
                       strokeWidth="1.5"
                       strokeLinecap="round"
                     />
-                    <path d="M9 13H13M9 17H13" stroke="white" strokeWidth="1.2" strokeLinecap="round" />
-                    <path d="M19 13H23M19 17H23" stroke="white" strokeWidth="1.2" strokeLinecap="round" />
                   </svg>
                 </div>
-
-                <div className="flex flex-col text-left">
-                  <span className="font-extrabold text-[19px] tracking-tight text-white leading-tight">
-                    College InfoBot
-                  </span>
-                  <span className="text-[11.5px] font-normal text-[#8EA2C6] leading-tight mt-0.5">
-                    Your AI Academic Assistant
-                  </span>
-                </div>
+                <span className="font-extrabold text-[16px] tracking-tight text-white">
+                  College InfoBot
+                </span>
               </div>
 
-              {/* Bio description */}
-              <p className="mt-3.5 text-[13px] leading-[1.6] text-[#8EA2C6] max-w-[280px]">
-                Delivering smart, reliable, and instant academic information services through verified AI conversations.
+              <p className="mt-2 text-[12px] text-[#8EA2C6] leading-relaxed max-w-[240px]">
+                Instant AI-powered academic assistance for students and faculty.
               </p>
 
               {/* Social Media Buttons */}
-              <div className="mt-5 flex items-center gap-2.5">
-                {/* Facebook */}
-                <a
-                  href="#"
-                  aria-label="Facebook"
-                  className="w-8.5 h-8.5 rounded-full bg-[#0B1E3D] border border-[#1A3660] hover:border-[#1557D6] hover:bg-[#1557D6] flex items-center justify-center text-[#8EA2C6] hover:text-white transition-all shadow-[0_2px_6px_rgba(0,0,0,0.15)] hover:scale-105"
-                >
-                  <svg className="w-3.5 h-3.5" fill="currentColor" viewBox="0 0 24 24">
-                    <path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z" />
-                  </svg>
+              <div className="mt-3 flex items-center gap-2">
+                <a href="#" aria-label="Facebook" className="w-7 h-7 rounded-full bg-[#0B1E3D] border border-[#1A3660] hover:bg-[#1557D6] flex items-center justify-center text-[#8EA2C6] hover:text-white transition-all">
+                  <svg className="w-3 h-3" fill="currentColor" viewBox="0 0 24 24"><path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/></svg>
                 </a>
-
-                {/* Twitter / X */}
-                <a
-                  href="#"
-                  aria-label="Twitter"
-                  className="w-8.5 h-8.5 rounded-full bg-[#0B1E3D] border border-[#1A3660] hover:border-[#1557D6] hover:bg-[#1557D6] flex items-center justify-center text-[#8EA2C6] hover:text-white transition-all shadow-[0_2px_6px_rgba(0,0,0,0.15)] hover:scale-105"
-                >
-                  <svg className="w-3.5 h-3.5" fill="currentColor" viewBox="0 0 24 24">
-                    <path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z" />
-                  </svg>
+                <a href="#" aria-label="Twitter" className="w-7 h-7 rounded-full bg-[#0B1E3D] border border-[#1A3660] hover:bg-[#1557D6] flex items-center justify-center text-[#8EA2C6] hover:text-white transition-all">
+                  <svg className="w-3 h-3" fill="currentColor" viewBox="0 0 24 24"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
                 </a>
-
-                {/* LinkedIn */}
-                <a
-                  href="#"
-                  aria-label="LinkedIn"
-                  className="w-8.5 h-8.5 rounded-full bg-[#0B1E3D] border border-[#1A3660] hover:border-[#1557D6] hover:bg-[#1557D6] flex items-center justify-center text-[#8EA2C6] hover:text-white transition-all shadow-[0_2px_6px_rgba(0,0,0,0.15)] hover:scale-105"
-                >
-                  <svg className="w-3.5 h-3.5" fill="currentColor" viewBox="0 0 24 24">
-                    <path d="M19 3a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h14m-.5 15.5v-5.3a3.26 3.26 0 0 0-3.26-3.26c-.85 0-1.84.52-2.28 1.3v-1.11h-2.79v8.37h2.79v-4.93c0-.77.62-1.4 1.39-1.4a1.4 1.4 0 0 1 1.4 1.4v4.93h2.75M6.46 10.9v8.37H9.2V10.9H6.46M7.83 6.25c-.9 0-1.63.73-1.63 1.63s.73 1.63 1.63 1.63 1.63-.73 1.63-1.63-.73-1.63-1.63-1.63Z" />
-                  </svg>
+                <a href="#" aria-label="LinkedIn" className="w-7 h-7 rounded-full bg-[#0B1E3D] border border-[#1A3660] hover:bg-[#1557D6] flex items-center justify-center text-[#8EA2C6] hover:text-white transition-all">
+                  <svg className="w-3 h-3" fill="currentColor" viewBox="0 0 24 24"><path d="M19 3a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h14m-.5 15.5v-5.3a3.26 3.26 0 0 0-3.26-3.26c-.85 0-1.84.52-2.28 1.3v-1.11h-2.79v8.37h2.79v-4.93c0-.77.62-1.4 1.39-1.4a1.4 1.4 0 0 1 1.4 1.4v4.93h2.75M6.46 10.9v8.37H9.2V10.9H6.46M7.83 6.25c-.9 0-1.63.73-1.63 1.63s.73 1.63 1.63 1.63 1.63-.73 1.63-1.63-.73-1.63-1.63-1.63Z"/></svg>
                 </a>
-
-                {/* Instagram */}
-                <a
-                  href="#"
-                  aria-label="Instagram"
-                  className="w-8.5 h-8.5 rounded-full bg-[#0B1E3D] border border-[#1A3660] hover:border-[#1557D6] hover:bg-[#1557D6] flex items-center justify-center text-[#8EA2C6] hover:text-white transition-all shadow-[0_2px_6px_rgba(0,0,0,0.15)] hover:scale-105"
-                >
-                  <svg className="w-3.5 h-3.5" fill="currentColor" viewBox="0 0 24 24">
-                    <path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z" />
-                  </svg>
+                <a href="#" aria-label="Instagram" className="w-7 h-7 rounded-full bg-[#0B1E3D] border border-[#1A3660] hover:bg-[#1557D6] flex items-center justify-center text-[#8EA2C6] hover:text-white transition-all">
+                  <svg className="w-3 h-3" fill="currentColor" viewBox="0 0 24 24"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/></svg>
                 </a>
               </div>
             </div>
 
-            {/* Column 2: Quick Links (2 of 12) */}
-            <div className="lg:col-span-2">
-              <h4 className="font-bold text-white text-[13.5px] uppercase tracking-wider mb-3.5 whitespace-nowrap">
+            {/* Column 2: Quick Links */}
+            <div className="col-span-1">
+              <h4 className="font-bold text-white text-[12px] sm:text-[13px] uppercase tracking-wider mb-2">
                 Quick Links
               </h4>
-              <ul className="space-y-2 text-[13px]">
-                <li><a href="#hero" className="hover:text-white hover:translate-x-1 transition-all inline-block whitespace-nowrap">Home</a></li>
-                <li><a href="#why-choose-us" className="hover:text-white hover:translate-x-1 transition-all inline-block whitespace-nowrap">Why Choose Us</a></li>
-                <li><a href="#benefits" className="hover:text-white hover:translate-x-1 transition-all inline-block whitespace-nowrap">Who Benefits</a></li>
-                <li><a href="#services" className="hover:text-white hover:translate-x-1 transition-all inline-block whitespace-nowrap">Services</a></li>
-                <li><a href="#faq" className="hover:text-white hover:translate-x-1 transition-all inline-block whitespace-nowrap">FAQ</a></li>
+              <ul className="space-y-1.5 text-[12px] sm:text-[12.5px]">
+                <li><a href="#hero" className="hover:text-white transition-colors">Home</a></li>
+                <li><a href="#why-choose-us" className="hover:text-white transition-colors">Why Choose Us</a></li>
+                <li><a href="#services" className="hover:text-white transition-colors">Services</a></li>
+                <li><a href="#faq" className="hover:text-white transition-colors">FAQ</a></li>
               </ul>
             </div>
 
-            {/* Column 3: Services (2 of 12) */}
-            <div className="lg:col-span-2">
-              <h4 className="font-bold text-white text-[13.5px] uppercase tracking-wider mb-3.5 whitespace-nowrap">
-                Services
-              </h4>
-              <ul className="space-y-2 text-[13px]">
-                <li><a href="#services" className="hover:text-white hover:translate-x-1 transition-all inline-block whitespace-nowrap">Academics</a></li>
-                <li><a href="#services" className="hover:text-white hover:translate-x-1 transition-all inline-block whitespace-nowrap">Admissions</a></li>
-                <li><a href="#services" className="hover:text-white hover:translate-x-1 transition-all inline-block whitespace-nowrap">Exam & Results</a></li>
-                <li><a href="#services" className="hover:text-white hover:translate-x-1 transition-all inline-block whitespace-nowrap">Campus Facilities</a></li>
-                <li><a href="#services" className="hover:text-white hover:translate-x-1 transition-all inline-block whitespace-nowrap">Scholarships</a></li>
-              </ul>
-            </div>
-
-            {/* Column 4: Support (2 of 12) */}
-            <div className="lg:col-span-2">
-              <h4 className="font-bold text-white text-[13.5px] uppercase tracking-wider mb-3.5 whitespace-nowrap">
+            {/* Column 3: Legal & Support */}
+            <div className="col-span-1">
+              <h4 className="font-bold text-white text-[12px] sm:text-[13px] uppercase tracking-wider mb-2">
                 Support
               </h4>
-              <ul className="space-y-2 text-[13px]">
-                <li><a href="#faq" className="hover:text-white hover:translate-x-1 transition-all inline-block whitespace-nowrap">Help Center</a></li>
-                <li><a href="#faq" className="hover:text-white hover:translate-x-1 transition-all inline-block whitespace-nowrap">FAQ</a></li>
-                <li><a href="#" className="hover:text-white hover:translate-x-1 transition-all inline-block whitespace-nowrap">Privacy Policy</a></li>
-                <li><a href="#" className="hover:text-white hover:translate-x-1 transition-all inline-block whitespace-nowrap">Terms of Service</a></li>
+              <ul className="space-y-1.5 text-[12px] sm:text-[12.5px]">
+                <li><a href="#faq" className="hover:text-white transition-colors">Help Center</a></li>
+                <li><a href="#" className="hover:text-white transition-colors">Privacy Policy</a></li>
+                <li><a href="#" className="hover:text-white transition-colors">Terms of Service</a></li>
               </ul>
             </div>
 
-            {/* Column 5: Contact Us (3 of 12) */}
-            <div className="sm:col-span-2 md:col-span-4 lg:col-span-3">
-              <h4 className="font-bold text-white text-[13.5px] uppercase tracking-wider mb-3.5 whitespace-nowrap">
-                Contact Us
+            {/* Column 4: Contact */}
+            <div className="col-span-2 md:col-span-1">
+              <h4 className="font-bold text-white text-[12px] sm:text-[13px] uppercase tracking-wider mb-2">
+                Contact
               </h4>
-              <ul className="space-y-2.5 text-[13px]">
-                {/* Email */}
-                <li className="flex items-center gap-2.5">
-                  <div className="w-6.5 h-6.5 rounded-md bg-[#0F2347] flex items-center justify-center flex-shrink-0 text-[#8EA2C6]">
-                    <Mail className="w-3.5 h-3.5" />
-                  </div>
-                  <a href="mailto:info@collegeinfobot.com" className="hover:text-white transition-colors whitespace-nowrap">
+              <ul className="space-y-1.5 text-[12px] sm:text-[12.5px]">
+                <li className="flex items-center gap-2">
+                  <Mail className="w-3.5 h-3.5 text-[#8EA2C6] flex-shrink-0" />
+                  <a href="mailto:info@collegeinfobot.com" className="hover:text-white transition-colors truncate">
                     info@collegeinfobot.com
                   </a>
                 </li>
-
-                {/* Phone */}
-                <li className="flex items-center gap-2.5">
-                  <div className="w-6.5 h-6.5 rounded-md bg-[#0F2347] flex items-center justify-center flex-shrink-0 text-[#8EA2C6]">
-                    <Phone className="w-3.5 h-3.5" />
-                  </div>
-                  <a href="tel:+911234567890" className="hover:text-white transition-colors whitespace-nowrap">
+                <li className="flex items-center gap-2">
+                  <Phone className="w-3.5 h-3.5 text-[#8EA2C6] flex-shrink-0" />
+                  <a href="tel:+911234567890" className="hover:text-white transition-colors">
                     +91 12345 67890
                   </a>
-                </li>
-
-                {/* Address */}
-                <li className="flex items-start gap-2.5">
-                  <div className="w-6.5 h-6.5 rounded-md bg-[#0F2347] flex items-center justify-center flex-shrink-0 text-[#8EA2C6] mt-0.5">
-                    <MapPin className="w-3.5 h-3.5" />
-                  </div>
-                  <span className="leading-snug text-[#8EA2C6] text-[12.5px]">
-                    123 Education Street, Knowledge City,<br className="hidden xl:block" /> India - 560001
-                  </span>
                 </li>
               </ul>
             </div>
 
           </div>
 
-          {/* Bottom Bar: Copyright & System Status */}
-          <div className="pt-6 flex flex-col sm:flex-row items-center justify-between gap-3 text-[12.5px] text-[#8EA2C6]">
+          {/* Bottom Bar */}
+          <div className="pt-4 flex flex-col sm:flex-row items-center justify-between gap-2 text-[11.5px] sm:text-[12px] text-[#8EA2C6]">
             <p>© {new Date().getFullYear()} College InfoBot. All rights reserved.</p>
             <div className="flex items-center gap-2">
               <span className="w-2 h-2 rounded-full bg-emerald-400 animate-pulse" />
-              <span className="text-[#A0B3D6]">AI System Operational 24/7</span>
+              <span className="text-[#A0B3D6]">System Active 24/7</span>
             </div>
           </div>
 
