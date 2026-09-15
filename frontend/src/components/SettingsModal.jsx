@@ -1,5 +1,5 @@
 import React from 'react';
-import { X, Sparkles, Cpu, Zap, Search, MessageSquare, Layers, Volume2, VolumeX, Bot, Brain } from 'lucide-react';
+import { X, Sparkles, Cpu, Zap, Search, MessageSquare, Layers, Volume2, VolumeX, Bot, Brain, Sun, Moon, Palette } from 'lucide-react';
 
 export default function SettingsModal({
   isOpen,
@@ -9,39 +9,51 @@ export default function SettingsModal({
   selectedRetrievalMode,
   setSelectedRetrievalMode,
   ttsEnabled,
-  onToggleTts
+  onToggleTts,
+  theme = 'light',
+  onToggleTheme
 }) {
   if (!isOpen) return null;
 
+  const isLight = theme === 'light';
+
   const models = [
-    { id: 'gemini-2.5-flash', name: 'Gemini 2.5 Flash', desc: 'Fast, balanced model for most tasks.', icon: <Bot className="w-5 h-5 text-violet-400" /> },
-    { id: 'llama-3.3-70b-versatile', name: 'Llama 3.3 70B (Groq)', desc: 'High intelligence versatile model.', icon: <Zap className="w-5 h-5 text-amber-500" /> },
-    { id: 'llama3.2:latest', name: 'Llama 3.2 (Local)', desc: 'Run locally on your device.', icon: <Cpu className="w-5 h-5 text-blue-500" /> }
+    { id: 'gemini-2.5-flash', name: 'Gemini 2.5 Flash', desc: 'Fast, balanced model for most tasks.', icon: <Bot className="w-4 h-4 text-violet-500" /> },
+    { id: 'llama-3.3-70b-versatile', name: 'Llama 3.3 70B (Groq)', desc: 'High intelligence versatile model.', icon: <Zap className="w-4 h-4 text-amber-500" /> },
+    { id: 'llama3.2:latest', name: 'Llama 3.2 (Local)', desc: 'Run locally on your device.', icon: <Cpu className="w-4 h-4 text-blue-500" /> }
   ];
 
   const retrievalModes = [
-    { id: 'simple', name: 'Simple Vector Search', desc: 'Standard semantic document search.', icon: <Search className="w-4 h-4 text-zinc-400" /> },
-    { id: 'history_aware', name: 'History-Aware RAG', desc: 'Maintains context across follow-up queries.', icon: <MessageSquare className="w-4 h-4 text-indigo-400" /> },
-    { id: 'multi_query', name: 'Multi-Query RRF', desc: 'Searches multiple query variations.', icon: <Layers className="w-4 h-4 text-emerald-400" /> },
-    { id: 'advanced', name: 'Advanced RAG Hybrid', desc: 'Combines Standalone rewrite + RRF.', icon: <Brain className="w-4 h-4 text-violet-400" /> }
+    { id: 'simple', name: 'Simple Vector Search', desc: 'Standard semantic document search.', icon: <Search className="w-4 h-4 text-slate-400" /> },
+    { id: 'history_aware', name: 'History-Aware RAG', desc: 'Maintains context across follow-up queries.', icon: <MessageSquare className="w-4 h-4 text-indigo-500" /> },
+    { id: 'multi_query', name: 'Multi-Query RRF', desc: 'Searches multiple query variations.', icon: <Layers className="w-4 h-4 text-emerald-500" /> },
+    { id: 'advanced', name: 'Advanced RAG Hybrid', desc: 'Combines Standalone rewrite + RRF.', icon: <Brain className="w-4 h-4 text-violet-500" /> }
   ];
 
   return (
-    <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-zinc-950/80 backdrop-blur-sm select-none">
+    <div className={`fixed inset-0 z-50 flex items-center justify-center p-4 backdrop-blur-md select-none ${
+      isLight ? 'bg-slate-900/40' : 'bg-black/80'
+    }`}>
       <div 
         className="fixed inset-0 bg-transparent" 
         onClick={onClose} 
       />
       
-      <div className="bg-zinc-900 border border-zinc-800/85 w-full max-w-[92%] sm:max-w-md rounded-xl p-4 sm:p-5 shadow-2xl relative z-10 animate-in fade-in zoom-in-95 duration-200 flex flex-col max-h-[85vh]">
+      <div className={`w-full max-w-[92%] sm:max-w-md rounded-2xl p-5 shadow-2xl relative z-10 animate-in fade-in zoom-in-95 duration-200 flex flex-col max-h-[85vh] border transition-colors ${
+        isLight ? 'bg-white border-[#E2E8F0] text-[#0F172A]' : 'bg-[#0D0D10] border-[#27272A] text-white'
+      }`}>
         {/* Header */}
-        <div className="flex items-center justify-between pb-3 border-b border-border/40 mb-4 shrink-0">
-          <h3 className="text-base font-bold text-zinc-100 flex items-center gap-2">
+        <div className={`flex items-center justify-between pb-3 border-b mb-4 shrink-0 ${
+          isLight ? 'border-[#E2E8F0]' : 'border-[#1F1F24]'
+        }`}>
+          <h3 className="text-base font-extrabold flex items-center gap-2">
             Settings
           </h3>
           <button
             onClick={onClose}
-            className="p-1 hover:bg-zinc-800/80 text-zinc-400 hover:text-zinc-200 rounded transition-colors cursor-pointer"
+            className={`p-1 rounded-lg transition-colors cursor-pointer ${
+              isLight ? 'text-[#64748B] hover:bg-[#F1F5F9]' : 'text-zinc-400 hover:bg-[#18181D] hover:text-white'
+            }`}
             title="Close Settings"
           >
             <X className="w-4 h-4" />
@@ -49,11 +61,46 @@ export default function SettingsModal({
         </div>
 
         {/* Scrollable Content */}
-        <div className="flex-1 overflow-y-auto pr-1 space-y-4 scrollbar-thin">
+        <div className="flex-1 overflow-y-auto pr-1 space-y-4 custom-scrollbar">
+
+          {/* Theme Switcher Section */}
+          <div className="space-y-2">
+            <label className={`text-[10px] font-bold uppercase tracking-wider block ${
+              isLight ? 'text-[#64748B]' : 'text-zinc-400'
+            }`}>
+              Appearance & Theme
+            </label>
+            <div className="grid grid-cols-2 gap-2">
+              <button
+                onClick={() => theme !== 'light' && onToggleTheme && onToggleTheme()}
+                className={`flex items-center justify-center gap-2 p-2.5 rounded-xl border text-xs font-semibold transition-all cursor-pointer ${
+                  theme === 'light'
+                    ? 'bg-[#1557D6] text-white border-[#1557D6] shadow-sm'
+                    : isLight ? 'bg-[#F8FAFC] border-[#CBD5E1] text-[#334155]' : 'bg-[#141418] border-[#27272A] text-zinc-400 hover:text-white'
+                }`}
+              >
+                <Sun className="w-4 h-4 text-amber-300" />
+                <span>Light Mode</span>
+              </button>
+              <button
+                onClick={() => theme !== 'dark' && onToggleTheme && onToggleTheme()}
+                className={`flex items-center justify-center gap-2 p-2.5 rounded-xl border text-xs font-semibold transition-all cursor-pointer ${
+                  theme === 'dark'
+                    ? 'bg-[#1557D6] text-white border-[#1557D6] shadow-sm'
+                    : isLight ? 'bg-[#F8FAFC] border-[#CBD5E1] text-[#334155]' : 'bg-[#141418] border-[#27272A] text-zinc-400 hover:text-white'
+                }`}
+              >
+                <Moon className="w-4 h-4 text-indigo-300" />
+                <span>Dark Obsidian</span>
+              </button>
+            </div>
+          </div>
           
           {/* AI Model Selection */}
           <div className="space-y-2">
-            <label className="text-[10px] font-semibold text-zinc-400 uppercase tracking-wider block">
+            <label className={`text-[10px] font-bold uppercase tracking-wider block ${
+              isLight ? 'text-[#64748B]' : 'text-zinc-400'
+            }`}>
               AI Chat Model
             </label>
             <div className="grid grid-cols-1 gap-1.5">
@@ -61,19 +108,19 @@ export default function SettingsModal({
                 <button
                   key={model.id}
                   onClick={() => setSelectedModel(model.id)}
-                  className={`flex items-start gap-2.5 w-full text-left p-2.5 rounded-lg border transition-all cursor-pointer ${
+                  className={`flex items-start gap-2.5 w-full text-left p-2.5 rounded-xl border transition-all cursor-pointer ${
                     selectedModel === model.id
-                      ? 'bg-primary/10 border-primary/40 shadow-sm shadow-primary/5'
-                      : 'bg-zinc-900/40 border-zinc-800 hover:border-zinc-700 hover:bg-zinc-800/30'
+                      ? (isLight ? 'bg-[#1557D6]/10 border-[#1557D6] text-[#1557D6] font-bold' : 'bg-[#1557D6]/20 border-[#1557D6] text-white font-bold')
+                      : (isLight ? 'bg-[#F8FAFC] border-[#E2E8F0] hover:border-[#CBD5E1]' : 'bg-[#141418] border-[#27272A] hover:border-zinc-500')
                   }`}
                 >
                   <div className="mt-0.5 shrink-0">{model.icon}</div>
                   <div className="flex-1 min-w-0">
-                    <div className="text-xs font-semibold text-zinc-100">{model.name}</div>
-                    <div className="text-[11px] text-zinc-500 mt-0.5">{model.desc}</div>
+                    <div className={`text-xs font-semibold ${isLight ? 'text-[#0F172A]' : 'text-white'}`}>{model.name}</div>
+                    <div className={`text-[11px] mt-0.5 ${isLight ? 'text-[#64748B]' : 'text-zinc-400'}`}>{model.desc}</div>
                   </div>
                   {selectedModel === model.id && (
-                    <div className="w-1.5 h-1.5 rounded-full bg-primary mt-1.5 shrink-0" />
+                    <div className="w-2 h-2 rounded-full bg-[#1557D6] mt-1.5 shrink-0" />
                   )}
                 </button>
               ))}
@@ -82,7 +129,9 @@ export default function SettingsModal({
 
           {/* RAG Strategy Selection */}
           <div className="space-y-2">
-            <label className="text-[10px] font-semibold text-zinc-400 uppercase tracking-wider block">
+            <label className={`text-[10px] font-bold uppercase tracking-wider block ${
+              isLight ? 'text-[#64748B]' : 'text-zinc-400'
+            }`}>
               Retrieval Strategy
             </label>
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-1.5">
@@ -90,48 +139,52 @@ export default function SettingsModal({
                 <button
                   key={mode.id}
                   onClick={() => setSelectedRetrievalMode(mode.id)}
-                  className={`flex flex-col justify-between w-full text-left p-2.5 rounded-lg border transition-all cursor-pointer ${
+                  className={`flex flex-col justify-between w-full text-left p-2.5 rounded-xl border transition-all cursor-pointer ${
                     selectedRetrievalMode === mode.id
-                      ? 'bg-indigo-600/10 border-indigo-500/40 shadow-sm shadow-indigo-500/5'
-                      : 'bg-zinc-900/40 border-zinc-800 hover:border-zinc-700 hover:bg-zinc-800/30'
+                      ? (isLight ? 'bg-[#1557D6]/10 border-[#1557D6]' : 'bg-[#1557D6]/20 border-[#1557D6]')
+                      : (isLight ? 'bg-[#F8FAFC] border-[#E2E8F0] hover:border-[#CBD5E1]' : 'bg-[#141418] border-[#27272A] hover:border-zinc-500')
                   }`}
                 >
                   <div className="flex items-center gap-1.5">
                     <div className="shrink-0">{mode.icon}</div>
-                    <div className="text-xs font-semibold text-zinc-100 truncate">{mode.name}</div>
+                    <div className={`text-xs font-semibold truncate ${isLight ? 'text-[#0F172A]' : 'text-white'}`}>{mode.name}</div>
                   </div>
-                  <div className="text-[10px] text-zinc-500 mt-1 leading-normal flex-1">
+                  <div className={`text-[10px] mt-1 leading-normal flex-1 ${isLight ? 'text-[#64748B]' : 'text-zinc-400'}`}>
                     {mode.desc}
                   </div>
                   {selectedRetrievalMode === mode.id && (
-                    <div className="w-1 h-1 rounded-full bg-indigo-400 self-end mt-1.5" />
+                    <div className="w-1.5 h-1.5 rounded-full bg-[#1557D6] self-end mt-1.5" />
                   )}
                 </button>
               ))}
             </div>
           </div>
 
-          {/* Sound Preferences */}
-          <div className="space-y-2 pt-2 border-t border-border/30">
-            <label className="text-[10px] font-semibold text-zinc-400 uppercase tracking-wider block">
+          {/* Voice Assistant */}
+          <div className={`space-y-2 pt-2 border-t ${isLight ? 'border-[#E2E8F0]' : 'border-[#1F1F24]'}`}>
+            <label className={`text-[10px] font-bold uppercase tracking-wider block ${
+              isLight ? 'text-[#64748B]' : 'text-zinc-400'
+            }`}>
               Voice Assistant
             </label>
             <div 
               onClick={onToggleTts}
-              className="flex items-center justify-between p-2.5 bg-zinc-900/40 border border-zinc-800 rounded-lg cursor-pointer hover:bg-zinc-800/30 transition-all"
+              className={`flex items-center justify-between p-2.5 rounded-xl border cursor-pointer transition-all ${
+                isLight ? 'bg-[#F8FAFC] border-[#E2E8F0] hover:border-[#CBD5E1]' : 'bg-[#141418] border-[#27272A] hover:border-zinc-500'
+              }`}
             >
               <div className="flex items-center gap-2.5">
-                <div className={`p-1.5 rounded ${ttsEnabled ? 'bg-emerald-950/40 text-emerald-400 border border-emerald-500/20' : 'bg-zinc-800 text-zinc-500'}`}>
-                  {ttsEnabled ? <Volume2 className="w-4.5 h-4.5 animate-pulse" /> : <VolumeX className="w-4.5 h-4.5" />}
+                <div className={`p-1.5 rounded-lg ${ttsEnabled ? 'bg-emerald-500/20 text-emerald-500' : (isLight ? 'bg-[#E2E8F0] text-[#64748B]' : 'bg-[#1E1E24] text-zinc-400')}`}>
+                  {ttsEnabled ? <Volume2 className="w-4 h-4 animate-pulse" /> : <VolumeX className="w-4 h-4" />}
                 </div>
                 <div>
-                  <div className="text-xs font-semibold text-zinc-200">Auto Read-Aloud</div>
-                  <div className="text-[10px] text-zinc-500">Read AI answers aloud automatically</div>
+                  <div className={`text-xs font-semibold ${isLight ? 'text-[#0F172A]' : 'text-white'}`}>Auto Read-Aloud</div>
+                  <div className={`text-[10px] ${isLight ? 'text-[#64748B]' : 'text-zinc-400'}`}>Read AI answers aloud automatically</div>
                 </div>
               </div>
               
               {/* Toggle switch */}
-              <div className={`w-8 h-5 flex items-center rounded-full p-0.5 cursor-pointer transition-colors ${ttsEnabled ? 'bg-primary' : 'bg-zinc-700'}`}>
+              <div className={`w-8 h-5 flex items-center rounded-full p-0.5 cursor-pointer transition-colors ${ttsEnabled ? 'bg-[#1557D6]' : (isLight ? 'bg-[#CBD5E1]' : 'bg-[#27272A]')}`}>
                 <div className={`bg-white w-3.5 h-3.5 rounded-full shadow-md transform transition-transform duration-200 ${ttsEnabled ? 'translate-x-3.5' : 'translate-x-0'}`} />
               </div>
             </div>
@@ -140,10 +193,10 @@ export default function SettingsModal({
         </div>
 
         {/* Footer */}
-        <div className="pt-3 border-t border-border/40 mt-4 shrink-0">
+        <div className={`pt-3 border-t mt-4 shrink-0 ${isLight ? 'border-[#E2E8F0]' : 'border-[#1F1F24]'}`}>
           <button
             onClick={onClose}
-            className="w-full py-2.5 bg-primary hover:bg-primary/95 active:scale-[0.99] text-white font-semibold rounded-lg shadow-lg shadow-primary/25 transition-all text-xs cursor-pointer"
+            className="w-full py-2.5 bg-[#1557D6] hover:bg-[#0F46B3] active:scale-[0.99] text-white font-semibold rounded-xl shadow-[0_4px_14px_rgba(21,87,214,0.3)] transition-all text-xs cursor-pointer"
           >
             Apply Changes
           </button>

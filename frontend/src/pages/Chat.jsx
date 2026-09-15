@@ -15,6 +15,18 @@ export default function Chat() {
   const [sidebarOpen, setSidebarOpen] = useState(false);
   const [uploadModalOpen, setUploadModalOpen] = useState(false);
   const [settingsOpen, setSettingsOpen] = useState(false);
+  const [theme, setTheme] = useState(() => {
+    return localStorage.getItem('app_theme') || 'light';
+  });
+
+  const toggleTheme = () => {
+    setTheme(prev => {
+      const next = prev === 'light' ? 'dark' : 'light';
+      localStorage.setItem('app_theme', next);
+      return next;
+    });
+  };
+
   const location = useLocation();
 
   const { documents, isDeleting, deleteDoc } = useDocuments();
@@ -109,12 +121,16 @@ export default function Chat() {
   const toggleSidebar = () => setSidebarOpen(!sidebarOpen);
 
   return (
-    <div className="flex h-screen h-[100dvh] bg-background overflow-hidden relative">
+    <div className={`flex h-screen h-[100dvh] overflow-hidden relative font-sans transition-colors duration-200 ${
+      theme === 'light' ? 'bg-[#F8FAFC] text-[#0F172A]' : 'bg-[#09090B] text-[#EDEDED]'
+    }`}>
       
       {/* Mobile Sidebar Overlay */}
       {sidebarOpen && (
         <div 
-          className="fixed inset-0 bg-background/80 backdrop-blur-sm z-20 md:hidden"
+          className={`fixed inset-0 backdrop-blur-sm z-20 md:hidden ${
+            theme === 'light' ? 'bg-[#0F172A]/40' : 'bg-black/80'
+          }`}
           onClick={() => setSidebarOpen(false)}
         />
       )}
@@ -137,14 +153,23 @@ export default function Chat() {
           onDeleteSession={deleteSession}
           onClose={() => setSidebarOpen(false)}
           onSettingsClick={() => setSettingsOpen(true)}
+          theme={theme}
         />
       </div>
 
       {/* Main Content Area */}
-      <div className="flex-1 flex flex-col min-h-0 w-full relative overflow-hidden bg-background">
-        {/* Ambient glow backgrounds */}
-        <div className="absolute top-[-10%] right-[-10%] w-[350px] h-[350px] bg-primary/5 blur-[100px] rounded-full pointer-events-none z-0" />
-        <div className="absolute bottom-[-10%] left-[-10%] w-[350px] h-[350px] bg-secondary/5 blur-[100px] rounded-full pointer-events-none z-0" />
+      <div className={`flex-1 flex flex-col min-h-0 w-full relative overflow-hidden transition-colors ${
+        theme === 'light' ? 'bg-[#F8FAFC]' : 'bg-[#09090B]'
+      }`}>
+        {/* Subtle glow background */}
+        {theme === 'dark' ? (
+          <>
+            <div className="absolute top-[-15%] right-[-10%] w-[380px] h-[380px] bg-zinc-800/20 blur-[130px] rounded-full pointer-events-none z-0" />
+            <div className="absolute bottom-[-15%] left-[-10%] w-[380px] h-[380px] bg-zinc-800/15 blur-[130px] rounded-full pointer-events-none z-0" />
+          </>
+        ) : (
+          <div className="absolute top-[-10%] right-[-10%] w-[400px] h-[400px] bg-[#1557D6]/5 blur-[120px] rounded-full pointer-events-none z-0" />
+        )}
         
         <Header 
           onUploadClick={() => setUploadModalOpen(true)} 
@@ -153,6 +178,8 @@ export default function Chat() {
           setSelectedModel={setSelectedModel}
           selectedRetrievalMode={selectedRetrievalMode}
           setSelectedRetrievalMode={setSelectedRetrievalMode}
+          theme={theme}
+          onToggleTheme={toggleTheme}
         />
         
         <ChatWindow 
@@ -160,6 +187,8 @@ export default function Chat() {
           isTyping={isTyping}
           onUploadClick={() => setUploadModalOpen(true)}
           documents={documents}
+          theme={theme}
+          onSendMessage={handleSendMessage}
         />
         
         <ChatInput 
@@ -169,13 +198,15 @@ export default function Chat() {
           onToggleTts={handleToggleTts}
           hasDocuments={documents.length > 0}
           onUploadClick={() => setUploadModalOpen(true)}
+          theme={theme}
         />
       </div>
 
       {/* Modals */}
       <UploadModal 
         isOpen={uploadModalOpen} 
-        onClose={() => setUploadModalOpen(false)} 
+        onClose={() => setUploadModalOpen(false)}
+        theme={theme}
       />
       <SettingsModal 
         isOpen={settingsOpen}
@@ -186,6 +217,8 @@ export default function Chat() {
         setSelectedRetrievalMode={setSelectedRetrievalMode}
         ttsEnabled={ttsEnabled}
         onToggleTts={handleToggleTts}
+        theme={theme}
+        onToggleTheme={toggleTheme}
       />
     </div>
   );

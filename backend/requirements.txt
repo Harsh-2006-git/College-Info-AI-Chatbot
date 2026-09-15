@@ -19,6 +19,9 @@ chromadb
 # Google Gemini
 google-generativeai
 
+# Database
+sqlalchemy
+
 # Utilities
 aiofiles
 httpx

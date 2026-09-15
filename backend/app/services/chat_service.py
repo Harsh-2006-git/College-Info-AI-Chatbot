@@ -198,53 +198,60 @@ Answer:"""
         model_name = request.model or "gemini-2.5-flash"
         
         if "groq" in model_name.lower() or model_name == "llama-3.3-70b-versatile":
-            # Call Groq API with failover rotation
+            # Call Groq API with failover rotation and candidate model fallback
+            candidate_models = ["llama-3.3-70b-versatile", "openai/gpt-oss-120b", "qwen/qwen3.8-27b", "openai/gpt-oss-20b"]
             max_attempts = max(1, len(self.groq_keys))
             for attempt in range(max_attempts):
                 active_groq_key = self._get_active_groq_key()
                 if not active_groq_key:
                     answer = "Groq API key is not configured. Please set GROQ_API_KEY in the backend .env file."
                     break
-                try:
-                    import httpx
-                    print(f"Sending chat messages to Groq model {model_name} (attempt {attempt+1}/{max_attempts})...")
-                    response = httpx.post(
-                        "https://api.groq.com/openai/v1/chat/completions",
-                        headers={
-                            "Authorization": f"Bearer {active_groq_key}",
-                            "Content-Type": "application/json"
-                        },
-                        json={
-                            "model": "llama-3.3-70b-versatile",
-                            "messages": messages,
-                            "temperature": 0.2,
-                            "max_tokens": 800
-                        },
-                        timeout=30.0
-                    )
-                    
-                    if response.status_code == 429:
-                        print("Groq API hit 429 rate limit.")
-                        if self._rotate_groq_key() and attempt < max_attempts - 1:
+                
+                success = False
+                for candidate in candidate_models:
+                    try:
+                        import httpx
+                        print(f"Sending chat messages to Groq model {candidate} (attempt {attempt+1}/{max_attempts})...")
+                        response = httpx.post(
+                            "https://api.groq.com/openai/v1/chat/completions",
+                            headers={
+                                "Authorization": f"Bearer {active_groq_key}",
+                                "Content-Type": "application/json"
+                            },
+                            json={
+                                "model": candidate,
+                                "messages": messages,
+                                "temperature": 0.2,
+                                "max_tokens": 800
+                            },
+                            timeout=30.0
+                        )
+                        
+                        if response.status_code == 404:
+                            print(f"Model {candidate} returned 404 on Groq, trying next candidate...")
                             continue
-                        else:
-                            answer = "All configured Groq API keys are currently rate-limited (429). Please wait a moment and try again."
+
+                        if response.status_code == 429:
+                            print("Groq API hit 429 rate limit.")
                             break
                             
-                    response.raise_for_status()
-                    answer = response.json().get("choices", [{}])[0].get("message", {}).get("content", "")
-                    break # Success!
-                except Exception as e:
-                    print(f"Groq API Error: {e}")
-                    is_rate_limit = False
-                    if hasattr(e, 'response') and e.response is not None:
-                        is_rate_limit = e.response.status_code == 429
-                    elif "429" in str(e):
-                        is_rate_limit = True
+                        response.raise_for_status()
+                        answer = response.json().get("choices", [{}])[0].get("message", {}).get("content", "")
+                        success = True
+                        break # Success!
+                    except Exception as e:
+                        if hasattr(e, 'response') and e.response is not None and e.response.status_code == 404:
+                            continue
+                        print(f"Groq API Error for {candidate}: {e}")
                         
-                    if is_rate_limit and self._rotate_groq_key():
-                        continue
-                    answer = f"I'm sorry, I encountered an error while trying to generate an answer with Groq: {str(e)}"
+                if success:
+                    break
+                    
+                if self._rotate_groq_key() and attempt < max_attempts - 1:
+                    continue
+                else:
+                    if not answer:
+                        answer = "I encountered an error with the Groq API. Please switch to Gemini 2.5 Flash in the model dropdown."
                     break
         elif "llama" in model_name.lower() or "ollama" in model_name.lower():
             # Call Ollama local API
@@ -347,43 +354,43 @@ Answer:"""
                 active_groq_key = self._get_active_groq_key()
                 if not active_groq_key:
                     raise ValueError("Groq API key is not configured.")
-                try:
-                    import httpx
-                    json_payload = {
-                        "model": "llama-3.3-70b-versatile",
-                        "messages": [{"role": "user", "content": prompt}],
-                        "temperature": 0.0
-                    }
-                    if max_tokens:
-                        json_payload["max_tokens"] = max_tokens
-                    response = httpx.post(
-                        "https://api.groq.com/openai/v1/chat/completions",
-                        headers={
-                            "Authorization": f"Bearer {active_groq_key}",
-                            "Content-Type": "application/json"
-                        },
-                        json=json_payload,
-                        timeout=30.0
-                    )
-                    
-                    if response.status_code == 429:
-                        print("Groq API hit 429 rate limit during LLM call helper.")
-                        if self._rotate_groq_key() and attempt < max_attempts - 1:
+                candidate_models = ["llama-3.3-70b-versatile", "openai/gpt-oss-120b", "qwen/qwen3.8-27b", "openai/gpt-oss-20b"]
+                for candidate in candidate_models:
+                    try:
+                        import httpx
+                        json_payload = {
+                            "model": candidate,
+                            "messages": [{"role": "user", "content": prompt}],
+                            "temperature": 0.0
+                        }
+                        if max_tokens:
+                            json_payload["max_tokens"] = max_tokens
+                        response = httpx.post(
+                            "https://api.groq.com/openai/v1/chat/completions",
+                            headers={
+                                "Authorization": f"Bearer {active_groq_key}",
+                                "Content-Type": "application/json"
+                            },
+                            json=json_payload,
+                            timeout=30.0
+                        )
+                        
+                        if response.status_code == 404:
                             continue
                             
-                    response.raise_for_status()
-                    return response.json().get("choices", [{}])[0].get("message", {}).get("content", "")
-                except Exception as e:
-                    last_err = e
-                    is_rate_limit = False
-                    if hasattr(e, 'response') and e.response is not None:
-                        is_rate_limit = e.response.status_code == 429
-                    elif "429" in str(e):
-                        is_rate_limit = True
+                        if response.status_code == 429:
+                            break
+                            
+                        response.raise_for_status()
+                        return response.json().get("choices", [{}])[0].get("message", {}).get("content", "")
+                    except Exception as e:
+                        last_err = e
+                        if hasattr(e, 'response') and e.response is not None and e.response.status_code == 404:
+                            continue
+                        break
                         
-                    if is_rate_limit and self._rotate_groq_key() and attempt < max_attempts - 1:
-                        continue
-                    break
+                if self._rotate_groq_key() and attempt < max_attempts - 1:
+                    continue
             raise last_err or RuntimeError("Failed to call Groq LLM")
             
         elif "llama" in model_name.lower() or "ollama" in model_name.lower():

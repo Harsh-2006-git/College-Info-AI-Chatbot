@@ -47,12 +47,12 @@ app = FastAPI(
 )
 
 # Configure CORS
-cors_origins_str = os.getenv("CORS_ORIGINS", "http://localhost:5173,http://localhost:3000")
-origins = [origin.strip() for origin in cors_origins_str.split(",")]
+cors_origins_str = os.getenv("CORS_ORIGINS", "http://localhost:5173,https://college-info-ai-chatbot.vercel.app")
+origins = [origin.strip() for origin in cors_origins_str.split(",") if origin.strip()]
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=origins,
+    allow_origins=origins if "*" not in origins else ["*"],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
@@ -64,5 +64,5 @@ app.include_router(router, prefix="/api/v1")
 if __name__ == "__main__":
     import uvicorn
     host = os.getenv("APP_HOST", "0.0.0.0")
-    port = int(os.getenv("APP_PORT", 8000))
-    uvicorn.run("app.main:app", host=host, port=port, reload=True)
+    port = int(os.getenv("PORT", os.getenv("APP_PORT", 8000)))
+    uvicorn.run("app.main:app", host=host, port=port, reload=False)

@@ -108,20 +108,20 @@ export default function UploadModal({ isOpen, onClose }) {
 
   return (
     <AnimatePresence>
-      <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-background/80 backdrop-blur-sm">
+      <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-[#051329]/80 backdrop-blur-md">
         <motion.div 
           initial={{ opacity: 0, scale: 0.95 }}
           animate={{ opacity: 1, scale: 1 }}
           exit={{ opacity: 0, scale: 0.95 }}
-          className="bg-card w-full max-w-lg rounded-xl shadow-2xl border border-border overflow-hidden flex flex-col"
+          className="bg-[#071733] w-full max-w-lg rounded-2xl shadow-[0_16px_48px_rgba(0,0,0,0.6)] border border-[#1E3E75] overflow-hidden flex flex-col text-white"
         >
           {/* Header */}
-          <div className="flex items-center justify-between p-4 border-b border-border">
-            <h3 className="font-semibold text-lg text-foreground">Upload Documents</h3>
+          <div className="flex items-center justify-between p-4 border-b border-[#13284C]">
+            <h3 className="font-bold text-lg text-white">Upload Documents</h3>
             <button 
               onClick={onClose}
               disabled={uploadStatus === 'uploading' || uploadStatus === 'processing'}
-              className="p-1 rounded-md text-muted-foreground hover:bg-zinc-800 transition-colors disabled:opacity-50"
+              className="p-1.5 rounded-lg text-[#8EA2C6] hover:bg-[#0E244B] hover:text-white transition-colors disabled:opacity-50 cursor-pointer"
             >
               <X className="w-5 h-5" />
             </button>
@@ -135,8 +135,8 @@ export default function UploadModal({ isOpen, onClose }) {
               onDragLeave={handleDrag}
               onDragOver={handleDrag}
               onDrop={handleDrop}
-              className={`relative border-2 border-dashed rounded-xl p-8 text-center transition-colors
-                ${dragActive ? 'border-primary bg-primary/5' : 'border-border hover:border-zinc-500 hover:bg-zinc-900/50'}
+              className={`relative border-2 border-dashed rounded-xl p-8 text-center transition-all
+                ${dragActive ? 'border-[#1557D6] bg-[#1557D6]/15' : 'border-[#1E3E75] hover:border-[#1557D6] hover:bg-[#0E244B]'}
                 ${(uploadStatus === 'uploading' || uploadStatus === 'processing') ? 'opacity-50 pointer-events-none' : ''}
               `}
             >
@@ -148,25 +148,25 @@ export default function UploadModal({ isOpen, onClose }) {
                 className="absolute inset-0 w-full h-full opacity-0 cursor-pointer disabled:cursor-not-allowed"
                 disabled={uploadStatus === 'uploading' || uploadStatus === 'processing'}
               />
-              <UploadCloud className="w-10 h-10 text-muted-foreground mx-auto mb-4" />
-              <p className="text-sm font-medium text-zinc-300 mb-1">
+              <UploadCloud className="w-10 h-10 text-[#1557D6] mx-auto mb-3" />
+              <p className="text-sm font-semibold text-white mb-1">
                 Click or drag one PDF file to upload
               </p>
-              <p className="text-xs text-muted-foreground">
+              <p className="text-xs text-[#8EA2C6]">
                 Maximum file size: 20MB. New uploads replace your current PDF.
               </p>
             </div>
 
             {documents.length > 0 && (
-              <p className="mt-3 text-xs text-muted-foreground">
+              <p className="mt-3 text-xs text-[#8EA2C6]">
                 Current PDF will be replaced after upload.
               </p>
             )}
 
             {/* Error Message */}
             {errorMsg && (
-              <div className="mt-4 flex items-center gap-2 p-3 bg-destructive/10 border border-destructive/20 text-destructive-foreground rounded-lg text-sm">
-                <AlertCircle className="w-4 h-4 text-destructive" />
+              <div className="mt-4 flex items-center gap-2 p-3 bg-rose-500/10 border border-rose-500/30 text-rose-300 rounded-xl text-xs sm:text-sm">
+                <AlertCircle className="w-4 h-4 text-rose-400 shrink-0" />
                 {errorMsg}
               </div>
             )}
@@ -175,16 +175,16 @@ export default function UploadModal({ isOpen, onClose }) {
             {files.length > 0 && (
               <div className="mt-4 space-y-2 max-h-40 overflow-y-auto pr-2 custom-scrollbar">
                 {files.map((file, idx) => (
-                  <div key={idx} className="flex items-center justify-between p-2 rounded-lg bg-zinc-900 border border-border text-sm">
+                  <div key={idx} className="flex items-center justify-between p-2.5 rounded-xl bg-[#0E244B] border border-[#1E3E75] text-sm">
                     <div className="flex items-center gap-3 overflow-hidden">
-                      <File className="w-4 h-4 text-primary shrink-0" />
-                      <span className="truncate text-zinc-300">{file.name}</span>
-                      <span className="text-muted-foreground text-xs shrink-0">{formatBytes(file.size)}</span>
+                      <File className="w-4 h-4 text-[#38BDF8] shrink-0" />
+                      <span className="truncate text-white font-medium">{file.name}</span>
+                      <span className="text-[#8EA2C6] text-xs shrink-0">{formatBytes(file.size)}</span>
                     </div>
                     <button 
                       onClick={() => removeFile(idx)}
                       disabled={uploadStatus !== 'idle' && uploadStatus !== 'error'}
-                      className="text-muted-foreground hover:text-destructive shrink-0 disabled:opacity-50"
+                      className="text-[#8EA2C6] hover:text-rose-400 shrink-0 disabled:opacity-50"
                     >
                       <X className="w-4 h-4" />
                     </button>
@@ -196,13 +196,13 @@ export default function UploadModal({ isOpen, onClose }) {
             {/* Progress Bar */}
             {uploadStatus === 'uploading' && (
               <div className="mt-4 space-y-2">
-                <div className="flex justify-between text-xs text-zinc-400">
+                <div className="flex justify-between text-xs text-[#8EA2C6]">
                   <span>Uploading files...</span>
                   <span>{progress}%</span>
                 </div>
-                <div className="h-1.5 w-full bg-zinc-800 rounded-full overflow-hidden">
+                <div className="h-2 w-full bg-[#0E244B] rounded-full overflow-hidden">
                   <div 
-                    className="h-full bg-primary transition-all duration-300 ease-out"
+                    className="h-full bg-[#1557D6] transition-all duration-300 ease-out"
                     style={{ width: `${progress}%` }}
                   />
                 </div>
@@ -210,14 +210,14 @@ export default function UploadModal({ isOpen, onClose }) {
             )}
             
             {uploadStatus === 'processing' && (
-              <div className="mt-4 flex items-center justify-center gap-2 text-sm text-primary">
+              <div className="mt-4 flex items-center justify-center gap-2 text-sm text-[#38BDF8]">
                 <Loader2 className="w-4 h-4 animate-spin" />
                 Processing chunks and generating embeddings...
               </div>
             )}
 
             {uploadStatus === 'success' && (
-              <div className="mt-4 flex items-center justify-center gap-2 text-sm text-green-500">
+              <div className="mt-4 flex items-center justify-center gap-2 text-sm text-emerald-400">
                 <CheckCircle2 className="w-4 h-4" />
                 Successfully uploaded and processed!
               </div>
@@ -225,18 +225,18 @@ export default function UploadModal({ isOpen, onClose }) {
           </div>
 
           {/* Footer */}
-          <div className="p-4 border-t border-border flex justify-end gap-3 bg-zinc-950/50">
+          <div className="p-4 border-t border-[#13284C] flex justify-end gap-3 bg-[#051329]/50">
             <button
               onClick={onClose}
               disabled={uploadStatus === 'uploading' || uploadStatus === 'processing'}
-              className="px-4 py-2 text-sm font-medium text-zinc-300 hover:bg-zinc-800 rounded-lg transition-colors disabled:opacity-50"
+              className="px-4 py-2 text-sm font-semibold text-[#8EA2C6] hover:text-white hover:bg-[#0E244B] rounded-xl transition-all disabled:opacity-50 cursor-pointer"
             >
               Cancel
             </button>
             <button
               onClick={handleUpload}
               disabled={files.length === 0 || uploadStatus !== 'idle'}
-              className="px-4 py-2 text-sm font-medium bg-primary text-primary-foreground hover:bg-primary/90 rounded-lg transition-colors disabled:opacity-50 disabled:cursor-not-allowed flex items-center gap-2"
+              className="px-5 py-2 text-sm font-semibold bg-[#1557D6] hover:bg-[#0F46B3] text-white rounded-xl transition-all disabled:opacity-40 disabled:cursor-not-allowed flex items-center gap-2 shadow-[0_4px_14px_rgba(21,87,214,0.35)] cursor-pointer"
             >
               {(uploadStatus === 'uploading' || uploadStatus === 'processing') && <Loader2 className="w-4 h-4 animate-spin" />}
               {uploadStatus === 'idle' || uploadStatus === 'error' ? 'Upload & Process' : 'Please wait...'}
