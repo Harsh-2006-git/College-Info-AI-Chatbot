@@ -559,17 +559,17 @@ export default function Landing() {
       {/* ========================================================= */}
       {/* 1. HEADER / NAVIGATION (FULL-WIDTH STICKY TOP BAR)        */}
       {/* ========================================================= */}
-      <header className="fixed top-0 left-0 right-0 z-50 w-full bg-white/95 backdrop-blur-md border-b border-[#F0F4FA] shadow-[0_2px_12px_rgba(21,87,214,0.04)] transition-all">
-        <div className="max-w-[1400px] mx-auto px-6 sm:px-8 lg:px-12 h-[76px] flex items-center justify-between">
+      <header className="fixed top-0 left-0 right-0 z-50 w-full bg-white/95 backdrop-blur-md border-b-2 border-[#1557D6]/15 shadow-[0_2px_12px_rgba(21,87,214,0.06)] transition-all">
+        <div className="max-w-[1400px] mx-auto px-6 sm:px-8 lg:px-12 h-[70px] sm:h-[76px] flex items-center justify-between">
 
           {/* Exact Logo & Brand */}
           <div
             onClick={() => navigate('/')}
-            className="flex items-center gap-3.5 cursor-pointer select-none group"
+            className="flex items-center gap-3 sm:gap-3.5 cursor-pointer select-none group"
           >
             {/* Blue Academic Shield with Layered Open Book */}
-            <div className="w-[44px] h-[44px] flex items-center justify-center flex-shrink-0 group-hover:scale-105 transition-transform drop-shadow-[0_4px_14px_rgba(21,87,214,0.30)]">
-              <svg width="44" height="44" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <div className="w-[38px] h-[38px] sm:w-[44px] sm:h-[44px] flex items-center justify-center flex-shrink-0 group-hover:scale-105 transition-transform drop-shadow-[0_4px_14px_rgba(21,87,214,0.30)]">
+              <svg className="w-[38px] h-[38px] sm:w-[44px] sm:h-[44px]" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
                 {/* Shield Base */}
                 <path
                   d="M10 8 L24 4 L38 8 V24 C38 34 24 43 24 43 C24 43 10 34 10 24 V8 Z"
@@ -615,10 +615,10 @@ export default function Landing() {
             </div>
 
             <div className="flex flex-col text-left">
-              <span className="font-extrabold text-[21px] sm:text-[22px] tracking-[-0.015em] text-[#1557D6] leading-tight font-sans">
+              <span className="font-extrabold text-[19px] sm:text-[22px] tracking-[-0.015em] text-[#1557D6] leading-tight font-sans">
                 College InfoBot
               </span>
-              <span className="text-[12px] sm:text-[12.5px] font-normal text-[#5F6878] leading-tight mt-0.5">
+              <span className="text-[11.5px] sm:text-[12.5px] font-normal text-[#5F6878] leading-tight mt-0.5">
                 Your AI Academic Assistant
               </span>
             </div>
@@ -1550,7 +1550,7 @@ export default function Landing() {
         <div className="max-w-[1360px] mx-auto px-6 sm:px-8 lg:px-12">
           
           {/* Main Blue Rounded Card */}
-          <div className="relative w-full rounded-[22px] sm:rounded-[28px] bg-gradient-to-r from-[#104EC4] via-[#1557D6] to-[#0D44B0] p-5 sm:p-7 lg:py-7 lg:px-8 shadow-[0_16px_40px_rgba(21,87,214,0.24)] overflow-hidden flex flex-col lg:flex-row items-center justify-between gap-5 lg:gap-6 border border-[#2563EB]/40">
+          <div className="relative w-full rounded-[22px] sm:rounded-[28px] bg-gradient-to-r from-[#104EC4] via-[#1557D6] to-[#0D44B0] p-5 sm:p-7 lg:py-7 lg:px-8 shadow-[0_16px_40px_rgba(21,87,214,0.24)] overflow-hidden flex flex-col sm:flex-row items-center justify-between gap-4 sm:gap-6 border border-[#2563EB]/40">
             
             {/* Ambient Lighting Glow */}
             <div
@@ -1560,34 +1560,47 @@ export default function Landing() {
               }}
             />
 
-            {/* Left AI Robot Image */}
-            <div className="relative z-10 flex-shrink-0 flex items-center justify-center hidden sm:flex">
+            {/* Desktop Left AI Robot Image */}
+            <div className="relative z-10 flex-shrink-0 items-center justify-center hidden sm:flex">
               <img
                 src="/assets/cta_banner_robot.jpg"
                 alt="AI Campus Assistant"
-                className="w-[130px] sm:w-[150px] lg:w-[170px] xl:w-[185px] max-h-[160px] object-contain rounded-xl drop-shadow-[0_8px_18px_rgba(0,0,0,0.22)]"
+                className="w-[140px] lg:w-[170px] xl:w-[185px] max-h-[160px] object-contain rounded-xl drop-shadow-[0_8px_18px_rgba(0,0,0,0.22)]"
               />
             </div>
 
-            {/* Center Content: Title, Single-Line Subtitle, Action Buttons */}
-            <div className="relative z-10 flex flex-col items-center text-center max-w-3xl px-1">
-              <h2 className="text-[21px] sm:text-[25px] lg:text-[28px] xl:text-[31px] font-extrabold text-white tracking-tight leading-snug">
+            {/* Mobile-Only Images Row (Displayed ABOVE the text) */}
+            <div className="relative z-10 flex sm:hidden items-center justify-center gap-5 mb-1">
+              <img
+                src="/assets/cta_banner_robot.jpg"
+                alt="AI Campus Assistant"
+                className="w-[80px] max-h-[80px] object-contain rounded-lg drop-shadow-[0_4px_12px_rgba(0,0,0,0.2)]"
+              />
+              <img
+                src="/assets/cta_banner_books.jpg"
+                alt="Academic Cap and Books"
+                className="w-[80px] max-h-[80px] object-contain rounded-lg drop-shadow-[0_4px_12px_rgba(0,0,0,0.2)]"
+              />
+            </div>
+
+            {/* Center Content: Title, Subtitle, Action Buttons */}
+            <div className="relative z-10 flex flex-col items-center text-center flex-1 max-w-3xl px-1">
+              <h2 className="text-[19px] sm:text-[25px] lg:text-[28px] xl:text-[31px] font-extrabold text-white tracking-tight leading-snug">
                 Ready to Transform Your Academic Information Services?
               </h2>
               
-              {/* Single Line Subtitle on Desktop */}
-              <p className="mt-2 text-[#E3EFFF] text-[13.5px] sm:text-[14.5px] font-normal leading-relaxed whitespace-normal sm:whitespace-nowrap">
+              <p className="mt-2 text-[#E3EFFF] text-[13px] sm:text-[14.5px] font-normal leading-relaxed">
                 Empower your students and staff with instant, accurate, and AI-powered support.
               </p>
 
-              {/* Action Buttons */}
-              <div className="mt-5 sm:mt-6 flex flex-wrap items-center justify-center gap-3 sm:gap-4 w-full">
+              {/* Action Buttons: Side-by-side on mobile and desktop */}
+              <div className="mt-4 sm:mt-6 flex flex-row items-center justify-center gap-3 sm:gap-4 w-full">
                 {/* 1. Book a Demo */}
                 <button
                   onClick={() => navigate('/chat', { state: { query: 'I would like to book a demo of College InfoBot for my institution.' } })}
-                  className="w-full sm:w-auto bg-white hover:bg-[#F3F7FF] text-[#1557D6] font-bold text-[14px] px-5 sm:px-6 py-2.5 sm:py-3 rounded-[14px] shadow-[0_6px_20px_rgba(0,0,0,0.12)] hover:shadow-[0_10px_24px_rgba(0,0,0,0.18)] hover:scale-105 active:scale-95 transition-all flex items-center justify-center gap-2 cursor-pointer"
+                  className="w-auto bg-white hover:bg-[#F3F7FF] text-[#1557D6] font-bold text-[13px] sm:text-[14px] px-4 sm:px-6 py-2.5 sm:py-3 rounded-[12px] sm:rounded-[14px] shadow-[0_6px_20px_rgba(0,0,0,0.12)] hover:shadow-[0_10px_24px_rgba(0,0,0,0.18)] hover:scale-105 active:scale-95 transition-all flex items-center justify-center gap-2 cursor-pointer whitespace-nowrap"
                 >
-                  <svg className="w-4 h-4 text-[#1557D6]" viewBox="0 0 24 24" fill="none">
+                  <svg className="w-3.5 h-3.5 sm:w-4 sm:h-4 text-[#1557D6]" viewBox="0 0 24 24" fill="none">
                     <rect x="3" y="4" width="18" height="18" rx="3" stroke="#1557D6" strokeWidth="2.2" />
                     <line x1="3" y1="9" x2="21" y2="9" stroke="#1557D6" strokeWidth="2.2" />
                     <line x1="8" y1="2" x2="8" y2="5" stroke="#1557D6" strokeWidth="2.2" strokeLinecap="round" />
@@ -1605,9 +1618,9 @@ export default function Landing() {
                 {/* 2. Request Access */}
                 <button
                   onClick={() => navigate('/chat')}
-                  className="w-full sm:w-auto bg-[#0B3EA6] hover:bg-[#093591] border border-white/20 text-white font-bold text-[14px] px-5 sm:px-6 py-2.5 sm:py-3 rounded-[14px] shadow-[0_6px_20px_rgba(0,0,0,0.15)] hover:shadow-[0_10px_24px_rgba(0,0,0,0.22)] hover:scale-105 active:scale-95 transition-all flex items-center justify-center gap-2 cursor-pointer"
+                  className="w-auto bg-[#0B3EA6] hover:bg-[#093591] border border-white/20 text-white font-bold text-[13px] sm:text-[14px] px-4 sm:px-6 py-2.5 sm:py-3 rounded-[12px] sm:rounded-[14px] shadow-[0_6px_20px_rgba(0,0,0,0.15)] hover:shadow-[0_10px_24px_rgba(0,0,0,0.22)] hover:scale-105 active:scale-95 transition-all flex items-center justify-center gap-2 cursor-pointer whitespace-nowrap"
                 >
-                  <svg className="w-4 h-4 text-white" viewBox="0 0 24 24" fill="none">
+                  <svg className="w-3.5 h-3.5 sm:w-4 sm:h-4 text-white" viewBox="0 0 24 24" fill="none">
                     <path d="M7 17L17 7M17 7H9M17 7V15" stroke="currentColor" strokeWidth="2.4" strokeLinecap="round" strokeLinejoin="round" />
                   </svg>
                   <span>Request Access</span>
@@ -1615,12 +1628,12 @@ export default function Landing() {
               </div>
             </div>
 
-            {/* Right Books Stack Image */}
-            <div className="relative z-10 flex-shrink-0 flex items-center justify-center hidden sm:flex">
+            {/* Desktop Right Books Stack Image */}
+            <div className="relative z-10 flex-shrink-0 items-center justify-center hidden sm:flex">
               <img
                 src="/assets/cta_banner_books.jpg"
                 alt="Academic Cap and Books"
-                className="w-[130px] sm:w-[150px] lg:w-[170px] xl:w-[185px] max-h-[160px] object-contain rounded-xl drop-shadow-[0_8px_18px_rgba(0,0,0,0.22)]"
+                className="w-[140px] lg:w-[170px] xl:w-[185px] max-h-[160px] object-contain rounded-xl drop-shadow-[0_8px_18px_rgba(0,0,0,0.22)]"
               />
             </div>
 
