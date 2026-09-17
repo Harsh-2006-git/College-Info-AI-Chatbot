@@ -65,4 +65,6 @@ if __name__ == "__main__":
     import uvicorn
     host = os.getenv("APP_HOST", "0.0.0.0")
     port = int(os.getenv("PORT", os.getenv("APP_PORT", 8000)))
-    uvicorn.run("app.main:app", host=host, port=port, reload=False)
+    debug_mode = os.getenv("DEBUG", "true").lower() in ["true", "1", "yes"]
+    uvicorn.run("app.main:app", host=host, port=port, reload=debug_mode)
+

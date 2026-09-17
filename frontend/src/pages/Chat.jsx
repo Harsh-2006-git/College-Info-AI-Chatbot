@@ -4,8 +4,8 @@ import Sidebar from '../components/Sidebar';
 import Header from '../components/Header';
 import ChatWindow from '../components/ChatWindow';
 import ChatInput from '../components/ChatInput';
-import UploadModal from '../components/UploadModal';
 import SettingsModal from '../components/SettingsModal';
+import DomainViewerModal from '../components/DomainViewerModal';
 import { useDocuments } from '../hooks/useDocuments';
 import { useChat } from '../hooks/useChat';
 import { useChatSessions } from '../hooks/useChatSessions';
@@ -13,11 +13,12 @@ import { speakText } from '../utils/speech';
 
 export default function Chat() {
   const [sidebarOpen, setSidebarOpen] = useState(false);
-  const [uploadModalOpen, setUploadModalOpen] = useState(false);
   const [settingsOpen, setSettingsOpen] = useState(false);
+  const [viewingDomain, setViewingDomain] = useState(null);
   const [theme, setTheme] = useState(() => {
     return localStorage.getItem('app_theme') || 'light';
   });
+
 
   const toggleTheme = () => {
     setTheme(prev => {
@@ -29,7 +30,7 @@ export default function Chat() {
 
   const location = useLocation();
 
-  const { documents, isDeleting, deleteDoc } = useDocuments();
+  const { documents, isDeleting, deleteDoc, upload, process } = useDocuments();
   const [selectedModel, setSelectedModel] = useState('llama-3.3-70b-versatile');
   const [selectedRetrievalMode, setSelectedRetrievalMode] = useState('history_aware');
   const { 
@@ -76,11 +77,11 @@ export default function Chat() {
     }
   };
 
-  // Handle incoming query or upload from landing page
+  // Handle incoming query or settings from URL
   useEffect(() => {
     const searchParams = new URLSearchParams(location.search);
-    if (searchParams.get('upload') === 'true') {
-      setUploadModalOpen(true);
+    if (searchParams.get('upload') === 'true' || searchParams.get('settings') === 'true') {
+      setSettingsOpen(true);
       window.history.replaceState({}, '', '/chat');
     }
 
@@ -90,10 +91,6 @@ export default function Chat() {
       window.history.replaceState({}, '', '/chat');
     }
   }, [location]);
-
-  useEffect(() => {
-    setSelectedDocuments(documents.length > 0 ? [documents[0].id] : []);
-  }, [documents, setSelectedDocuments]);
 
   // Lock html and body overflow to prevent page-level scrolling (critical for mobile viewports)
   useEffect(() => {
@@ -154,6 +151,7 @@ export default function Chat() {
           onClose={() => setSidebarOpen(false)}
           onSettingsClick={() => setSettingsOpen(true)}
           theme={theme}
+          onViewDomain={(domain) => setViewingDomain(domain)}
         />
       </div>
 
@@ -172,7 +170,6 @@ export default function Chat() {
         )}
         
         <Header 
-          onUploadClick={() => setUploadModalOpen(true)} 
           toggleSidebar={toggleSidebar} 
           selectedModel={selectedModel}
           setSelectedModel={setSelectedModel}
@@ -180,12 +177,12 @@ export default function Chat() {
           setSelectedRetrievalMode={setSelectedRetrievalMode}
           theme={theme}
           onToggleTheme={toggleTheme}
+          onSettingsClick={() => setSettingsOpen(true)}
         />
         
         <ChatWindow 
           messages={messages} 
           isTyping={isTyping}
-          onUploadClick={() => setUploadModalOpen(true)}
           documents={documents}
           theme={theme}
           onSendMessage={handleSendMessage}
@@ -196,18 +193,11 @@ export default function Chat() {
           isTyping={isTyping} 
           ttsEnabled={ttsEnabled}
           onToggleTts={handleToggleTts}
-          hasDocuments={documents.length > 0}
-          onUploadClick={() => setUploadModalOpen(true)}
           theme={theme}
         />
       </div>
 
-      {/* Modals */}
-      <UploadModal 
-        isOpen={uploadModalOpen} 
-        onClose={() => setUploadModalOpen(false)}
-        theme={theme}
-      />
+      {/* Settings Modal (with PDF upload inside) */}
       <SettingsModal 
         isOpen={settingsOpen}
         onClose={() => setSettingsOpen(false)}
@@ -219,7 +209,21 @@ export default function Chat() {
         onToggleTts={handleToggleTts}
         theme={theme}
         onToggleTheme={toggleTheme}
+        documents={documents}
+        upload={upload}
+        process={process}
+        deleteDoc={deleteDoc}
+      />
+
+      {/* Knowledge Domain Raw Text Viewer Modal */}
+      <DomainViewerModal 
+        domain={viewingDomain}
+        isOpen={!!viewingDomain}
+        onClose={() => setViewingDomain(null)}
+        onAskInChat={handleSendMessage}
+        theme={theme}
       />
     </div>
   );
 }
+

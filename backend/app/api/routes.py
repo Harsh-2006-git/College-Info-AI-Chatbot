@@ -213,10 +213,10 @@ async def chat(request: ChatRequest, owner_id: str = Depends(get_owner_id), db: 
         if request.document_ids:
             request.document_ids = [
                 doc_id for doc_id in request.document_ids
-                if doc_id.startswith(f"{owner_id}/")
+                if doc_id.startswith(f"{owner_id}/") or doc_id.startswith("knowledge_base/") or doc_id.startswith("default/")
             ]
             if not request.document_ids:
-                raise HTTPException(status_code=403, detail="Cannot chat with documents from another browser")
+                request.document_ids = None  # Fallback to search all knowledge base chunks
 
         session_id = request.session_id
         
@@ -319,3 +319,65 @@ async def delete_document(document_id: str, owner_id: str = Depends(get_owner_id
         raise HTTPException(status_code=404, detail="Document not found")
         
     return {"message": f"Document {document_id} deleted successfully"}
+
+DOMAIN_FILES = {
+    "01": ("01_overview_vision_mission.txt", "Overview, Vision & Mission"),
+    "02": ("02_governance_and_administration.txt", "Governance & Administration"),
+    "03": ("03_academics_courses_and_curriculum.txt", "Academics, Courses & Curriculum"),
+    "04": ("04_academic_calendars_and_regulations.txt", "Academic Regulations & Calendars"),
+    "05": ("05_faculty_directory_all_departments.txt", "Faculty Directory (202 Faculty)"),
+    "06": ("06_infrastructure_campus_and_facilities.txt", "Infrastructure & Campus Facilities"),
+    "07": ("07_training_placements_and_internships.txt", "Training, Placements & Internships"),
+    "08": ("08_student_life_societies_and_clubs.txt", "Student Life, Clubs & Societies"),
+    "09": ("09_accreditations_and_quality_initiatives.txt", "Accreditations, NAAC & NIRF"),
+    "10": ("10_admissions_eligibility_and_counselling.txt", "Admissions, Eligibility & Counselling"),
+    "11": ("11_fee_structure_and_scholarships.txt", "Fee Structure & Scholarships"),
+    "12": ("12_hostels_wardens_facilities_and_fees.txt", "Hostels, Wardens & Mess Charges"),
+    "13": ("13_department_civil_engineering.txt", "Department of Civil Engineering"),
+    "14": ("14_department_information_technology.txt", "Department of Information Technology"),
+    "15": ("15_prominent_alumni_and_mous.txt", "Prominent Alumni & Corporate MoUs")
+}
+
+@router.get("/knowledge-base/domains")
+async def list_knowledge_domains():
+    """List all 15 official knowledge base domains with file metadata."""
+    data_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), "../../../data"))
+    domains_list = []
+    for d_id, (fname, title) in DOMAIN_FILES.items():
+        fpath = os.path.join(data_dir, fname)
+        size_bytes = os.path.getsize(fpath) if os.path.exists(fpath) else 0
+        domains_list.append({
+            "id": d_id,
+            "filename": fname,
+            "title": title,
+            "size_bytes": size_bytes
+        })
+    return {"domains": domains_list}
+
+@router.get("/knowledge-base/domains/{domain_id}")
+async def get_knowledge_domain_content(domain_id: str):
+    """Get the raw text of a specific knowledge base domain that is sent as context to the LLM."""
+    data_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), "../../../data"))
+    clean_id = domain_id.zfill(2)
+    if clean_id not in DOMAIN_FILES:
+        raise HTTPException(status_code=404, detail=f"Knowledge domain '{domain_id}' not found.")
+    
+    fname, title = DOMAIN_FILES[clean_id]
+    fpath = os.path.join(data_dir, fname)
+    if not os.path.exists(fpath):
+        raise HTTPException(status_code=404, detail=f"Knowledge base file '{fname}' not found.")
+        
+    try:
+        with open(fpath, "r", encoding="utf-8", errors="ignore") as f:
+            raw_text = f.read()
+            
+        return {
+            "id": clean_id,
+            "filename": fname,
+            "title": title,
+            "content": raw_text,
+            "length_chars": len(raw_text),
+            "lines": len(raw_text.splitlines())
+        }
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Error reading domain file: {str(e)}")

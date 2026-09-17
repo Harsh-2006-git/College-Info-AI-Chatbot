@@ -24,5 +24,10 @@ sqlalchemy
 
 # Utilities
 aiofiles
+aiohttp
 httpx
 tenacity
+
+# Web Scraping
+beautifulsoup4
+lxml

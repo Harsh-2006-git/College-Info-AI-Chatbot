@@ -1,87 +1,58 @@
-import { Upload, BookOpen, UserCheck, Calendar, Building2, Sparkles } from 'lucide-react';
+import { BookOpen, UserCheck, Calendar, Building2, GraduationCap, ShieldCheck, Sparkles } from 'lucide-react';
 import { motion } from 'framer-motion';
 
-export default function EmptyState({ onUploadClick, hasDocuments, theme = 'light', onSendMessage }) {
+export default function EmptyState({ theme = 'light', onSendMessage }) {
   const isLight = theme === 'light';
 
   const suggestionChips = [
-    { label: 'Course & Syllabus Info', query: 'What course information and syllabus details are available?', icon: BookOpen },
-    { label: 'Admission Guidelines', query: 'Tell me about the admission process and eligibility requirements.', icon: UserCheck },
-    { label: 'Exam Schedule & Grades', query: 'What are the upcoming exam schedules and grading criteria?', icon: Calendar },
-    { label: 'Campus Facilities', query: 'What facilities and campus resources are available?', icon: Building2 },
+    { label: 'B.Tech & Hostel Fees', query: 'What is the annual tuition fee for B.Tech and hostel mess charges?', icon: GraduationCap },
+    { label: 'Admissions & Eligibility', query: 'What are the admission eligibility requirements and counseling process?', icon: UserCheck },
+    { label: 'Faculty Directory & HoDs', query: 'Who is Dr. Sanjay Tiwari and what is his designation and department?', icon: BookOpen },
+    { label: 'IT Department Labs', query: 'What specialized laboratories and research areas exist in the IT department?', icon: Building2 },
+    { label: 'Hostel Rules & Curfew', query: 'What are the hostel room options, curfew timings, and safety rules?', icon: ShieldCheck },
+    { label: 'Prominent Alumni & Placements', query: 'Name some prominent alumni of MITS Gwalior and top placement recruiters.', icon: Sparkles },
   ];
 
   return (
-    <div className="h-full flex flex-col items-center justify-center p-6 text-center select-none">
+    <div className="h-full flex flex-col items-center justify-center p-4 sm:p-6 text-center select-none">
       <motion.div 
-        initial={{ scale: 0.94, opacity: 0 }}
+        initial={{ scale: 0.95, opacity: 0 }}
         animate={{ scale: 1, opacity: 1 }}
-        transition={{ duration: 0.4 }}
-        className="max-w-xl w-full"
+        transition={{ duration: 0.35 }}
+        className="max-w-2xl w-full"
       >
-        {/* Exact Logo from Landing Page: Blue Academic Shield with Layered Open Book */}
-        <div className="w-16 h-16 sm:w-20 sm:h-20 flex items-center justify-center mx-auto mb-5 drop-shadow-[0_8px_24px_rgba(21,87,214,0.35)]">
-          <svg className="w-16 h-16 sm:w-20 sm:h-20" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
-            {/* Shield Base */}
-            <path
-              d="M10 8 L24 4 L38 8 V24 C38 34 24 43 24 43 C24 43 10 34 10 24 V8 Z"
-              fill="#1557D6"
-            />
-            <path
-              d="M24 4 L38 8 V24 C38 34 24 43 24 43 V4 Z"
-              fill="#0F49B8"
-            />
-
-            {/* Layered Outer Pages */}
-            <path
-              d="M13.5 17.5 L15.5 17 V30 L13.5 29 V17.5 Z"
-              fill="white"
-              opacity="0.8"
-            />
-            <path
-              d="M34.5 17.5 L32.5 17 V30 L34.5 29 V17.5 Z"
-              fill="white"
-              opacity="0.8"
-            />
-
-            {/* Main Open Book Pages */}
-            <path
-              d="M16 15 C19 14.2 22 14.5 24 16.5 C26 14.5 29 14.2 32 15 V28.5 C29 27.5 26 27.5 24 29.5 C22 27.5 19 27.5 16 28.5 V15 Z"
-              fill="white"
-            />
-
-            {/* Inner Spine Line & Page Arc */}
-            <path
-              d="M24 16.5 V29.5"
-              stroke="#1557D6"
-              strokeWidth="1.8"
-              strokeLinecap="round"
-            />
-            <path
-              d="M21.5 30.5 C22.5 31.8 25.5 31.8 26.5 30.5"
-              stroke="white"
-              strokeWidth="1.8"
-              strokeLinecap="round"
-            />
+        {/* Academic Shield Logo */}
+        <div className="w-14 h-14 sm:w-16 sm:h-16 flex items-center justify-center mx-auto mb-4 drop-shadow-[0_8px_20px_rgba(21,87,214,0.3)]">
+          <svg className="w-14 h-14 sm:w-16 sm:h-16" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M10 8 L24 4 L38 8 V24 C38 34 24 43 24 43 C24 43 10 34 10 24 V8 Z" fill="#1557D6" />
+            <path d="M24 4 L38 8 V24 C38 34 24 43 24 43 V4 Z" fill="#0F49B8" />
+            <path d="M13.5 17.5 L15.5 17 V30 L13.5 29 V17.5 Z" fill="white" opacity="0.8" />
+            <path d="M34.5 17.5 L32.5 17 V30 L34.5 29 V17.5 Z" fill="white" opacity="0.8" />
+            <path d="M16 15 C19 14.2 22 14.5 24 16.5 C26 14.5 29 14.2 32 15 V28.5 C29 27.5 26 27.5 24 29.5 C22 27.5 19 27.5 16 28.5 V15 Z" fill="white" />
+            <path d="M24 16.5 V29.5" stroke="#1557D6" strokeWidth="1.8" strokeLinecap="round" />
+            <path d="M21.5 30.5 C22.5 31.8 25.5 31.8 26.5 30.5" stroke="white" strokeWidth="1.8" strokeLinecap="round" />
           </svg>
         </div>
 
-        <h2 className={`text-2xl sm:text-3xl font-extrabold mb-2.5 tracking-tight ${
+        <div className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full text-[11px] font-semibold mb-3 border bg-[#1557D6]/10 border-[#1557D6]/20 text-[#1557D6]">
+          <span className="w-1.5 h-1.5 rounded-full bg-emerald-500 animate-pulse" />
+          <span>Official Campus Knowledge Base Connected</span>
+        </div>
+
+        <h2 className={`text-2xl sm:text-3xl font-extrabold mb-2 tracking-tight ${
           isLight ? 'text-[#0F172A]' : 'text-white'
         }`}>
-          How can I help you today?
+          How can I assist you today?
         </h2>
 
-        <p className={`text-xs sm:text-sm max-w-md mx-auto mb-6 leading-relaxed ${
+        <p className={`text-xs sm:text-sm max-w-lg mx-auto mb-6 leading-relaxed ${
           isLight ? 'text-[#475569]' : 'text-zinc-400'
         }`}>
-          {hasDocuments
-            ? 'Your document is processed and ready. Ask me anything about courses, admissions, exams, or policies!'
-            : 'Upload an academic PDF document to begin asking questions, getting instant answers, and analyzing documents.'}
+          Ask me anything about admissions, courses, fees, scholarships, hostels, faculty, laboratories, exam regulations, and campus life at MITS Gwalior.
         </p>
 
         {/* Suggestion Chips */}
-        <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 mb-6 text-left">
+        <div className="grid grid-cols-1 sm:grid-cols-2 gap-2 text-left max-w-xl mx-auto">
           {suggestionChips.map((chip, idx) => {
             const Icon = chip.icon;
             return (
@@ -104,17 +75,8 @@ export default function EmptyState({ onUploadClick, hasDocuments, theme = 'light
             );
           })}
         </div>
-
-        {!hasDocuments && (
-          <button
-            onClick={onUploadClick}
-            className="inline-flex items-center gap-2 bg-[#1557D6] hover:bg-[#0F46B3] text-white px-6 py-3 rounded-xl text-sm font-semibold transition-all shadow-[0_6px_20px_rgba(21,87,214,0.3)] hover:scale-105 active:scale-95 cursor-pointer"
-          >
-            <Upload className="w-4 h-4" />
-            <span>Upload a PDF Document</span>
-          </button>
-        )}
       </motion.div>
     </div>
   );
 }
+

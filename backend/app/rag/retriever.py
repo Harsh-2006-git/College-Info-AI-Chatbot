@@ -18,33 +18,36 @@ class Retriever:
         query = clean_query
 
         
-        # Build filter if document_ids are provided
-        filters = []
-        if owner_id:
-            filters.append({"owner_id": owner_id})
-        if document_ids and len(document_ids) > 0:
-            if len(document_ids) == 1:
-                filters.append({"document_id": document_ids[0]})
-            else:
-                # ChromaDB supports $in operator
-                filters.append({"document_id": {"$in": document_ids}})
+        # 1. Perform vector similarity search
+        vector_results = []
+        try:
+            vector_results = self.vector_store.similarity_search(
+                query=query,
+                top_k=top_k * 3,
+                filter_dict=None
+            )
+        except Exception as e:
+            print(f"Error in vector similarity search: {e}")
 
-        filter_dict = None
-        if len(filters) == 1:
-            filter_dict = filters[0]
-        elif len(filters) > 1:
-            filter_dict = {"$and": filters}
-                
-        # 1. Perform standard vector similarity search
-        vector_results = self.vector_store.similarity_search(
-            query=query,
-            top_k=top_k * 2, # Fetch slightly more to merge with keyword results
-            filter_dict=filter_dict
-        )
-        
+        # Filter vector results in Python for robustness
+        filtered_vector_results = []
+        for res in vector_results:
+            meta = res.get("metadata", {})
+            chunk_owner = meta.get("owner_id", "default")
+            is_kb = meta.get("is_knowledge_base", False)
+            doc_id = meta.get("document_id", "")
+            
+            # Check document filter
+            if document_ids and len(document_ids) > 0:
+                if doc_id not in document_ids and not is_kb and not doc_id.startswith("knowledge_base/"):
+                    continue
+                    
+            # Check owner filter
+            if is_kb or chunk_owner in [owner_id, "default", "mits_official"] or doc_id.startswith("knowledge_base/"):
+                filtered_vector_results.append(res)
+
         # 2. Extract keywords from query
         import re
-        # Find alphanumeric words longer than 2 chars
         words = re.findall(r'\b[A-Za-z0-9_]{3,}\b', query)
         stopwords = {
             "tell", "about", "show", "many", "there", "what", "where", "whom", 
@@ -54,21 +57,17 @@ class Retriever:
         }
         keywords = [w.lower() for w in words if w.lower() not in stopwords]
         
-        # 3. Perform keyword matching
+        # 3. Perform keyword matching and merge
         merged_results = {}
-        
-        # Add vector results first
-        for res in vector_results:
+        for res in filtered_vector_results:
             merged_results[res["id"]] = res
             
-        # If we have keywords, fetch all chunks matching the metadata filter and check matches
         if keywords:
             try:
-                # Retrieve all docs in collection for metadata filter
-                # This is fast since collections are scoped per-owner upload (usually 50-200 chunks)
+                # Fast sample retrieval for keyword matches
                 all_records = self.vector_store.collection.get(
-                    where=filter_dict,
-                    include=["documents", "metadatas"]
+                    include=["documents", "metadatas"],
+                    limit=500
                 )
                 
                 docs = all_records.get("documents", [])
@@ -76,19 +75,24 @@ class Retriever:
                 ids = all_records.get("ids", [])
                 
                 for doc, meta, cid in zip(docs, metadatas, ids):
-                    # Count keyword occurrences
+                    meta = meta or {}
+                    chunk_owner = meta.get("owner_id", "default")
+                    is_kb = meta.get("is_knowledge_base", False)
+                    doc_id = meta.get("document_id", "")
+                    
+                    if document_ids and len(document_ids) > 0:
+                        if doc_id not in document_ids and not is_kb and not doc_id.startswith("knowledge_base/"):
+                            continue
+                            
+                    if not (is_kb or chunk_owner in [owner_id, "default", "mits_official"] or doc_id.startswith("knowledge_base/")):
+                        continue
+
                     match_count = sum(1 for kw in keywords if kw in doc.lower())
                     if match_count > 0:
-                        # Keyword score: start at 0.5 (medium relevance) and boost by 0.12 per match
-                        # Cosine distance ranges from 0 (perfect match) to 1 (different).
-                        kw_score = 0.5 - (match_count * 0.12)
-                        kw_score = max(0.01, kw_score) # Don't go below 0.01
-                        
+                        kw_score = max(0.01, 0.5 - (match_count * 0.12))
                         if cid in merged_results:
-                            # Boost vector score if it's already there
                             merged_results[cid]["score"] = min(merged_results[cid]["score"], kw_score)
                         else:
-                            # Add new keyword result
                             merged_results[cid] = {
                                 "id": cid,
                                 "content": doc,
@@ -96,7 +100,8 @@ class Retriever:
                                 "score": kw_score
                             }
             except Exception as e:
-                print(f"Error executing keyword search fallback: {e}")
+                print(f"Notice: Keyword search skipped ({e})")
+
                 
         # 4. Sort by score ascending (lowest distance/score first)
         sorted_results = sorted(merged_results.values(), key=lambda x: x["score"])

@@ -90,4 +90,16 @@ export const chatAPI = {
   }
 };
 
+export const knowledgeBaseAPI = {
+  listDomains: async () => {
+    const response = await api.get('/knowledge-base/domains');
+    return response.data;
+  },
+  getDomainContent: async (domainId) => {
+    const response = await api.get(`/knowledge-base/domains/${domainId}`);
+    return response.data;
+  }
+};
+
 export default api;
+
