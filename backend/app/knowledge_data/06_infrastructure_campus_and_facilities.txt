@@ -1,0 +1,44 @@
+================================================================================
+MADHAV INSTITUTE OF TECHNOLOGY & SCIENCE (MITS), GWALIOR
+06. CAMPUS INFRASTRUCTURE, FACILITIES & HOSTELS
+================================================================================
+
+## 1. Campus Overview
+- Total Area: 44.6 acres of lush green, eco-conscious campus situated in Gwalior.
+- Madhav-Van: In-campus dedicated teak wood forest sanctuary hosting a wide variety of native and migratory birds.
+- Digital Infrastructure: High-speed optical fiber backbone across all academic blocks with manageable switches.
+- Internet Leased Line: 1,000 Mbps dedicated BSNL leased line providing 24x7 high-speed Wi-Fi and LAN connectivity.
+- E-Learning: Institutional MOODLE server launched on 15th August 2017 for learning management, automated online tests, quiz evaluations, and assignment submissions.
+- NPTEL Local Chapter: Established on 30th October 2017 providing credit transfer web and video courses across all branches.
+
+## 2. Central Library
+- Collection: Over 1,00,000 physical textbooks and reference volumes.
+- Digital Consortia: Full-text e-journals from ScienceDirect (Elsevier), ASME, and ASCE under the E-Shodh Sindhu and INFLIBNET consortium.
+- Facilities: Automated RFID book issue/return, air-conditioned reading halls, and high-speed digital research lab.
+
+## 3. Hostels & Residential Facilities
+- Boys Hostels: 3 well-furnished Boys Hostels with round-the-clock security, hygienic mess, and indoor recreation halls.
+- Girls Hostels: 2 dedicated Girls Hostels with gated access control, resident wardens, and high-speed internet.
+- Hostel Amenities: Water coolers, desert air coolers, geysers, TV rooms, sports equipment, and Wi-Fi access.
+
+## 4. Student Amenities & Health
+- Medical Dispensary: On-campus medical health center with resident doctor and first-aid facilities.
+- Banking & Finance: In-campus scheduled commercial bank branch with 24-hour ATM.
+- Dining & Cafeterias: Institute Canteen, Amul Ice-Cream Parlour, and Nescafe Coffee Shop.
+- Retail: On-campus stationery shop, photocopying center, and general convenience stores.
+
+## 5. Sports & Gymnasium Facilities
+- Grounds: Full-size cricket ground, football ground extension, basketball courts, and lawn tennis courts.
+- Indoor Facilities: Modern gymnasium, badminton courts, table-tennis facilities, and chess room.
+- Competitive Achievements: State and Nodal university champions in Table Tennis, Badminton, Basketball, Kho-Kho, and Football.
+
+## 6. Advanced Research Labs & Specialized Centres
+- Drone School: State-of-the-art RPTO (Remote Pilot Training Organization) drone piloting and aviation training facility.
+- Entrepreneurship Development Cell (EDC): Established by the Department of Science & Technology (DST), Govt. of India, in 1988; conducts incubation, startup pitching, and entrepreneurship camps.
+- Specialized Tech Labs:
+  * Robotics and Automation Lab (ASIMOV)
+  * Internet of Things (IoT) Sensor Lab
+  * Machine Learning & High-Performance Computing (HPC) GPU Lab
+  * Augmented & Virtual Reality (AR/VR) Centre
+  * Solar Thermal & Hybrid Greenhouse Solar Drying Facility
+  * Microgrid and Renewable Energy Integration Facility

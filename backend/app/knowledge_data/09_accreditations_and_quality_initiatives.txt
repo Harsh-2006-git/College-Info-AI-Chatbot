@@ -1,0 +1,34 @@
+================================================================================
+MADHAV INSTITUTE OF TECHNOLOGY & SCIENCE (MITS), GWALIOR
+09. ACCREDITATIONS, RANKINGS & QUALITY ASSURANCE
+================================================================================
+
+## 1. NAAC Accreditation (Highest A++ Grade)
+- Awarded: NAAC 'A++' Grade by the National Assessment and Accreditation Council.
+- CGPA: 3.53 on a 4-point scale.
+- Validity: 5 Years valid from the cycle starting 2023.
+
+## 2. National Board of Accreditation (NBA) Status
+### A. Programs Currently NBA Accredited
+The institute holds tier-I/tier-II NBA accreditation for five core undergraduate programs:
+1. B.Tech Civil Engineering
+2. B.Tech Electrical Engineering
+3. B.Tech Mechanical Engineering
+4. B.Tech Computer Science & Engineering (CSE)
+5. B.Tech Electronics Engineering
+
+### B. Specialized & Emerging Programs Eligibility Note
+Specialized B.Tech programs launched recently (such as IT AI & Robotics, IoT, Mathematics & Computing, AI & Data Science, AI & ML, Computer Science & Design, and CSBS) become eligible for NBA accreditation after the graduation of two full student batches as per NBA accreditation norms.
+
+## 3. Internal Quality Assurance Cell (IQAC)
+- Established: December 2016
+- Objective: Continuous quality culture internalization, standard operating procedure (SOP) monitoring, OBE (Outcome Based Education) assessment, faculty appraisal, and student feedback mechanisms.
+- Dean, Quality Assurance: Dr. P. K. Singhal
+
+## 4. World Bank / MHRD TEQIP Funding
+- TEQIP-II: Successfully completed the Technical Education Quality Improvement Programme (Phase II) under MHRD, securing 'A' grade in 6 of the 7 performance benchmarks.
+- TEQIP-III: Onboarded for advanced institutional quality improvement and research infrastructure upgrades.
+
+## 5. Digital Academic Infrastructure
+- MOODLE LMS Server: Custom institutional server deployed on 15th August 2017 for digital course packs, continuous automated evaluations, and assignment submissions.
+- NPTEL Local Chapter: Established on 30th October 2017 with active SWAYAM/NPTEL credit transfer integration.

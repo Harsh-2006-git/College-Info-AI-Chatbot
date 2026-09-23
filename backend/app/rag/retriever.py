@@ -57,54 +57,48 @@ class Retriever:
         }
         keywords = [w.lower() for w in words if w.lower() not in stopwords]
         
-        # 3. Perform keyword matching and merge
-        merged_results = {}
-        for res in filtered_vector_results:
-            merged_results[res["id"]] = res
-            
+        # 3. Apply keyword matching to boost semantically relevant chunks
         if keywords:
-            try:
-                # Fast sample retrieval for keyword matches
-                all_records = self.vector_store.collection.get(
-                    include=["documents", "metadatas"],
-                    limit=500
-                )
-                
-                docs = all_records.get("documents", [])
-                metadatas = all_records.get("metadatas", [])
-                ids = all_records.get("ids", [])
-                
-                for doc, meta, cid in zip(docs, metadatas, ids):
-                    meta = meta or {}
-                    chunk_owner = meta.get("owner_id", "default")
-                    is_kb = meta.get("is_knowledge_base", False)
-                    doc_id = meta.get("document_id", "")
+            for res in filtered_vector_results:
+                doc_lower = res.get("content", "").lower()
+                match_count = sum(1 for kw in keywords if kw in doc_lower)
+                if match_count > 0:
+                    # Give a proportional boost (lower score is closer distance in cosine space)
+                    res["score"] = res["score"] * (1.0 - 0.08 * min(match_count, 4))
                     
-                    if document_ids and len(document_ids) > 0:
-                        if doc_id not in document_ids and not is_kb and not doc_id.startswith("knowledge_base/"):
-                            continue
-                            
-                    if not (is_kb or chunk_owner in [owner_id, "default", "mits_official"] or doc_id.startswith("knowledge_base/")):
-                        continue
-
-                    match_count = sum(1 for kw in keywords if kw in doc.lower())
-                    if match_count > 0:
-                        kw_score = max(0.01, 0.5 - (match_count * 0.12))
-                        if cid in merged_results:
-                            merged_results[cid]["score"] = min(merged_results[cid]["score"], kw_score)
-                        else:
-                            merged_results[cid] = {
-                                "id": cid,
-                                "content": doc,
-                                "metadata": meta,
-                                "score": kw_score
-                            }
+        # 4. Fallback to PREDEFINED_KNOWLEDGE_BASE if vector search returns no results
+        if not filtered_vector_results:
+            try:
+                from app.knowledge_base_data import PREDEFINED_KNOWLEDGE_BASE
+                kb_chunks = []
+                for fname, full_text in PREDEFINED_KNOWLEDGE_BASE.items():
+                    # Split into natural paragraphs/sections
+                    paragraphs = [p.strip() for p in full_text.split("\n\n") if p.strip()]
+                    for p_idx, p in enumerate(paragraphs):
+                        p_lower = p.lower()
+                        match_count = sum(1 for kw in keywords if kw in p_lower) if keywords else 0
+                        if match_count > 0:
+                            score = max(0.05, 0.40 - (match_count * 0.08))
+                            kb_chunks.append({
+                                "id": f"kb_{fname}_{p_idx}",
+                                "content": p,
+                                "metadata": {
+                                    "document_id": f"knowledge_base/{fname}",
+                                    "filename": fname,
+                                    "owner_id": "default",
+                                    "is_knowledge_base": True,
+                                    "page": 1
+                                },
+                                "score": score
+                            })
+                if kb_chunks:
+                    kb_chunks.sort(key=lambda x: x["score"])
+                    filtered_vector_results = kb_chunks[:top_k * 2]
             except Exception as e:
-                print(f"Notice: Keyword search skipped ({e})")
+                print(f"Notice: Predefined KB fallback error: {e}")
 
-                
-        # 4. Sort by score ascending (lowest distance/score first)
-        sorted_results = sorted(merged_results.values(), key=lambda x: x["score"])
+        # 5. Sort by score ascending (lowest distance/score first)
+        sorted_results = sorted(filtered_vector_results, key=lambda x: x["score"])
         final_results = sorted_results[:top_k]
         
         # Format results as SourceChunk objects

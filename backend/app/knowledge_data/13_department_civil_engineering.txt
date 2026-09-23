@@ -1,0 +1,76 @@
+================================================================================
+MADHAV INSTITUTE OF TECHNOLOGY & SCIENCE (MITS), GWALIOR
+13. DEPARTMENT OF CIVIL ENGINEERING — OVERVIEW, LABS, CONSULTANCY & RESEARCH
+================================================================================
+
+## 1. Department Overview
+- Established: 1957 (One of the pioneer founding departments of MITS Gwalior).
+- Head of Department: Dr. Sanjay Tiwari (Professor & Head) | Phone: 0751-2409351 | Email: stiwari.fce@mitsgwalior.in
+- Degree Programs Offered:
+  * B.Tech. in Civil Engineering (4-Year UG Program) — Annual Intake: 60 seats.
+  * M.E. in Construction Technology & Management (CTM - 2-Year PG) — Intake: 18 seats.
+  * M.Tech. in Structural Engineering (2-Year PG) — Intake: 18 seats.
+  * Ph.D. in Civil Engineering (Full-time & Part-time under QIP / Institute / RGPV).
+- Accreditation: B.Tech. in Civil Engineering is accredited by the National Board of Accreditation (NBA) for 6 years w.e.f. July 2021.
+- QIP Centre: Recognized Quality Improvement Programme (QIP) center for PG and Ph.D. programs under mentorship of premier IITs.
+- Active MoUs: Central Road Research Institute (CRRI New Delhi), Central Building Research Institute (CBRI Roorkee), National Highways Authority of India (NHAI), and Gwalior Smart City Development Corporation Limited.
+- Professional Societies: Active institutional chapters of Indian Concrete Institute (ICI) and Indian Water Works Association (IWWA).
+
+## 2. Department Vision & Mission
+### Vision
+"To produce civil engineers with high technical competencies, research attitude, and ethical values to serve the society and environment."
+
+### Mission
+1. To provide high-quality education through updated curriculum aligned with NEP-2020.
+2. To encourage research, consultancy, and innovation addressing regional and national infrastructure challenges.
+3. To foster strong academia-industry partnerships through field visits, expert lectures, and practical internships.
+4. To instill ethical practices, environmental consciousness, and leadership qualities.
+
+## 3. Specialized Departmental Laboratories
+The department houses modern testing equipment procured under TEQIP II, TEQIP III, AICTE, and State Research grants:
+1. Concrete Technology & Material Testing Lab (Compression testing, rebound hammer, ultrasonic pulse velocity)
+2. Geotechnical & Soil Mechanics Lab (Triaxial shear, direct shear, consolidation, CBR apparatus)
+3. Environmental Engineering & Pollution Testing Lab (Spectrophotometer, BOD/COD incubators, air quality monitors)
+4. Transportation & Highway Engineering Lab (Ductility, penetration, flash/fire point, Los Angeles abrasion)
+5. Surveying & Geomatics Lab (Total Stations, Digital Theodolites, Auto Levels, GPS receivers)
+6. Structural Engineering & Dynamics Lab (Shake table simulation, loading frames)
+7. Hydraulics & Fluid Mechanics Lab (Flow measurement flumes, pumps, turbines)
+8. Computer-Aided Civil Design (CAD) Lab (STAAD.Pro, AutoCAD, ETABS, GIS)
+
+## 4. Consultancy Services & Revenue Generation
+Civil Engineering is the premier industrial consultancy resource center in the Chambal-Gwalior region, conducting third-party quality audits, structural stability assessments, and material testing:
+
+| Financial Year | Revenue Generated (in Rs.) | Key Focus Areas |
+| :---: | :---: | :--- |
+| **2024–2025** | **Rs. 39,68,300/-** | Third-party construction quality audit, concrete testing, soil testing |
+| **2023–2024** | **Rs. 64,24,724/-** | Highway pavement evaluation, structural stability, government audits |
+| **2022–2023** | **Rs. 49,33,206/-** | Building material certification, environmental impact assessment |
+| **2021–2022** | **Rs. 45,68,289/-** | Geotechnical investigation, smart city projects, bridge testing |
+| **2020–2021** | **Rs. 17,89,802/-** | Foundation soil testing, concrete core testing |
+| **2019–2020** | **Rs. 12,38,141/-** | Road construction quality assurance |
+| **2018–2019** | **Rs. 13,11,170/-** | Material testing and structural health monitoring |
+| **2017–2018** | **Rs. 14,31,485/-** | Concrete mix design and aggregate validation |
+| **Cumulative** | **> Rs. 2.56 Crores** | Total industrial revenue contributed to institutional development |
+
+## 5. Major Research Projects & Grants
+### Completed Projects
+1. "Development of Optimum Front for Time Cost Trade-Off in Construction Projects"
+   - Sponsoring Agency: AICTE (NDF-RPS) | Principal Investigator: Dr. M. K. Trivedi | Grant: Rs. 11,00,000/-
+2. "Non-Linear Mechanics of Elasto-Flexible Cables Using Placement Method"
+   - Sponsoring Agency: TEQIP (NPIU-CRS) | Co-PIs: Dr. S. K. Jain, Dr. Sanjay Tiwari (MITS) & Dr. Ritu Raj (DTU Delhi) | Grant: Rs. 10,58,000/-
+3. "Multi-Objective Optimization in Construction Projects Using NSGA-III" (TEQIP IRS Grant)
+4. "Development of Rationalized Water Quality Index" | PI: Prof. Aditya Kumar Agarwal (TEQIP IRS Grant)
+
+### Ongoing Projects
+1. "Sustainable Utilization of Agricultural & Industrial Wastes for Construction of Mechanically Stabilized Earth"
+   - Sponsoring Agency: MITS Research Grant | PI: Dr. Jayvant Choudhary, Co-PI: Dr. M. K. Trivedi | Grant: Rs. 2,74,740/-
+2. "Source Apportionment of Fine Particulate Matter in Ambient Air" (MITS IRS)
+3. "Determination and Assessment of Heavy Metal Concentration in Road Dust" (MITS IRS)
+4. "Performance Enhancement of Mortar Containing Recycled Fine Aggregate" (MITS IRS)
+
+## 6. Ph.D. Theses Guided & Awarded
+- Dr. Kamal Sharma (Awarded August 2024, RGPV Bhopal) — Guide: Dr. M. K. Trivedi | Thesis: "Development of Robust Scheduling Model for Civil Construction Projects"
+- Dr. Shyamveer Singh Chauhan (Awarded September 2024) — Guide: Dr. M. K. Trivedi | Thesis: "Fuzzy Neural Network (FNN) Approach for Determination of Surface Water Quality"
+- Dr. Mohan Kanthariya (Awarded February 2022) — Guide: Dr. M. K. Trivedi
+- Dr. Mukesh Pandey (Awarded, RGPV) — Guide: Dr. M. K. Trivedi
+- Over 10 active doctoral research scholars currently pursuing Ph.D. in advanced concrete, soil mechanics, eco-materials, and construction scheduling.

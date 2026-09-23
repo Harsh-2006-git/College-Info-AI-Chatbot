@@ -1,0 +1,71 @@
+================================================================================
+MADHAV INSTITUTE OF TECHNOLOGY & SCIENCE (MITS), GWALIOR
+14. DEPARTMENT OF INFORMATION TECHNOLOGY — LABS, PLACEMENTS & ACHIEVEMENTS
+================================================================================
+
+## 1. Department Overview
+- Established: 2000.
+- Head of Department: Dr. Punit Kumar Johari (Associate Professor & Head) | Email: pkjohari@mitsgwalior.in
+- Programs Offered:
+  * B.Tech. in Information Technology (4-Year UG Program) — Annual Intake: 120 seats.
+  * B.Tech. in IT (Artificial Intelligence and Robotics) — Annual Intake: 60 seats.
+  * M.Tech. in Information Technology (2-Year PG) — Annual Intake: 18 seats.
+  * Ph.D. in Information Technology.
+- Minor & Honours Specializations: Offers specialized minor degrees in Cyber Security, Data Science, Artificial Intelligence, and Internet of Things.
+- Curriculum: Strict adherence to Outcome Based Education (OBE) and NEP-2020 with flexible choice-based credit system.
+
+## 2. Department Vision & Mission
+### Vision
+"To achieve academic excellence in Information Technology and allied fields through quality education, innovative research, and industrial collaboration for societal advancement."
+
+### Mission
+1. To provide a rigorous theoretical foundation and hands-on exposure to cutting-edge computing tools.
+2. To promote innovation, design thinking, and problem-solving through project-based learning.
+3. To collaborate with multinational software enterprises and research organizations for industry readiness.
+4. To inculcate professional ethics, teamwork, and lifelong learning attitudes.
+
+## 3. Specialized IT Laboratories
+1. Data Science Lab: High-performance computing platform optimized for Python and R programming, big data analytics, and deep learning algorithms.
+2. Programming Lab: Modern multi-OS environment supporting C, C++, Java, Full-Stack web development, and open-source software stacks.
+3. Computing Lab: Dedicated infrastructure for fast, reliable numerical computing, algorithms design, and simulation.
+4. Project Lab: Dedicated space for capstone projects, machine learning prototypes, computer vision, and linear algebra applications.
+5. Hardware & Microprocessor Lab: Equipped with digital circuit kits, 8085/8086 microprocessor simulators, microcontrollers, and IoT embedded kits.
+6. Research Lab: Advanced laboratory dedicated to doctoral and postgraduate research in natural language processing, network security, and cloud architectures.
+
+## 4. Student Internships, Pre-Placement Offers (PPO) & Top Stipends
+MITS IT students secure premier corporate internships with impressive monthly stipends and conversion to full-time Pre-Placement Offers:
+- **Archit Agarwal**: Nurture.farm — **Stipend: Rs. 60,000/- per month** (Pre-Placement Offer - PPO)
+- **Abhishek Singh**: Kloudspot Inc. — **Stipend: Rs. 25,000/- per month** (Confirmed Job Offer)
+- **Mohit Shrivastava**: Simplify Workforce Pvt. Ltd. — **Stipend: Rs. 25,000/- per month**
+- **Abi Soni**: Newgen Software Pvt. Ltd. — **Stipend: Rs. 20,000/- per month** (Confirmed Job Offer)
+- **Ayush Sharma**: Newgen Software Pvt. Ltd. — **Stipend: Rs. 20,000/- per month** (Confirmed Job Offer)
+- **Manish Kumar**: Greendeck — **Stipend: Rs. 20,000/- per month**
+- **Rahul Rajput**: Leading Bird Web Services — **Stipend: Rs. 20,000/- per month** (Confirmed Job Offer)
+- **Abhay Shakya**: Zonolith Technologies — **Stipend: Rs. 16,000/- per month**
+- **Wipro PPO Batch**: Ankita Gupta, Srajan Jain, Yashit Shrivastava, Anushree Singh (Pre-Placement Offers)
+- **Infosys PPO Batch**: Dheeraj Kushwah, Ishaan Jain, Neeraj Gopal Verma (Rs. 10,000/- monthly stipend + PPO)
+- **Tiger Analytics**: Ruchi Chetwani (Rs. 10,000/- monthly stipend + PPO)
+- **Persistent Systems Batch (13 Students with Stipend & PPOs)**: Danish Khan, Himanshu Baghel, Himanshu Kushwah, Jyoti Chaudhary, Kshitiz Agrawal, Shivansh Shrivastava, Sakshi Sharma, Surabhi Soni, Sumit Sharma, Soniya Mehto, Ritika Choudhary, Rishita Dwivedi, Nishant Rajput.
+
+## 5. Strategic Industrial Partnership: Infosys Springboard MoU
+- Nature of Collaboration: Institutional MoU between Infosys Ltd. and MITS Gwalior.
+- Objective: Imparting industry-curated digital literacy, cloud certifications, and programming competency to engineering students.
+- Certified Modules Completed:
+  * Python Programmer Certification
+  * Computer Vision 101
+  * Introduction to Artificial Intelligence & Machine Learning
+  * Data Science & Natural Language Processing (NLP)
+  * Java Programming & Enterprise Cloud Applications
+
+## 6. Faculty Achievements & National Recognitions
+- **Dr. Saumil Maheshwari** (Assistant Professor, IT):
+  * Received prestigious "Certificate of Recognition" from Infosys on 25th March 2022 for outstanding academic collaboration.
+  * Successfully completed NPTEL-AICTE Faculty Development Programme on "Patent Drafting for Beginners" with an elite score of 78%.
+- **Prof. Abhishek Dixit** (Assistant Professor, IT):
+  * Successfully completed NPTEL-AICTE Faculty Development Programme on "Design and Analysis of Algorithms" with a consolidated score of 88%.
+  * Successfully completed NPTEL-AICTE FDP on "Patent Drafting for Beginners" with a score of 77%.
+  * Participated in NAAC-sponsored National Workshop on "Curriculum Development for Effective Implementation of NEP-2020".
+- **Dr. Vikram Rajpoot** (Assistant Professor, IT):
+  * Completed online Faculty Enablement Program (FEP) on Java Programming under Infosys Springboard.
+- **Prof. Rajeev Kumar Singh** (Assistant Professor, IT):
+  * Completed 1-week national FDP on "Demystifying Intellectual Property for Research Integrity and Economic Development" at Delhi Technological University (DTU Delhi).

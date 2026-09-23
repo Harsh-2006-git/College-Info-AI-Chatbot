@@ -33,7 +33,7 @@ backend/ENV/
 # Local databases and uploads
 backend/chats.db
 backend/uploads/
-backend/vectorstore/
+# backend/vectorstore/ is now tracked for production RAG deployment
 backend/vector_store/
 backend/data/
 uploads/

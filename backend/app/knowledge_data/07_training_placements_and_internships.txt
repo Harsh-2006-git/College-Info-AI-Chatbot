@@ -1,0 +1,65 @@
+================================================================================
+MADHAV INSTITUTE OF TECHNOLOGY & SCIENCE (MITS), GWALIOR
+07. TRAINING & PLACEMENT (T&P), INTERNSHIPS & LEADING RECRUITERS
+================================================================================
+
+## 1. Training & Placement Cell Overview
+- Mandate: Bridging academic education with global industry requirements through structured soft-skills training, programming bootcamps, and corporate placement drives.
+- Faculty Leadership: Training & Placement Officer (T&P Cell) and Faculty Departmental Placement Coordinators.
+
+## 2. Institutional Internship & Placement Policy
+- NEP-2020 Multi-Stage Internship Model:
+  1. I Year End: Skill Internship Program (Soft-Skill and Design Thinking Based).
+  2. II Year End: Technical Skill Internship Program.
+  3. III Year End: 4-Week Research Internship / On-Job Industry Training.
+  4. Final Year (VIII Semester): Mandatory Full-Time 6-Month Corporate Internship (December to May). Students work on real-world industrial projects before graduation.
+- Pre-Final Year Credit Course: Mandatory credit course on "Professional Skills and Competencies" covering aptitude, coding, group discussions, and technical interviews.
+- Interdisciplinary Tech Training: Mandatory core courses in Python, Data Science, and Machine Learning for all engineering disciplines.
+
+## 3. Leading Corporate Recruiters
+MITS graduates are actively recruited by top Fortune-500 multinationals and premier Indian conglomerates:
+
+### Information Technology & Software
+- Amazon
+- Accenture
+- Capgemini
+- Amdocs
+- Samsung
+- Persistent Systems
+- Wipro
+- HCL Technologies
+- Tech Mahindra
+- Newgen Software
+- Quick Heal
+- Syntel
+- Patni Computers
+- Microweb
+- Tek Systems
+
+### Core Engineering, Infrastructure & Automotive
+- L&T Constructions (Larsen & Toubro)
+- L&T Infotech (LTIMindtree)
+- Tata Projects
+- Mahindra & Mahindra
+- Mahindra EPC
+- Schneider Electric
+- Suzlon Energy
+- SKF India
+- TURCK
+- Punj Lloyd
+- Asahi India Glass
+- Birla Corporation
+- Trident Group
+
+### Pharmaceuticals, Healthcare & Consumer Goods
+- Lupin Pharmaceuticals
+- Ranbaxy Laboratories
+- Reliance Life Sciences
+- Britannia Industries
+- BYJU'S
+- Harihar Biotech
+
+## 4. Prominent Alumni Network
+MITS graduates hold distinguished leadership roles globally in government, research, military, and multinational corporations:
+- Prof. Abhay Karandikar: Distinguished Alumnus of MITS Gwalior; Appointed as Full-Time Member of NITI Aayog; Former Secretary of the Department of Science and Technology (DST), Govt. of India, and Former Director of IIT Kanpur.
+- MITS alumni serve across Indian Administrative Services (IAS), Indian Railways, Armed Forces, Defense Research (DRDO), ISRO, and as CXOs of global tech enterprises.

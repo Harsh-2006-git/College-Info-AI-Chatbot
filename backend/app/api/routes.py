@@ -62,6 +62,34 @@ def init_services():
     _vector_store = VectorStore(persist_directory=chroma_dir, embedding_model=_embedding_model)
     _retriever = Retriever(vector_store=_vector_store)
     
+    # Auto-seed predefined knowledge base if collection is empty (e.g. freshly cloned or new production container)
+    try:
+        if _vector_store.count_chunks() == 0:
+            print("Vector store is empty! Auto-seeding predefined MITS knowledge base...")
+            from langchain_core.documents import Document
+            from app.knowledge_base_data import PREDEFINED_KNOWLEDGE_BASE
+            seed_docs = []
+            for fname, content in PREDEFINED_KNOWLEDGE_BASE.items():
+                seed_docs.append(
+                    Document(
+                        page_content=content,
+                        metadata={
+                            "document_id": f"knowledge_base/{fname}",
+                            "filename": fname,
+                            "owner_id": "default",
+                            "is_knowledge_base": True,
+                            "page": 1,
+                            "source": str(fname)
+                        }
+                    )
+                )
+            if seed_docs:
+                chunks = _chunker.split_documents(seed_docs)
+                added = _vector_store.add_documents(chunks)
+                print(f"Successfully auto-seeded {added} chunks into production vector store.")
+    except Exception as e:
+        print(f"Notice: Auto-seeding vector store skipped or error: {e}")
+
     # Always initialize ChatService to allow local/Ollama and Groq usage without Gemini key
     _chat_service = ChatService(retriever=_retriever, api_key=gemini_key, groq_key=groq_key)
 
@@ -320,6 +348,8 @@ async def delete_document(document_id: str, owner_id: str = Depends(get_owner_id
         
     return {"message": f"Document {document_id} deleted successfully"}
 
+from app.knowledge_base_data import PREDEFINED_KNOWLEDGE_BASE
+
 DOMAIN_FILES = {
     "01": ("01_overview_vision_mission.txt", "Overview, Vision & Mission"),
     "02": ("02_governance_and_administration.txt", "Governance & Administration"),
@@ -340,12 +370,11 @@ DOMAIN_FILES = {
 
 @router.get("/knowledge-base/domains")
 async def list_knowledge_domains():
-    """List all 15 official knowledge base domains with file metadata."""
-    data_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), "../../../data"))
+    """List all 15 official knowledge base domains with metadata."""
     domains_list = []
     for d_id, (fname, title) in DOMAIN_FILES.items():
-        fpath = os.path.join(data_dir, fname)
-        size_bytes = os.path.getsize(fpath) if os.path.exists(fpath) else 0
+        content = PREDEFINED_KNOWLEDGE_BASE.get(fname, "")
+        size_bytes = len(content.encode("utf-8")) if content else 0
         domains_list.append({
             "id": d_id,
             "filename": fname,
@@ -356,28 +385,32 @@ async def list_knowledge_domains():
 
 @router.get("/knowledge-base/domains/{domain_id}")
 async def get_knowledge_domain_content(domain_id: str):
-    """Get the raw text of a specific knowledge base domain that is sent as context to the LLM."""
-    data_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), "../../../data"))
+    """Get the predefined raw text of a specific knowledge base domain that is sent as context to the LLM."""
     clean_id = domain_id.zfill(2)
     if clean_id not in DOMAIN_FILES:
         raise HTTPException(status_code=404, detail=f"Knowledge domain '{domain_id}' not found.")
     
     fname, title = DOMAIN_FILES[clean_id]
-    fpath = os.path.join(data_dir, fname)
-    if not os.path.exists(fpath):
-        raise HTTPException(status_code=404, detail=f"Knowledge base file '{fname}' not found.")
+    raw_text = PREDEFINED_KNOWLEDGE_BASE.get(fname)
+    
+    if raw_text is None:
+        # Fallback to file system if present
+        data_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), "../../../data"))
+        fpath = os.path.join(data_dir, fname)
+        if os.path.exists(fpath):
+            try:
+                with open(fpath, "r", encoding="utf-8", errors="ignore") as f:
+                    raw_text = f.read()
+            except Exception as e:
+                raise HTTPException(status_code=500, detail=f"Error reading domain file: {str(e)}")
+        else:
+            raise HTTPException(status_code=404, detail=f"Knowledge base file '{fname}' not found.")
         
-    try:
-        with open(fpath, "r", encoding="utf-8", errors="ignore") as f:
-            raw_text = f.read()
-            
-        return {
-            "id": clean_id,
-            "filename": fname,
-            "title": title,
-            "content": raw_text,
-            "length_chars": len(raw_text),
-            "lines": len(raw_text.splitlines())
-        }
-    except Exception as e:
-        raise HTTPException(status_code=500, detail=f"Error reading domain file: {str(e)}")
+    return {
+        "id": clean_id,
+        "filename": fname,
+        "title": title,
+        "content": raw_text,
+        "length_chars": len(raw_text),
+        "lines": len(raw_text.splitlines())
+    }

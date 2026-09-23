@@ -1,0 +1,1795 @@
+================================================================================
+MADHAV INSTITUTE OF TECHNOLOGY & SCIENCE (MITS), GWALIOR
+OFFICIAL FACULTY DIRECTORY & RAG KNOWLEDGE-BASE SEED
+================================================================================
+
+## Overview
+- Total Faculty & Staff Members: 202
+- Academic Departments & Centres: 14
+- Verified Detailed Profiles: 28
+- Standard Directory Entries: 174
+
+### Department Summary & Headcounts:
+- Civil Engineering: 14 faculty members
+- Electrical Engineering: 17 faculty members
+- Computer Science & Engineering (CSE): 28 faculty members
+- Centre for Artificial Intelligence (AI) / CSE (Extended): 26 faculty members
+- Centre for IoT: 17 faculty members
+- Mechanical Engineering: 14 faculty members
+- Electronics & Telecommunications Engineering (ETE): 26 faculty members
+- Information Technology (IT): 10 faculty members
+- Engineering Mathematics & Computing (EMC): 13 faculty members
+- Centre for Computer Science & Technology (CCST): 12 faculty members
+- Chemical Engineering: 4 faculty members
+- Architecture & Planning: 10 faculty members
+- Applied Science: 6 faculty members
+- Humanities & Management: 5 faculty members
+
+================================================================================
+COMPLETE FACULTY DIRECTORY LISTINGS BY DEPARTMENT
+================================================================================
+
+### Department / School: Civil Engineering (14 Entries)
+----------------------------------------------------------------------
+
+#### 1. Dr. Sanjay Tiwari
+- **Faculty ID**: MITS-FAC-001
+- **Department**: Civil Engineering
+- **Designation**: Professor & Head
+- **Official Email**: stiwari.fce@mitsgwalior.in
+- **Contact Number**: 9406587811
+- **Qualification**: Ph.D (IIT Roorkee)
+- **Area / Specialization**: Structural Engineering; Construction Management
+- **Profile Summary**: Professor & Head of Civil Engineering. Official profile lists long-term MITS service and administrative roles including Head of Civil Engineering, Central Purchase Committee chairmanship, hostel/library responsibilities and examination duties.
+- **Profile Verification Status**: Verified (Official Profile Page)
+
+#### 2. Dr. Sarvesh Kumar Jain
+- **Faculty ID**: MITS-FAC-002
+- **Department**: Civil Engineering
+- **Designation**: Professor
+- **Official Email**: dr.skjain@mitsgwalior.in
+- **Contact Number**: 07512409376
+- **Qualification**: PDF (Kyoto University, Japan); M.E. (IIT Roorkee); Ph.D. (IIT Roorkee)
+- **Area / Specialization**: Structural Engineering; Structural Response Control; Concrete Technology
+- **Profile Summary**: Professor in Civil Engineering. Official profile describes teaching, research, consultancy and multiple institutional roles including Dean R&D;, Controller (Exams), QIP coordination and HOD responsibilities; it also lists research supervision and publications.
+- **Profile Verification Status**: Verified (Official Profile Page)
+
+#### 3. Dr. Manoj Kumar Trivedi
+- **Faculty ID**: MITS-FAC-003
+- **Department**: Civil Engineering
+- **Designation**: Professor
+- **Official Email**: manojtrivedi@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 4. Prof. Anil Kumar Saxena
+- **Faculty ID**: MITS-FAC-004
+- **Department**: Civil Engineering
+- **Designation**: Associate Professor
+- **Official Email**: aksaxena@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 5. Prof. Gautam Bhadoriya
+- **Faculty ID**: MITS-FAC-005
+- **Department**: Civil Engineering
+- **Designation**: Assistant Professor
+- **Official Email**: g.bhadoriya@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 6. Prof. Aditya Kumar Agarwal
+- **Faculty ID**: MITS-FAC-006
+- **Department**: Civil Engineering
+- **Designation**: Assistant Professor
+- **Official Email**: adyyagrawal0902@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 7. Dr. Hemant Shrivastava
+- **Faculty ID**: MITS-FAC-007
+- **Department**: Civil Engineering
+- **Designation**: Assistant Professor
+- **Official Email**: hemantshrivastava1986@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 8. Dr. Prachi Singh
+- **Faculty ID**: MITS-FAC-008
+- **Department**: Civil Engineering
+- **Designation**: Assistant Professor
+- **Official Email**: prachi@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 9. Dr. Abhilash Shukla
+- **Faculty ID**: MITS-FAC-009
+- **Department**: Civil Engineering
+- **Designation**: Assistant Professor
+- **Official Email**: abhilash.shukla29@mitsgwalior.in
+- **Qualification**: Ph.D. (IIT Bombay); M.E. (BIT Mesra); B.Tech
+- **Profile Summary**: Assistant Professor in Civil Engineering. Official profile records MITS service from April 2025 and earlier teaching/research roles at GBU and IIT Delhi, with work involving geotechnical engineering, rock mechanics, slope/foundation problems and numerical simulation.
+- **Profile Verification Status**: Verified (Official Profile Page)
+
+#### 10. Dr. Mohit Kumar
+- **Faculty ID**: MITS-FAC-010
+- **Department**: Civil Engineering
+- **Designation**: Assistant Professor
+- **Official Email**: mkumar@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 11. Dr. Rohit Ralli
+- **Faculty ID**: MITS-FAC-011
+- **Department**: Civil Engineering
+- **Designation**: Assistant Professor
+- **Official Email**: rohitralli@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 12. Dr. Raghvendra Sahu
+- **Faculty ID**: MITS-FAC-012
+- **Department**: Civil Engineering
+- **Designation**: Assistant Professor
+- **Official Email**: raghvendra@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 13. Dr. Mali Shivashankar
+- **Faculty ID**: MITS-FAC-013
+- **Department**: Civil Engineering
+- **Designation**: Assistant Professor
+- **Official Email**: malishivashankar@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 14. Dr. Reema Bera Sharma
+- **Faculty ID**: MITS-FAC-014
+- **Department**: Civil Engineering
+- **Designation**: Assistant Professor
+- **Official Email**: reemabera@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+----------------------------------------------------------------------
+
+### Department / School: Electrical Engineering (17 Entries)
+----------------------------------------------------------------------
+
+#### 1. Dr. Shishir Dixit
+- **Faculty ID**: MITS-FAC-015
+- **Department**: Electrical Engineering
+- **Designation**: Professor & Head
+- **Official Email**: shishir.dixit1@mitsgwalior.in
+- **Contact Number**: +91 89898 27830
+- **Qualification**: Ph.D
+- **Area / Specialization**: Heavy Electrical Equipment; Power System
+- **Profile Summary**: Professor & Head of Electrical Engineering. Official profile records MITS service since 2003, doctoral work at MANIT Bhopal, industrial experience and membership in IEEE, IET, IETE, IE(I) and ISTE-related professional bodies.
+- **Profile Verification Status**: Verified (Official Profile Page)
+
+#### 2. Dr. Manjaree Pandit
+- **Faculty ID**: MITS-FAC-016
+- **Department**: Electrical Engineering
+- **Designation**: Professor
+- **Official Email**: manjaree_p@mitsgwalior.in
+- **Contact Number**: 0751-2409320
+- **Qualification**: PhD
+- **Area / Specialization**: Hybrid Renewable Energy Systems; Evolutionary optimization techniques for Power System optimization
+- **Profile Summary**: Professor in Electrical Engineering and Dean, Faculty of Engineering & Technology. Official profile records extensive teaching, research and administrative experience, including prior Dean Academics and HOD roles, funded research projects, publications, doctoral supervision and professional recognition.
+- **Profile Verification Status**: Verified (Official Profile Page)
+
+#### 3. Dr. A. K. Wadhwani
+- **Faculty ID**: MITS-FAC-017
+- **Department**: Electrical Engineering
+- **Designation**: Professor
+- **Official Email**: akwadhwani@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 4. Dr. Sulochana Wadhwani
+- **Faculty ID**: MITS-FAC-018
+- **Department**: Electrical Engineering
+- **Designation**: Professor
+- **Official Email**: sulochana_wadhwani@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 5. Dr. Himmat Singh
+- **Faculty ID**: MITS-FAC-019
+- **Department**: Electrical Engineering
+- **Designation**: Associate Professor
+- **Official Email**: ahirwar.himmat@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 6. Dr. Vijay Bhuria
+- **Faculty ID**: MITS-FAC-020
+- **Department**: Electrical Engineering
+- **Designation**: Associate Professor
+- **Official Email**: vijay.bhuria@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 7. Rakesh Narvey
+- **Faculty ID**: MITS-FAC-021
+- **Department**: Electrical Engineering
+- **Designation**: Assistant Professor
+- **Official Email**: rakesh_narvey@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 8. Kuldeep Kumar Swarnkar
+- **Faculty ID**: MITS-FAC-022
+- **Department**: Electrical Engineering
+- **Designation**: Assistant Professor
+- **Official Email**: kuldeepkumarsony@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 9. Dr. Vishal Chaudhary
+- **Faculty ID**: MITS-FAC-023
+- **Department**: Electrical Engineering
+- **Designation**: Assistant Professor
+- **Official Email**: vishal.chaudhary30@mitsgwalior.in
+- **Contact Number**: 9926245805
+- **Qualification**: Ph.D.; M.E. (Gold Medalist); B.E. (Silver Medalist)
+- **Area / Specialization**: Renewable Energy Systems; Power Systems
+- **Profile Summary**: Assistant Professor in Electrical Engineering. Official profile describes doctoral research on renewable-energy integration into power systems and prior engineering education at MITS and related institutions.
+- **Profile Verification Status**: Verified (Official Profile Page)
+
+#### 10. Dr. Ankit Tiwari
+- **Faculty ID**: MITS-FAC-024
+- **Department**: Electrical Engineering
+- **Designation**: Assistant Professor
+- **Official Email**: ankittiwari@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 11. Dr. Nikhil Paliwal
+- **Faculty ID**: MITS-FAC-025
+- **Department**: Electrical Engineering
+- **Designation**: Assistant Professor
+- **Official Email**: nikhil7@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 12. Dr. Vikram
+- **Faculty ID**: MITS-FAC-026
+- **Department**: Electrical Engineering
+- **Designation**: Assistant Professor
+- **Official Email**: ivikramsaini@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 13. Dr. Yashwant Sawle
+- **Faculty ID**: MITS-FAC-027
+- **Department**: Electrical Engineering
+- **Designation**: Assistant Professor
+- **Official Email**: yashwant@mitsgwalior.in
+- **Contact Number**: 9575005868
+- **Qualification**: PhD
+- **Area / Specialization**: Sizing of Hybrid renewable energy system
+- **Profile Summary**: Assistant Professor in Electrical Engineering. Official profile reports teaching/research experience, renewable-energy and power-system research, publications, books, editorial activity and IEEE professional involvement.
+- **Profile Verification Status**: Verified (Official Profile Page)
+
+#### 14. Dr. Geetam Shukla
+- **Faculty ID**: MITS-FAC-028
+- **Department**: Electrical Engineering
+- **Designation**: Assistant Professor
+- **Official Email**: geetamrichhariya@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 15. Prof. Manoj Kumar
+- **Faculty ID**: MITS-FAC-029
+- **Department**: Electrical Engineering
+- **Designation**: Assistant Professor
+- **Official Email**: manojsingh716@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 16. Prof. Hariom Sharma
+- **Faculty ID**: MITS-FAC-030
+- **Department**: Electrical Engineering
+- **Designation**: Assistant Professor
+- **Official Email**: hariom0077sharma@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 17. Dr. Rimjhim Agrawal
+- **Faculty ID**: MITS-FAC-031
+- **Department**: Electrical Engineering
+- **Designation**: Visiting Faculty
+- **Official Email**: rimjhim.agrawal7@gmail.com
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+----------------------------------------------------------------------
+
+### Department / School: Computer Science & Engineering (CSE) (28 Entries)
+----------------------------------------------------------------------
+
+#### 1. Dr. Manish Dixit
+- **Faculty ID**: MITS-FAC-032
+- **Department**: Computer Science & Engineering (CSE)
+- **Designation**: Professor & Head
+- **Official Email**: dixitmits@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 2. Dr. R. S. Jadon
+- **Faculty ID**: MITS-FAC-033
+- **Department**: Computer Science & Engineering (CSE)
+- **Designation**: Professor
+- **Official Email**: rsjadon@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 3. Dr. R. K. Gupta
+- **Faculty ID**: MITS-FAC-034
+- **Department**: Computer Science & Engineering (CSE)
+- **Designation**: Professor
+- **Official Email**: rkg@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 4. Dr. Anshu Chaturvedi
+- **Faculty ID**: MITS-FAC-035
+- **Department**: Computer Science & Engineering (CSE)
+- **Designation**: Professor
+- **Official Email**: anshu_chaturvedi@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 5. Dr. Abhilash Sonker
+- **Faculty ID**: MITS-FAC-036
+- **Department**: Computer Science & Engineering (CSE)
+- **Designation**: Associate Professor
+- **Official Email**: abhilashsonkerit@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 6. Dr. Khushboo Agarwal
+- **Faculty ID**: MITS-FAC-037
+- **Department**: Computer Science & Engineering (CSE)
+- **Designation**: Assistant Professor
+- **Official Email**: ka.agarwals@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 7. Jaimala Jha
+- **Faculty ID**: MITS-FAC-038
+- **Department**: Computer Science & Engineering (CSE)
+- **Designation**: Assistant Professor
+- **Official Email**: jaimala.jha@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 8. Dr. Mahesh Parmar
+- **Faculty ID**: MITS-FAC-039
+- **Department**: Computer Science & Engineering (CSE)
+- **Designation**: Assistant Professor
+- **Official Email**: maheshparmar@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 9. Dr. Parul Saxena
+- **Faculty ID**: MITS-FAC-040
+- **Department**: Computer Science & Engineering (CSE)
+- **Designation**: Assistant Professor
+- **Official Email**: gaurparul2007@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 10. Amit Kumar Manjhvar
+- **Faculty ID**: MITS-FAC-041
+- **Department**: Computer Science & Engineering (CSE)
+- **Designation**: Assistant Professor
+- **Official Email**: amitkumar@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 11. Dr. Ranjeet Kumar Singh
+- **Faculty ID**: MITS-FAC-042
+- **Department**: Computer Science & Engineering (CSE)
+- **Designation**: Assistant Professor
+- **Official Email**: ranjeets@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 12. Dr. Smita Parte
+- **Faculty ID**: MITS-FAC-043
+- **Department**: Computer Science & Engineering (CSE)
+- **Designation**: Assistant Professor
+- **Official Email**: smita@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 13. Dr. Dheeraj Kumar Dixit
+- **Faculty ID**: MITS-FAC-044
+- **Department**: Computer Science & Engineering (CSE)
+- **Designation**: Assistant Professor
+- **Official Email**: dheerajdixit@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 14. Dr. Praphula Kumar Jain
+- **Faculty ID**: MITS-FAC-045
+- **Department**: Computer Science & Engineering (CSE)
+- **Designation**: Assistant Professor
+- **Official Email**: praphulajain@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 15. Dr. Rahul Dubey
+- **Faculty ID**: MITS-FAC-046
+- **Department**: Computer Science & Engineering (CSE)
+- **Designation**: Assistant Professor
+- **Official Email**: rahuldubey@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 16. Dr. Devesh Kumar Lal
+- **Faculty ID**: MITS-FAC-047
+- **Department**: Computer Science & Engineering (CSE)
+- **Designation**: Assistant Professor
+- **Official Email**: deveshlal@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 17. Dr. Gagandeep Kaur
+- **Faculty ID**: MITS-FAC-048
+- **Department**: Computer Science & Engineering (CSE)
+- **Designation**: Assistant Professor
+- **Official Email**: gagandeep@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 18. Dr. Rohit Agrawal
+- **Faculty ID**: MITS-FAC-049
+- **Department**: Computer Science & Engineering (CSE)
+- **Designation**: Assistant Professor
+- **Official Email**: rohit@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 19. Dr. Kuldeep Narayan Tripathi
+- **Faculty ID**: MITS-FAC-050
+- **Department**: Computer Science & Engineering (CSE)
+- **Designation**: Assistant Professor
+- **Official Email**: kuldeepnarayan@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 20. Dr. Nishant Jain
+- **Faculty ID**: MITS-FAC-051
+- **Department**: Computer Science & Engineering (CSE)
+- **Designation**: Assistant Professor
+- **Official Email**: nishantjain@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 21. Vivek Sharma
+- **Faculty ID**: MITS-FAC-052
+- **Department**: Computer Science & Engineering (CSE)
+- **Designation**: System Analyst
+- **Official Email**: viveks@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 22. Dr. Kirti Raj Bhatele
+- **Faculty ID**: MITS-FAC-053
+- **Department**: Computer Science & Engineering (CSE)
+- **Designation**: Assistant Professor
+- **Official Email**: kirtiraj@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 23. Dr. Saurabh Agarwal
+- **Faculty ID**: MITS-FAC-054
+- **Department**: Computer Science & Engineering (CSE)
+- **Designation**: Assistant Professor
+- **Official Email**: saurabhagarwal@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 24. Dr. Manojeet Roy
+- **Faculty ID**: MITS-FAC-055
+- **Department**: Computer Science & Engineering (CSE)
+- **Designation**: Assistant Professor
+- **Official Email**: manojeetroy@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 25. Dr. Pooja Mishra
+- **Faculty ID**: MITS-FAC-056
+- **Department**: Computer Science & Engineering (CSE)
+- **Designation**: Assistant Professor
+- **Official Email**: poojamishra@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 26. Jigyasa Mishra
+- **Faculty ID**: MITS-FAC-057
+- **Department**: Computer Science & Engineering (CSE)
+- **Designation**: Assistant Professor
+- **Official Email**: jigyasa@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 27. Manisha Pathak
+- **Faculty ID**: MITS-FAC-058
+- **Department**: Computer Science & Engineering (CSE)
+- **Designation**: Assistant Professor
+- **Official Email**: manisha.pits1995@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 28. Mona Pandey Sharma
+- **Faculty ID**: MITS-FAC-059
+- **Department**: Computer Science & Engineering (CSE)
+- **Designation**: Assistant Professor
+- **Official Email**: monap2508@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+----------------------------------------------------------------------
+
+### Department / School: Centre for Artificial Intelligence (AI) / CSE (Extended) (26 Entries)
+----------------------------------------------------------------------
+
+#### 1. Makwana Associate
+- **Faculty ID**: MITS-FAC-060
+- **Department**: Centre for Artificial Intelligence (AI) / CSE (Extended)
+- **Designation**: Professor & Head
+- **Official Email**: rrsingh@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 2. Dr. Anu Sayal
+- **Faculty ID**: MITS-FAC-061
+- **Department**: Centre for Artificial Intelligence (AI) / CSE (Extended)
+- **Designation**: Associate Professor
+- **Official Email**: anusayal@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 3. Dr. Mir Shahnawaz Ahmad
+- **Faculty ID**: MITS-FAC-062
+- **Department**: Centre for Artificial Intelligence (AI) / CSE (Extended)
+- **Designation**: Assistant Professor
+- **Official Email**: mirshahnawaz888@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 4. Dr. Arun Kumar
+- **Faculty ID**: MITS-FAC-063
+- **Department**: Centre for Artificial Intelligence (AI) / CSE (Extended)
+- **Designation**: Assistant Professor
+- **Official Email**: arun.vsrana@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 5. Dr. Pawan Dubey
+- **Faculty ID**: MITS-FAC-064
+- **Department**: Centre for Artificial Intelligence (AI) / CSE (Extended)
+- **Designation**: Assistant Professor
+- **Official Email**: pawand@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 6. Dr. Tej Singh
+- **Faculty ID**: MITS-FAC-065
+- **Department**: Centre for Artificial Intelligence (AI) / CSE (Extended)
+- **Designation**: Assistant Professor
+- **Official Email**: tejs@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 7. Dr. Bhagat Singh Raghuwanshi
+- **Faculty ID**: MITS-FAC-066
+- **Department**: Centre for Artificial Intelligence (AI) / CSE (Extended)
+- **Designation**: Assistant Professor
+- **Official Email**: bhagat@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 8. Dr. Sunil Kumar Shukla
+- **Faculty ID**: MITS-FAC-067
+- **Department**: Centre for Artificial Intelligence (AI) / CSE (Extended)
+- **Designation**: Assistant Professor
+- **Official Email**: sunilshukla@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 9. Dr. Vibha Tiwari
+- **Faculty ID**: MITS-FAC-068
+- **Department**: Centre for Artificial Intelligence (AI) / CSE (Extended)
+- **Designation**: Assistant Professor
+- **Official Email**: vibhatiwari@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 10. Dr. Shubha Mishra
+- **Faculty ID**: MITS-FAC-069
+- **Department**: Centre for Artificial Intelligence (AI) / CSE (Extended)
+- **Designation**: Assistant Professor
+- **Official Email**: shubha@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 11. Dr. Abhishek Bhatt
+- **Faculty ID**: MITS-FAC-070
+- **Department**: Centre for Artificial Intelligence (AI) / CSE (Extended)
+- **Designation**: Assistant Professor
+- **Official Email**: abhishekbhatt@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 12. Dr. Shipra Shukla
+- **Faculty ID**: MITS-FAC-071
+- **Department**: Centre for Artificial Intelligence (AI) / CSE (Extended)
+- **Designation**: Assistant Professor
+- **Official Email**: shiprashukla@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 13. Dr. Hardev Singh Pal
+- **Faculty ID**: MITS-FAC-072
+- **Department**: Centre for Artificial Intelligence (AI) / CSE (Extended)
+- **Designation**: Assistant Professor
+- **Official Email**: HardevPal@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 14. Dr. Rahul Kumar Sharma
+- **Faculty ID**: MITS-FAC-073
+- **Department**: Centre for Artificial Intelligence (AI) / CSE (Extended)
+- **Designation**: Assistant Professor
+- **Official Email**: rahulkumar@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 15. Dr. Sumit Dhariwal
+- **Faculty ID**: MITS-FAC-074
+- **Department**: Centre for Artificial Intelligence (AI) / CSE (Extended)
+- **Designation**: Assistant Professor
+- **Official Email**: sumitdhariwal@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 16. Dr. Neelam Arya
+- **Faculty ID**: MITS-FAC-075
+- **Department**: Centre for Artificial Intelligence (AI) / CSE (Extended)
+- **Designation**: Assistant Professor
+- **Official Email**: neelam9187@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 17. Dr. Nandkishor Joshi
+- **Faculty ID**: MITS-FAC-076
+- **Department**: Centre for Artificial Intelligence (AI) / CSE (Extended)
+- **Designation**: Assistant Professor
+- **Official Email**: nandkishore@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 18. Dr. Neelam Sharma
+- **Faculty ID**: MITS-FAC-077
+- **Department**: Centre for Artificial Intelligence (AI) / CSE (Extended)
+- **Designation**: Assistant Professor
+- **Official Email**: neelamsharma@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 19. Dr. Mausam Chouksey
+- **Faculty ID**: MITS-FAC-078
+- **Department**: Centre for Artificial Intelligence (AI) / CSE (Extended)
+- **Designation**: Assistant Professor
+- **Official Email**: mausam@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 20. Dr. Anurag Singh Tomar
+- **Faculty ID**: MITS-FAC-079
+- **Department**: Centre for Artificial Intelligence (AI) / CSE (Extended)
+- **Designation**: Assistant Professor
+- **Official Email**: anuragsingh@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 21. Dr. Satyam Omar
+- **Faculty ID**: MITS-FAC-080
+- **Department**: Centre for Artificial Intelligence (AI) / CSE (Extended)
+- **Designation**: Assistant Professor
+- **Official Email**: satyamomar@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 22. Dr. Neeraj Mishra
+- **Faculty ID**: MITS-FAC-081
+- **Department**: Centre for Artificial Intelligence (AI) / CSE (Extended)
+- **Designation**: Assistant Professor
+- **Official Email**: mishraneeraj@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 23. Dr. Prerna Mishra
+- **Faculty ID**: MITS-FAC-082
+- **Department**: Centre for Artificial Intelligence (AI) / CSE (Extended)
+- **Designation**: Assistant Professor
+- **Official Email**: prerna@mitsgwalior.ac.in
+- **Contact Number**: 9730085669
+- **Qualification**: PhD
+- **Area / Specialization**: Computer Vision; Applied Artificial Intelligence; Assistive Technologies; Medical Data Analysis
+- **Profile Summary**: Assistant Professor in the Centre for Artificial Intelligence / CSE (Extended). Official profile lists computer vision, applied AI, assistive technologies and medical data analysis.
+- **Profile Verification Status**: Verified (Official Profile Page)
+
+#### 24. Prof. Ramnaresh Sharma
+- **Faculty ID**: MITS-FAC-083
+- **Department**: Centre for Artificial Intelligence (AI) / CSE (Extended)
+- **Designation**: Assistant Professor
+- **Official Email**: ramcse1983@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 25. Prof. Geetika Hazra
+- **Faculty ID**: MITS-FAC-084
+- **Department**: Centre for Artificial Intelligence (AI) / CSE (Extended)
+- **Designation**: Assistant Professor
+- **Official Email**: geetika.sharma03@mitsgwalior.in
+- **Contact Number**: 08697953922
+- **Qualification**: M.Tech
+- **Area / Specialization**: Computer Architecture; Networking; OS
+- **Profile Summary**: Assistant Professor in the Centre for Artificial Intelligence / CSE (Extended). Official profile lists computer architecture, networking and operating systems.
+- **Profile Verification Status**: Verified (Official Profile Page)
+
+#### 26. Prof. Pooja Tripathi
+- **Faculty ID**: MITS-FAC-085
+- **Department**: Centre for Artificial Intelligence (AI) / CSE (Extended)
+- **Designation**: Assistant Professor
+- **Official Email**: pujatripathi798@mitsgwalior.in
+- **Qualification**: M.Tech (Computer Science)
+- **Area / Specialization**: Soft computing; Cyber security; Machine learning
+- **Profile Summary**: Assistant Professor in the Centre for Artificial Intelligence / CSE (Extended). Official profile lists soft computing, cyber security and machine learning.
+- **Profile Verification Status**: Verified (Official Profile Page)
+
+----------------------------------------------------------------------
+
+### Department / School: Centre for IoT (17 Entries)
+----------------------------------------------------------------------
+
+#### 1. Dr. Praveen Bansal Associate
+- **Faculty ID**: MITS-FAC-086
+- **Department**: Centre for IoT
+- **Designation**: Professor & Head
+- **Official Email**: pbansal444@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 2. Dr. Saurabh Kumar Rajput
+- **Faculty ID**: MITS-FAC-087
+- **Department**: Centre for IoT
+- **Designation**: Assistant Professor
+- **Official Email**: saurabh9march@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 3. Dr. Bhavna Rathore
+- **Faculty ID**: MITS-FAC-088
+- **Department**: Centre for IoT
+- **Designation**: Assistant Professor
+- **Official Email**: rathore.puja@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 4. Dr. Kaushal Pratap Sengar
+- **Faculty ID**: MITS-FAC-089
+- **Department**: Centre for IoT
+- **Designation**: Assistant Professor
+- **Official Email**: kaushalsengar@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 5. Dr. Murli Manohar
+- **Faculty ID**: MITS-FAC-090
+- **Department**: Centre for IoT
+- **Designation**: Assistant Professor
+- **Official Email**: murlimanohar@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 6. Dr. Soumyajit Ghosh
+- **Faculty ID**: MITS-FAC-091
+- **Department**: Centre for IoT
+- **Designation**: Assistant Professor
+- **Official Email**: soumyajit@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 7. Dr. Aftab Ahmed Ansari
+- **Faculty ID**: MITS-FAC-092
+- **Department**: Centre for IoT
+- **Designation**: Assistant Professor
+- **Official Email**: aftabansari@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 8. Dr. Dhananjay Bisen
+- **Faculty ID**: MITS-FAC-093
+- **Department**: Centre for IoT
+- **Designation**: Assistant Professor
+- **Official Email**: dhananjay@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 9. Dr. Nookala Venu
+- **Faculty ID**: MITS-FAC-094
+- **Department**: Centre for IoT
+- **Designation**: Assistant Professor
+- **Official Email**: venunookala@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 10. Dr. Priyanka Garg
+- **Faculty ID**: MITS-FAC-095
+- **Department**: Centre for IoT
+- **Designation**: Assistant Professor
+- **Official Email**: priyankagarg@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 11. Dr. Namita Arya
+- **Faculty ID**: MITS-FAC-096
+- **Department**: Centre for IoT
+- **Designation**: Assistant Professor
+- **Official Email**: namitaarya@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 12. Dr. Rupam Srivastava
+- **Faculty ID**: MITS-FAC-097
+- **Department**: Centre for IoT
+- **Designation**: Assistant Professor
+- **Official Email**: rupamsrivastava@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 13. Dr. Poonam Singh
+- **Faculty ID**: MITS-FAC-098
+- **Department**: Centre for IoT
+- **Designation**: Assistant Professor
+- **Official Email**: lodhi.poonam18@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 14. Prof. Anuj Lodhi
+- **Faculty ID**: MITS-FAC-099
+- **Department**: Centre for IoT
+- **Designation**: Assistant Professor
+- **Official Email**: anuj.lodhi123@mitsgwalior.in
+- **Contact Number**: 8839593696
+- **Qualification**: B.E.; M.Tech.; Ph.D. (Pursuing)
+- **Area / Specialization**: Power Quality; Multi-Level Inverters; Internet of Things
+- **Profile Summary**: Assistant Professor in the Centre for IoT. Official profile lists power electronics and IoT-related research interests.
+- **Profile Verification Status**: Verified (Official Profile Page)
+
+#### 15. Prof. Rashmi Shrivastava
+- **Faculty ID**: MITS-FAC-100
+- **Department**: Centre for IoT
+- **Designation**: Assistant Professor
+- **Official Email**: rashmishrivastava@mitsgwalior.in
+- **Contact Number**: 9425478580
+- **Qualification**: B.E.; M.Tech. (VLSI)
+- **Area / Specialization**: VLSI Design; Analog layout chip design; Python; Machine Learning
+- **Profile Summary**: Assistant Professor in the Centre for IoT. Official profile lists VLSI, chip-layout, Python and machine-learning interests.
+- **Profile Verification Status**: Verified (Official Profile Page)
+
+#### 16. Prof. Smita Maithil
+- **Faculty ID**: MITS-FAC-101
+- **Department**: Centre for IoT
+- **Designation**: Assistant Professor
+- **Official Email**: smitamaithil@mitsgwalior.in
+- **Contact Number**: 9111061666
+- **Qualification**: B.E.; M.Tech. (VLSI)
+- **Area / Specialization**: VLSI Design
+- **Profile Summary**: Assistant Professor in the Centre for IoT with VLSI design listed as the official area of interest.
+- **Profile Verification Status**: Verified (Official Profile Page)
+
+#### 17. Prof. Vandana Jaiswal
+- **Faculty ID**: MITS-FAC-102
+- **Department**: Centre for IoT
+- **Designation**: Assistant Professor
+- **Official Email**: jaiswalvandana@mitsgwalior.in
+- **Contact Number**: 9644986950
+- **Qualification**: B.E.; M.Tech. (CSE)
+- **Area / Specialization**: Machine Learning; Deep Learning; Sentiment Analysis
+- **Profile Summary**: Assistant Professor in the Centre for IoT. Official profile lists machine learning, deep learning and sentiment analysis.
+- **Profile Verification Status**: Verified (Official Profile Page)
+
+----------------------------------------------------------------------
+
+### Department / School: Mechanical Engineering (14 Entries)
+----------------------------------------------------------------------
+
+#### 1. Dr. C. S. Malvi
+- **Faculty ID**: MITS-FAC-103
+- **Department**: Mechanical Engineering
+- **Designation**: Professor & Head
+- **Official Email**: csmalvi@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 2. Dr. Pratesh Jayaswal
+- **Faculty ID**: MITS-FAC-104
+- **Department**: Mechanical Engineering
+- **Designation**: Professor
+- **Official Email**: pratesh_jayaswal@mitsgwalior.in
+- **Contact Number**: 0751-2409231
+- **Qualification**: Ph.D. (Mechanical Engineering); M.Tech. (Tribology & Maintenance)
+- **Area / Specialization**: Tribology and Maintenance; Vibration Analysis & Quality Assurance
+- **Profile Summary**: Professor in Mechanical Engineering. Official profile states he joined MITS in 2003 and also serves as Dean (Planning), with previous Mechanical Engineering HOD roles and involvement in NBA accreditation.
+- **Profile Verification Status**: Verified (Official Profile Page)
+
+#### 3. Dr. Manoj Kumar Gaur
+- **Faculty ID**: MITS-FAC-105
+- **Department**: Mechanical Engineering
+- **Designation**: Professor
+- **Official Email**: mkgaur@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 4. Dr. Manish Kumar Sagar
+- **Faculty ID**: MITS-FAC-106
+- **Department**: Mechanical Engineering
+- **Designation**: Professor
+- **Official Email**: mksagar@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 5. Dr. Jyoti Vimal
+- **Faculty ID**: MITS-FAC-107
+- **Department**: Mechanical Engineering
+- **Designation**: Associate Professor
+- **Official Email**: jyoti_vimal@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 6. Rajendra Prasad Kori
+- **Faculty ID**: MITS-FAC-108
+- **Department**: Mechanical Engineering
+- **Designation**: Assistant Professor
+- **Official Email**: rpkori@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 7. Vedansh Chaturvedi
+- **Faculty ID**: MITS-FAC-109
+- **Department**: Mechanical Engineering
+- **Designation**: Assistant Professor
+- **Official Email**: vedansh.87@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 8. Sharad Agarwal
+- **Faculty ID**: MITS-FAC-110
+- **Department**: Mechanical Engineering
+- **Designation**: Assistant Professor
+- **Official Email**: sharad.mits03@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 9. Vaibhav Shivhare
+- **Faculty ID**: MITS-FAC-111
+- **Department**: Mechanical Engineering
+- **Designation**: Assistant Professor
+- **Official Email**: v.shivhare@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 10. Dr. Amit Aherwar
+- **Faculty ID**: MITS-FAC-112
+- **Department**: Mechanical Engineering
+- **Designation**: Assistant Professor
+- **Official Email**: amit.aherwar05@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 11. Bhupendra Kumar Pandey
+- **Faculty ID**: MITS-FAC-113
+- **Department**: Mechanical Engineering
+- **Designation**: Assistant Professor
+- **Official Email**: bhupendrapandey@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 12. Dr. Nitin Upadhyay
+- **Faculty ID**: MITS-FAC-114
+- **Department**: Mechanical Engineering
+- **Designation**: Assistant Professor
+- **Official Email**: nitin.upadhyay7@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 13. Dr. Surendra Kumar Chourasiya
+- **Faculty ID**: MITS-FAC-115
+- **Department**: Mechanical Engineering
+- **Designation**: Assistant Professor
+- **Official Email**: sur26mech@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 14. Dr. Gavendra Norkey
+- **Faculty ID**: MITS-FAC-116
+- **Department**: Mechanical Engineering
+- **Designation**: Assistant Professor
+- **Official Email**: gavin.norkey@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+----------------------------------------------------------------------
+
+### Department / School: Electronics & Telecommunications Engineering (ETE) (26 Entries)
+----------------------------------------------------------------------
+
+#### 1. Dr. Vandana Vikas Thakare
+- **Faculty ID**: MITS-FAC-117
+- **Department**: Electronics & Telecommunications Engineering (ETE)
+- **Designation**: Professor & Head
+- **Official Email**: vandana@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 2. Dr. P. K. Singhal
+- **Faculty ID**: MITS-FAC-118
+- **Department**: Electronics & Telecommunications Engineering (ETE)
+- **Designation**: Professor
+- **Official Email**: pks_65@mitsgwalior.in
+- **Contact Number**: 9425341555
+- **Qualification**: PhD
+- **Area / Specialization**: Microwave Engineering
+- **Profile Summary**: Professor in Electronics & Telecommunications Engineering. Official profile reports extensive teaching/research experience, doctoral supervision, patents, funded projects, awards and a substantial publication record.
+- **Profile Verification Status**: Verified (Official Profile Page)
+
+#### 3. Dr. Laxmi Shrivastava
+- **Faculty ID**: MITS-FAC-119
+- **Department**: Electronics & Telecommunications Engineering (ETE)
+- **Designation**: Professor
+- **Official Email**: lselex@mitsgwalior.in
+- **Contact Number**: 9425112732
+- **Qualification**: B.Tech.; M.Tech. (Microwave Engineering); Ph.D. (Wireless Networks)
+- **Area / Specialization**: Wireless Networks
+- **Profile Summary**: Professor in Electronics & Telecommunications Engineering. Official profile records a gold-medal B.Tech., Ph.D. research in wireless networks, a book, patent and extensive journal/conference/book-chapter publication activity.
+- **Profile Verification Status**: Verified (Official Profile Page)
+
+#### 4. Dr. R. P. Narwaria
+- **Faculty ID**: MITS-FAC-120
+- **Department**: Electronics & Telecommunications Engineering (ETE)
+- **Designation**: Associate Professor
+- **Official Email**: rpnarwaria@mitsgwalior.in
+- **Contact Number**: 9301950530
+- **Qualification**: PhD; M.E.; B.E.
+- **Area / Specialization**: Biomedical Signal Processing; Control System
+- **Profile Summary**: Associate Professor in Electronics & Telecommunications Engineering. Official profile records teaching experience, RGPV Nodal Centre responsibility, postgraduate/doctoral supervision, a patent and extensive publication/training activity.
+- **Profile Verification Status**: Verified (Official Profile Page)
+
+#### 5. Dr. Karuna Markam
+- **Faculty ID**: MITS-FAC-121
+- **Department**: Electronics & Telecommunications Engineering (ETE)
+- **Designation**: Associate Professor
+- **Official Email**: karuna_markam@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 6. Dr. Madhav Singh
+- **Faculty ID**: MITS-FAC-122
+- **Department**: Electronics & Telecommunications Engineering (ETE)
+- **Designation**: Assistant Professor
+- **Official Email**: madhav.singh1@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 7. Dr. Vikas Mahor
+- **Faculty ID**: MITS-FAC-123
+- **Department**: Electronics & Telecommunications Engineering (ETE)
+- **Designation**: Assistant Professor
+- **Official Email**: vikas@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 8. Dr. Hemant Choubey
+- **Faculty ID**: MITS-FAC-124
+- **Department**: Electronics & Telecommunications Engineering (ETE)
+- **Designation**: Assistant Professor
+- **Official Email**: hemantchoubey271986@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 9. Dr. Varun Mishra
+- **Faculty ID**: MITS-FAC-125
+- **Department**: Electronics & Telecommunications Engineering (ETE)
+- **Designation**: Assistant Professor
+- **Official Email**: varun@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 10. Dr. Mukesh Kumar Mishra
+- **Faculty ID**: MITS-FAC-126
+- **Department**: Electronics & Telecommunications Engineering (ETE)
+- **Designation**: Assistant Professor
+- **Official Email**: mukeshmishra@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 11. Dr. Kumar Gaurav
+- **Faculty ID**: MITS-FAC-127
+- **Department**: Electronics & Telecommunications Engineering (ETE)
+- **Designation**: Assistant Professor
+- **Official Email**: kumargaurav@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 12. Dr. Shailendra Singh
+- **Faculty ID**: MITS-FAC-128
+- **Department**: Electronics & Telecommunications Engineering (ETE)
+- **Designation**: Assistant Professor
+- **Official Email**: shailendrasingh@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 13. Dr. Prateek Bhadauria
+- **Faculty ID**: MITS-FAC-129
+- **Department**: Electronics & Telecommunications Engineering (ETE)
+- **Designation**: Assistant Professor
+- **Official Email**: bhadauria.prateek@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 14. Dr. R. Jenkin Suji
+- **Faculty ID**: MITS-FAC-130
+- **Department**: Electronics & Telecommunications Engineering (ETE)
+- **Designation**: Assistant Professor
+- **Official Email**: sujijenkin@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 15. Dr. Nidhi Saxena
+- **Faculty ID**: MITS-FAC-131
+- **Department**: Electronics & Telecommunications Engineering (ETE)
+- **Designation**: Assistant Professor
+- **Official Email**: nidhisaxena@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 16. Prof. D. K. Parsediya
+- **Faculty ID**: MITS-FAC-132
+- **Department**: Electronics & Telecommunications Engineering (ETE)
+- **Designation**: Assistant Professor
+- **Official Email**: parsediyadeep@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 17. Dr. Rahul Dubey
+- **Faculty ID**: MITS-FAC-133
+- **Department**: Electronics & Telecommunications Engineering (ETE)
+- **Designation**: Assistant Professor
+- **Official Email**: rahul@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 18. Dr. Deepak Batham
+- **Faculty ID**: MITS-FAC-134
+- **Department**: Electronics & Telecommunications Engineering (ETE)
+- **Designation**: Assistant Professor
+- **Official Email**: dbatham@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 19. Dr. Varun Sharma
+- **Faculty ID**: MITS-FAC-135
+- **Department**: Electronics & Telecommunications Engineering (ETE)
+- **Designation**: Assistant Professor
+- **Official Email**: varuns@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 20. Dr. Shubhi Kansal
+- **Faculty ID**: MITS-FAC-136
+- **Department**: Electronics & Telecommunications Engineering (ETE)
+- **Designation**: Assistant Professor
+- **Official Email**: shubhik@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 21. Dr. Himanshu Singh
+- **Faculty ID**: MITS-FAC-137
+- **Department**: Electronics & Telecommunications Engineering (ETE)
+- **Designation**: Assistant Professor
+- **Official Email**: himanshu@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 22. Dr. Yogesh Kumar
+- **Faculty ID**: MITS-FAC-138
+- **Department**: Electronics & Telecommunications Engineering (ETE)
+- **Designation**: Assistant Professor
+- **Official Email**: yogeshkumar@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 23. Dr. Ranbeer Tyagi
+- **Faculty ID**: MITS-FAC-139
+- **Department**: Electronics & Telecommunications Engineering (ETE)
+- **Designation**: Assistant Professor
+- **Official Email**: ranbeertyagi85@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 24. Prof. Pooja Sahoo
+- **Faculty ID**: MITS-FAC-140
+- **Department**: Electronics & Telecommunications Engineering (ETE)
+- **Designation**: Assistant Professor
+- **Official Email**: sahu.pooja2009@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 25. Dr. Vandana Bhatt
+- **Faculty ID**: MITS-FAC-141
+- **Department**: Electronics & Telecommunications Engineering (ETE)
+- **Designation**: Assistant Professor
+- **Official Email**: vandanags@gmail.com
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 26. Prof. Pavitra Pathak
+- **Faculty ID**: MITS-FAC-142
+- **Department**: Electronics & Telecommunications Engineering (ETE)
+- **Designation**: Assistant Professor
+- **Official Email**: pavitra@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+----------------------------------------------------------------------
+
+### Department / School: Information Technology (IT) (10 Entries)
+----------------------------------------------------------------------
+
+#### 1. Dr. Punit Kumar Johari Associate
+- **Faculty ID**: MITS-FAC-143
+- **Department**: Information Technology (IT)
+- **Designation**: Professor & Head
+- **Official Email**: pkjohari@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 2. Dr. Akhilesh Tiwari
+- **Faculty ID**: MITS-FAC-144
+- **Department**: Information Technology (IT)
+- **Designation**: Professor
+- **Official Email**: atiwari@mitsgwalior.in
+- **Contact Number**: 9407204907
+- **Profile Summary**: Professor in Information Technology. Official MITS profile records service as Dean (Academics), previous Head of Information Technology, Head of CST, Director at SATI Vidisha, and earlier CSE/IT leadership roles.
+- **Profile Verification Status**: Verified (Official Profile Page)
+
+#### 3. Dr. Sanjiv Sharma
+- **Faculty ID**: MITS-FAC-145
+- **Department**: Information Technology (IT)
+- **Designation**: Associate Professor
+- **Official Email**: dr.sanjiv@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 4. Vikas Sejwar
+- **Faculty ID**: MITS-FAC-146
+- **Department**: Information Technology (IT)
+- **Designation**: Assistant Professor
+- **Official Email**: vikassejwar@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 5. Dr. R. K. Singh
+- **Faculty ID**: MITS-FAC-147
+- **Department**: Information Technology (IT)
+- **Designation**: Assistant Professor
+- **Official Email**: rajeevkumar@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 6. Neha Bhardwaj
+- **Faculty ID**: MITS-FAC-148
+- **Department**: Information Technology (IT)
+- **Designation**: Assistant Professor
+- **Official Email**: nehabhardwaj@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 7. Dr. Vikram Rajpoot
+- **Faculty ID**: MITS-FAC-149
+- **Department**: Information Technology (IT)
+- **Designation**: Assistant Professor
+- **Official Email**: vikramraj@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 8. Surbhi Gupta
+- **Faculty ID**: MITS-FAC-150
+- **Department**: Information Technology (IT)
+- **Designation**: Assistant Professor
+- **Official Email**: surbhigupta968@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 9. Shubham Sharma
+- **Faculty ID**: MITS-FAC-151
+- **Department**: Information Technology (IT)
+- **Designation**: Assistant Professor
+- **Official Email**: shubham6618@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 10. Ms Kumud Dixit
+- **Faculty ID**: MITS-FAC-152
+- **Department**: Information Technology (IT)
+- **Designation**: Assistant Professor
+- **Official Email**: kumuddixit20@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+----------------------------------------------------------------------
+
+### Department / School: Engineering Mathematics & Computing (EMC) (13 Entries)
+----------------------------------------------------------------------
+
+#### 1. Dr. D. K. Jain
+- **Faculty ID**: MITS-FAC-153
+- **Department**: Engineering Mathematics & Computing (EMC)
+- **Designation**: Professor & Head
+- **Official Email**: ain_dkj@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 2. Dr. Vikas Shinde
+- **Faculty ID**: MITS-FAC-154
+- **Department**: Engineering Mathematics & Computing (EMC)
+- **Designation**: Professor
+- **Official Email**: vpshinde@mitsgwalior.in
+- **Contact Number**: 9425773073
+- **Qualification**: Ph.D.
+- **Area / Specialization**: Optimization Techniques; Soft Computing; System Reliability
+- **Profile Summary**: Professor in Engineering Mathematics & Computing. Official profile describes research in queueing models, soft computing and system reliability, more than 70 research articles, books and Ph.D. supervision.
+- **Profile Verification Status**: Verified (Official Profile Page)
+
+#### 3. Dr. J. K. Muthele
+- **Faculty ID**: MITS-FAC-155
+- **Department**: Engineering Mathematics & Computing (EMC)
+- **Designation**: Associate Professor
+- **Official Email**: jkmuthele@mitsgwalior.in
+- **Contact Number**: 9406587830
+- **Qualification**: Ph.D.
+- **Area / Specialization**: Queuing Theory
+- **Profile Summary**: Associate Professor in Engineering Mathematics & Computing. Official profile records M.Sc./M.Phil. mathematics, Ph.D. from RGPV and research in queueing theory and its models.
+- **Profile Verification Status**: Verified (Official Profile Page)
+
+#### 4. Prabhakar Sharma
+- **Faculty ID**: MITS-FAC-156
+- **Department**: Engineering Mathematics & Computing (EMC)
+- **Designation**: Assistant Professor (SG)
+- **Official Email**: psharma70@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 5. Dr. Minakshi Poonia
+- **Faculty ID**: MITS-FAC-157
+- **Department**: Engineering Mathematics & Computing (EMC)
+- **Designation**: Assistant Professor
+- **Official Email**: minakshi@mitsgwalior.in
+- **Contact Number**: 9389522592
+- **Qualification**: Ph.D. (IIT Roorkee); CSIR-NET-JRF; GATE
+- **Area / Specialization**: Computational Fluid Dynamics; Finite Element Method; Non-Newtonian Flow; Heat and Mass Transfer
+- **Profile Summary**: Assistant Professor in Engineering Mathematics & Computing. Official profile records a Ph.D. from IIT Roorkee, teaching at MITS and NIT Kurukshetra, and several current academic/administrative coordination roles.
+- **Profile Verification Status**: Verified (Official Profile Page)
+
+#### 6. Dr. Divya Chaturvedi
+- **Faculty ID**: MITS-FAC-158
+- **Department**: Engineering Mathematics & Computing (EMC)
+- **Designation**: Assistant Professor
+- **Official Email**: divyac@mitsgwalior.in
+- **Contact Number**: 8602565012
+- **Qualification**: Ph.D.
+- **Area / Specialization**: Mathematical Modelling of Ecological Systems
+- **Profile Summary**: Assistant Professor in Engineering Mathematics & Computing. Official profile records Ph.D. from Jiwaji University, M.P. Young Scientist Award, teaching experience, research publications and multiple departmental coordination responsibilities.
+- **Profile Verification Status**: Verified (Official Profile Page)
+
+#### 7. Dr. Barkha Tiwari
+- **Faculty ID**: MITS-FAC-159
+- **Department**: Engineering Mathematics & Computing (EMC)
+- **Designation**: Assistant Professor
+- **Official Email**: barkhatiwari@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 8. Dr. Vijay Shankar Sharma
+- **Faculty ID**: MITS-FAC-160
+- **Department**: Engineering Mathematics & Computing (EMC)
+- **Designation**: Assistant Professor
+- **Official Email**: vijaysharma@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 9. Dr. Anand Pawar
+- **Faculty ID**: MITS-FAC-161
+- **Department**: Engineering Mathematics & Computing (EMC)
+- **Designation**: Assistant Professor
+- **Official Email**: anandpawar@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 10. Dr. Nidhi Humnekar
+- **Faculty ID**: MITS-FAC-162
+- **Department**: Engineering Mathematics & Computing (EMC)
+- **Designation**: Assistant Professor
+- **Official Email**: nidhihumnekar@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 11. Dr. Kuldeep Kumar Tiwari
+- **Faculty ID**: MITS-FAC-163
+- **Department**: Engineering Mathematics & Computing (EMC)
+- **Designation**: Assistant Professor
+- **Official Email**: kuldeepkumar@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 12. Dr. Dilip Kumar Mishra
+- **Faculty ID**: MITS-FAC-164
+- **Department**: Engineering Mathematics & Computing (EMC)
+- **Designation**: Assistant Professor
+- **Official Email**: mishradilip3826@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 13. Dr. S. K. Bhardwaj
+- **Faculty ID**: MITS-FAC-165
+- **Department**: Engineering Mathematics & Computing (EMC)
+- **Designation**: Assistant Professor
+- **Official Email**: bhardwajsantosh@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+----------------------------------------------------------------------
+
+### Department / School: Centre for Computer Science & Technology (CCST) (12 Entries)
+----------------------------------------------------------------------
+
+#### 1. Dr. Abhishek Dixit
+- **Faculty ID**: MITS-FAC-166
+- **Department**: Centre for Computer Science & Technology (CCST)
+- **Designation**: Assistant Professor & Coordinator
+- **Official Email**: abhishekdixit@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 2. Dr. Saumil Maheshwari
+- **Faculty ID**: MITS-FAC-167
+- **Department**: Centre for Computer Science & Technology (CCST)
+- **Designation**: Assistant Professor
+- **Official Email**: saumil@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 3. Dr. Devanshu Tiwari
+- **Faculty ID**: MITS-FAC-168
+- **Department**: Centre for Computer Science & Technology (CCST)
+- **Designation**: Assistant Professor
+- **Official Email**: devanshutiwari@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 4. Dr. Gulshan Soni
+- **Faculty ID**: MITS-FAC-169
+- **Department**: Centre for Computer Science & Technology (CCST)
+- **Designation**: Assistant Professor
+- **Official Email**: gulshansoni@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 5. Dr. Tejaswita Mishra
+- **Faculty ID**: MITS-FAC-170
+- **Department**: Centre for Computer Science & Technology (CCST)
+- **Designation**: Assistant Professor
+- **Official Email**: tejaswita@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 6. Dr. Shradha Dubey
+- **Faculty ID**: MITS-FAC-171
+- **Department**: Centre for Computer Science & Technology (CCST)
+- **Designation**: Assistant Professor
+- **Official Email**: shradhadubey@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 7. Dr. Suchitra Agrawal
+- **Faculty ID**: MITS-FAC-172
+- **Department**: Centre for Computer Science & Technology (CCST)
+- **Designation**: Assistant Professor
+- **Official Email**: suchitra@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 8. Prof. Utkarsh Sharma
+- **Faculty ID**: MITS-FAC-173
+- **Department**: Centre for Computer Science & Technology (CCST)
+- **Designation**: Assistant Professor
+- **Official Email**: utkarshsharma770@mitsgwalior.in
+- **Contact Number**: +91-8269149178
+- **Qualification**: M.Tech (CSE)
+- **Area / Specialization**: Computer Networks; Artificial Intelligence; Cloud Computing
+- **Profile Summary**: Assistant Professor in the Centre for Computer Science and Technology. Official profile lists computer networks, AI and cloud computing.
+- **Profile Verification Status**: Verified (Official Profile Page)
+
+#### 9. Prof. Aditi Samadhiya
+- **Faculty ID**: MITS-FAC-174
+- **Department**: Centre for Computer Science & Technology (CCST)
+- **Designation**: Assistant Professor
+- **Official Email**: aditi.789.iti@mitsgwalior.in
+- **Contact Number**: 8147313719
+- **Qualification**: M.Tech; Ph.D. (Pursuing)
+- **Area / Specialization**: Machine Learning; Deep Learning; Noise Cancellation
+- **Profile Summary**: Assistant Professor in the Centre for Computer Science and Technology. Official profile lists ML, deep learning and noise cancellation.
+- **Profile Verification Status**: Verified (Official Profile Page)
+
+#### 10. Prof. Mithun Sahay Shrivastava
+- **Faculty ID**: MITS-FAC-175
+- **Department**: Centre for Computer Science & Technology (CCST)
+- **Designation**: Assistant Professor
+- **Official Email**: mithunsahaygwl@mitsgwalior.in
+- **Contact Number**: +91-9584678787
+- **Qualification**: M.Tech.
+- **Area / Specialization**: Computer Network and VANET
+- **Profile Summary**: Assistant Professor in the Centre for Computer Science and Technology. Official profile lists computer networks and VANET.
+- **Profile Verification Status**: Verified (Official Profile Page)
+
+#### 11. Prof. Anil Kumar Fatehpuria
+- **Faculty ID**: MITS-FAC-176
+- **Department**: Centre for Computer Science & Technology (CCST)
+- **Designation**: Assistant Professor
+- **Official Email**: anilkumar@mitsgwalior.in
+- **Contact Number**: +91-7470776600
+- **Qualification**: M.Tech.; Ph.D. (Pursuing)
+- **Area / Specialization**: Machine Learning; Artificial Intelligence; Data Mining; Cloud Computing
+- **Profile Summary**: Assistant Professor in the Centre for Computer Science and Technology. Official profile lists ML, AI, data mining and cloud computing.
+- **Profile Verification Status**: Verified (Official Profile Page)
+
+#### 12. Prof. Tanuja Sharma
+- **Faculty ID**: MITS-FAC-177
+- **Department**: Centre for Computer Science & Technology (CCST)
+- **Designation**: Assistant Professor
+- **Official Email**: sharma.tanuja015@mitsgwalior.in
+- **Contact Number**: +91-7000030248
+- **Qualification**: M.Tech.; Ph.D. (Pursuing)
+- **Area / Specialization**: Cryptography & Artificial Intelligence
+- **Profile Summary**: Assistant Professor in the Centre for Computer Science and Technology. Official profile lists cryptography and AI.
+- **Profile Verification Status**: Verified (Official Profile Page)
+
+----------------------------------------------------------------------
+
+### Department / School: Chemical Engineering (4 Entries)
+----------------------------------------------------------------------
+
+#### 1. Prof. Anish P. Jacob
+- **Faculty ID**: MITS-FAC-178
+- **Department**: Chemical Engineering
+- **Designation**: Assistant Professor & Coordinator
+- **Official Email**: anishjaco@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 2. Prof. Swati Gupta
+- **Faculty ID**: MITS-FAC-179
+- **Department**: Chemical Engineering
+- **Designation**: Assistant Professor
+- **Official Email**: swatig128@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 3. Dr. Shourabh Singh Raghuwanshi
+- **Faculty ID**: MITS-FAC-180
+- **Department**: Chemical Engineering
+- **Designation**: Assistant Professor
+- **Official Email**: shourabh.raghuwanshi@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 4. Shivangi Sharma
+- **Faculty ID**: MITS-FAC-181
+- **Department**: Chemical Engineering
+- **Designation**: Assistant Professor
+- **Official Email**: shivangi@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+----------------------------------------------------------------------
+
+### Department / School: Architecture & Planning (10 Entries)
+----------------------------------------------------------------------
+
+#### 1. Dr. Anjali S. Patil
+- **Faculty ID**: MITS-FAC-182
+- **Department**: Architecture & Planning
+- **Designation**: Professor & Head
+- **Official Email**: anjalipatil@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 2. Prof. Sanjay Singh Jadon
+- **Faculty ID**: MITS-FAC-183
+- **Department**: Architecture & Planning
+- **Designation**: Professor
+- **Official Email**: jadon100@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 3. Dr. Alok Sharma
+- **Faculty ID**: MITS-FAC-184
+- **Department**: Architecture & Planning
+- **Designation**: Professor (on Lien)
+- **Official Email**: alok20265@gmail.com
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 4. Dr. Akansha Soni
+- **Faculty ID**: MITS-FAC-185
+- **Department**: Architecture & Planning
+- **Designation**: Assistant Professor
+- **Official Email**: akanshasoni@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 5. Richa Mishra
+- **Faculty ID**: MITS-FAC-186
+- **Department**: Architecture & Planning
+- **Designation**: Assistant Professor
+- **Official Email**: richarch11@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 6. Pranshi Jain
+- **Faculty ID**: MITS-FAC-187
+- **Department**: Architecture & Planning
+- **Designation**: Assistant Professor
+- **Official Email**: pranshijain8@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 7. Ankit Kumar
+- **Faculty ID**: MITS-FAC-188
+- **Department**: Architecture & Planning
+- **Designation**: Assistant Professor
+- **Official Email**: kumarankeet@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 8. Ar. Shivani Singh Ghuraiya
+- **Faculty ID**: MITS-FAC-189
+- **Department**: Architecture & Planning
+- **Designation**: Assistant Professor
+- **Official Email**: shivanisinghshivanisingh@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 9. Mr. K. K. Mitra
+- **Faculty ID**: MITS-FAC-190
+- **Department**: Architecture & Planning
+- **Designation**: Visiting Faculty
+- **Official Email**: kk.mitra@lloydinsulation.com
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 10. Ar. Dhanashree Kulkarni
+- **Faculty ID**: MITS-FAC-191
+- **Department**: Architecture & Planning
+- **Designation**: Visiting Faculty
+- **Official Email**: dhanakulkarni@gmail.com
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+----------------------------------------------------------------------
+
+### Department / School: Applied Science (6 Entries)
+----------------------------------------------------------------------
+
+#### 1. Dr. Anjula Gaur
+- **Faculty ID**: MITS-FAC-192
+- **Department**: Applied Science
+- **Designation**: Associate Professor & Coordinator
+- **Official Email**: anjulagaur@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 2. Dr. Sunita Sharma
+- **Faculty ID**: MITS-FAC-193
+- **Department**: Applied Science
+- **Designation**: Associate Professor
+- **Official Email**: sunitasharma75@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 3. Dr. Baljinder Kaur
+- **Faculty ID**: MITS-FAC-194
+- **Department**: Applied Science
+- **Designation**: Assistant Professor
+- **Official Email**: BaljinderKaur@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 4. Dr. Preeti Gupta
+- **Faculty ID**: MITS-FAC-195
+- **Department**: Applied Science
+- **Designation**: Assistant Professor
+- **Official Email**: preeti.gupta605@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 5. Dr. Ashok Sharma
+- **Faculty ID**: MITS-FAC-196
+- **Department**: Applied Science
+- **Designation**: Assistant Professor
+- **Official Email**: draksphy@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 6. Dr. Shailendra K. Dwivedi
+- **Faculty ID**: MITS-FAC-197
+- **Department**: Applied Science
+- **Designation**: Assistant Professor
+- **Official Email**: shail.dew04@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+----------------------------------------------------------------------
+
+### Department / School: Humanities & Management (5 Entries)
+----------------------------------------------------------------------
+
+#### 1. Sanjeev Khanna
+- **Faculty ID**: MITS-FAC-198
+- **Department**: Humanities & Management
+- **Designation**: Associate Professor
+- **Official Email**: drkhannasanjeev@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 2. Dr. Trilok Pratap Singh Chauhan
+- **Faculty ID**: MITS-FAC-199
+- **Department**: Humanities & Management
+- **Designation**: Assistant Professor
+- **Official Email**: trilokpratapsinghchauhan@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 3. Dr. Monica Chauhan Bhadoriya
+- **Faculty ID**: MITS-FAC-200
+- **Department**: Humanities & Management
+- **Designation**: Assistant Professor
+- **Official Email**: monicachauhan.7@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 4. Dr. Arzoo Choubey
+- **Faculty ID**: MITS-FAC-201
+- **Department**: Humanities & Management
+- **Designation**: Assistant Professor
+- **Official Email**: arzoochoubey@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+#### 5. Dr. Charu Goyal
+- **Faculty ID**: MITS-FAC-202
+- **Department**: Humanities & Management
+- **Designation**: Assistant Professor
+- **Official Email**: goyal.charu09@mitsgwalior.in
+- **Profile Summary**: Detailed profile not individually verified in this pass.
+- **Profile Verification Status**: Standard Directory Entry
+
+----------------------------------------------------------------------

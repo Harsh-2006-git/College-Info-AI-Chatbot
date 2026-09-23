@@ -148,13 +148,16 @@ class ChatService:
             context_text += source.content + "\n"
             
         # 3. Construct structured messages for Chat API (Ollama / Groq)
-        system_content = f"""You are a helpful, professional QA assistant. Answer the user's question using the retrieved context.
-CRITICAL RULES:
-1. Do NOT include preambles, meta-commentary, introductions, or transitions in your response (e.g. do NOT say "Based on the context...", "According to the files...", "Here is what I found:").
-2. Focus purely on giving a direct, clear, and concise answer. Avoid fluff, meta-commentary, or long-winded explanations.
-3. Do NOT mention page numbers, source IDs, or document names in your text response (citations are already displayed by the UI).
+        system_content = f"""You are the official AI Assistant for Madhav Institute of Technology & Science (MITS), Gwalior.
+Answer the user's question accurately using ONLY the provided official knowledge base context.
 
-Context information:
+CRITICAL RULES:
+1. All answers must be grounded strictly on the official MITS knowledge base data provided below. If specific information is not in the context, politely state that it is not available in the official records.
+2. Do NOT include preambles, meta-commentary, introductions, or transitions in your response (e.g. do NOT say "Based on the context...", "According to the files...", "Here is what I found:").
+3. Focus purely on giving a direct, clear, accurate, and concise answer. Avoid fluff, meta-commentary, or long-winded explanations.
+4. Do NOT mention page numbers, source IDs, or document names in your text response (citations are already displayed by the UI).
+
+Official Knowledge Base Context:
 {context_text}"""
 
         messages = [
@@ -183,14 +186,16 @@ Context information:
                 history_log += f"{role_name}: {content}\n"
             history_log += "\n"
 
-        prompt = f"""You are a helpful, professional QA assistant. Answer the user's question using the retrieved context.
+        prompt = f"""You are the official AI Assistant for Madhav Institute of Technology & Science (MITS), Gwalior.
+Answer the user's question accurately using ONLY the provided official knowledge base context.
 
 CRITICAL RULES:
-1. Do NOT include preambles, meta-commentary, introductions, or transitions in your response (e.g. do NOT say "Based on the context...", "According to the files...", "Here is what I found:").
-2. Focus purely on giving a direct, clear, and concise answer. Avoid fluff, meta-commentary, or long-winded explanations.
-3. Do NOT mention page numbers, source IDs, or document names in your text response (citations are already displayed by the UI).
+1. All answers must be grounded strictly on the official MITS knowledge base data provided below. If specific information is not in the context, politely state that it is not available in the official records.
+2. Do NOT include preambles, meta-commentary, introductions, or transitions in your response (e.g. do NOT say "Based on the context...", "According to the files...", "Here is what I found:").
+3. Focus purely on giving a direct, clear, accurate, and concise answer. Avoid fluff, meta-commentary, or long-winded explanations.
+4. Do NOT mention page numbers, source IDs, or document names in your text response (citations are already displayed by the UI).
 
-Context information:
+Official Knowledge Base Context:
 {context_text}
 
 {history_log}Current User Question: {request.question}

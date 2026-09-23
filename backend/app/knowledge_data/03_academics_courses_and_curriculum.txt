@@ -1,0 +1,63 @@
+================================================================================
+MADHAV INSTITUTE OF TECHNOLOGY & SCIENCE (MITS), GWALIOR
+03. ACADEMIC DEGREES, COURSES OFFERED & INTAKE CAPACITY
+================================================================================
+
+## 1. Undergraduate Engineering & Architecture Degree Programs (19 Programs)
+MITS offers 19 specialized B.Tech and B.Arch degree courses designed under NEP-2020:
+
+| Year Started | Name of Degree Program | Annual Intake |
+| :--- | :--- | :--- |
+| 1957 | B.Tech Civil Engineering | 60 |
+| 1957 | B.Tech Mechanical Engineering | 60 |
+| 1957 | B.Tech Electrical Engineering | 60 |
+| 1982 | B.Tech Electronics Engineering | 120 |
+| 1984 | Bachelor of Architecture (B.Arch - 5 Year) | 40 |
+| 1994 | B.Tech Computer Science & Engineering (CSE) | 120 |
+| 1996 | B.Tech Chemical Engineering | 30 |
+| 2000 | B.Tech Information Technology (IT) | 120 |
+| 2015 | B.Tech Electronics & Telecommunication Engineering (ETE) | 120 |
+| 2020 | B.Tech Information Technology (AI and Robotics) | 60 |
+| 2020 | B.Tech Internet of Things (IoT) | 60 |
+| 2020 | B.Tech Mathematics and Computing | 120 |
+| 2021 | B.Tech Artificial Intelligence (AI) and Data Science | 60 |
+| 2021 | B.Tech Artificial Intelligence and Machine Learning (AI & ML) | 60 |
+| 2021 | B.Tech Computer Science and Design (CSD) | 120 |
+| 2024 | B.Tech Computer Science & Business Systems (CSBS) | 60 |
+| 2024 | B.Tech Artificial Intelligence (AI) | 120 |
+| 2025 | B.Tech Computer Science and Technology (CST) | 120 |
+| 2025 | B.Tech Electrical and Computer Engineering (ECE) | 60 |
+
+Total Undergraduate Intake: 1,510 students per academic year.
+
+## 2. Postgraduate Degree Programs (11 Programs)
+MITS offers 11 advanced Masters programs (M.Tech, M.E., MCA, MBA):
+
+| Year Started | Name of Postgraduate Program | Annual Intake |
+| :--- | :--- | :--- |
+| 1986 | M.E. Construction Technology & Management (CTM) | 18 |
+| 1986 | Masters in Computer Applications (M.C.A. - 2 Year) | 60 |
+| 2002 | M.Tech Production Engineering | 18 |
+| 2011 | M.Tech Computer Science & Engineering (CSE) | 18 |
+| 2012 | M.Tech Information Technology | 18 |
+| 2025 | M.Tech Embedded System and VLSI | 18 |
+| 2025 | M.Tech Structural Engineering | 18 |
+| 2026 | M.Tech Artificial Intelligence | 18 |
+| 2026 | M.Tech Information Security | 18 |
+| 2026 | M.Tech Internet of Things (IoT) | 18 |
+| 2026 | Master of Business Administration (MBA) | 60 |
+
+Total Postgraduate Intake: 274 students per academic year.
+
+## 3. Doctoral (Ph.D.) & Post-Doctoral Programs
+- MITS is an approved Quality Improvement Programme (QIP) Centre for PG and Ph.D. degrees by AICTE/Ministry of Education.
+- Full-time and Part-time Ph.D. programs offered across Civil, Mechanical, Electrical, CSE, IT, Electronics, Mathematics, and Applied Sciences.
+- Fellowships: Junior Research Fellowship (JRF) under MPCST funded projects, Institute Fellowships, and Post-Doctoral Fellowships (PDF).
+
+## 4. Key Academic Features & NEP-2020 Implementation
+- Multiple Entry & Multiple Exit (MEME): Direct admissions to 2nd and 3rd year UG programs under MEME guidelines.
+- Relative Statistical Grading: Implemented across all B.Tech and MCA courses to eliminate exam paper difficulty bias.
+- Mandatory Digital Skills: Python, Data Science, and Machine Learning are compulsory foundational courses for all students regardless of engineering branch.
+- Minor Degree Specializations: Students from conventional branches can earn Minor Degrees in AI, IoT, Robotics, Data Science, or Cyber Security.
+- Novel Engaging Courses (NEC): Compulsory courses in II Semester focused on hands-on practical skills and multidisciplinary development.
+- Continuous Evaluation: Weekly LMS quizzes, mid-term evaluations, project exhibitions, and laboratory proficiencies.
