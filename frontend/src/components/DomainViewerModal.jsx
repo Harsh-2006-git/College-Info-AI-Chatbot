@@ -4,6 +4,25 @@ import {
   Layers, Database, ShieldCheck, Loader2 
 } from 'lucide-react';
 import { knowledgeBaseAPI } from '../services/api';
+import predefinedKB from '../data/predefinedKnowledgeBase.json';
+
+const DOMAIN_ID_TO_FILE = {
+  '01': '01_overview_vision_mission.txt',
+  '02': '02_governance_and_administration.txt',
+  '03': '03_academics_courses_and_curriculum.txt',
+  '04': '04_academic_calendars_and_regulations.txt',
+  '05': '05_faculty_directory_all_departments.txt',
+  '06': '06_infrastructure_campus_and_facilities.txt',
+  '07': '07_training_placements_and_internships.txt',
+  '08': '08_student_life_societies_and_clubs.txt',
+  '09': '09_accreditations_and_quality_initiatives.txt',
+  '10': '10_admissions_eligibility_and_counselling.txt',
+  '11': '11_fee_structure_and_scholarships.txt',
+  '12': '12_hostels_wardens_facilities_and_fees.txt',
+  '13': '13_department_civil_engineering.txt',
+  '14': '14_department_information_technology.txt',
+  '15': '15_prominent_alumni_and_mous.txt'
+};
 
 export default function DomainViewerModal({ 
   domain, 
@@ -36,12 +55,22 @@ export default function DomainViewerModal({
     async function fetchContent() {
       setLoading(true);
       setError('');
+      
+      const cleanId = String(domain.id || '').padStart(2, '0');
+      const filename = DOMAIN_ID_TO_FILE[cleanId];
+      const localFallback = filename && predefinedKB ? predefinedKB[filename] : '';
+
       try {
         const data = await knowledgeBaseAPI.getDomainContent(domain.id);
-        setContent(data.content || '');
+        setContent(data.content || localFallback || '');
       } catch (err) {
-        console.error('Failed to load domain content:', err);
-        setError(err.response?.data?.detail || 'Failed to load domain raw content.');
+        console.warn('API error fetching domain content, using bundled local knowledge base:', err);
+        if (localFallback) {
+          setContent(localFallback);
+          setError('');
+        } else {
+          setError(err.response?.data?.detail || 'Failed to load domain raw content.');
+        }
       } finally {
         setLoading(false);
       }
