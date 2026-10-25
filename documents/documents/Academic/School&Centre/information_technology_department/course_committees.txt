@@ -1,0 +1,39 @@
+Course Committees — Department of Information Technology (IT)
+==============================================================
+
+The course committees are formed to look after the content alignment and changes required in terms of technological advancements, market needs, and industrial orientation on a regular basis.
+
+Group 1:
+- Name of Courses: Introduction to Computer Programming, Java Programming Language
+- Offering Discipline: IT
+- Members of Course Committee: Dr. Sanjiv Sharma, Dr. Vikram Rajpoot, Dr. Abhilash Sonker
+
+Group 2:
+- Name of Courses: Digital Logic Design, Microprocessor & Interfacing, Computer System Organization
+- Offering Discipline: IT
+- Members of Course Committee: Dr. Punit Kumar Johari, Dr. Nidhi Saxena, Ms. Neha Bhardwaj
+
+Group 3:
+- Name of Courses: Soft Computing Techniques, Data Science Using Python, Python Programming
+- Offering Discipline: IT
+- Members of Course Committee: Dr. Punit Kumar Johari, Dr. Saumil Maheshwari, Dr. Abhishek Dixit
+
+Group 4:
+- Name of Courses: Cloud Computing, Mobile Computing, Computer Networks, Network and Web Security, Cyber Security
+- Offering Discipline: IT
+- Members of Course Committee: Dr. Sanjiv Sharma, Dr. Abhilash Sonker, Mr. Vikas Sejwar, Ms. Neha Bhardwaj
+
+Group 5:
+- Name of Courses: Theory of Computation, Compiler Design, Discrete Structures
+- Offering Discipline: IT
+- Members of Course Committee: Dr. Abhilash Sonker, Dr. Abhishek Dixit, Dr. Vikram Rajpoot
+
+Group 6:
+- Name of Courses: Project Management & Financing, Disaster Management, Agile Methodology, Software Engineering
+- Offering Discipline: IT
+- Members of Course Committee: Dr. Sanjiv Sharma, Mr. Rajeev Singh, Dr. Nidhi Saxena
+
+Group 7:
+- Name of Courses: Data Structures, Design & Analysis of Algorithms, Database Management System, Operating System, Computer Graphics & Multimedia
+- Offering Discipline: IT
+- Members of Course Committee: Mr. Vikas Sejwar, Ms. Neha Bhardwaj, Dr. Saumil Maheshwari, Dr. Abhishek Dixit

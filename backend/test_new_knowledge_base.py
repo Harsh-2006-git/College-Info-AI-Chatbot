@@ -2,7 +2,6 @@ import os
 import sys
 from pathlib import Path
 
-# Ensure UTF-8 output on Windows console
 if sys.platform == "win32":
     try:
         sys.stdout.reconfigure(encoding="utf-8")
@@ -10,7 +9,7 @@ if sys.platform == "win32":
     except Exception:
         pass
 
-backend_dir = Path(__file__).resolve().parent / "backend"
+backend_dir = Path(__file__).resolve().parent
 if str(backend_dir) not in sys.path:
     sys.path.insert(0, str(backend_dir))
 
@@ -25,7 +24,7 @@ from app.models.schemas import ChatRequest
 
 def run_tests():
     print("=================================================================")
-    print("MITS GWALIOR RAG KNOWLEDGE BASE - END-TO-END VERIFICATION")
+    print("MITS GWALIOR UPDATED KNOWLEDGE BASE (207 DOCS) - VERIFICATION")
     print("=================================================================")
     
     chroma_path = str(backend_dir / "vectorstore")
@@ -44,33 +43,28 @@ def run_tests():
     
     test_questions = [
         {
-            "category": "Fee Structure & Scholarships",
-            "question": "What is the annual tuition fee for B.Tech at MITS Gwalior and what scholarships are available?",
+            "category": "Fee Structure & Official PDF Links",
+            "question": "What is the fee structure notice and download link for B.Tech under TFW and general quota?",
             "model": "llama-3.3-70b-versatile"
         },
         {
-            "category": "Hostel Facilities & Mess",
-            "question": "What are the hostel options, curfew rules, and mess charges for students?",
+            "category": "Placement Statistics 2021-2025",
+            "question": "What are the consolidated placement records for 2025 and 2024 including total placed, highest salary and average salary?",
             "model": "llama-3.3-70b-versatile"
         },
         {
-            "category": "Faculty Directory Verification",
-            "question": "Who is Dr. Sanjay Tiwari, what is his designation, qualification, and department?",
+            "category": "Hostel Facilities & Wardens",
+            "question": "Who is the Chief Warden and what are the wardens names and phone numbers for Hostel 6 and Hostel 7?",
             "model": "llama-3.3-70b-versatile"
         },
         {
-            "category": "Department of Information Technology",
-            "question": "What specialized laboratories and research areas exist in the IT department?",
+            "category": "IT Department Laboratories",
+            "question": "What specialized laboratories exist in the Department of Information Technology at MITS?",
             "model": "llama-3.3-70b-versatile"
         },
         {
-            "category": "Civil Engineering Consultancy",
-            "question": "What consultancy revenue was earned by the Civil Engineering department in 2023-2024?",
-            "model": "llama-3.3-70b-versatile"
-        },
-        {
-            "category": "Prominent Alumni",
-            "question": "Name some distinguished MITS alumni holding key leadership positions in government or industry.",
+            "category": "Undergraduate Programmes & Intake",
+            "question": "What B.Tech programmes are offered and what is the intake capacity for AI, IoT, and CSE?",
             "model": "llama-3.3-70b-versatile"
         }
     ]
@@ -85,7 +79,7 @@ def run_tests():
             question=test['question'],
             model=test['model'],
             retrieval_mode="history_aware",
-            owner_id="test_student_user"
+            owner_id="default"
         )
         
         response = chat_service.generate_answer(req)
@@ -93,12 +87,10 @@ def run_tests():
         print(f"Answer:\n{response.answer}\n")
         print("Retrieved Sources:")
         for s in response.sources:
-            print(f"  - [{s.filename}] (Score: {s.score:.3f})")
-        if response.analytics:
-            print(f"Analytics: Similarity={response.analytics.avg_similarity}, Accuracy={response.analytics.accuracy}")
+            print(f"  - [{s.filename}] ({s.document_id}) [Score: {s.score:.3f}]")
             
     print("\n=================================================================")
-    print("ALL TESTS COMPLETED SUCCESSFULLY!")
+    print("ALL VERIFICATION TESTS COMPLETED SUCCESSFULLY!")
     print("=================================================================")
 
 if __name__ == "__main__":

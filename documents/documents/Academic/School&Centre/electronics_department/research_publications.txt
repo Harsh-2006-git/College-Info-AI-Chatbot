@@ -1,0 +1,71 @@
+Research Publications — Department of Electronics Engineering
+=========================================================
+
+Research Publications Repository Links (SCI / SCIE / Scopus / UGC)
+------------------------------------------------------------------
+- Session 2022-25 (SCI Papers): https://web.mitsgwalior.in/images/Departments/electronics_engineering/Department%20Event/SCI%20papers.pdf
+- Session 2021-22: https://docs.google.com/spreadsheets/d/1i1fEYI6J1-rXbeoVOnhiMsuSgNZ_Bfa7uFy1UZ1xFno/edit?usp=sharing
+- Session 2020-21: https://docs.google.com/spreadsheets/d/1JazsiU5RU9EO4_T9danm00erooKH2VvVt_Cslm35wDc/edit?usp=sharing
+- Session 2019-20: https://docs.google.com/spreadsheets/d/1zE-sf5drNCGb5qM1Yej4S6Qn7d1ALsoEwJ6m9uKlGE4/edit?usp=sharing
+
+
+Journal Publication Details (2021-22)
+-------------------------------------
+1. Abhilash Singh, J Amutha, Jaiprakash Nagar, Sandeep Sharma, CC Lee, "LT-FS-ID: Log-Transformed Feature Learning and Feature-Scaling-Based Machine Learning Algorithms to Predict the k-Barriers for Intrusion Detection Using Wireless Sensor Network", MDPI Sensors, 22, 3, 2022. https://doi.org/10.3390/s22031070
+2. Rahul Dubey, Mohit Kumar, Abhay Upadhyay, R B Pachori, "Automated Diagnosis of Muscle Diseases from EMG signals using Empirical Mode Decomposition Based Method", Biomedical Signal Processing and Control, 71, Part A, 2022.
+3. Hemant Choubey, Sandeep Sharma, Rajendra Bahadur Singh, Vimlesh Kumar Ray, "HFD and MCFET Based Feature Extraction Technique for Detection of Epilepsy Using ANN Classifier", Traitement du Signal, 39, 2, 695-700, 2022. https://doi.org/10.18280/ts.390233
+4. Abhilash Singh, J. Amutha, Jaiprakash Nagar, Sandeep Sharma, and Cheng-Chi Lee, "AutoML-ID: Automated Machine Learning Model for Intrusion Detection using Wireless Sensor Network", Springer Nature: Scientific Reports, 12, 974, 2022. https://doi.org/10.1038/s41598-022-13061-z
+5. J. Amutha, Sandeep Sharma, and Sanjay Sharma, "An Energy Efficient Cluster based Hybrid Optimization Algorithm with Static Sink and Mobile Sink Node for Wireless Sensor Networks", Expert Systems With Applications, Elsevier, 203, 117334. https://doi.org/10.1016/j.eswa.2022.117334
+6. Tanya Sood, Satyartha Prakash, Sandeep Sharma, Abhilash Singh, Hemant Choubey, "Intrusion Detection System in Wireless Sensor Network Using Conditional Generative Adversarial Network", Wireless Personal Communications, 2022. https://doi.org/10.1007/s11277-022-09776-x
+7. Jayaprakash Venugopal, Rahul Dubey, Vikas Mahor, G. Ramkumar, Ajay Singh Yadav, "Analysis and Performance Enhancement of Newly Designed Solar Based Heat Pump for Water Heating Application", Energy Reports, Vol 8, 9, pp. 302-312, 2022. https://doi.org/10.1016/j.egyr.2022.06.112
+8. Suchi Mishra, Rahul Dubey, Preety D. Swami, and Alok Jain, "Fault Size Estimation of Bearings Using Multiple Decomposition Techniques with Artificial Neural Network", Scientific Programming, Hindawi, 2022. https://doi.org/10.1155/2022/3428715
+9. Vikram Rajpoot, Rahul Dubey, Safdar Sardar Khan, Saumil Maheshwari, Abhishek Dixit, Arpit Deo, Nikita Vats Dohan, "Orchard Boumans Algorithm and MRF Approach Based on Full Threshold Segmentation for Dental X-Ray Images", Traitement du Signal, Vol. 39, 2, pp. 737-744, April 2022. https://doi.org/10.18280/ts.390239
+10. Vikram Rajpoot, Rahul Dubey, Praveen Kumar Mannepalli, Parcha Kalyani, Saumil Maheshwari, Abhishek Dixit, Akash Saxena, "Mango Plant Disease Detection System Using Hybrid BBHE and CNN Approach", Traitement du Signal, Vol. 39, 3, pp. 1071-1078, June 2022. https://doi.org/10.18280/ts.390334
+11. Jayaprakash Venugopal, Rahul Dubey, Vikas Mahor, G. Ramkumar, Ajay Singh Yadav, "Analysis and Performance Enhancement of Newly Designed Solar Based Heat Pump for Water Heating Application", Energy Reports, 8 (2022) 302–312.
+12. Dev Pratap Singh, Deepak Batham, "A Review of Underwater Communication Systems", International Journal of Engineering Development and Research, Vol. 10, Issue 2, pp. 100-104, May 2022.
+13. Ayushi Yadav, R. P. Narwaria, "A review on Volatility Forecasting Models for Financial Risk using Deep Learning Techniques", IJRAR, Vol. 9, Issue 1, pp. 268-272, February 2022.
+14. Vaibhav Bhatnagar, Deepak Batham, "Estimating the Chances of Winning IPL Match using Machine Learning", Journal of Software Engineering Tools & Technology Trends, Vol. 9, Issue 1, 2022. DOI: 10.37591/JoSETTT
+15. Anjali Sharma, Dr. Karuna Markam and R. P. Narwaria, "Neural Network and IoT based Marine Weather Prediction System", JETIR, Vol. 9, Issue 5, pp. i144-i151, May 2022.
+16. Anjali Sharma, Dr. Karuna Markam and R. P. Narwaria, "An IoT System For Tidal Height Prediction Using Deep Learning Algorithm", IJRAR, Vol. 9, Issue 2, June 2022.
+
+
+Book Published
+--------------
+1. Dr. Laxmi Shrivastava, "Advanced Electromagnetics", New Age International Publishers, 2022. ISBN: 978-93-93159-64-9. Link: https://newagepublishers.com/servlet/nadispinfo?offset=0&searchtype=Keywords&title=electromagnetics&author=&isbn=&keyword=
+
+
+Book Chapters Published
+-----------------------
+1. Shruti Dixit, Deepak Batham, R.P Narwaria, "A Promising Solution for future communication Network Considering Differentiated CoS Elastic Optical Network." Algorithms for Intelligent Systems, Springer, 2021. ISBN: 978-981-33-4893-6
+2. Poonam Parmer, Rahul Dubey, Karuna Markam, "Improvement in Side Lobe Reduction in FIR Filter Design Using Proposed Hybrid Blackman Window." Adaptation, Learning and Optimization, Springer, 2021. ISSN: 2363-6084
+3. Garima Sharma, Praveen Kumar, Laxmi Shrivastava, "An Efficient Performance of Enhanced Bellman-Ford Algorithm in Wireless Sensor Network Using K-Medoid Clustering." Adaptation, Learning and Optimization, Springer, 2020.
+4. Garima Nain, Ashish Gupta, Rekha Gupta, "Wavelet Based Compression of Acne Face Images with Automatic Selection and Lossless Compression of Acne Affected Region." Adaptation, Learning and Optimization, Springer, 2020.
+5. Deepak Batham, Dharmendra Singh Yadav, "A Weight Function RSA Strategy Based on Path Length and Bandwidth Demand for Static Traffic in Elastic Optical Network." Adaptation, Learning and Optimization, Springer, 2020.
+6. Awadhesh Gupta, Juhi Afridi, Shikha Shrivastava, Vandana Vikas Thakre, "A Two Variable Adjustable Window Function Approach to Design FIR Filter." Adaptation, Learning and Optimization, Springer, 2020.
+7. Vikas Mahor, Madhav Singh, "A Novel Metamaterial Based Micro-strip Patch Antenna." Adaptation, Learning and Optimization, Springer, 2020.
+8. Anshul Agarwal, P.K Singhal, V.V. Thakare, "Wideband Crossed Dipole Antenna for Base Station Antenna." Adaptation, Learning and Optimization, Springer, 2020.
+9. Himanshi Sharma, Laxmi Shrivastava, "Comparative Analysis of Wideband Integrated Circular Slot and Dual Band Integrated Elliptical Slot Microstrip Patch Antenna." Adaptation, Learning and Optimization, Springer, 2020.
+10. Tanvi Agarwal, Laxmi Shrivastava, "Identification of Urban and Water Areas from Polarimetric SAR Images Using Thresholding Algorithm." Adaptation, Learning and Optimization, Springer, 2020.
+11. Vivek Kumar, D.K. Parsediya, A. Gupta, "Design of Rectangular Microstrip Patch Antenna and Array for Broadband Applications." Algorithms for Intelligent Systems, Springer, 2019. ISBN: 978-3-030-44758-8
+12. Anshul Agarwal, Vandana Vikas Thakare, P.K. Singhal, "Wideband Crossed Dipole Antenna for Base Station Antenna." Algorithms for Intelligent Systems, Springer, 2019.
+13. Deepak Batham, D.S. Yadav, "A Weight Function RSA Strategy Based on Path Length and Bandwidth Demand for Static Traffic in Elastic Optical Network." Algorithms for Intelligent Systems, Springer, 2019.
+14. Awadhesh Gupta, Juhi Afridi, Sikha Shrivastav, Vandana Vikas Thakre, "A Two Variable Adjustable Window Function Approach To Design FIR Filter." Algorithms for Intelligent Systems, Springer, 2019.
+15. Sweety Jain, Pankaj K. Mishra, Vandana Vikas Thakare, "Rice Moisture detection based on Oven Drying technique using Microstrip Ring Sensor." Algorithms for Intelligent Systems, Springer, 2019. ISBN: 978-981-13-1642-5
+
+
+Patents Published
+-----------------
+1. Title: An Energy-Optimized System for Tracking and Localization of Objects in Wireless Sensor Network
+   - Applicants: Madhav Singh, Dr. Laxmi Shrivastava, Manoj Singh Tomar, Bhupendra Dhakad
+   - Date of Publication: 24-June-2022
+   - Application Number: 202221032110
+
+2. Title: Planar and Fictional Curve Structure patch antenna with symmetrically swastika slotted ground plane
+   - Applicants: P. K. Singhal, Rakesh Singhai, Jyoti Singhai, Sumanta Kumar Kundu, Piyush Kumar
+   - Date of Publication: 08-July-2021
+   - Application Number: 2021103968
+
+3. Title: A miniature F-shaped printed asymmetric coplanar strip fed dual band antenna for 5GLTE, WLAN & WIMAX applications
+   - Applicants: Dr. P. K. Singhal, Dr. Ravi Pratap Singh Kushwah, Deep Kishore Parsediya, Sangeeta Sharma
+   - Date of Publication: 30-Sept-2021
+   - Application Number: 202121044433

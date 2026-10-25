@@ -1,0 +1,26 @@
+Geotech Lab
+Grain Size Analysis Apparatus (Set of Sieves and Hydrometer) Tri-axial Testing Machine with digital display, Consolidation Apparatus (Analog), Consolidation Apparatus (Digital), CBR and UCS Test Apparatus Standard Penetration Test (SPT), Apparatus Direct Shear Test Apparatus (Analog), Direct Shear Test Apparatus (Digital), Constant Head Permeability Test App. Variable Head Permeability Test App.
+
+Concrete Technology Lab
+Compression Testing Machine Digital 2000KN, 500KN & 100KN, Flexural capacity, Silver Schmidt Rebound Hammer (Digital), Creep Rig Machine, Concrete Penetrometer, Concrete Impermeability Apparatus, Ultra Sonic Pulse Velocity Analyser, Concrete Resistivity Meter, Compression Testing Machine Analog 2000KN capacity, Concrete Mixer, Humidity Chamber, Le-Chatelier Apparatus
+
+Transportation Lab
+Marshal Apparatus, Penetrometer, Ductilometer, Los Angeles Apparatus, Ring And Ball Apparatus, Pensky Martin Apparatus, Benkelman Beam, Aggregate Impact Tester, Flash & Fire Point Apparatus, Roadpod Vt With Software, Metrocount, Cone Penetrometer, Digital Marshal Stability.
+
+PHE Lab
+Digital Nephelometer, Digital Colony Counter, Sound Level Meter, Kjeldhal’s Apparatus, Digital Ph Meter, Aeration Unit, BOD Incubator, Flocculator (Jar Testing), Spectrophotometer, Distillation Unit, Digital DO Meter, Oven, Horizontal Autoclave
+  
+Survey Lab
+Total Station (Trimble C5), Theodolite, Auto-Level, Dumpy Level, Plain Table, Prismatic Compass, Surveyor Compass
+
+Strength of Material Lab
+Universal Testing Machine (1000KN), Fatigue Machine, Torsion Testing Machine, Rockwell Hardness, Proving Ring (1000KN), Ultrasonic Cleaner, Universal Testing Machine (40tonnes), Impact Testing Machine, Amsler (1000KN)
+
+Wastewater Lab
+Atomic Adsorption Spectrophotometer, UV-VIS Spectrophotometer, Digital Colony Counter, Digital Photo Colorimeter, Digital Flame Photometer, Flocculator (Jar Testing), Peritistatic Pump, Conductivity Meter
+ 
+Material Diagnostic Lab
+Creep Rig Machine, Concrete Impermeability Apparatus, Ultra Sonic Pulse Velocity Analyzer, Concrete Resistivity Meter, Concrete Penetrometer, Silver Schmidt Rebound Hammer, (Digital) Rebar Locater, Crack Measurement Microscope. Vibration Measurement System
+ 
+Computational Lab
+MATLAB, BIM 4D, SPSS, Primavera

@@ -1,0 +1,173 @@
+R&D Activities — Department of Information Technology (IT)
+==========================================================
+
+Patents Filed and Granted
+-------------------------
+1. Title: A Smart grid Connected inverter device
+   - Applicant: Dr. Arun Wadhwani
+   - Year: 2024
+   - Application No.: 6343236
+   - Status: Granted
+
+2. Title: Apparatus for heating automotive/industrial coolant using solar evacuated tubes and system
+   - Applicant: Dr. Nidhi Saxena
+   - Year: 2024
+   - Application No.: 201821045563
+   - Status: Granted
+
+3. Title: Portable Medical Instrument for measuring physiological signals
+   - Applicant: Dr. Arun Wadhwani
+   - Year: 2023
+   - Application No.: 388987-001
+   - Status: Granted
+
+4. Title: A System For Multilingo Abomination Detection Using Machine Learning
+   - Applicants: Devendra Mishra, Arvind Kumar Upadhyay, Sanjiv Sharma
+   - Year: 2022
+   - Application No.: 202211002260
+   - Status: Filed
+
+5. Title: A System For Detection Of Conceptual Level Plagiarism And Correctness Of File Formatting Using Machine Learning
+   - Applicants: Devendra Kumar Mishra, Arvind Kumar Upadhyay, Sanjiv Sharma
+   - Year: 2022
+   - Application No.: 202211005251
+   - Status: Filed
+
+6. Title: SMART NECKLACE AND WRIST BAND WITH MACHINE LEARNING-BASED IMAGE PROCESSING AND GPS
+   - Applicants: Rahul Dubey, Dheeraj K Agrawal, Dr. Vivek Tiwari, Dr. Vikram Rajpoot, Ritu Shukla
+   - Year: 2022
+   - Application No.: 412649
+   - Status: Granted
+
+7. Title: Fuzzy logic-based query expansion method for efficient information retrieval using relevance feedback approach
+   - Applicant: Dr. Saumil Maheshwari et al.
+   - Year: 2021
+   - Application No.: 2021101672
+   - Status: Granted
+
+8. Title: System And Method For Monitoring Health Of Home Isolated Patient And Automatically Demanding Health Resources Using Artificial Intelligence
+   - Applicants: Vikram Rajpoot, Akhilesh Tiwari, Anand Singh Jalal et al.
+   - Year: 2021
+   - Application No.: 2021104518
+   - Status: Granted
+
+9. Title: A System For Trust Prediction In Online Social Networks
+   - Applicants: Sanjiv Sharma, Arvind Kumar Upadhyay, Rajiv Goyal
+   - Year: 2021
+   - Application No.: TEMP-E-1/8397/2021-DEL
+   - Status: Filed
+
+10. Title: Dynamic Digital Twin System And A Method Of Operating Thereof
+    - Applicants: Abhishek Sharma, Arjun Choudhary, Varun Bajaj, Chandra Prakash Sharma, Deepak CH, Sulabh Bansal, Sanjiv Sharma, Arun Kumar Sinha, Rohit Raja
+    - Year: 2020
+    - Patent Number: 2020103853 (Australian Patent)
+    - Status: Granted
+
+
+Ph.D. Theses Guided (Awarded)
+-----------------------------
+1. Saurabh Kumar Singh (Supervisor: Dr. Akhilesh Tiwari)
+   - Title: "A Novel Framework for Terrorist Network Mining"
+   - University: Uttarakhand Technical University, Dehradun (Awarded on 08.10.2021)
+
+2. Archana Gupta (Supervisor: Dr. Akhilesh Tiwari)
+   - Title: "A Novel System for Mining Incremental Frequent Itemset without Candidate Generation"
+   - University: RGPV Bhopal (Awarded on 04.01.2021)
+
+3. Abhishek Dixit (Supervisor: Dr. Akhilesh Tiwari)
+   - Title: "Swarm Intelligence Based Framework for Multilevel Hesitation Mining"
+   - University: RGPV Bhopal (Awarded on 22.12.2022)
+
+4. Shraddha Viraj Pandit (Supervisor: Dr. Akhilesh Tiwari)
+   - Title: "Study and Analysis of Video Compression with special reference to Fractal Video"
+   - University: RGPV Bhopal (Awarded on 04.10.2019)
+
+5. Vikram Rajpoot (Supervisor: Dr. Akhilesh Tiwari)
+   - Title: "Design & Analysis of Efficient Algorithms for Mining Frequent Patterns from Large Databases"
+   - University: MGCGV Chitrakoot (Awarded on 02.07.2019)
+
+6. Mr. Hemant Soni (Supervisor: Dr. Sanjiv Sharma)
+   - Title: "An Approach For Incremental Data Mining of Multi-Objective Association Rules"
+   - University: Amity University, Gwalior (Completed on 27/12/2019)
+
+7. Mr. Rajeev Goyal (Supervisor: Dr. Sanjiv Sharma)
+   - Title: "An Efficient Design of Trust Aware Link Prediction Method in Online Social Networks"
+   - University: Amity University, Gwalior (Completed on 05/08/2021)
+
+8. Mr. Devendra Mishra (Supervisor: Dr. Sanjiv Sharma)
+   - Title: "A Novel Approach in Business Intelligence for Big Data Analysis using Unsupervised Technique of Machine Learning"
+   - University: Amity University, Gwalior (Completed on 02/09/2022)
+
+9. Ms. Nymphia Saraf Sandhu (Supervisor: Dr. Sanjiv Sharma)
+   - Title: "A Framework for Analyzing Sentiment Trends on Big Data using Natural Language Processing"
+   - University: Amity University, Gwalior (Completed on 02/09/2022)
+
+10. Mrs. Shalini Sahay (Supervisor: Dr. Arun Kumar Wadhwani)
+    - Title: "Computer aided interpretation of Bioelectric Signals"
+    - University: RGPV Bhopal (Completed on 06/10/2021)
+
+11. Ms. Shilpi Sisodia (Supervisor: Dr. Arun Kumar Wadhwani)
+    - Title: "Transmission System Planning Using Evolutionary Techniques"
+    - University: RGPV Bhopal (Completed on 24/02/2022)
+
+12. Mr. Hemant Amhia (Supervisor: Dr. Arun Kumar Wadhwani)
+    - Title: "Design and Development of ECG Signal Diagnostic System"
+    - University: RGPV Bhopal (Completed on 24/02/2022)
+
+13. Krishan Kant Yadav (Supervisor: Dr. Sanjiv Sharma)
+    - Title: "Design and Analysis of Efficient Collaborative Filtering Based Optimization Approach"
+    - University: Amity University, Gwalior (Completed on 05/01/2023)
+
+14. Mr. Manoj Kumar Bandil (Supervisor: Dr. Arun Kumar Wadhwani)
+    - Title: "Multi-Resolution Epileptic Classification of Electroencephalogram Using Hybrid Soft Computing Techniques"
+    - University: RGPV Bhopal (Completed on 24/02/2022)
+
+15. Mr. Manoj Kumar Ojha (Supervisor: Dr. Arun Kumar Wadhwani)
+    - Title: "ECG Signal Processing for Early Prediction of Abnormality of Heart Function Using HRV Analysis"
+    - University: RGPV Bhopal (Completed on 16/03/2024)
+
+16. Ms. Kratika Sharma (Supervisor: Dr. Arun Kumar Wadhwani)
+    - Title: "Application of Machine Learning Techniques for Spatio Temporal Assessment and Prediction of Urban Growth in a Rapidly Developing Indian City"
+    - University: IIIT Pune (Completed on 18/02/2025)
+
+
+Ph.D. Theses (Ongoing)
+----------------------
+1. Prateek Gupta (Supervisor: Dr. Akhilesh Tiwari) — "Development of New Framework for Optimized Opinion Mining", RGPV Bhopal (Course work completed, RDC Cleared)
+2. Nishtha Parashar (Supervisor: Dr. Akhilesh Tiwari) — "Deep Learning Based Technique for Mining Image Data Association", RGPV Bhopal (Thesis Submitted)
+3. Vishakha Agarwal (Supervisor: Dr. Akhilesh Tiwari) — "A New Recommender System for Effective Pattern Warehousing", RGPV Bhopal (Course work completed, RDC Cleared)
+4. Rajeev Kumar Singh (Supervisor: Dr. Akhilesh Tiwari) — "Segmentation and Classification of Plant Leaves Diseases Using Soft Computing Approaches", RGPV Bhopal (Thesis Submitted)
+5. Shubham Sharma (Supervisor: Dr. Akhilesh Tiwari) — "IoT Enabled Image Retrieval using Sketch-Based Deep Learning", RGPV Bhopal (Course work completed, RDC Cleared)
+6. Mahesh Parmar (Supervisor: Dr. Akhilesh Tiwari) — "A Deep Learning Based Multi-Tasking Classification Model for Sentiment Analysis", RGPV Bhopal (Course work completed, RDC Cleared)
+7. Reena (Supervisor: Dr. Akhilesh Tiwari) — "Data Mining", RGPV Bhopal (Course Work in progress)
+8. Mr. Krishna Kant Yadav (Supervisor: Dr. Sanjiv Sharma) — "Design and Analysis of Efficient Collaborative Filtering Based Optimization Approach", Amity University Gwalior (Title approved)
+9. Mr. Deepak Mishra (Supervisor: Dr. Sanjiv Sharma) — "Design and Analysis of Data Mining Algorithm for Emergency Message Services in Vehicular Ad-Hoc Network", Amity University Gwalior (Title approved)
+10. Mr. Shailendra Satyarthi (Supervisor: Dr. Sanjiv Sharma) — "A Novel Framework for Aspect Based Sentiment Classification in Social Media", RGPV Bhopal (Title approved)
+11. Mr. Pankaj Sharma (Supervisor: Dr. Sanjiv Sharma) — Big Data Analytics, RGPV Bhopal (Course work completed)
+12. Akhanksha Sharma (Supervisor: Dr. Arun Kumar Wadhwani) — Image Processing, MITS Gwalior
+13. Anil Kumar Fatehpuria (Supervisor: Dr. Vikram Rajpoot) — Image Processing, MITS Gwalior (Course work completed)
+14. Mrs. Neelam Kushwah (Supervisors: Dr. Saumil Maheshwari, Dr. Abhishek Dixit) — Data Mining and Machine Learning, MITS Gwalior (Course work completed)
+15. Monika Saraswat (Supervisor: Dr. Arun Kumar Wadhwani) — "Identification of cardio-vascular disease Using AI Technique for Diabetic and Non Diabetic Patient", RGPV Bhopal (Thesis Submitted)
+
+
+Sponsored Research Projects
+---------------------------
+1. Title: "Cognitive Literary Studies for the Progress of Cognitive Computational Studies"
+   - Co-PI: Dr. Sanjiv Sharma
+   - Funding Agency: AICTE Collaborative Research Scheme (CRS)
+   - Grant Amount: Rs. 7,16,000 (18 June 2019 – 30 Sept 2020)
+   - Status: Completed
+
+2. Title: "To Strengthen Teaching and Research Facilities in the College"
+   - PI: Principal, MITS Gwalior
+   - Funding Agency: Department of Science and Technology (DST)
+   - Duration: 2019 to 2025
+   - Grant Amount: Rs. 49,40,000
+   - Status: Ongoing
+
+3. Title: "Medical Image Processing"
+   - PI: Dr. A. K. Wadhwani
+   - Funding Agency: AICTE NDF (RPS)
+   - Duration: 2019-20 (3 Years + 1 Year extension, to 30.04.2023)
+   - Grant Amount: Rs. 21,75,000
+   - Status: Completed

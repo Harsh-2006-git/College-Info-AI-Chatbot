@@ -1,0 +1,33 @@
+Laboratories - Department of Computer Science & Engineering
+
+Computing Lab
+Computing lab is designed to develop basic to advance level computer skills in students coming from any field of study. It aims to provide students with an understanding of the role computation can play in solving problems of their field of study.
+Lab Manual / Details: https://web.mitsgwalior.in/images/Departments/Computer-Science/Lab%20Images/Computing%20LAB.pdf
+
+Data Science Lab
+Data Science being the hottest job skill requirement. This Lab focuses on transforming data into valuable insight and applying machine learning and data mining to real-world problems in society and industry.
+Lab Manual / Details: https://web.mitsgwalior.in/images/Departments/Computer-Science/Lab%20Images/Data%20Science%20Lab.pdf
+
+Project & Research Lab 1
+Project Lab is used for conducting presentations and demonstration related to the Minor Projects, Major Projects, Internship and other activities.
+Lab Manual / Details: https://web.mitsgwalior.in/images/Departments/Computer-Science/Lab%20Images/Project%20Lab.pdf
+
+Programming Lab
+Programming Lab focuses on providing basic principles of C, C++, Java and Python programming languages along with the practical exposures like designing flowcharts, algorithms, how to debug programs etc.
+Lab Manual / Details: https://web.mitsgwalior.in/images/Departments/Computer-Science/Lab%20Images/Programming%20Lab.pdf
+
+Hardware Lab
+Hardware Lab Focuses on providing the knowledge of computer hardware processors, motherboards, memories, different add-on cards, and other peripherals like printers, plotters, and scanners. The students are trained for the assembly and disassembly of PCs.
+Lab Manual / Details: https://web.mitsgwalior.in/images/Departments/Computer-Science/Lab%20Images/Hardware%20Lab.pdf
+
+Machine Learning Lab
+The Machine Learning Lab is dedicated to providing students with in-depth knowledge and practical experience in the field of machine learning (ML). The lab is designed to equip students with a comprehensive understanding of ML algorithms, data preprocessing, model training, and evaluation.
+
+Cloud Computing Lab
+The Cloud Computing Lab is designed to provide students with a comprehensive understanding of cloud technologies and how they can be leveraged to build scalable, flexible, and cost-effective solutions. The lab focuses on both the theoretical foundations and practical applications of cloud computing.
+
+Project & Research Lab 2
+The Project & Research Lab 2 serves as an innovation hub where students engage in independent and collaborative research projects, applying theoretical knowledge to real-world problems. The lab encourages hands-on experience in designing, developing, and evaluating projects across a variety of domains, fostering both creativity and technical expertise.
+
+Project & Research Lab 3
+The Project & Research Lab 3 builds on the foundational skills developed in Project & Research Lab 1, offering students the opportunity to engage in more advanced, complex research projects and deeper exploration of specialized topics. This lab focuses on fostering critical thinking, advanced problem-solving, and professional-level project execution through interdisciplinary research and development.

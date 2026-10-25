@@ -1,0 +1,227 @@
+Department: Centre for Internet of Things (CIoT)
+Departmental Events (Duration: July 2024 to December 2025)
+
+--- SUMMARY TABLE OF EVENTS ---
+
+S.No | Category/Domain | Title of Activity | Date | Participants
+1 | International Conference | IEEE International Conference "iCONECCT-2025" | 26-28 Dec 2025 | Students & Faculty
+2 | National Level Event | 2nd National Workshop on IoT Poster Expo-2024 | 19 Oct 2024 | Mixed Participants
+3 | University Level | Two-Day Training Program on "Proactive Cybersecurity: Real World Digital Threats and Defenses" (with C-DAC Noida) | 14-15 Feb 2025 | 54 Participants
+4 | Faculty Peer Learning | Peer-to-Peer Learning Training on Wireless Technologies for IoT | 30 Jul - 02 Aug 2024 | 08 Faculty
+5 | Faculty Peer Learning | Peer-to-Peer Learning Sessions on Cloud Computing | 30 Jul - 02 Aug 2024 | 07 Faculty
+6 | Faculty Enablement Program | Peer-to-peer learning on Python Programming for Newly recruited faculty members | 15-22 Apr 2025 | 16 Faculty
+7 | Faculty Development Program | One-week FDP on "IoT and Its Applications" with E&ICT Academy, IIT Guwahati | 24-29 Mar 2025 | 46 Faculty & Research Scholars
+8 | In-House Workshop | In-House Workshop on Question Paper Analysis in Pen-Paper and MCQ Modes | 07 Feb 2025 | 11 Faculty
+9 | Student Technical Activity | "Robocode: Building the Future" under IEEE RAS/PES/IAS Student Branch Chapters in collaboration with IoT Edge Club | 6 Sept 2025 | 85 Students
+10 | Student Awareness | In-House Awareness Workshop on SIH | 1 Sept 2025 | 55 Students
+11 | Student Skill Development | Mandatory Workshop on Mastering Competitive Success for II Year Students | 25 Sept 2025 | 125 Students
+12 | Student Skill Development | Workshop on Report Writing for B.Tech First Semester students (IoT) | 25 & 27 Sept 2025 | 210 Students
+13 | Student Skill Development | Workshop on Report Writing for B.Tech First Semester students (Electrical and Computer Engineering) | 20 Sept 2025 | Students
+14 | In-House Workshop | In-House Workshop on How to Write Project Files (IoT) | 23 Oct 2024 | 48 Students
+15 | Career Guidance | Workshop/Alumni Connect on "Internship: A Step towards Career Planning" (Induction - B.Tech VIII Sem Internship/Project) | 28 Oct 2025 | 63 Students
+16 | Career Guidance | Workshop/Alumni Connect on "Internship: A Step towards Career Planning" | 18 Oct 2024 | 80 Students
+17 | Knowledge Enrichment | Workshop on Indian Knowledge System | 22-23 March 2025 | 129 Students
+18 | Knowledge Enrichment | In-House Workshop on Indian Constitution and Traditional Knowledge | 19-20 Oct 2024 | 152 Students
+
+
+--- DETAILED ACTIVITIES WITH REPORTS ---
+
+Session: July 2025 to June 2026
+
+1. IEEE International Conference "iCONECCT-2025"
+Date: 26-28 December 2025
+Participants: Students, Faculty
+Activity Report: https://drive.google.com/file/d/129h4-bipPkbC_9YMHw--LgSgzUXUSMte/view
+
+2. Workshop / Alumni Connect on "Internship: A Step towards Career Planning" (Induction cum briefing session on B.Tech. VIII Sem Internship/Project)
+Date: 28 October 2025
+Participants: 63 Students
+Activity Report: https://web.mitsgwalior.in/images/Departments/Internet%20of%20Things/Deptt_event/Career_Report_Workshop_2025.pdf
+
+3. Mandatory Workshop on Mastering Competitive Success at the Department Level for II Year Students
+Date: 25th September 2025
+Participants: 125
+Activity Report: https://drive.google.com/file/d/1XKrABAkCDXANYAXh8Nytzmu9MMxywZ4M/view
+
+4. Workshop on Report Writing for B.Tech. First Semester students of Internet of Things
+Date: 25th and 27th September 2025
+Participants: 210
+Activity Report: https://drive.google.com/file/d/1uEVj7vokQ1EuzOtTQMHGzFcSF7gOol-Z/view
+
+5. Workshop on Report Writing for B.Tech. First Semester students of Electrical and Computer Engineering
+Date: 20th September 2025
+
+6. "Robocode: Building the Future" under the umbrella of IEEE RAS/PES/IAS Student Branch Chapters in collaboration with IoT Edge Club
+Date: 6th September 2025
+Participants: 85 Students
+Activity Report: https://drive.google.com/file/d/16kGVk0-mMkRtYRtVx3HQgOU6u0KpJR4l/view
+
+7. In-House Awareness Workshop on SIH
+Date: 1st September 2025
+Participants: 55 Students
+Activity Report: https://drive.google.com/file/d/1t3Z_SFfoAVA1KgJOvUkYE3BWc-Tjgzp-/view
+
+
+Session: July 2024 to June 2025
+
+8. Faculty Enablement Program (Peer-to-peer learning) on Python Programming for Newly recruited faculty members
+Date: 15-22 April 2025
+Participants: 16 Faculty
+Activity Report: https://drive.google.com/file/d/1O8s5Mb5cDltHOhUSfswOfnLz6v66tUNA/view
+
+9. One-week faculty development program (as a Spoke Centre) on "IoT and Its Applications" with E&ICT Academy, IIT Guwahati
+Date: 24-29 March 2025
+Participants: 46 faculty members and research scholars
+Activity Report: https://web.mitsgwalior.in/images/Departments/Internet%20of%20Things/Deptt_event/Report%20FDP%20IoT%20and%20Its%20applications.pdf
+
+10. Workshop on Indian Knowledge System
+Date: 22-23 March 2025
+
+11. Turning Challenges into Milestones - Journey from MITS Campus to UPSC ESE under IEI Students chapter
+Date: 09 March 2025
+
+12. Two-Day Training Program on "PROACTIVE CYBERSECURITY: REAL WORLD DIGITAL THREATS AND DEFENSES" in collaboration with C-DAC, Noida
+Date: 14-15 Feb. 2025
+Participants: 54 (from 5 different Institutes/Schools)
+Activity Report: https://drive.google.com/file/d/13bEaYVMkOY51L8942mgSNnsfaxZXrx4r/view
+
+13. In-House Workshop on Question Paper Analysis in Pen-Paper and MCQ Modes
+Date: 07 Feb. 2025
+Participants: 11 Faculty
+Activity Report: https://web.mitsgwalior.in/images/Departments/Internet%20of%20Things/Deptt_event/PQI%20Workshop%20Report.pdf
+
+14. In-House workshop on How to write project files (Internet of Things (IoT))
+Date: 25 October 2024
+Participants: 15 Students
+Activity Report: https://web.mitsgwalior.in/images/Departments/Internet%20of%20Things/Deptt_event/Nookala_sir_workshop.pdf
+
+15. In-House workshop on How to write project files (Internet of Things)
+Date: 23 October 2024
+Participants: 48 Students
+Activity Report: https://web.mitsgwalior.in/images/Departments/Internet%20of%20Things/Deptt_event/Geetam_madam_updated.pdf
+
+16. In-house workshop on Indian Constitution and Traditional Knowledge
+Date: 19-20 October 2024
+
+17. 02nd National Workshop on IoT Poster Expo-2024
+Date: 19 October 2024
+
+18. Workshop / Alumni Connect on "Internship: A Step towards Career Planning" (Induction cum briefing session on B.Tech. VIII Sem Internship/Project)
+Date: 18 October 2024
+Participants: 80 Students
+Activity Report: https://web.mitsgwalior.in/images/Departments/Internet%20of%20Things/Deptt_event/Internship_alumni_connect_report.pdf
+
+19. Peer-to-Peer Learning Training on Wireless Technologies for IoT
+Date: 30th July - 02 August 2024
+Participants: 08 Faculty
+Activity Report: https://web.mitsgwalior.in/images/Departments/Internet%20of%20Things/Deptt_event/Wireless%20Technolgies%20for%20IoT%20FT.pdf
+
+20. Peer to Peer Learning Sessions on Cloud Computing
+Date: 30th July - 02 August 2024
+Participants: 07 Faculty
+Activity Report: https://web.mitsgwalior.in/images/Departments/Internet%20of%20Things/Deptt_event/Cloud%20Computing%20_peer.pdf
+
+
+Session: July 2023 to June 2024
+
+21. Faculty Training Program on IoT and Edge AI
+Date: 29 May to 06 June 2024
+Participants: 12 Faculty
+Activity Report: https://web.mitsgwalior.in/images/Departments/Internet%20of%20Things/Deptt_event/faculty%20training_CIOT.docx.pdf
+
+22. In-House Virtual Lab Workshop
+Date: 22nd March 2024
+Participants: 48 Students
+Activity Report: https://web.mitsgwalior.in/images/Departments/Internet%20of%20Things/Deptt_event/In_House_Virtul_lab_Event_2024.pdf
+
+23. Session on Need for Startups and Live Projects
+Date: 14th March 2024
+Participants: 82 Students
+Activity Report: https://web.mitsgwalior.in/images/Departments/Internet%20of%20Things/Deptt_event/Need_for_Start_Up_Live_projects.pdf
+
+24. Expert talk on "Field to Screen: Empowering Dreams through Cricket and Technology"
+Date: 14th March 2024
+Participants: 119 Students
+Activity Report: https://web.mitsgwalior.in/images/Departments/Internet%20of%20Things/Deptt_event/Expert%20Talk%20Pranjal%20Dubey.pdf
+
+25. IoT Workshop on Arduino and Raspberry PI
+Date: 10th February 2024
+Participants: 60 Students
+Activity Report: https://web.mitsgwalior.in/images/Departments/Internet%20of%20Things/Deptt_event/Ar_IoT_Workshop_Event_Report.pdf
+
+26. 1st National Workshop on IoT Poster Expo-2024
+Date: 10th February 2024 (11:00 AM to 1:00 PM)
+Participants: 23 Students
+Activity Report: https://web.mitsgwalior.in/images/Departments/Internet%20of%20Things/Deptt_event/National%20Level%20Poster%20Expo-2024.pdf
+
+27. Virtual Labs in Association with IIT Delhi (Resource: Mr. Chirag Dey, Senior Field Engineer, IIT-Delhi)
+Date: 02nd February 2024
+Participants: 128 Students, 32 Faculty
+Activity Report: https://web.mitsgwalior.in/images/Departments/Internet%20of%20Things/Deptt_event/Virtual%20Labs_Feb_2024.pdf
+
+28. Project EXPO: Bridge of Skill-Based Knowledge
+Date: 29th January 2024 (04:30 to 06:00 PM)
+Participants: 37 Students
+Activity Report: https://web.mitsgwalior.in/images/Departments/Internet%20of%20Things/Deptt_event/Project%20Expo_report.pdf
+
+29. Peer-Learning Training Programme on Python Programming (Jointly organized with the Department of Electrical Engineering, MITS Gwalior)
+Date: 15 Jan. to 19 Jan. 2024
+Participants: 16 Faculty
+Activity Report: https://web.mitsgwalior.in/images/Departments/Internet%20of%20Things/Deptt_event/15%20jan%20Python%20programming%20Workshop.pdf
+
+30. TechVista: An Insightful Workshop on IoT
+Date: 12th January 2024 (02:00 to 04:00 PM)
+Participants: 50 Students
+Activity Report: https://web.mitsgwalior.in/images/Departments/Internet%20of%20Things/Deptt_event/Technovista_Final.pdf
+
+31. Peer-to-Peer Learning Workshop on IoT
+Date: 11th - 12th January 2024
+Participants: 16 Faculty
+Activity Report: https://web.mitsgwalior.in/images/Departments/Internet%20of%20Things/Deptt_event/Report%20on%20Peer%20Learning%20workshop.pdf
+
+32. Workshop on Internship for Career Growth
+Date: 08th October 2023
+Participants: 90 Students
+Activity Report: https://web.mitsgwalior.in/images/Departments/Internet%20of%20Things/Deptt_event/Workshop%20on%20Internship%20for%20Career%20Growth.pdf
+
+33. Expert Talk on "Navigating the IT Landscape for Placement and Internship Opportunities"
+Date: 07th October 2023
+Participants: 66 Students
+Activity Report: https://web.mitsgwalior.in/images/Departments/Internet%20of%20Things/Deptt_event/Navigating%20the%20IT%20Landscape%20for%20Placement%20and%20Internship%20Opportunities.pdf
+
+34. Workshop on Question Paper Analysis
+Date: 21st September 2023
+Participants: All Faculty
+Activity Report: https://web.mitsgwalior.in/images/Departments/Internet%20of%20Things/Deptt_event/Workshop%20Report%20on%20Question%20Paper%20Analysis%20IOT.pdf
+
+
+--- ORIENTATION PROGRAMS ---
+
+Internet of Things (IoT) - Orientation Program Reports:
+- July-Dec. 2025: First Semester - https://web.mitsgwalior.in/images/Departments/Internet%20of%20Things/Deptt_event/Orientation_p/Orientation%20Report_IOT_I_Year.pdf
+- July-Dec. 2025: III Semester - https://web.mitsgwalior.in/images/Departments/Internet%20of%20Things/Deptt_event/Orientation_p/Orientation%20Report%20IO%20III%20Sem_2024%20batch.pdf
+- July-Dec. 2025: V Semester - https://web.mitsgwalior.in/images/Departments/Internet%20of%20Things/Deptt_event/Orientation_p/Orientation%20Report%20IO%20V%20Sem_2023%20batch.pdf
+- July-Dec. 2025: VII Semester - https://web.mitsgwalior.in/images/Departments/Internet%20of%20Things/Deptt_event/Orientation_p/Orientation%20Report_IOT_I_Year.pdf
+- Jan.-June 2025: IV Semester - https://web.mitsgwalior.in/images/Departments/Internet%20of%20Things/Deptt_event/Orientation_p/IO-II.pdf
+- Jan.-June 2025: VI Semester - https://web.mitsgwalior.in/images/Departments/Internet%20of%20Things/Deptt_event/Orientation_p/IO-III.pdf
+- Jan.-June 2025: VIII Semester - https://web.mitsgwalior.in/images/Departments/Internet%20of%20Things/Deptt_event/Orientation_p/IO-IV.pdf
+- Jan.-June 2024: IV Semester - https://drive.google.com/file/d/19UhHE33MXGfGxiSKemzQcAw5NB2dceKS/view?usp=sharing
+- Jan.-June 2024: VI Semester - https://drive.google.com/file/d/15s76AZSAulBP2G5Sj7tqn-ht86tpxRQc/view?usp=sharing
+- July-Dec. 2023: III Semester (Download)
+- July-Dec. 2023: V Semester (Download)
+- July-Dec. 2023: VII Semester (Download)
+
+Electrical & Computer Engineering - Orientation Program Reports:
+- July-Dec. 2025: First Semester - https://web.mitsgwalior.in/images/Departments/Internet%20of%20Things/Deptt_event/Orientation_p/Orientation%20Report_IOT_I_Year.pdf
+- July-Dec. 2025: III Semester - https://drive.google.com/file/d/1vEFmi-kJ_sxH5ejGsHlnulNL4SzORU9n/view?usp=sharing
+- July-Dec. 2025: V Semester - https://web.mitsgwalior.in/images/Departments/Internet%20of%20Things/Deptt_event/Orientation_p/Orientation%20Report%20EO%20V%20Sem_2023%20batch.pdf
+- July-Dec. 2025: VII Semester - https://web.mitsgwalior.in/images/Departments/Internet%20of%20Things/Deptt_event/Orientation_p/Orientation%20Report%20EO%20VII%20Sem_2022%20batch.pdf
+- Jan.-June 2025: IV Semester - https://web.mitsgwalior.in/images/Departments/Internet%20of%20Things/Deptt_event/Orientation_p/EO-II.pdf
+- Jan.-June 2025: VI Semester - https://web.mitsgwalior.in/images/Departments/Internet%20of%20Things/Deptt_event/Orientation_p/EO-III.pdf
+- Jan.-June 2025: VIII Semester - https://web.mitsgwalior.in/images/Departments/Internet%20of%20Things/Deptt_event/Orientation_p/EO-IV.pdf
+- Jan.-June 2024: IV Semester - https://drive.google.com/file/d/1CONHnG33_Ca5QW461LxUTTXv0a2vEEel/view
+- Jan.-June 2024: VI Semester - https://drive.google.com/file/d/1Bu7MirtqRXuAWeGhLJaQ9bUiPwtxqN5w/view
+- Jan.-June 2024: VIII Semester - https://drive.google.com/file/d/1KWSmA_6L5ivTK1I2TQrGvLEQz3C0Gu1V/view?usp=sharing
+- July-Dec. 2023: III Semester - https://web.mitsgwalior.in/images/EEIOT/Orientation%20Reports/Orientation%20Report%20III%20semester%20EE_IoT_2.pdf
+- July-Dec. 2023: V Semester - https://web.mitsgwalior.in/images/EEIOT/Orientation%20Reports/Orientation%20Report%20V%20Semester_EE_IoT_2.pdf
+- July-Dec. 2023: VII Semester - https://web.mitsgwalior.in/images/EEIOT/Orientation%20Reports/Orientation%20Report%20VII%20Semeter%20EE_IoT_2.pdf

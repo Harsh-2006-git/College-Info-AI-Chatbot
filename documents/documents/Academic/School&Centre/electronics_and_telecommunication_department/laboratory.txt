@@ -1,0 +1,20 @@
+Laboratories — Department of Electronics and Telecommunication Engineering
+=========================================================================
+
+1. Basic Electronics Lab
+   - Description: Undergraduate Lab. Major experiments are related to: Designing of Rectifiers, Clippers, Clampers, Oscillators; Characteristics analysis of Diodes, BJT, and MOSFET. Electronic circuit design and verification using advanced workstations that incorporate a multimeter, function generator, power supply, and CRO in a single platform.
+
+2. Project Lab
+   - Description: The purpose of the Project Laboratory is to enable students to get familiar with hardware and software tools through hands-on mode. Used for conducting presentations and demonstrations related to Minor Projects, Major Projects, Skill-based projects, Internships, and other activities. Provides space for students to apply theoretical knowledge and develop innovative solutions. The lab is equipped with hardware facilities like an Antenna Testing facility, Spectrum Analyzer, Digital Storage Oscilloscope, PCB-prototyping machine, Function generator, PCB Soldering / De-soldering machine, etc. Ph.D. and M.Tech scholars carry out their research in this lab.
+
+3. Computer Lab
+   - Description: Undergraduate and Postgraduate Lab. Major experiments are related to: Basic Mathematical experiments using MATLAB / Scilab; Simulation of various engineering problems in MATLAB/Scilab and other tools; Qualnet: Network Simulation using GNS; CST Studio: Antenna designing.
+
+4. Communication Lab
+   - Description: Undergraduate Lab. Major experiments are related to: Sampling and reconstruction, pulse amplitude and pulse width modulation (PAM/PWM), generation and detection of Amplitude Shift Keying (ASK), Phase Shift Keying (PSK), and Frequency Shift Keying (FSK) signals using MATLAB / Scilab software and trainer modules.
+
+5. Digital and Microprocessor Lab
+   - Description: Undergraduate Lab. Major experiments are related to: Assembly language programming to generate standard waveforms using DAC and display waveforms on CRO with 8085; obtaining 2's complement of numbers; interfacing 8253 Timer and 8255 with 8086 in different modes.
+
+6. Engineering Foundation Lab (Applied Physics Laboratory)
+   - Description: Undergraduate Lab. The Physics Laboratory is designed to provide students with practical exposure to the fundamental principles of applied physics through carefully structured experiments. Enables students to understand and verify important concepts related to solid-state physics, optics, modern physics, electrical measurements, and fiber optics by correlating theoretical knowledge with hands-on experimentation.

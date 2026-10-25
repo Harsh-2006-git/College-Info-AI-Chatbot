@@ -1,0 +1,77 @@
+Department: Centre for Internet of Things (CIoT)
+Madhav Institute of Technology & Science (MITS), Gwalior
+
+About the Centre for Internet of Things
+The Centre for Internet of Things (CIoT) was established in 2023 with the vision of becoming a hub for innovation, research, and skill development in the rapidly evolving domain of Internet of Things.
+The centre is offering two B.Tech. courses: "B.Tech in Internet of Things (IoT) and B.Tech in Electrical and Computer Engineering."
+The centre aims to bridge the gap between academia and industry by providing hands-on training, interdisciplinary learning, and real-world problem-solving experiences.
+The centre is equipped with advanced infrastructure, IoT development kits, sensors, microcontrollers, and cloud-enabled platforms to support innovative student projects, faculty research, industry collaborations, and real-world applications in smart agriculture, healthcare, smart cities, and Industry 4.0 technologies.
+The centre serves as a platform to nurture entrepreneurial talent and develop IoT-enabled solutions that contribute to societal and industrial advancement.
+
+Department Vision
+To emerge as a center of excellence in the field of Internet of Things by driving innovation, interdisciplinary research, and skill development to empower technocrats who can lead digital transformation and deliver sustainable solutions for society.
+
+Department Mission
+- To provide quality education and practical exposure in IoT technologies through interdisciplinary and experiential learning.
+- To cultivate innovation and entrepreneurship by developing IoT-based solutions for real-world challenges across various domains.
+- To establish collaborations with industry, academia, and research institutions for advanced IoT research, training, and consultancy.
+- To promote impactful research, publications, and skill-building programs that contribute to the global IoT ecosystem.
+
+Course Curriculum Matrix and Scheme
+Branch: B.Tech - Internet of Things (IoT)
+Course Curriculum Matrix: https://web.mitsgwalior.in/images/Departments/Internet%20of%20Things/IOT_2026_Matrix.pdf
+Scheme: https://web.mitsgwalior.in/images/Departments/Internet%20of%20Things/IoT%20Scheme%202026_Website.pdf
+
+Branch: B.Tech - Electrical and Computer Engineering
+Course Curriculum Matrix: https://web.mitsgwalior.in/images/Departments/Internet%20of%20Things/Final_ECE_Matrix.pdf
+Scheme (Admitted Batch 2026): https://web.mitsgwalior.in/images/Departments/Internet%20of%20Things/2026_EACE%20Scheme.pdf
+
+Branch: M.Tech - Internet of Things
+Scheme: https://web.mitsgwalior.in/images/Departments/Internet%20of%20Things/2026_MTech_scheme.pdf
+Scheme (Admitted Batch 2026): https://web.mitsgwalior.in/images/Departments/Internet%20of%20Things/2026_MTech_scheme.pdf
+
+Placement Statistics Last Year: https://web.mitsgwalior.in/images/Departments/Internet%20of%20Things/IoT%20Branchwise%20placement%20record%20for%20display%20on%20website%20-%20IOT.pdf
+
+Lab Infrastructure and Lab Developed
+- IoT and Electrical and Computer Engineering Lab Infrastructure: https://drive.google.com/file/d/1mJH8oJcTMko2fY-KI6UYaRdeY4UK_wYt/view
+- In-House Fabrication Facilities for ECE and IoT Kits: https://web.mitsgwalior.in/images/Departments/Internet%20of%20Things/IoT%20Kits.pdf
+- In-House Fabrication Video: https://www.youtube.com/watch?v=iaFiW2jIcEQ
+- Centre of Excellence in IoT in Collaboration with Industry: https://web.mitsgwalior.in/images/Departments/Internet%20of%20Things/CoE%20MITs.pdf
+
+Student Innovative Projects and Achievements
+- Minor Projects: https://web.mitsgwalior.in/images/Departments/Internet%20of%20Things/Minor%20Project-II.pdf
+- Macro Projects (IoT): https://web.mitsgwalior.in/images/Departments/Internet%20of%20Things/Macro%20Projects_IOT_Final.pdf
+- Macro Projects (B.Tech): https://web.mitsgwalior.in/images/Departments/Internet%20of%20Things/IoT_Macro_Project_BTech.pdf
+- Students Achievements / Internship Statistics: https://web.mitsgwalior.in/images/Departments/Internet%20of%20Things/Internship%20Statistics.pdf
+- Start-Up Registered: https://web.mitsgwalior.in/images/Departments/Internet%20of%20Things/Hanuroy%20Global%20Enterprise_.pdf
+- Passout Student Testimonials: https://www.youtube.com/watch?v=0pETUEyI4YU
+
+Career Road Map for B.Tech Internet of Things (IoT)
+Career Options After B.Tech:
+- Core IoT and Embedded Systems: IoT Engineer, Embedded Systems Engineer, Firmware Developer, Sensor Integration Engineer, Hardware Design Engineer, Wireless Communication Engineer, Edge Computing Engineer, Embedded AI Engineer
+- AI and Smart Systems: AIoT Engineer, Machine Learning Engineer, Computer Vision Engineer, Smart Automation Engineer, Edge AI Developer, TinyML Engineer, Robotics Engineer
+- Cloud and Software Development: Cloud IoT Developer, Full Stack IoT Developer, Backend Developer, Web Application Developer, Mobile App Developer, DevOps Engineer, Cloud Architect
+- Cyber Security and Networking: Cyber Security Analyst, IoT Security Specialist, Ethical Hacker, Network Security Engineer, Cloud Security Engineer
+- Data Analytics and AI: Data Analyst, Data Engineer, Data Scientist, AI Engineer, Business Intelligence Analyst, Predictive Analytics Engineer
+- Industrial Automation and Industry 4.0: Industrial Automation Engineer, PLC Programmer, SCADA Engineer, Smart Manufacturing Engineer, Industry 4.0 Engineer
+- Robotics, Drone and Autonomous Systems: Drone Engineer, UAV Systems Developer, Autonomous Systems Engineer, Mechatronics Engineer, Smart Robotics Engineer
+- Renewable Energy and Smart Energy: Smart Grid Engineer, Renewable Energy Monitoring Engineer, EV Monitoring Engineer, Energy Analytics Engineer, Smart Metering Engineer
+- Research and Innovation: Research Engineer, IoT Consultant, Technical Architect, Product Development Engineer, Innovation Engineer
+- IT and Software Industry: Software Developer, Python Developer, Java Developer, React Developer, Node.js Developer, API Developer, Database Engineer
+- Startup and Entrepreneurship: Startup Founder, Smart Home Solution Developer, Smart Agriculture Entrepreneur, Healthcare IoT Developer, Smart City Solution Architect
+- Cloud Computing and DevOps: Cloud Engineer, AWS IoT Specialist, Azure IoT Engineer, Google Cloud Engineer, Site Reliability Engineer
+- Future Technology: Digital Twin Engineer, 5G IoT Engineer, Blockchain IoT Developer, AR/VR IoT Developer, Quantum IoT Researcher
+
+Career Roadmap for B.Tech Electrical and Computer Engineering
+Career Options After B.Tech:
+- Core Electrical Engineering: Power Systems Engineer, Electrical Design Engineer, Power Electronics Engineer, Control Systems Engineer, Protection Engineer, Smart Grid Engineer, Renewable Energy Engineer, EV Systems Engineer
+- Embedded and Electronics: Embedded Systems Engineer, Firmware Developer, PCB Design Engineer, VLSI Engineer, FPGA Engineer, Hardware Design Engineer, Electronics Design Engineer
+- IT and Software Industry: Software Developer, Full Stack Developer, Cloud Engineer, Data Analyst, AI Engineer, DevOps Engineer, Cyber Security Analyst, Backend Developer
+- AI, IoT and Automation: IoT Engineer, AIoT Engineer, Robotics Engineer, Industrial Automation Engineer, Smart Manufacturing Engineer, Edge AI Developer
+- Renewable Energy and EV: Solar Design Engineer, Energy Analyst, EV Charging Infrastructure Engineer, Battery Management Engineer, Grid Integration Engineer
+- Government and PSU: Research Engineer, Scientist/Engineer, Technical Officer, PSU Engineer, Government Electrical Engineer
+
+Contact Details
+Dr. Praveen Bansal
+Associate Professor and Dean, Centre for IoT, MITS-DU
+E-Mail: pbansal444@mitsgwalior.in | ciot@mitsgwalior.in

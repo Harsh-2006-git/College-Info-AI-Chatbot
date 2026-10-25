@@ -53,6 +53,8 @@ class ChatResponse(BaseModel):
     sources: List[SourceChunk] = Field(description="List of sources used to generate the answer")
     processing_time_ms: int = Field(description="Total processing time in milliseconds")
     analytics: Optional[RAGAnalytics] = Field(default=None, description="Detailed RAG execution analytics")
+    confidence: Optional[float] = Field(default=None, description="Confidence score between 0.0 and 1.0")
+    suggested_followups: Optional[List[str]] = Field(default=None, description="Curiosity-driven suggested follow-up questions")
 
 class ChatMessageResponse(BaseModel):
     id: str

@@ -1,0 +1,23 @@
+Research Areas — Department of Electronics Engineering
+======================================================
+
+Faculty Names & Concerning Research Areas:
+------------------------------------------
+1. Dr. Laxmi Shrivastava — Wireless Networks, Microwave Engineering
+2. Dr. P. K. Singhal — Microwave Engineering, Antenna and Wave Propagation
+3. Dr. V. V. Thakare — Microwave Engineering, Antenna and Neural Networks
+4. Dr. R. P. Narwaria — Artificial Neural Networks, Biomedical Signal Processing, Control Systems
+5. Dr. Karuna Markam — Digital Communication
+6. Prof. Madhav Singh — Wireless Communication, Wireless Sensor Networks, VLSI Design
+7. Prof. D. K. Parsediya — Antenna, Mechatronics
+8. Prof. Pooja Sahoo — Antenna Design
+9. Dr. Vikas Mahor — Low Power VLSI Design, Real Time Embedded Systems
+10. Dr. Rahul Dubey — Signal Processing, Image Processing, Machine Learning
+11. Dr. Hemant Choubey — Signal Processing, Machine Learning, EEG Signal Processing
+12. Dr. Deepak Batham — Optical Networks
+13. Dr. Varun Sharma — Nano-Electronics, VLSI Design
+14. Dr. Shubhi Kansal — Image Processing
+15. Dr. Dablu Kumar — Optical Fibre Technology, Multi-core Fibre
+16. Dr. Mukesh Kumar Mishra — 5G and 6G Wireless Networks, Millimeter Wave Networks, UAV Network Modeling
+17. Dr. Varun Mishra — Semiconductor Device Modeling, Nano-electronics, VLSI Design
+18. Dr. Himanshu Singh — Image Processing and Computer Vision Applications

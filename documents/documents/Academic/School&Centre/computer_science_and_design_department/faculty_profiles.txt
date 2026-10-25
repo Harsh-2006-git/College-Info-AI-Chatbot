@@ -1,0 +1,97 @@
+Faculty Profiles — Department of Computer Science and Design (CSD)
+=====================================================================
+
+1. Dr. Mahesh Parmar
+   - Designation: Assistant Professor & Head of Department (CSD)
+   - Qualification: Ph.D. (Computer Science & Engineering), GATE Qualified (2007, 2012)
+   - Area of Interest: Data Mining, Machine Learning, Deep Learning, Sentiment Analysis
+   - Phone Number: 7987537703
+   - E-Mail: maheshparmar@mitsgwalior.in
+   - Profile Link: https://web.mitsgwalior.in/faculty-profiles-csd/mahesh-parmar-2
+
+2. Dr. Rohit Agrawal
+   - Designation: Assistant Professor
+   - Qualification: Ph.D. (IIT Indore), M.Tech (ISM Dhanbad / IIT-ISM Dhanbad), B.Tech (BIET Jhansi), GATE Qualified, UGC-NET Qualified
+   - Research Visits / International Internships:
+     * June 2021 – Oct 2021: LU Hannover, Hannover, Germany
+     * Nov 2020 – Dec 2020: LU Hannover, Hannover, Germany
+     * Nov 2019 – Dec 2019: Lancaster University, Lancaster, United Kingdom
+     * June 2018 – Aug 2018: Center for Advancing Electronics Dresden (cfaed), TU Dresden, Dresden, Germany
+   - Area of Interest: Machine Learning, Image Processing, Optimization, Data Science
+   - Phone Number: 8505821983
+   - E-Mail: rohit@mitsgwalior.in
+   - Profile Link: https://web.mitsgwalior.in/faculty-profiles-csd/dr-rohit-agrawal
+
+3. Dr. Kuldeep Narayan Tripathi
+   - Designation: Assistant Professor
+   - Qualification: Ph.D. (IIT Roorkee), M.Tech (ABV-IIITM Gwalior), GATE Qualified, UGC-NET Qualified
+   - Area of Interest: Information Security, Wireless Networks, Ad-hoc Networks, Machine Learning, Internet of Things (IoT), Edge Computing, Cyber-Physical Systems
+   - Phone Number: 8889951188
+   - E-Mail: kuldeep08narayan@gmail.com, kuldeepnarayan@mitsgwalior.in
+   - Profile Link: https://web.mitsgwalior.in/faculty-profiles-csd/dr-kuldeep-narayan-tripathi
+
+4. Dr. Gagandeep Kaur
+   - Designation: Assistant Professor
+   - Qualification: Ph.D. (ABV-IIITM Gwalior), Senior Member of IEEE (SMIEEE), GATE Qualified
+   - Area of Interest: Internet of Things (IoT), Cyber Physical Networks (CPNs), Wireless Sensor Networks (WSNs), Artificial Intelligence (AI)
+   - Phone Number: 6265610262
+   - E-Mail: gagandeep@mitsgwalior.in, gagan873@gmail.com
+   - Personal Website: https://drgagandeepkaur.netlify.app/
+   - Profile Link: https://web.mitsgwalior.in/faculty-profiles-csd/dr-gagandeep-kaur
+
+5. Dr. Devesh Kumar Lal
+   - Designation: Assistant Professor
+   - Qualification: Ph.D., CSIR-JRF (AIR-178), CSIR-SRF, UGC-NET Qualified, GATE Qualified
+   - Area of Interest: Big Data, Robotics, Artificial Intelligence (AI), Internet of Things (IoT)
+   - Phone Number: 9407100266
+   - E-Mail: deveshlal@mitsgwalior.in, devesh2222@gmail.com
+   - Profile Link: https://web.mitsgwalior.in/faculty-profiles-csd/dr-devesh-kumar-lal
+
+6. Dr. Rahul Dubey
+   - Designation: Assistant Professor
+   - Qualification: Ph.D., M.Tech, B.E., GATE Qualified
+   - Area of Interest: Machine Learning, Deep Learning, AutoML, Image Processing
+   - Phone Number: 8871658241
+   - E-Mail: rahuldubey@mitsgwalior.in
+   - Profile Link: https://web.mitsgwalior.in/faculty-profiles-csd/dr-rahul-dubey
+
+7. Dr. Nishant Jain
+   - Designation: Assistant Professor
+   - Qualification: B.E., M.Tech., Ph.D. (IIT-ISM Dhanbad), GATE (2013, 2014, 2015, 2016, 2017 Qualified)
+   - Area of Interest: Explainable Ensemble Machine Learning Algorithms, Tree-based Ensemble Learning Algorithms
+   - Phone Number: 7000525970
+   - E-Mail: nishantjain@mitsgwalior.in
+   - Profile Link: https://web.mitsgwalior.in/faculty-profiles-csd/dr-nishant-jain
+
+8. Dr. Ashish Tomar
+   - Designation: Assistant Professor
+   - Qualification: Ph.D. (IIT-ISM Dhanbad), M.Tech (ABV-IIITM Gwalior), B.E. (SGSITS Indore)
+   - Area of Interest: Cryptography, Blockchain, IoT Security, Authentication
+   - Phone Number: 8839837532
+   - E-Mail: ashishtomar244@gmail.com
+   - Profile Link: https://web.mitsgwalior.in/faculty-profiles-csd/dr-ashish-tomar
+
+9. Dr. Manojeet Roy
+   - Designation: Assistant Professor
+   - Qualification: B.Tech CSE, M.Tech CSE, Ph.D. CSE (NIT Silchar), GATE-2014 Qualified
+   - Area of Interest: Computer Vision, Deep Learning, Machine Learning
+   - Phone Number: 9993649781
+   - E-Mail: manojeetroy@mitsgwalior.in
+   - ORCID ID: 0000-0002-6628-2405
+   - Profile Link: https://web.mitsgwalior.in/faculty-profiles-csd/dr-manojeet-roy
+
+10. Prof. Jigyasa Mishra
+    - Designation: Assistant Professor
+    - Qualification: M.Tech., Ph.D. (Pursuing)
+    - Area of Interest: Image Processing, Machine Learning, Deep Learning, Transfer Learning
+    - Phone Number: 9584011118
+    - E-Mail: jigyasa@mitsgwalior.in
+    - Profile Link: https://web.mitsgwalior.in/faculty-profiles-csd/jigyasa-mishra-2
+
+11. Prof. Arti Ahirwar
+    - Designation: Assistant Professor
+    - Qualification: B.E., M.E., Ph.D. (Pursuing)
+    - Area of Interest: Wireless Networks
+    - Phone Number: 9479876325
+    - E-Mail: ahirwar.arti@gmail.com
+    - Profile Link: https://web.mitsgwalior.in/faculty-profiles-csd/arti-ahirwar

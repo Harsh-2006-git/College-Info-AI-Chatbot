@@ -1,0 +1,42 @@
+Research Areas - School of Electrical Engineering
+
+Power System
+Sub Areas of Research:
+- Evolutionary optimization techniques for Power System Optimization
+- Impact of renewable energy source integration on power system stability
+Faculty Experts: Dr. Manjaree Pandit, Dr. Shishir Dixit, Dr. Himmat Singh, Dr. Yashwant Sawle, Dr. Vijay Bhuria, Kuldeep Kumar Swarnkar, Nikhil Paliwal
+
+Bio Medical Instrumentation
+Sub Areas of Research:
+- Biomedical Signal Analysis
+- Application of Soft Computing Techniques for abnormality detection in Biomedical signals and digital images
+Faculty Experts: Dr. Arun Kumar Wadhwani, Dr. Sulochana Wadhwani
+
+Power Electronics & Drives
+Sub Areas of Research:
+- Power Quality, Grid Connected Systems
+- Multilevel Inverters
+- Industrial Systems & Electrical Drives
+Faculty Experts: Vishal Chaudhary, Rakesh Narvey, Ankit Tiwari, Geetam Shukla, Manoj Kumar, Kuldeep Kumar Swarnkar
+
+Renewable Energy
+Sub Areas of Research:
+- Smart Grid Operations
+- Integration of Non-Conventional Energy Sources
+- Performance Analysis and Energy Efficiency of Rooftop PV integrated Low Voltage Distribution Power System
+- Energy Storage Systems
+- Smart city, Electric and green vehicles, SWM
+Faculty Experts: Dr. Manjaree Pandit, Rakesh Narvey, Vishal Chaudhary, Dr. Yashwant Sawle, Ankit Tiwari, Hariom Sharma
+
+Control System
+Sub Areas of Research:
+- Control System Applications
+- Identification Theory
+Faculty Experts: Ashis Patra, Dr. Vikram, Dr. Sulochana Wadhwani, Nikhil Paliwal
+
+Condition Monitoring
+Sub Areas of Research:
+- Signal Analysis
+- Fault Detection & Diagnosis
+- Application of Soft Computing Techniques
+Faculty Experts: Dr. Arun Kumar Wadhwani, Dr. Sulochana Wadhwani, Kuldeep Kumar Swarnkar, Manoj Kumar

@@ -1,0 +1,40 @@
+Department: Chemical Engineering Department
+Faculty Profiles
+
+1. Dr. Anjula Gaur
+Profile URL: https://web.mitsgwalior.in/faculty-profiles-ce-2/dr-anjula-gaur
+Designation: Associate Professor
+Qualification: Ph.D.
+Area of Interest: Organic Chemistry
+Phone No: 07512409392
+E-Mail: anjulagaur@mitsgwalior.in
+
+2. Prof. Swati Gupta
+Profile URL: https://web.mitsgwalior.in/faculty-profiles-ce-2/prof-swati-gupta
+Designation: Assistant Professor
+Qualification: M.Tech (NIT Raipur), Ph.D. (Pursuing)
+Area of Interest: Reaction Engg., Process Control
+Phone No: 07512409338
+E-Mail: swatig128@mitsgwalior.in
+
+3. Prof. Anish P. Jacob
+Profile URL: https://web.mitsgwalior.in/faculty-profiles-ce-2/prof-anish-p-jacob
+Designation: Assistant Professor & Head
+Qualification: M. Tech. Chemical Engg. (IIT Madras)
+Area of Interest: Microfluidics, Heterogeneous reactions, Catalysis, Modeling & Simulation, Separation processes
+E-Mail: anishjaco@mitsgwalior.in
+
+4. Dr. Shourabh Singh Raghuwanshi
+Profile URL: https://web.mitsgwalior.in/faculty-profiles-ce-2/dr-shourabh-singh-raghuwanshi
+Designation: Assistant Professor
+Qualification: M.Tech., Ph.D. (MANIT, Bhopal)
+Area of Interest: Mass Transfer, Heat Transfer, Waste Water Treatment, Environmental Engineering, Reactive Extraction
+Phone No: 9993065683
+E-Mail: shourabh.raghuwanshi@mitsgwalior.in
+
+5. Shivangi Sharma
+Profile URL: https://web.mitsgwalior.in/faculty-profiles-ce-2/shivangi-sharma
+Designation: Assistant Professor
+Qualification: M.Tech
+Area of Interest: Mass Transfer, Reactive Distillation
+E-Mail: shivangi@mitsgwalior.in

@@ -1,0 +1,12 @@
+Department: Centre for Computer Science and Technology (CCST)
+Programmes Offered
+
+1. B.Tech in Computer Science and Business Systems
+DURATION: 4 Years Degree Course
+INTAKE: 60
+TYPE: Regular
+
+2. B.Tech in Computer Science and Technology
+DURATION: 4 Years Degree Course
+INTAKE: 120
+TYPE: Regular

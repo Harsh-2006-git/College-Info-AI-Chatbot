@@ -1,0 +1,167 @@
+R&D Activities - Department of Computer Science & Engineering
+
+Research Projects Funded by External Agencies
+
+1. An Intelligent Image Recognition for Real time surveillance
+- Principal Investigator: Dr. Manish Dixit
+- Funding Agency: AICTE (Under AICTE-NDF Scheme)
+- Duration: 3 Years
+- Amount: Rs. 11,60,000/-
+- Status: Submitted / Completed
+
+2. Modernization of Hardware Laboratory
+- Principal Investigator: Dr. R. K. Gupta
+- Funding Agency: AICTE
+- Duration: 2 Years
+- Amount: Rs. 2,90,000/-
+- Status: Submitted / Completed
+
+3. Synergic App Framework for Analysis and Detection of Information leakage in Smartphone Applications
+- Principal Investigator: Mr. Rati Bhan
+- Funding Agency: NPIU, TEQIP CRS scheme
+- Duration: 1 Year
+- Amount: Rs. 8,85,000/-
+- Status: Submitted / Completed
+
+4. DrugML: Computational Druggability Prediction for Stress Response target Protein using Physicochemical properties and Machine Learning Approaches
+- Principal Investigator: Mr. Arun Kumar
+- Funding Agency: NPIU-TEQIP CRS Scheme
+- Duration: 1 Year
+- Amount: Rs. 19,50,000/-
+- Status: Submitted / Completed
+
+
+Ph.D. Theses Ongoing
+
+1. Vishakha Agarwal (Enrolment No: 0901CS17PD24 | Reg Date: 05.01.2018)
+- Supervisors: Dr. R.K. Gupta, Dr. Akhilesh Tiwari
+- Title / Area: "Recommender Systems for Effective Pattern Warehousing"
+- Status: RDC Notification No. RGPV/Exam./PhD/RDC-ANO/CS/4924 dt. 03.02.2021
+
+2. Nishtha Parashar (Enrolment No: 0901CS17PD22 | Reg Date: 05.01.2018)
+- Supervisors: Dr. Akhilesh Tiwari, Dr. R.K. Gupta
+- Title / Area: Deep Learning Based Technique for Mining Image Data Association
+- Status: RDC letter No. RGPV/Acad./PhD/RDC-ANO/CS&IT/2019/1626 dt. 01.10.2019
+
+3. Prateek Gupta (Enrolment No: 0901CS17PD23 | Reg Date: 05.01.2018)
+- Supervisors: Dr. R.K. Gupta, Dr. Akhilesh Tiwari
+- Title / Area: Development of New Framework for Optimized Opinion Mining
+- Status: RDC letter No. RGPV/Acad./PhD/RDC-ANO/CS&IT/2019/1681 dt. 01.10.2019
+
+4. Khushboo Agarwal (Enrolment No: 0901CS17PD21 | Reg Date: 10.04.2018)
+- Supervisor: Dr. Manish Dixit
+- Title / Area: Development of Novel Framework for Recognition of Restored Images
+- Status: RDC letter No. RGPV/Acad./PhD/RDC-ANO/CS&IT/2019/1669 dt. 01.10.2019
+
+5. Amita Sharma (NDF) (Enrolment No: 0901CS18PD31 | Reg Date: 06.06.2019)
+- Supervisor: Dr. R.S. Jadon
+- Title / Area: "Fuzzy Object-Based Characterization of Indian Visual Art Architecture Using Machine Learning"
+- Status: RDC Notification No. RGPV/Exam./PhD/RDC-ANO/CS/4900 dt. 03.02.2021
+
+6. Anand Jawdekar (Enrolment No: 0901CS18PD28 | Reg Date: 27.09.2018)
+- Supervisor: Dr. Manish Dixit
+- Title / Area: "Design and Development of an Efficient and Intelligent Framework for Image Enhancement Using Intelligent Techniques"
+- Status: RDC Notification No. RGPV/Exam./PHD/RDC-ANO/CS/4904 dt. 03.02.2021
+
+7. Sanjay Patsariya (Enrolment No: 0901CS18PD30 | Reg Date: 27.09.2018)
+- Supervisor: Dr. Manish Dixit
+- Title / Area: "Design and analysis of Secured and Robust Watermarking Techniques to Improve Fidelity Parameters"
+- Status: RDC Notification No. RGPV/Exam./PhD/RDC-ANO/CS/4912 dt. 03.02.2021
+
+8. Rajeev Kumar Singh (Enrolment No: 0901CS18PD29 | Reg Date: 27.09.2018)
+- Supervisors: Dr. Akhilesh Tiwari, Dr. R.K. Gupta
+- Title / Area: "Segmentation and Classification of Plant Leaves Diseases Using Soft Computing Approaches"
+- Status: RDC Notification No. RGPV/Exam./PHD/RDC-ANO/CS/4930 dt. 03.02.2021
+
+9. Shradha Dubey (NDF) (Enrolment No: 0901CS19PD04 | Reg Date: 01.09.2020)
+- Supervisor: Dr. Manish Dixit
+- Title / Area: Design And Analysis of Deep Convolutional Spontaneous Framework For Diagnosis Of Eye Disease Using Retinal Image Patterns
+- Status: RDC Letter No. RGPV/PhD/RDC-ANO/CSE/1427 dt. 31.03.2022
+
+10. Priyanka Gupta (NDF) (Enrolment No: 0901CS19PD03 | Reg Date: 01.09.2020)
+- Supervisor: Dr. Manish Dixit
+- Title / Area: A Deep Neural Framework For Surficial Crack Detection In Engineering Structures Using Image Patterns
+- Status: RDC Letter No. RGPV/PhD/RDC-ANO/CSE/1427 dt. 31.03.2022
+
+11. Shubham Sharma (NDF) (Enrolment No: 0901CS19PD05 | Reg Date: 22.07.2019)
+- Supervisor: Dr. Akhilesh Tiwari
+- Title / Area: IoT Enabled Image Retrieval Using Sketch Based Deep Learning
+- Status: RDC Letter No. RGPV/PhD/RDC-ANO/CSE/1427 dt. 31.03.2022
+
+12. Mahesh Parmar (Enrolment No: 0901CS19PD02 | Reg Date: 02.09.2019)
+- Supervisor: Dr. Akhilesh Tiwari
+- Status: RDC Letter No. RGPV/PhD/RDC-ANO/CSE/1401 dt. 31.03.2022
+
+13. Jamvant Singh Kumare (Enrolment No: 0901CS19PD01 | Reg Date: 02.09.2019)
+- Supervisor: Dr. Manish Dixit
+- Title / Area: Image Processing
+- Status: Course work Completed
+
+14. Shailendra Satyarthi (Enrolment No: 0901CS20PD03 | Reg Date: 02.12.2020)
+- Supervisor: Dr. Sanjiv Sharma
+- Title / Area: A Novel Framework For Aspect Based Sentiment Classification In Social Media
+- Status: RDC Letter No. RGPV/PhD/RDC-ANO/CSE/1457 dt. 31.03.2022
+
+15. Sudipti Banerjee (Enrolment No: 0901CS20PD07 | Reg Date: 12.07.2021)
+- Supervisor: Dr. R.R.S. Makwana
+- Title / Area: Information Security
+- Status: Synopsis submitted for RDC, RGPV, Bhopal
+
+16. Reena (Enrolment No: 0901CS20PD02 | Reg Date: 18.01.2021)
+- Supervisor: Dr. Akhilesh Tiwari
+- Title / Area: Data Analysis with Machine Learning
+- Status: Course work Completed
+
+17. Pankaj Sharma (Enrolment No: 0901CS20PD04 | Reg Date: 25.03.2021)
+- Supervisor: Dr. Sanjiv Sharma
+- Title / Area: Bigdata Analysis
+- Status: Synopsis submitted for RDC, RGPV, Bhopal
+
+18. Madhukar Dubey (Enrolment No: 0901CS20PD05 | Reg Date: 12.07.2021)
+- Supervisor: Dr. R.R.S. Makwana
+- Title / Area: Information Security
+- Status: Course work completed
+
+19. Monika Dandotiya (Enrolment No: 0901CS20PD06 | Reg Date: 12.07.2021)
+- Supervisor: Dr. R.R.S. Makwana
+- Title / Area: Information Security
+- Status: Course work Completed
+
+
+Ph.D. Theses Awarded / Submitted
+
+1. Abhishek Dixit
+- Supervisors: Dr. R.K. Gupta, Dr. Akhilesh Tiwari
+- Title / Area: Swarm Intelligence Based Framework for Multilevel Hesitation Mining
+- University: RGPV Bhopal
+- Status: Awarded
+
+2. Punit Kumar Johri
+- Supervisor: Dr. R.K. Gupta
+- Title / Area: A Novel Approach for Retrieving Image using Soft Computing Techniques
+- University: RGPV Bhopal
+- Status: Awarded
+
+3. Abhilash Sonker
+- Supervisor: Dr. R.K. Gupta
+- Title / Area: A New Approach for Misbehavior detection of Nodes in VANET
+- University: RGPV Bhopal
+- Status: Submitted
+
+4. Jaimala Jha
+- Supervisor: Prof. Sarita Singh Bhadauria
+- Title / Area: A Framework for Fast Retrieval and Identification of Monument Images using Visual Features and Data Mining Techniques
+- University: RGPV Bhopal
+- Status: Submitted
+
+5. Ruchi Jaishwal
+- Supervisor: Dr. Manish Dixit
+- Title / Area: Design and Development of an efficient and intelligent framework for human computer interaction in pandemic scenario
+- University: RGPV Bhopal
+- Status: Submitted
+
+6. Ms. Devanshu Tiwari
+- Supervisor: Dr. Manish Dixit
+- Title / Area: Development of breast cancer detection framework using machine learning technique
+- University: RGPV Bhopal
+- Status: Submitted

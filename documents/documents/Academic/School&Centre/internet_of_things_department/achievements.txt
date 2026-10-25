@@ -1,0 +1,220 @@
+Department: Centre for Internet of Things (CIoT)
+Achievements and Awards
+
+--- ACHIEVEMENTS AND AWARDS ---
+
+1. Dr. Aditya Dubey identified as an NPTEL Believer by NPTEL-AICTE. Jan-Apr 2025.
+2. Dr. Aditya Dubey received appreciation letter for the subject "Operating System 23241204" for the session Jan-June 2025.
+3. Dr. Aditya Dubey received appreciation letter for the subject "Network & Web Security 3230425" for the session Jan-June 2025.
+4. Dr. Kaushal Pratap Sengar identified as an NPTEL Believer by NPTEL-AICTE. Jan-Apr 2025.
+5. Dr. Kaushal Pratap Sengar identified as an NPTEL Enthusiast by NPTEL-AICTE. Jan-Apr 2025.
+6. Dr. Kaushal Pratap Sengar received appreciation letter for the subject "Software Engineering 3220404" for the session Jan-June 2025.
+7. Dr. Kaushal Pratap Sengar received appreciation letter for the subject "Operating System 22241204" for the session Jan-June 2025.
+8. Dr. Aftab Ahmed Ansari identified as an NPTEL Discipline Star by NPTEL-AICTE. Jan-Apr 2025.
+9. Dr. Aftab Ahmed Ansari identified as an NPTEL Motivated Learner by NPTEL-AICTE. Jan-Apr 2025.
+10. Dr. Dhananjay Bisen received recognition as an NPTEL Star by NPTEL-AICTE. Jan-Apr 2025.
+11. Dr. Dhananjay Bisen received appreciation letter for the subject "Object Oriented Programming 23241201" for the session Jan-June 2025.
+12. Dr. Saurabh Kumar Rajput received appreciation letter for the subject "Basic Electrical and Electronics Engineering 23241205" for the session Jan-June 2025.
+13. Dr. Praveen Bansal, Dr. Vishal Choudhary, Dr. Deep Kumar Parsediya & Dr. Kaushal Pratap Sengar received Meritocracy award on 10th March 2025 for Novel Initiative taken by Conducting the School Internship Program-2024.
+14. Dr. Bhavna Rathore & Dr. Saurabh Kumar Rajput received Meritocracy award on 10th March 2025 for First Prize in Skill Based Mini Project on "ECG and Heart Rate Monitoring using AD8232 and Arduino" of III Year Students.
+15. Dr. Murli Manohar received Meritocracy award on 10th March 2025 for successful conduction of peer learning training programme on Cloud Computing.
+16. Dr. Aftab Ahmed Ansari received the Best Paper Award at the 2024 IEEE Conference (GIEST 2024) organized by NIT Manipur.
+17. Dr. Aftab Ahmed Ansari was awarded a Certificate of Appreciation for being recognized as an NPTEL Believer.
+18. Dr. Saurabh Kumar Rajput received letter of Appreciation by Hon'ble VC, MITS-DU, for getting FFI 4.5 in course Engineering Measurement, Session July-December 2024.
+19. Dr. Dhananjay Bisen received Meritocracy award on 10th March 2025 for successfully conduction of peer to peer learning on data science.
+20. Dr. Priyanka Garg received Meritocracy award on 10th March 2025 for successfully conduction of peer to peer learning on "Basics of Computer Science and Emerging Technologies".
+21. Dr. Saurabh Kumar Rajput received Meritocracy award on 10th March 2025 for successfully conduction of peer to peer learning on Python Programming.
+22. Dr. Praveen Bansal successfully participated in SPOC Felicitation workshop organized at IIT-Kanpur on 11 August, 2024 and received an award for outstanding contribution as SPOC in NPTEL Local Chapter at MITS-DU for academic session Jan-June 2024.
+23. Dr. Praveen Bansal was awarded by IIT-Kanpur for Outstanding contribution as a Single Point of Contact (SPOC) in the NPTEL Local chapter of MITS for institute ranking under AAA category among 5500+ active local chapters of the country.
+24. Dr. Aditya Dubey received appreciation letter on Data Structures (3230223) Jan. to June 2024 session.
+25. Dr. Dhananjay Bisen received appreciation letter on Python Programming (3230224) Jan. to June 2024 session.
+26. Dr. Saurabh Kumar Rajput received the letter of Appreciation from Director, MITS Gwalior for good FFI and nicely implementing Teaching-Learning-Evaluation as per NEP 2020 philosophy, for the course "Embedded Control of Electrical Machine (220503).
+27. Dr. Aditya Dubey was identified as NPTEL Believer, NPTEL Enthusiast, and NPTEL Discipline Star and received a certificate of appreciation for same.
+28. Dr. Priyanka Garg was identified as NPTEL Believer, NPTEL Enthusiast, and NPTEL Discipline Star and received a certificate of appreciation for same.
+29. Dr. Dhananjay Bisen was identified as NPTEL Enthusiast and received a certificate of appreciation for same.
+
+--- SWAYAM/NPTEL COURSES COMPLETED WITH FDP CERTIFICATION BY FACULTY ---
+
+Dr. Kaushal Pratap Sengar:
+- Introduction to Industry 4.0 and Industrial Internet of Things (Elite)
+- Introduction to Soft Computing (Elite)
+- Accreditation and Outcome-Based Learning
+- Ecology and Environment
+- Advances in UHV Transmission and Distribution System
+- Power System Protection and Switchgear
+- Edge Computing (Silver+Elite)
+- AI in Marketing (Silver+Elite) (Topper 5%)
+- AI in Human Resource Management (Elite)
+- Fuzzy Sets, Logic and Systems & Applications (Elite)
+
+Dr. Bhavna Rathore:
+- DC Microgrid And Control Systems (Silver+Elite)
+
+Dr. Aditya Dubey:
+- Distributed Systems (2% topper)
+- Cloud Computing (Elite+Silver)
+- Cloud Computing and Distributed Systems (Elite+Silver)
+- Introduction to Internet of Things (Elite+Silver)
+- Cloud Computing and Distributed Systems (Elite+Silver)
+- Cyber Security and Privacy (Elite)
+- Introduction to Algorithms and Analysis (Elite)
+- Operating System Fundamentals
+- Software Engineering
+- AI in Human Resource Management (Elite)
+- AI in Marketing (Elite+Silver)
+- Business Intelligence & Analytics (Elite)
+- Intellectual Property (Elite)
+- Introduction To Soft Computing (Elite+Silver)
+
+Dr. Geetam Shukla:
+- DC Microgrid and Control System (Elite)
+
+Dr. Aftab Ahmed Ansari:
+- DC Microgrid and Control System (Silver+Elite)
+- Introduction to Industry 4.0 and Industrial Internet of Things (Silver+Elite) (Topper 5%)
+- Cloud Computing (Silver+Elite)
+- Edge Computing (Silver+Elite)
+
+Dr. Nookala Venu:
+- Distributed Systems (Elite)
+- Computer Graphics
+- Introduction to Quantum Computing: Quantum Algorithms and Qiskit
+- Introduction to Soft Computing
+- Data Science for Engineers
+- Cloud Computing and Distributed Systems (Elite)
+- User-centric Computing For Human-Computer Interaction (Elite+Silver)
+- Wireless Ad Hoc and Sensor Networks (Elite)
+- Edge Computing (Silver+Elite)
+
+Dr. Dhananjay Bisen:
+- Data analytics with Python (Elite+Silver)
+- The joy of Computing using Python (Elite + Silver)
+- Programming, data structures and algorithms using Python (Elite)
+- Business Intelligence & Analytics (Elite)
+- Fundamentals of Object Oriented Programming (Elite+Silver)
+
+Dr. Saurabh Kumar Rajput:
+- The Joy of Computing using Python
+- Fundamentals of Electrical Engineering
+
+Dr. Murli Manohar:
+- Smart Grid: Basics to Advanced Technologies (Elite)
+- Cloud Computing
+- Power System Protection
+
+Dr. Priyanka Garg:
+- Accreditation and Outcome Based Learning
+- Google Cloud Computing Foundations
+- Introduction to Industry 4.0 and Industrial Internet of Things
+- Programming, Data Structures and Algorithms Using Python
+
+Dr. Soumyajit Ghosh:
+- Introduction to soft computing (Elite + Silver)
+
+--- TRAINING PROGRAMME / FDP ATTENDED ---
+
+1. Dr. Kaushal Pratap Sengar completed 12-week FDP on "AI in Marketing" conducted by NPTEL-AICTE. Jan-Apr 2025.
+2. Dr. Kaushal Pratap Sengar completed 12-week FDP on "AI in Human Resource Management" conducted by NPTEL-AICTE. Jan-Apr 2025.
+3. Dr. Kaushal Pratap Sengar completed 12-week FDP on "Fuzzy Sets, Logic and Systems & Applications" conducted by NPTEL-AICTE. Jan-Apr 2025.
+4. Dr. Aditya Dubey completed a 12-week FDP on "AI in Human Resource Management" conducted by NPTEL-AICTE. Jan-Apr 2025.
+5. Dr. Aditya Dubey completed a 12-week FDP on "AI in Marketing" conducted by NPTEL-AICTE. Jan-Apr 2025.
+6. Dr. Aditya Dubey completed a 12-week FDP on "Business Intelligence & Analytics" conducted by NPTEL-AICTE. Jan-Apr 2025.
+7. Dr. Aditya Dubey completed a 12-week FDP on "Intellectual Property" conducted by NPTEL-AICTE. Jan-Apr 2025.
+8. Dr. Aditya Dubey completed a 12-week FDP on "Introduction to Soft Computing" conducted by NPTEL-AICTE. Jan-Mar 2025.
+9. Dr. Aditya Dubey completed International FDP on "FIBRES'25" (19-24 May 2025) organized by Syed Ammal Arts and Science College, Ramanathapuram.
+10. Dr. Aditya Dubey completed one-week online FDP on "Advanced AI Development and Research Challenges" organized by IT Department & IEEE Student Branch REC Banda (21-25 April 2025).
+11. Dr. Aditya Dubey participated in an IEEE training on "IEEE Xplore" on 02 June 2025.
+12. Dr. Aditya Dubey successfully completed the course "Deep Learning for Developers" on June 30, 2025, organized by Infosys Springboard.
+13. Dr. Aditya Dubey attended the National Level Capacity Building Programme on "AI Tools for Research" on 29.06.2025, organized by A.C.T. Academy, Kerala.
+14. Dr. Aditya Dubey participated in an author workshop on "Science Direct: Unlock Your Research Potential" at MITS-DU, Gwalior on 02 June 2025.
+15. Dr. Aditya Dubey successfully completed the course "Generative Models for Developers" on June 30, 2025, organized by Infosys Springboard.
+16. Dr. Aditya Dubey participated in the FDP on "AI Enhanced Education" organized by Eswar College of Engineering, Kesanupalli, Narasaraopet, on 26th June 2025.
+17. Dr. Aftab Ahmed Ansari completed an 8-week FDP on "Edge Computing" conducted by NPTEL-AICTE. Jan-Apr 2025.
+18. Dr. Aftab Ahmed Ansari completed an 8-week FDP on "Foundation of Cloud IoT Edge ML" conducted by NPTEL-AICTE. Jan-Mar 2025.
+19. Dr. Aftab Ahmed Ansari participated in seven days International Workshop on "Recent Trends in Electric Vehicles: Global Perspective" (19-25 May 2025) organized by SRM Institute of Science and Technology, Chennai.
+20. Dr. Abhishek Narwaria completed one week Faculty Induction Program (FIP 2025) with "A grade" (1-5 April 2025) organized by IQAC, MITS-DU, Gwalior.
+21. Dr. Abhishek Narwaria completed one week Peer Learning Training Program on "From Machine Learning to Generative AI: A Practical Pathway for Educators" (15-22 April 2025) organized by Department of CSE, MITS-DU.
+22. Dr. Abhishek Narwaria completed one week Peer Learning Training Program on "Introduction to Data Science" (23-29 April 2025) organized by Centre for Artificial Intelligence, MITS-DU.
+23. Dr. Abhishek Narwaria completed one week Peer Learning Training Program on "Computer Vision" (1-7 May 2025) organized by Centre for Artificial Intelligence, MITS-DU.
+24. Dr. Abhishek Narwaria completed one week FDP on "Internet of Things-Design Concepts and Use Cases" (26-30 May 2025) organized by NITTTR Chandigarh.
+25. Dr. Abhishek Narwaria completed one week FDP on "Fundamentals of Artificial Intelligence" (16-20 June 2025) organized by NITTTR Bhopal.
+26. Dr. Abhishek Narwaria completed Faculty Enablement Program (FEP) on "Python for Data Science" (17 June 2025) organized by Infosys Springboard.
+27. Dr. Abhishek Narwaria completed FEP on "Natural Language Processing for developers" (21 June 2025) organized by Infosys Springboard.
+28. Dr. Abhishek Narwaria completed FEP on "Explore Machine Learning using Python" (19 June 2025) organized by Infosys Springboard.
+29. Dr. Dhananjay Bisen successfully completed 12-week NPTEL FDP on "Business Intelligence & Analytics". Jan-Apr 2025.
+30. Dr. Dhananjay Bisen successfully completed 12-week NPTEL FDP on "Fundamentals of Object Oriented Programming". Jan-Apr 2025.
+31. Dr. Saurabh Kumar Rajput, Dr. Dhananjay Bisen, Dr. Priyanka Garg, Dr. Aftab Ahmed Ansari, Dr. Murli Manohar, and Dr. Nookala Venu attended FDP on "IoT and Its applications" organized by E&ICT Academy IIT Guwahati (24-29 March 2025).
+32. Dr. Nookala Venu participated in an online FDP on "AI and Deep Learning" jointly organized by Electronics and ICT Academies at PDPM IIITDM Jabalpur.
+33. Dr. Kaushal Pratap Sengar completed 8-week FDP on Edge Computing conducted by NPTEL-AICTE.
+34. Dr. Soumyajit Ghosh attended FDP on "IoT and Its applications" organized by E&ICT Academy IIT Guwahati (24-29 March 2025).
+35. Dr. Soumyajit Ghosh completed FEP on "Artificial Intelligence Primer Certification" organized by Infosys Springboard (21 March 2025).
+36. Dr. Soumyajit Ghosh completed FEP on "Introduction to Data Science" organized by Infosys Springboard (15 February 2025).
+37. Dr. Soumyajit Ghosh completed FEP on "Computer Vision" organized by Infosys Springboard (21 February 2025).
+38. Dr. Soumyajit Ghosh completed FEP on "Introduction to Natural Language Processing" organized by Infosys Springboard (20 February 2025).
+39. Dr. Soumyajit Ghosh completed FEP on "Introduction to Robotic Process Automation" organized by Infosys Springboard (19 February 2025).
+40. Dr. Soumyajit Ghosh completed FEP on "Introduction to Artificial Intelligence" organized by Infosys Springboard (17 February 2025).
+41. Dr. Soumyajit Ghosh completed FEP on "Introduction to Deep Learning" organized by Infosys Springboard (18 February 2025).
+42. Dr. Aditya Dubey completed AICTE-recognized FDP on "Curriculum Development aligned with NEP 2020" by NITTTR Chandigarh (01-05 July 2024).
+43. Dr. Aditya Dubey completed FDP on "Distributed System" by NPTEL (July-September 2024).
+44. Dr. Geetam Shukla completed FDP on "DC Microgrid and Control System" with Elite Certification (July-September 2024).
+45. Dr. Aditya Dubey completed AICTE FDP on "Applied Mathematics with MATHEMATICA" by NITTTR Chandigarh (15-19 July 2024).
+46. Dr. Aditya Dubey completed FDP on "Methods for Improving Higher Education Teaching Quality Using OBE, Pedagogical Approaches, and NEP 2020" by IQAC, Haldia Institute of Technology (22-26 July 2024).
+47. Dr. Aditya Dubey completed AICTE FDP on "5G and its Use Cases" by NITTTR Chandigarh (29 July - 02 August 2024).
+48. Dr. Aditya Dubey completed AICTE FDP on "Preparing Students for Placements and Higher Studies" by NITTTR Chandigarh (05-09 August 2024).
+49. Dr. Aditya Dubey completed AICTE FDP on "Graphics & Animation through Open Source Tools for making MOOCs" by NITTTR Chandigarh (19-23 August 2024).
+50. Dr. Aditya Dubey completed FDP on "Cyber Security and Ethical Hacking" by D Y Patil College of Engineering, Pune (26-30 August 2024).
+51. Dr. Aditya Dubey completed AICTE FDP on "E COMMERCE AND SUPPLY CHAIN" by NITTTR Bhopal (02-06 September 2024).
+52. Dr. Aditya Dubey completed AICTE FDP on "Planning, Execution and Evaluation of Project Work" by NITTTR Chandigarh (09-13 September 2024).
+53. Dr. Aditya Dubey completed Infosys Faculty Enablement Program on "DevOps" (15-19 July 2024).
+54. Dr. Aditya Dubey completed AICTE FDP on "Role of IPR in Library Sciences" by NITTTR Chandigarh (08-12 July 2024).
+55. Dr. Aftab Ahmed Ansari completed One Week Short Term course on "Recent Trends and Application of Nanotechnology in Engineering" organized by NIT Srinagar.
+56. Dr. Dhananjay Bisen completed 4-week online industrial training on Advanced Excel through Internshala (01-30 April 2024).
+57. Dr. Kaushal Pratap Sengar completed 1-week workshop on "Hands on Mastering RTOS and IoT Pro Development Boards" by CVR College of Engineering, Hyderabad (13-19 April 2024).
+58. Dr. Aditya Dubey attended two-week Faculty Development Programme on "Advanced Pedagogy" by NITTTR Kolkata (03-14 June 2024).
+59. Dr. Aditya Dubey attended one-week FDP on "Network Science using Python" by NITTTR Chandigarh (13-17 May 2024).
+60. Dr. Kaushal Pratap Sengar, has successfully completed "International Faculty Development Program on Qualitative and Quantitative Research Design in Higher Education" by Eudoxia Research University - USA (05-12 January 2024).
+61. Dr. Dhananjay Bisen, has successfully completed "Faculty Development Program on Proactive Governance for Viksit Bharat@2047" by Shyam Lal College, University of Delhi (19-25 January 2024).
+62. Dr. Nookala Venu successfully completed One Week Peer Learning Training Programme on "Artificial Intelligence and Machine Learning - Basics" organized by Centre for Artificial Intelligence, MITS-DU (08-12 January 2024).
+63. Dr. Aditya Dubey completed One Week FDP on "Fundamentals of Machine Learning" organized by NITTTR Kolkata (11-15 March 2024).
+64. Dr. Praveen Bansal successfully attended FDP on "Recent Trends in Embedded Systems and IOTs" at NITTTR Chandigarh (18-22 September 2023).
+65. Dr. Praveen Bansal successfully attended FDP on "IoT Enabled PLC" at NITTTR Chandigarh (10-14 October 2023).
+66. Dr. Murli Manohar attended one-day online International Seminar on "Technological Advancement on Electric Mobility" jointly organized by TIFAC-CORE, VIT Vellore and Rajamangala University of Technology on 15th Nov. 2023.
+67. Dr. Kaushal Pratap Sengar successfully completed NITTT Course Modules 1-5 covering orientation towards technical education, professional ethics, communication skills, instructional planning, and institutional management (2023).
+
+--- INTERACTION WITH OUTSIDE WORLD ---
+
+1. Dr. Gaurav Khare has been invited as an interview panelist to conduct interviews at IIT Bombay, by Duosis Bio-Innovations Private Limited on Jul. 20th, 2024.
+2. Dr. Gaurav Khare has been invited as interview panelist to conduct interviews at IIM Rohtak, by Duosis Bio-Innovations Private Limited on Sept. 1st, 2024.
+3. Dr. Soumyajit Ghosh has been invited to serve as a Track Chair for 'Power Systems and Smart Grid' at the IEEE Silchar Subsection Conference 2024, November 2024.
+4. Dr. Soumyajit Ghosh has been invited to serve as a Track Chair for 'Artificial Intelligence, Data Science and Computing' at the IEEE Silchar Subsection Conference 2024, November 2024.
+5. Dr. Soumyajit Ghosh has served as a reviewer for IEEE Transactions on Instrumentation and Measurement, and the International Journal of Electrical Power & Energy Systems.
+6. Dr. Saurabh Kumar Rajput recorded MOOC Lectures on "Maintenance and Testing of Electrical Machines" for SWAYAM platform (under collaboration of CSVTU, Bhilai & SWAYAM National coordinator-IGNOU, Delhi).
+7. Dr. Saurabh Kumar Rajput has served as a reviewer for Wiley, Journal of Engineering.
+8. Dr. Kaushal Pratap Sengar has served as a reviewer for Elsevier, Springer, Wiley journals.
+9. Dr. Kaushal Pratap Sengar has served as a reviewer for IEEE Conference organized in OP Jindal University, NIT Raipur.
+10. Dr. Aditya Dubey has served as a Technical Program Committee Member and Reviewer in 5th International Conference on Data Science and Applications (ICDSA 2024), MNIT Jaipur (17-19 July 2024).
+11. Dr. Aditya Dubey has served as TPC Member and Reviewer, 3rd 2024 IEEE World Conference on Applied Intelligence and Computing (AIC 2024) (27-28 July 2024).
+12. Dr. Dhananjay Bisen worked as Session Chair in ISCMCTR-2024, MITS Gwalior (20-21 April 2024).
+13. Dr. Kaushal Pratap Sengar worked as Session Chair in ISCMCTR-2024, MITS Gwalior (20-21 April 2024).
+14. Dr. Aditya Dubey presented as Session Chair in IEEE International Conference ICITEICS-2024 (28-29 June 2024), Vemana Institute of Technology, Bengaluru.
+15. Dr. Aditya Dubey participated as TPC Member and Reviewer in the World Congress on Smart Computing (WCSC2024), Babu Banarasi Das University, Lucknow (08-09 June 2024).
+16. Dr. Saurabh Kumar Rajput served as Session Chair at 5th Electric Power and Renewable Energy Conference (EPREC-2024), NIT Jamshedpur (24-26 May 2024).
+17. Dr. Saurabh Kumar Rajput served as member of Organizing Committee at EPREC-2024, NIT Jamshedpur. https://www.eprec.co.in/organizing-committee
+18. Dr. Dhananjay Bisen delivered Expert Lecture on "Data Science using Python" for II Year and III Year IT students at Rajkiya Engineering College Banda (02 January 2024).
+19. Dr. Dhananjay Bisen delivered Guest Lecture on "Hands-on Session on Advanced Programming: Industry Perspective" for I Year students at Avantika University, Ujjain (14 March 2024).
+20. Dr. Murli Manohar delivered one-week online expert session on "Electric Vehicles Repair and Maintenance" organized by SAGE Winter School, Bhopal (19-23 Feb. 2024).
+21. Dr. Gaurav Khare has been invited by the IEEE Standards Association to join the IEEE Working Group P3434, for development of "Guide for Grid Connected Energy Storage Systems (ESSs)".
+22. Dr. Kaushal Pratap Sengar served as Session Coordinator of 5th ICSISCET 2023 at MITS Gwalior (21-22 October 2023).
+23. Dr. Murli Manohar delivered expert session on "Protection Aspects of Distributed Energy Resources" in FDP on "Recent Advancement & Development in Electrical Vehicles & Renewable Energy Technology" at SISTec-GN Bhopal (4-9 December 2023).
+24. Dr. Murli Manohar delivered online expert talk in STC on "RECENT TRENDS IN POWER ELECTRONICS AND SUSTAINABLE ENERGY SYSTEMS (RTPESES-2023)" organized by NIT Jalandhar (15-19 December 2023).
+
+--- ORGANIZING WORKSHOPS / TRAINING / CONFERENCES ---
+
+1. Dr. Saurabh Kumar Rajput coordinated Faculty Induction Program (FIP 2025) for newly recruited faculty members (01-05 April 2025) at MITS-DU, Gwalior.
+2. Dr. Saurabh Kumar Rajput coordinated Faculty Enablement Program (FEP) - Peer to Peer Learning for newly recruited faculty members (April-May 2025) at MITS-DU.
+3. Dr. Dhananjay Bisen and Dr. Saurabh Kumar Rajput organized Faculty Enablement Program (Peer to peer learning) on Python Programming for Newly recruited faculty members (15-22 April 2025).
+4. Dr. Saurabh Kumar Rajput served as organizing secretary for 3rd International Student Conference on Multidisciplinary and Current Technical Research (ISCMCTR-2025), MITS-DU Gwalior (29-30 March 2025).
+5. Dr. Mir Shahnawaz, Dr. Saurabh Kumar Rajput & Dr. Priyanka Garg organized Two-Days Training Program on "PROACTIVE CYBERSECURITY: REAL WORLD DIGITAL THREATS AND DEFENSES" in collaboration with C-DAC, Noida (14-15 February 2025).
+6. Dr. Saurabh Kumar Rajput coordinated 2-day training program for MPMKVVCL, DISCOM participants at MITS-DU on "Grid Connected Rooftop PV Systems" (09-10 January 2025) under P.M. Surya Ghar Muft Bijli Yojna.
+7. Dr. Kaushal Pratap Sengar & Dr. Vishal Choudhary jointly organized workshop "Turning Challenges into Milestones - Journey from MITS Campus to UPSC ESE" on 9 March 2025.
+8. Dr. Saurabh Kumar Rajput served as Organizing Secretary of 5th ICSISCET 2023 at MITS Gwalior (21-22 October 2023).

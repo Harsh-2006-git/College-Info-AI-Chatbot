@@ -1,0 +1,30 @@
+Laboratories — Department of Electronics Engineering
+======================================================
+
+1. Basic Electronics Lab
+   - Description: Undergraduate Lab. Major experiments are related to: Designing of Rectifiers, Clippers, Clampers, Oscillators; Characteristics analysis of Diodes, BJT, and MOSFET. Electronic circuit design and verification using advanced workstations that incorporate a multimeter, function generator, power supply, and CRO in a single unified platform.
+   - Details / Manual: https://drive.google.com/file/d/1bCFQMXbQbfGEFFyRd4-sDlFocofSqWRL/view?usp=sharing
+
+2. Project Lab
+   - Description: The purpose of the Project Laboratory is to enable students to get familiar with hardware and software tools through hands-on mode. Used for conducting presentations and demonstrations related to Minor Projects, Major Projects, Skill-based projects, Internships, and other activities. The lab is equipped with advanced hardware facilities including an Antenna Testing facility, Spectrum Analyzer, Digital Storage Oscilloscope (DSO), PCB-prototyping machine, Function generator, PCB Soldering/De-soldering Station, etc. Ph.D. and M.Tech scholars also carry out their research in this lab.
+   - Details / Manual: https://drive.google.com/file/d/13-B1ZaO457TekxwI8k5KsUagFGCnQUz5/view?usp=sharing
+
+3. Computer Lab
+   - Description: Undergraduate and Postgraduate Lab. Major experiments are related to: Basic Mathematical experiments using MATLAB / Scilab; Simulation of various engineering problems in MATLAB/Scilab and other tools; Qualnet: Network simulation using GNS; CST Studio: Antenna design and RF simulation.
+   - Details / Manual: https://web.mitsgwalior.in/images/Departments/electronics_engineering/Computer%20Lab.pdf
+
+4. Communication Lab
+   - Description: Undergraduate Lab. Major experiments are related to: Sampling and reconstruction, pulse amplitude and pulse width modulation (PAM/PWM), generation and detection of Amplitude Shift Keying (ASK), Phase Shift Keying (PSK), and Frequency Shift Keying (FSK) signals using MATLAB / Scilab software and communication trainer kits.
+   - Details / Manual: https://drive.google.com/file/d/1KtvXGj_SZE8TRueuFaADbStcxCFuenRP/view?usp=sharing
+
+5. Digital and Microprocessor Lab
+   - Description: Undergraduate Lab. Major experiments are related to: Assembly language programming to generate standard waveforms using DAC and display waveforms on CRO with 8085; obtaining 2's complement of numbers; interfacing 8253 Timer and 8255 PPI with 8086 microprocessor in different operating modes.
+   - Details / Manual: https://drive.google.com/file/d/1kwYbtV1bugQ_w4Kfn5m4Kc61yaT4BNjL/view?usp=sharing
+
+6. 5G Communication Network Lab (Developed by C-DOT)
+   - Description: Developed by C-DOT (Centre for Development of Telematics), Bangalore at MITS-DU Gwalior, serving as an end-to-end 5G test bed solution. Benefits for students and faculty include:
+     * Gaining practical insights into an end-to-end 5G system.
+     * Developing a deeper understanding of 3GPP specifications for 5G RAN and Core networks.
+     * Enhancing system capabilities while exploring new 5G use cases and applications.
+     * Providing a foundation for advanced research and specification development for 6G technologies.
+   - Details / Manual: https://drive.google.com/file/d/1ij5i6IUNoUUbF7X7c6BcrpftcRFBkyQQ/view?usp=sharing

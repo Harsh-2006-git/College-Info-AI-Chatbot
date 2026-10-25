@@ -1,0 +1,18 @@
+Academics
+Courses: https://web.mitsgwalior.in/academics/courses
+
+Post Graduate Programmes (M.E., M.Tech, M.C.A., MBA)
+Madhav Institute of Technology & Science (MITS), Gwalior
+
+Year of start | Name of Program | Intake
+1986 | M.E. Construction Technology & Management | 18
+1986 | Masters in Computer Applications (M.C.A.) | 60
+2002 | M.Tech Production Engineering | 18
+2011 | M.Tech Computer Science & Engineering | 18
+2012 | M.Tech Information Technology | 18
+2025 | M.Tech Embedded System and VLSI | 18
+2025 | M.Tech Structural Engineering | 18
+2026 | M.Tech Artificial Intelligence | 18
+2026 | M.Tech Information Security | 18
+2026 | M.Tech Internet of Things | 18
+2026 | MBA (Master of Business Administration) | 60

@@ -1,0 +1,19 @@
+Department of Electronics and Telecommunication Engineering — MITS Gwalior
+=============================================================================
+
+Department Vision
+-----------------
+To develop globally competent, industry-ready, and research-oriented Electronics and Telecommunication professionals equipped to address societal challenges and emerging technologies.
+
+Department Mission
+------------------
+- To build a strong foundation through a quality curriculum, skill-based training, and modern pedagogical practices.
+- To inculcate global competence, technical excellence, strong ethical values, leadership and a commitment to lifelong learning.
+- To nurture employability skills and entrepreneurship through industry-driven projects, industry internships, and interdisciplinary collaborations.
+- To promote societal progress and sustainability through research and innovation.
+
+About the Department
+--------------------
+The Department of Electronics and Telecommunication Engineering was established in 2015. The faculty members are actively engaged in research in areas such as Ad Hoc Networking, Image Processing, Wireless Communication, Microwave Engineering, Nanoelectronics, VLSI Design, and Antenna Theory. 
+
+They have published numerous research papers in reputed national and international journals. The department takes pride in its alumni, who have achieved distinguished positions in academia, industry, and the technical profession. A significant number of graduates pursue higher studies, including M.Tech., MBA, and Ph.D. programs, at prestigious institutions across India.

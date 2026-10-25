@@ -1,0 +1,41 @@
+Department: School of Master in Computer Applications (MCA)
+Faculty Profiles
+
+1. DR. R.S. JADON
+Profile URL: https://web.mitsgwalior.in/faculty-profiles-mca/dr-r-s-jadon-2
+Designation: Professor & Dean - School of Engineering Mathematics & Computing
+Qualification: Ph.D.
+Area of Interest: Computer Vision & Image Processing
+Phone No: 9425122675
+E-Mail: rsjadon@mitsgwalior.in
+
+2. DR. ANSHU CHATURVEDI
+Profile URL: https://web.mitsgwalior.in/faculty-profiles-mca/dr-anshu-chaturvedi-3
+Designation: Professor
+Qualification: Ph.D.
+Area of Interest: Adhoc Network, Security, Data Mining, IoT
+E-Mail: anshu_chaturvedi@mitsgwalior.in
+
+3. DR. PARUL SAXENA
+Profile URL: https://web.mitsgwalior.in/faculty-profiles-mca/dr-parul-saxena-2
+Designation: Assistant Professor & Head MCA
+Qualification: Ph.D.
+Area of Interest: Computer Vision and Image Processing
+Phone No: 9406503677
+E-Mail: gaurparul2007@mitsgwalior.in
+
+4. Dr. Krishan Kant Yadav
+Profile URL: https://web.mitsgwalior.in/faculty-profiles-mca/dr-krishan-kant-sharma-2
+Designation: Assistant Professor
+Qualification: Ph.D. (CSE), M. Tech, MCA
+Area of Interest: Big Data, Artificial Intelligence, Linux OS, Software Engineering, Data Mining
+Phone No: 9425711698
+E-Mail: kkyadav.prestige@mitsgwalior.in
+
+5. Ms. Harsha Sharma
+Profile URL: https://web.mitsgwalior.in/faculty-profiles-mca/ms-harsha-sharma
+Designation: Assistant Professor
+Qualification: MCA
+Area of Interest: Computer Vision and Image Processing
+Phone No: 8982628150
+E-Mail: harshasharma28150@mitsgwalior.in

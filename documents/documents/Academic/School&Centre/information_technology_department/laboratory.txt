@@ -1,0 +1,17 @@
+Laboratories — Department of Information Technology (IT)
+==========================================================
+
+1. Data Science Lab
+   - Description: Data Science Lab provides a computing platform for novel languages like Python and R for building a coherent set of ideas, fundamentals of Machine Learning, Artificial Intelligence, and Deep Learning models and algorithms, and it facilitates students to practice basic programming in C, C++, and JAVA. Each lab session is aimed to translate theory lectures into practical implementation through programming paradigms, tools, and platforms provided in the data science lab.
+
+2. Programming Lab
+   - Description: Programming Lab welcomes students, researchers, interns, faculties, newbies, and everyone from a broad range of disciplines who are fascinated with the possibilities of turning big and complex data into knowledge. Members of the lab seek cutting-edge problem-based solutions to data mining, computer vision, and machine learning problems arising in numerous application areas involving data analytics.
+
+3. Computing Lab
+   - Description: The Computing Lab brings together researchers interested in developing fast, reliable, and robust numerical algorithms needed for modeling and simulation in a variety of fields including database management, numerical linear algebra, optimization, etc. The requirement of modern days is to have an automated system that manages, modifies, and updates data accurately. The lab aims at practicing and achieving this by using various software through hands-on training in programming and practical projects.
+
+4. Project Lab
+   - Description: Project Lab intends to deliver practical exposure towards mathematical background in linear algebra, analysis, probability, and optimization to develop the knowledge of machine learning to gain a deeper understanding of models and tools of great practical impact. It provides hands-on training in programming through practical projects. The goal is to enable students to independently apply the learned skills to real-world models and complex topics.
+
+5. Hardware and Microprocessor Lab
+   - Description: The microprocessor is a multipurpose, programmable device that accepts digital data as input, processes it according to instructions stored in its memory, and provides results as output. The objective of the Microprocessor and Microcontroller Laboratory is to familiarize students with 8086 Microprocessor & 8051 Microcontroller assembly language programming and interfacing with various modules. It helps students to implement industrial and real-time applications by understanding core concepts of microprocessors and microcontrollers.

@@ -1,0 +1,17 @@
+Department: Centre for Internet of Things (CIoT)
+Programmes Offered
+
+1. B.Tech in Electrical and Computer Engineering
+DURATION: 4 Years Degree Course
+INTAKE: 60
+TYPE: Regular
+
+2. B.Tech in Internet of Things (IoT)
+DURATION: 4 Years Degree Course
+INTAKE: 120
+TYPE: Regular
+
+3. M.Tech in Internet of Things (IoT)
+DURATION: 2 Years PG Course
+INTAKE: 18
+TYPE: Regular

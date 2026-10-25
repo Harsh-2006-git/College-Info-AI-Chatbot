@@ -1,0 +1,15 @@
+Department: Centre for Artificial Intelligence (Artificial Intelligence Department)
+Research Publications
+Significant Publications SCI/UGC/SCOPUS with DOI number
+
+1. Ranjeet Kumar Singh, Ganesh Gupta, Tej Singh, Kalka Dubey, Anjula Mehto, "Circulate Matrix and Compression Sensing Based Multi-Level Image Encryption", Journal Name: Traitement du Signal, 39(3):853-862, Impact Factor (2.29) - SCIE indexed.
+
+2. Bhagat Singh Raghuwanshi, Akansha Mangal, Sanyam Shukla, "Universum based kernelized weighted extreme learning machine for imbalanced datasets", International Journal of Machine Learning and Cybernetics, pp. 1-21, July 2022 (SCI Index with I.F. 5.60), DOI: https://doi.org/10.1007/s13042-022-01601-y
+
+3. Pawan Dubey, Tirupatiraju Kanumuri, and Ritesh Vyas, "Optimal directional texture codes using multiscale bit crossover count planes for palmprint recognition", Multimed Tools Appl 81, 20291–20310 (2022), DOI: https://doi.org/10.1007/s11042-022-12580-1, Impact Factor: 2.577.
+
+4. Anshul Agarwal, Nitish Kumar, Pawan Dubey, "Machine Learning Based Maximum Power Prediction for Photovoltaic System", Indian Journal of Pure & Applied Physics Vol. 60, pp. 892-898 with DOI: 10.56042/ijpap.v60i10.62197 on 15/09/2022 (SCI indexed).
+
+5. Pawan Dubey, Vinita Kumari, Ajay Kumar Sharma, Gyanendra Sheoran, "Quantitative Analysis of Transfer Learning in Plant Disease Classification", In: Sharma, H., Shrivastava, V., Kumari Bharti, K., Wang, L. (eds) Communication and Intelligent Systems, Lecture Notes in Networks and Systems, vol 461. Springer, Singapore. DOI: https://doi.org/10.1007/978-981-19-2130-8_71 (Scopus Indexed).
+
+6. Bhagat Singh Raghuwanshi, "Class-specific extreme learning machine based on overall distribution for addressing binary imbalance problem", Soft Computing (SCI Index with I.F. 4.10), DOI: https://doi.org/10.1007/s00500-022-07705-5.

@@ -34,6 +34,36 @@
 
     --radius: 0.75rem;
   }
+
+  .dark {
+    --background: 240 10% 4%;
+    --foreground: 0 0% 98%;
+
+    --card: 240 10% 6%;
+    --card-foreground: 0 0% 98%;
+
+    --popover: 240 10% 6%;
+    --popover-foreground: 0 0% 98%;
+
+    --primary: 221 83% 53%;
+    --primary-foreground: 0 0% 100%;
+
+    --secondary: 217 91% 60%;
+    --secondary-foreground: 0 0% 100%;
+
+    --muted: 240 5% 15%;
+    --muted-foreground: 240 5% 65%;
+
+    --accent: 240 5% 15%;
+    --accent-foreground: 0 0% 98%;
+
+    --destructive: 0 62% 30%;
+    --destructive-foreground: 0 0% 98%;
+
+    --border: 240 5% 18%;
+    --input: 240 5% 18%;
+    --ring: 221 83% 53%;
+  }
 }
 
 @layer base {
@@ -46,6 +76,10 @@
     font-family: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     font-feature-settings: "rlig" 1, "calt" 1;
     overflow-x: hidden;
+  }
+  html.dark, html.dark body {
+    background-color: #0B0B0E;
+    color: #F8FAFC;
   }
 }
 
@@ -123,7 +157,10 @@
 }
 
 .prose p {
-  @apply mb-4 leading-relaxed;
+  @apply mb-4 leading-relaxed text-slate-800;
+}
+.dark .prose p {
+  @apply text-zinc-200;
 }
 
 .prose p:last-child {
@@ -131,19 +168,45 @@
 }
 
 .prose ul {
-  @apply list-disc list-inside mb-4 space-y-1;
+  @apply list-disc list-inside mb-4 space-y-1 text-slate-800;
+}
+.dark .prose ul {
+  @apply text-zinc-200;
 }
 
 .prose ol {
-  @apply list-decimal list-inside mb-4 space-y-1;
+  @apply list-decimal list-inside mb-4 space-y-1 text-slate-800;
+}
+.dark .prose ol {
+  @apply text-zinc-200;
+}
+
+.prose li {
+  @apply leading-relaxed text-slate-800;
+}
+.dark .prose li {
+  @apply text-zinc-200;
 }
 
 .prose h1, .prose h2, .prose h3, .prose h4 {
-  @apply font-semibold mt-6 mb-3 text-zinc-100;
+  @apply font-bold mt-6 mb-3 text-slate-900;
+}
+.dark .prose h1, .dark .prose h2, .dark .prose h3, .dark .prose h4 {
+  @apply text-white;
+}
+
+.prose strong {
+  @apply font-bold text-slate-900;
+}
+.dark .prose strong {
+  @apply text-white;
 }
 
 .prose a {
-  @apply text-primary underline underline-offset-4 hover:text-primary/80;
+  @apply text-[#1557D6] underline underline-offset-4 hover:text-[#0F3FA0];
+}
+.dark .prose a {
+  @apply text-[#60A5FA] hover:text-[#93C5FD];
 }
 
 @keyframes marquee {

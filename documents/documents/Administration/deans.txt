@@ -1,0 +1,40 @@
+Deans
+
+Dr. R. S. Jadon
+Professor
+Dean, Students Administration
+
+Dr. P. K. Singhal
+Professor
+Dean, Quality Assurance
+
+Dr. M. K. Trivedi
+Professor
+Dean, Infrastructure Development
+
+Dr. Pratesh Jayaswal
+Professor
+Dean, Planning
+
+Dr. Manish Dixit
+Professor
+Dean, Public Relations
+
+Dr. M. K. Gaur
+Professor
+Dean, Research & Academics
+
+Dr. M. K. Sagar
+Professor
+Dean, Student Welfare
+
+Dr. C. S. Malvi
+Professor
+Dean, Innovation
+
+Dr. Anshu Chaturvedi
+Professor
+Dean, Equity
+
+ 
+ 

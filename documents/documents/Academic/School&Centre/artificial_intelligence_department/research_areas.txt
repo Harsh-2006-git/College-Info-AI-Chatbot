@@ -1,0 +1,102 @@
+Department: Centre for Artificial Intelligence (Artificial Intelligence Department)
+Research Areas and Domains
+
+1. Research Area: Artificial Intelligence
+Specific Domains:
+- Data Science
+- Machine Learning
+- Deep Learning
+- Optimization Algorithms
+- Imbalanced Learning
+- Image Processing using AI Techniques
+- Statistical Data Analysis and Visualization
+- Real-Time Data Analysis and Predictions
+- Feature Engineering
+- Exploratory Data Analysis
+Faculty Members:
+- DR. RAJNI RANJAN SINGH MAKWANA (https://web.mitsgwalior.in/faculty-profiles-cai/dr-rajni-ranjan-singh-makwana-2)
+- Dr. Bhagat Singh Raghuwanshi
+- Dr. Pawan Dubey
+- Dr. Tej Singh
+- Dr. Sunil Kumar Shukla
+- Dr. Arun Kumar
+- Dr. Vibha Tiwari
+- Dr. Abhishek Bhatt
+- Mr. Mir Shahnawaz Ahmad
+- Dr. Shipra Shukla (https://web.mitsgwalior.in/faculty-profiles-cai/dr-shipra-shukla)
+- Dr. Neelam Sharma (https://web.mitsgwalior.in/faculty-profiles-cai/dr-neelam-sharma)
+
+2. Research Area: Data Mining
+Specific Domains:
+- Social Network
+- Big Data
+- Terrorist Network Mining
+- Data Mining and Analytics
+- Social Network Analysis
+- Hesitation Mining
+- Speech Recognition
+Faculty Members:
+- Dr. Vibha Tiwari
+- Ms. Shubha Mishra
+
+3. Research Area: Computer Vision
+Specific Domains:
+- Image Processing
+- Biometrics
+- Application on Digital Images Processing
+- Signal Processing
+- Neural Networks
+- Satellite Image Processing
+- Medical Image Processing
+- Remote Sensing / Drone Image Processing
+Faculty Members:
+- Dr. Pawan Dubey
+- Dr. Tej Singh
+- Dr. Anurag Singh Tomar
+- Dr. Mausam Chouksey (https://web.mitsgwalior.in/faculty-profiles-cai/dr-mausam-chouksey)
+- Dr. Muktesh Gupta (https://web.mitsgwalior.in/faculty-profiles-cai/dr-muktesh-gupta)
+- Dr. Hardev Singh Pal
+- Dr. Rahul Kumar (https://web.mitsgwalior.in/faculty-profiles-cai/dr-rahul-kumar)
+- Dr. Neelam Arya (https://web.mitsgwalior.in/faculty-profiles-cai/dr-neelam-arya)
+- Dr. Neelam Sharma (https://web.mitsgwalior.in/faculty-profiles-cai/dr-neelam-sharma)
+
+4. Research Area: Computer Networks
+Specific Domains:
+- Information Security
+- Ad-hoc Networks
+- Wireless Sensor Networks
+- Mobile Computing
+- Analysis and Evaluation Wired Networks
+- Analysis and Evaluation Wireless Networks, 5G networks
+- Malicious Activity Detection and Prevention in Network
+- Security in Ad-Hoc Networks
+Faculty Members:
+- DR. RAJNI RANJAN SINGH MAKWANA (https://web.mitsgwalior.in/faculty-profiles-cai/dr-rajni-ranjan-singh-makwana-2)
+- Mr. Mir Shahnawaz Ahmad
+- Dr. Nandkishor Joshi (https://web.mitsgwalior.in/faculty-profiles-cai/dr-nandkishor-joshi)
+- Dr. Sumit Dhariwal (https://web.mitsgwalior.in/faculty-profiles-cai/dr-sumit-dhariwal)
+
+5. Research Area: Internet of Things (IoT)
+Specific Domains:
+- Network Security
+- Sensors and Actuators
+- Fabrication of Sensor Devices
+- Security in Internet of Things
+- IoT Analytics
+- Real-Time IoT Data Analysis and Visualization
+- Digital Signatures, Public Key Cryptography, Post-Quantum Cryptography
+Faculty Members:
+- Dr. Tej Singh
+- Mr. Mir Shahnawaz Ahmad
+- Dr. Satyam Omar
+
+6. Research Area: AI and Robotics
+Specific Domains:
+- Human-Robot Interactions
+- Autonomous and Connected Smart Vehicles
+- Robotics Motion Planning
+- Robot Perception and Manipulation
+Faculty Members:
+- Dr. Pawan Dubey
+- Dr. Tej Singh
+- DR. NEERAJ MISHRA (https://web.mitsgwalior.in/faculty-profiles-cai/dr-neeraj-mishra)

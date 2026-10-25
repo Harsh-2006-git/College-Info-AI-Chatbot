@@ -1,0 +1,211 @@
+Department: Centre for Artificial Intelligence (Artificial Intelligence Department)
+Faculty Profiles
+
+1. DR. RAJNI RANJAN SINGH MAKWANA
+Profile URL: https://web.mitsgwalior.in/faculty-profiles-cai/dr-rajni-ranjan-singh-makwana-2
+Designation: Associate Professor & Dean, Centre for AI
+Qualification: Ph.D.
+Area of Interest: Algorithm Design, Digital Forensics, Machine Learning
+E-Mail: rrsingh@mitsgwalior.in
+
+2. Dr. Anu Sayal
+Profile URL: https://web.mitsgwalior.in/faculty-profiles-cai/dr-anu-sayal
+Designation: Associate Professor & Associate Dean (National International academic collaborations & Industrial relations)
+Qualification: Ph.D
+Area of Interest: Optimisation, Inventory and Supply Chain Management, Fuzzy Inventory Models, Artificial Intelligence and Machine Learning, Data Science and Statistics
+E-Mail: anusayal@mitsgwalior.in
+
+3. Dr. Mir Shahnawaz Ahmad
+Profile URL: https://web.mitsgwalior.in/faculty-profiles-cai/mir-shahnawaz-ahmad-2
+Designation: Assistant Professor
+Qualification: Ph.D (NIT Srinagar)
+Area of Interest: Security and privacy in Ad-Hoc Networks, Internet of Things, Machine Learning
+Phone No: 7006080550
+E-Mail: mirshahnawaz888@mitsgwalior.in
+
+4. Dr. ARUN KUMAR
+Profile URL: https://web.mitsgwalior.in/faculty-profiles-cai/arun-kumar-2
+Designation: Assistant Professor
+Qualification: M.Tech & Ph.D (Thapar Institute of Engineering & Technology, Patiala)
+Area of Interest: Machine Learning, Game Theory, Sentiment Analysis & Computational Biology
+E-Mail: arun.vsrana@mitsgwalior.in
+
+5. Dr. PAWAN DUBEY
+Profile URL: https://web.mitsgwalior.in/faculty-profiles-cai/dr-pawan-dubey
+Designation: Assistant Professor
+Qualification: Ph.D., National Institute of Technology Delhi, India
+Area of Interest: Image Processing, Computer Vision, Biometrics, Deep Learning, Robotics
+Phone No: 91-9911654322
+E-Mail: pawand@mitsgwalior.in
+
+6. DR. TEJ SINGH
+Profile URL: https://web.mitsgwalior.in/faculty-profiles-cai/dr-tej-singh
+Designation: Assistant Professor
+Qualification: Ph.D., Delhi Technological University, New Delhi, India
+Area of Interest: Computer Vision, Data Science, Deep Learning, NLP
+E-Mail: tejs@mitsgwalior.in
+
+7. DR. BHAGAT SINGH RAGHUWANSHI
+Profile URL: https://web.mitsgwalior.in/faculty-profiles-cai/dr-bhagat-singh-raghuwanshi
+Designation: Assistant Professor
+Qualification: M.Tech and Ph.D in Computer Science & Engineering MANIT, Bhopal, India
+Area of Interest: Machine Learning, Imbalanced Learning, Data Science, Deep Learning
+E-Mail: bhagat@mitsgwalior.in
+
+8. DR. VIBHA TIWARI
+Profile URL: https://web.mitsgwalior.in/faculty-profiles-cai/dr-vibha-tiwari
+Designation: Assistant Professor
+Qualification: Ph.D (MANIT Bhopal), M.Tech (MANIT Bhopal)
+Area of Interest: Signal Processing, Artificial Intelligence, Data Science, Machine learning, Neural Networks, Cryptography, Robotics
+E-Mail: vibhatiwari@mitsgwalior.in
+
+9. Dr. Shubha Mishra
+Profile URL: https://web.mitsgwalior.in/faculty-profiles-cai/shubha-mishra
+Designation: Assistant Professor
+Qualification: Ph.D
+Area of Interest: Social Networks, Machine Learning, Computer Networking
+E-Mail: shubha@mitsgwalior.in
+
+10. Dr. Abhishek Bhatt
+Profile URL: https://web.mitsgwalior.in/faculty-profiles-cai/dr-abhishek-bhatt
+Designation: Assistant Professor
+Qualification: B.E., M. Tech., Ph.D. (IIT Roorkee)
+Area of Interest: Machine Learning, Pattern Recognition
+Phone No: +91-90
+E-Mail: abhishekbhatt@mitsgwalior.in
+
+11. Dr. Shipra Shukla
+Profile URL: https://web.mitsgwalior.in/faculty-profiles-cai/dr-shipra-shukla
+Designation: Assistant Professor
+Qualification: PhD (IIT-ISM, Dhanbad), M.Tech, B.E, UGC-NET and GATE Qualified
+Area of Interest: Machine Learning, Soft Computing
+E-Mail: shiprashukla@mitsgwalior.in
+
+12. Dr. Rahul Kumar Sharma
+Profile URL: https://web.mitsgwalior.in/faculty-profiles-cai/dr-rahul-kumar
+Designation: Assistant Professor
+Qualification: Ph.D.
+Area of Interest: Nonlinear Systems, Adaptive Control, Soft Computing
+Phone No: +91 xxxxxxxxxx
+E-Mail: rahulkumar@mitsgwalior.in
+
+13. Dr. Hardev Singh Pal
+Profile URL: https://web.mitsgwalior.in/faculty-profiles-cai/dr-hardev-singh-pal
+Designation: Assistant Professor
+Qualification: Ph.D. (PDPM-IIITDM Jabalpur), M.Tech. (ABV-IIITM Gwalior), B.E. (MITS Gwalior)
+Area of Interest: Biomedical Signal Processing, Evolutionary Techniques, and Image Processing
+Phone No: 91-XXXXXXXXXX
+E-Mail: HardevPal@mitsgwalior.in
+
+14. Dr. Sumit Dhariwal
+Profile URL: https://web.mitsgwalior.in/faculty-profiles-cai/dr-sumit-dhariwal
+Designation: Assistant Professor
+Qualification: Ph.D (MUST University Malaysia, Singapore Research Center)
+Area of Interest: Security and privacy in Ad-Hoc Networks, Internet of Things, Machine Learning
+Phone No: 9752070470
+E-Mail: sumitdhariwal@mitsgwalior.in
+
+15. Dr. Neelam Arya
+Profile URL: https://web.mitsgwalior.in/faculty-profiles-cai/dr-neelam-arya
+Designation: Assistant Professor
+Qualification: Ph.D.
+Area of Interest: Approximate computing, Energy Efficiency in VLSI Architecture
+Phone No: 09926689630
+E-Mail: neelam9187@mitsgwalior.in
+
+16. Dr. Mausam Chouksey
+Profile URL: https://web.mitsgwalior.in/faculty-profiles-cai/dr-mausam-chouksey
+Designation: Assistant Professor
+Qualification: MTech (IIIT Jabalpur), PhD (IIT Patna)
+Area of Interest: Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Image Processing, Image Segmentation, Image Enhancement (Underwater, Retinal, Satellite), Biomedical Image and Signal Processing
+Phone No: 9973041451
+E-Mail: mausam@mitsgwalior.in
+
+17. Dr. Anurag Singh Tomar
+Profile URL: https://web.mitsgwalior.in/faculty-profiles-cai/dr-anurag-singh-tomar
+Designation: Assistant Professor
+Qualification: Ph.D (ABV-IIITM, Gwalior), M.Tech (ABV-IIITM, Gwalior), B.E. (R.G.P.V. Bhopal)
+Area of Interest: Computer Vision, Image Super-Resolution, Deep Learning
+E-Mail: anuragsingh@mitsgwalior.in
+
+18. Dr. Satyam Omar
+Profile URL: https://web.mitsgwalior.in/faculty-profiles-cai/dr-satyam-omar
+Designation: Assistant Professor
+Qualification: PhD
+Area of Interest: Digital Signatures, Public Key Cryptography, Post-Quantum Cryptography
+E-Mail: satyamomar@mitsgwalior.in
+
+19. DR. NEERAJ MISHRA
+Profile URL: https://web.mitsgwalior.in/faculty-profiles-cai/dr-neeraj-mishra
+Designation: Assistant Professor
+Qualification: PhD
+Area of Interest: Robotics, Mechatronics, System Dynamics and Control, Bond Graph Modeling of Physical Systems, Automation, Design and Development of Biomedical Devices
+Phone No: 7973245088
+E-Mail: mishraneeraj@mitsgwalior.in
+
+20. Dr. Nidhi Humnekar
+Profile URL: https://web.mitsgwalior.in/faculty-profiles-cai/dr-nidhi-humnekar
+Designation: Assistant Professor
+Qualification: Ph.D.(NIT Warangal)
+Area of Interest: Computational Fluid Dynamics, Multiphase Fluids
+E-Mail: nidhihumnekar@mitsgwalior.in
+
+21. Dr. Vijay Shankar Sharma
+Profile URL: https://web.mitsgwalior.in/faculty-profiles-cai/dr-vijay-shankar-sharma
+Designation: Assistant Professor
+Qualification: Ph.D. (IIIT Gwalior), NET(CSIR-UGC JRF), GATE, MPSET
+Area of Interest: Mathematical Modelling, Dynamical Systems, Bio Mathematics
+Phone No: 8269304317
+E-Mail: vijaysharma@mitsgwalior.in
+
+22. Dr. Rishabh Deo Pandey
+Profile URL: https://web.mitsgwalior.in/faculty-profiles-cai/dr-rishabh-deo-pandey
+Designation: Assistant Professor
+Qualification: Ph.D
+Area of Interest: Data Structures & Algorithms, Machine learning
+Phone No: 7706856966
+E-Mail: rd47gooner@gmail.com
+
+23. Dr. Pritha Singh Kushwah
+Profile URL: https://web.mitsgwalior.in/faculty-profiles-cai/dr-pritha-singh-kushwah
+Designation: Assistant Professor
+Qualification: Ph.D
+Phone No: +91 9731187659
+E-Mail: rajawat.pritha@mitsgwalior.in
+
+24. Dr. Mehuli Santra
+Profile URL: https://web.mitsgwalior.in/faculty-profiles-cai/dr-mehuli-santra
+Designation: Assistant Professor
+Qualification: Ph.D
+Phone No: 7980141510
+E-Mail: mehulisantra4@mitsgwalior.in
+
+25. Prof. Ramnaresh Sharma
+Profile URL: https://web.mitsgwalior.in/faculty-profiles-cai/prof-kiran-tomar
+Designation: Assistant Professor
+Qualification: M.Tech & PhD Pursuing
+Area of Interest: Network security
+Phone No: 9754063682
+E-Mail: ramcse1983@mitsgwalior.in
+
+26. Prof. Archana Acharya
+Profile URL: https://web.mitsgwalior.in/faculty-profiles-cai/pro-archana-acharya
+Designation: Assistant Professor
+Qualification: M.Tech(CSE) , PhD pursuing
+Area of Interest: Machine Learning, AI , Computer Network
+E-Mail: archna.acharya17@gmail.com
+
+27. Prof. Geetika Hazra
+Profile URL: https://web.mitsgwalior.in/faculty-profiles-cai/prof-geetika-hazra
+Designation: Assistant Professor
+Qualification: M.Tech
+Area of Interest: Computer Architecture, Networking, OS
+Phone No: 08697953922
+E-Mail: geetika.sharma03@mitsgwalior.in
+
+28. Prof. Pooja Tripathi
+Profile URL: https://web.mitsgwalior.in/faculty-profiles-cai/prof-pooja-tripathi
+Designation: Assistant Professor
+Qualification: M.Tech (Computer Science)
+Area of Interest: Soft computing, cyber security, Machine learning
+E-Mail: pujatripathi798@mitsgwalior.in

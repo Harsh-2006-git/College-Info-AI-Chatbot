@@ -1,0 +1,70 @@
+Student Life — Facilities for Differently-abled (Divyangjan)
+Criterion 7.1.7: Disabled-Friendly, Barrier-Free Environment
+Madhav Institute of Technology & Science (MITS), Gwalior
+(Deemed to be University)
+
+OVERVIEW:
+The layout and infrastructure of MITS Gwalior are designed to ensure an inclusive, barrier-free, and disabled-friendly environment, enabling differently-abled individuals (Divyangjan) to move freely and independently both within and outside campus buildings.
+
+--------------------------------------------------------------------------------
+SUMMARY OF FACILITIES & INFRASTRUCTURE:
+--------------------------------------------------------------------------------
+1. Built environment with ramps and lifts for easy access to classrooms.
+2. Divyangjan-friendly accessible washrooms.
+3. Signage including tactile paths, lights, display boards, and signposts.
+4. Assistive technology and facilities for Divyangjan: accessible website, screen-reading software, mechanized equipment.
+5. Provision for enquiry and information: human assistance, reader, scribe, soft copies of reading material, screen reading.
+
+--------------------------------------------------------------------------------
+1. BUILT ENVIRONMENT WITH RAMPS & LIFTS:
+--------------------------------------------------------------------------------
+- Campus buildings are equipped with ramps and passenger lifts to ensure unobstructed movement for students, staff, and visitors with locomotor disabilities.
+- Locations with Ramps:
+  * Main Entry of the Institute
+  * Architecture Department
+  * Mechanical Engineering Department
+  * Seminar Halls & Conference Auditoriums
+- Locations with Lifts:
+  * Student Hostels
+  * Architecture Department & Multi-Storey Academic Blocks
+
+--------------------------------------------------------------------------------
+2. DIVYANGJAN-FRIENDLY WASHROOMS:
+--------------------------------------------------------------------------------
+- Specially designed, spacious, barrier-free restrooms with grab rails, anti-skid flooring, low-height washbasins, and emergency call support are available across key academic blocks and hostel premises.
+
+--------------------------------------------------------------------------------
+3. SIGNAGE (TACTILE PATHS, LIGHTS, DISPLAY BOARDS & SIGNPOSTS):
+--------------------------------------------------------------------------------
+- Prominent signage, tactile pathways, illuminated indicators, and directional display boards guide students to vital facilities:
+  * Central Library
+  * Counselor Office
+  * Accounts & Administrative Office
+  * Designated Parking Areas
+
+--------------------------------------------------------------------------------
+4. ASSISTIVE TECHNOLOGY & DIGITAL ACCESSIBILITY:
+--------------------------------------------------------------------------------
+- Accessible Website (Domain: https://mitsgwalior.in/):
+  * Complies with World Wide Web Consortium (W3C) Web Content Accessibility Guidelines (WCAG) 2.0 Level AA.
+  * Compatible with standard screen reading software for visually impaired users.
+- Text Size Adjustment:
+  * Users can adjust font scale using top bar controls:
+    - A- : Decrease text size
+    - A  : Standard default text size
+    - A+ : Increase text size
+- High Contrast Display Scheme:
+  * Contrast toggle icons allow switching between:
+    - High Contrast View: Black background with high-contrast text for visual clarity.
+    - Standard Contrast View: Standard campus theme.
+- Specialized Assistive Software & Hardware:
+  * Indian Sign Language (ISL) software in Central Library.
+  * Screen reading software integrated with Braille keyboards for visually challenged students.
+
+--------------------------------------------------------------------------------
+5. PROVISION FOR ENQUIRY, INFORMATION & PERSONAL ASSISTANCE:
+--------------------------------------------------------------------------------
+- Wheelchair Provision: Maintained at entrance gates and health centers for immediate mobility assistance.
+- Human Assistance & Readers: Dedicated volunteers and staff available for guiding and reading study material.
+- Scribe Facility: Provision of certified scribes during internal tests and end-semester university examinations as per UGC/AICTE examination norms.
+- Digital Learning Material: Soft copies of books, lecture notes, syllabus, and audio materials for screen reading.

@@ -1,0 +1,115 @@
+Faculty Profiles — Department of Electronics Engineering
+=========================================================
+
+1. Dr. Laxmi Shrivastava
+   - Designation: Professor & Dean
+   - Qualification: Ph.D., M.Tech., B.Tech.
+   - Area of Interest: Wireless Networks, Microwave Engineering
+   - Phone Number: 9425112732
+   - E-Mail: lselex@mitsgwalior.in
+   - Profile Link: https://web.mitsgwalior.in/faculty-profiles-ete-2/dr-laxmi-shrivastava-2
+
+2. Dr. R P Narwaria
+   - Designation: Associate Professor
+   - Qualification: Ph.D., M.E., B.E.
+   - Area of Interest: Biomedical Signal Processing, Control Systems
+   - Phone Number: 9301950530
+   - E-Mail: rpnarwaria@mitsgwalior.in
+   - Profile Link: https://web.mitsgwalior.in/faculty-profiles-ete-2/dr-r-p-narwaria-2
+
+3. Dr. Madhav Singh
+   - Designation: Assistant Professor
+   - Qualification: Ph.D., M.Tech.
+   - Area of Interest: Wireless Communication & Wireless Sensor Networks, VLSI Design
+   - Phone Number: 7999442165
+   - E-Mail: madhav.singh1@mitsgwalior.in
+   - Profile Link: https://web.mitsgwalior.in/faculty-profiles-ete-2/prof-madhav-singh-2
+
+4. Dr. Vikas Mahor
+   - Designation: Assistant Professor
+   - Qualification: Ph.D. (ABV-IIITM Gwalior)
+   - Area of Interest: Low Power VLSI Design, Real Time Embedded System Design, Optimization of VLSI Architectures using AI
+   - Phone Number: +91 7000771599
+   - E-Mail: vikas@mitsgwalior.in
+   - Profile Link: https://web.mitsgwalior.in/faculty-profiles-ete-2/dr-vikas-mahor-2
+
+5. Dr. Hemant Choubey
+   - Designation: Assistant Professor
+   - Qualification: Ph.D. (NIT Bhopal / MANIT), M.E., B.E.
+   - Area of Interest: EEG Signal Processing, Machine Learning
+   - Phone Number: 8770089263
+   - E-Mail: hemantchoubey271986@mitsgwalior.in
+   - Profile Link: https://web.mitsgwalior.in/faculty-profiles-ete-2/dr-hemant-choubey-2
+
+6. Dr. Varun Mishra
+   - Designation: Assistant Professor
+   - Qualification: Ph.D. (MNNIT Allahabad), M.Tech., B.Tech.
+   - Area of Interest: Semiconductor Device Modeling and Simulation, Nano-electronics
+   - Phone Number: +91-8979891801
+   - E-Mail: varun@mitsgwalior.in
+   - Profile Link: https://web.mitsgwalior.in/faculty-profiles-ete-2/dr-varun-mishra
+
+7. Dr. Mukesh Kumar Mishra
+   - Designation: Assistant Professor
+   - Qualification: Ph.D. (ABV-IIITM Gwalior)
+   - Area of Interest: 5G and 6G Wireless Networks, Millimeter Wave Networks, UAV Network Channel Modeling and Security, Machine Learning, Stochastic Geometry
+   - Phone Number: +91-8889921142
+   - E-Mail: mukeshmishra@mitsgwalior.in
+   - Profile Link: https://web.mitsgwalior.in/faculty-profiles-ete-2/dr-mukesh-kumar-mishra
+
+8. Dr. Kumar Gaurav
+   - Designation: Assistant Professor
+   - Qualification: Ph.D. and M.Tech. (ABV-IIITM Gwalior), B.Tech.
+   - Area of Interest: Nano/Micro-Electronics, VLSI Design, Material to Device Modeling, Spintronic Devices
+   - Phone Number: +91 84700 77459
+   - E-Mail: kumargaurav@mitsgwalior.in
+   - Profile Link: https://web.mitsgwalior.in/faculty-profiles-ete-2/dr-kumar-gaurav
+
+9. Dr. Shailendra Singh
+   - Honors: World's Top 2% Scientist enlisted by Stanford University (2025)
+   - Designation: Assistant Professor
+   - Qualification: Ph.D. (NIT Jalandhar), M.Tech., B.E. (Panjab University, Chandigarh)
+   - Area of Interest: Nano/Micro-Electronics, VLSI Design, Semiconductor Device Engineering
+   - Phone Number: +91 98553 66768
+   - E-Mail: shailendrasingh@mitsgwalior.in
+   - Profile Link: https://web.mitsgwalior.in/faculty-profiles-ete-2/dr-shailendra-singh
+
+10. Dr. Prateek Kumar
+    - Designation: Assistant Professor
+    - Qualification: Ph.D. (University of Delhi), M.Tech., B.Tech.
+    - Area of Interest: VLSI Design, HBT, Feedback FETs, SiGe Materials, 2D Materials, BTE, NEGF, Nanosensors
+    - Phone Number: +91-8800963161
+    - E-Mail: prateek@mitsgwalior.in
+    - Profile Link: https://web.mitsgwalior.in/faculty-profiles-ete-2/dr-prateek-kumar
+
+11. Dr. Neelam Sharma
+    - Designation: Assistant Professor
+    - Qualification: Ph.D.
+    - Area of Interest: Neural Signal Processing, Cognitive Science, Machine Learning, BCI Applications
+    - Phone Number: 9560588213
+    - E-Mail: neelamsharma@mitsgwalior.in
+    - Profile Link: https://web.mitsgwalior.in/faculty-profiles-ete-2/dr-neelam-sharma
+
+12. Dr. Varun Dixit
+    - Designation: Assistant Professor
+    - Qualification: Ph.D. (CSIR-CEERI, Pilani), M.Tech. (AcSIR), B.Tech.
+    - Area of Interest: RF and Microwave Engineering, Plasma Science and Engineering, High-Voltage Engineering, Vacuum Electronics
+    - Phone Number: +91-8765497974
+    - E-Mail: varundixit@mitsgwalior.in
+    - Profile Link: https://web.mitsgwalior.in/faculty-profiles-ete-2/dr-varun-dixit
+
+13. Dr. Abhishek Patel
+    - Designation: Assistant Professor
+    - Qualification: Ph.D. (IIITDM Jabalpur), M.Tech. (IIITDM Jabalpur), B.Tech. (MITS Gwalior)
+    - Area of Interest: RF and Microwave, Antenna, Filtenna, MIMO, SIW
+    - Phone Number: +91-9144418241
+    - E-Mail: abhishekpatel@mitsgwalior.in
+    - Profile Link: https://web.mitsgwalior.in/faculty-profiles-ete-2/dr-abhishek-patel
+
+14. Dr. Vandana Bhatt
+    - Designation: Assistant Professor
+    - Qualification: Ph.D.
+    - Area of Interest: VLSI Design
+    - Phone Number: +91-7895624339
+    - E-Mail: vandanags@gmail.com
+    - Profile Link: https://web.mitsgwalior.in/faculty-profiles-ete-2/dr-vandana-bhatt

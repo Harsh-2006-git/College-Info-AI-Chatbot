@@ -1,0 +1,22 @@
+Department: Centre for Computer Science and Technology (CCST)
+Laboratories
+
+1. Computing and Design Lab (CoDe Lab)
+The Computing and Design Lab is dedicated to developing problem-solving, analytical thinking, and design-oriented computing skills. The laboratory provides students with hands-on experience in algorithm development, computational modeling, data visualization, UI/UX prototyping, computer graphics, web technologies, and emerging design tools. It serves as a platform for interdisciplinary projects, innovation, and research, enabling students to transform creative ideas into practical digital solutions. The lab also supports learning in Artificial Intelligence, Machine Learning, Data Science, and Human-Computer Interaction through project-based activities and modern software tools.
+
+Key Objectives:
+- Develop computational thinking and problem-solving abilities.
+- Design and prototype software applications and digital interfaces.
+- Apply algorithms and computational models to real-world problems.
+- Foster innovation through project-based learning and interdisciplinary collaboration.
+- Support research in emerging computing technologies.
+
+2. Programming Lab
+The Programming Lab provides a strong foundation in programming concepts, software development, and coding practices. The laboratory enables students to gain practical experience in programming languages such as C, C++, Python, and modern development frameworks. It emphasizes structured programming, object-oriented programming, data structures, algorithms, database connectivity, web programming, and software engineering practices. The lab prepares students to design, develop, test, and deploy efficient software solutions while promoting logical reasoning, debugging skills, teamwork, and industry-oriented coding standards.
+
+Key Objectives:
+- Build strong programming and software development skills.
+- Strengthen understanding of data structures and algorithms through implementation.
+- Develop debugging, testing, and code optimization skills.
+- Familiarize students with integrated development environments (IDEs), version control, and collaborative software development.
+- Prepare students for industry requirements, competitive programming, internships, and research projects.

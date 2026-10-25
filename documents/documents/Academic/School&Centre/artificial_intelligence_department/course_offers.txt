@@ -1,0 +1,36 @@
+Department: Centre for Artificial Intelligence (Artificial Intelligence Department)
+Programmes Offered
+
+1. B.Tech Information Technology (Artificial Intelligence and Robotics)
+Brochure: https://web.mitsgwalior.in/images/Departments/information_technology/Downloads/AI%20and%20Robotics%20banner.pdf
+Course Structure: https://web.mitsgwalior.in/images/Departments/Centre%20of%20Artificial%20Intelligence/course%20structures/COURSE%20STRUCTURE%20itair.pdf
+DURATION: 4 Years Degree Course
+INTAKE: 60
+TYPE: Regular
+
+2. B.Tech in Artificial Intelligence & Machine Learning
+Brochure: https://web.mitsgwalior.in/images/Departments/information_technology/Downloads/AIML%20Banner.pdf
+Course Structure: https://web.mitsgwalior.in/images/Departments/Centre%20of%20Artificial%20Intelligence/course%20structures/COURSE%20STRUCTURE%20aiml.pdf
+DURATION: 4 Years Degree Course
+INTAKE: 60
+TYPE: Regular
+
+3. B.Tech in Artificial Intelligence & Data Science
+Brochure: https://web.mitsgwalior.in/images/Departments/information_technology/Downloads/AIDS%2022png%201.png
+Course Structure: https://web.mitsgwalior.in/images/Departments/Centre%20of%20Artificial%20Intelligence/course%20structures/COURSE%20STRUCTURE%20aids.pdf
+DURATION: 4 Years Degree Course
+INTAKE: 60
+TYPE: Regular
+
+4. B.Tech in Artificial Intelligence
+Brochure: https://web.mitsgwalior.in/images/Departments/Centre%20of%20Artificial%20Intelligence/Programmes%20Offered/AI%20banner%201.pdf
+Course Structure: https://web.mitsgwalior.in/images/Departments/Centre%20of%20Artificial%20Intelligence/course%20structures/COURSE%20STRUCTURE%20ai.pdf
+DURATION: 4 Years Degree Course
+INTAKE: 120
+TYPE: Regular
+
+5. M.Tech in Artificial Intelligence
+Brochure: COURSE STRUCTURE
+DURATION: 2 Years
+INTAKE: 20
+TYPE: Regular

@@ -1,0 +1,39 @@
+Laboratories
+
+Vibration Analysis Lab
+The Reliability Training Centre consists of the latest equipment in bearing maintenance and condition monitoring fields which shall give a unique opportunity to students to attend hands-on training programs and practical sharing of knowledge.
+Major Equipment: Mounting star (Bearing training kit), Bearing Mounting and Dismounting kit, Alignment rig with tools, Basic condition monitoring kit, Self-learning tool, FFT Analyser, Experimental test rigs, Online Learning tools.
+
+I C Engine Lab
+Internal Combustion Engine Laboratory is a well-equipped laboratory that provides ideas on the practice of handling IC engines and measuring the performance parameters. This laboratory is scheduled for 4th-semester students of Automobile Engineering and 6th-semester students of the Mechanical engineering branch. The maximum tests which are performed on IC engines are for commercial purposes to find the following: The overload carrying capacity of the engine. The quantity of cooling water required on a brake power basis in kg per kW-hr. Brake Power (which is also known as rated power) with guaranteed fuel consumption.
+
+Refrigeration & Air Conditioning Lab
+The Refrigeration and Air-conditioning Lab consists of modern equipment in Vapour Compression Refrigeration System, Air-conditioning training system as well as various refrigeration test rigs which makes a unique platform for the students to perform their experimental practice in the refrigeration area.
+Major Equipment: Vapour compression refrigeration trainer, Cold storage trainer, Air conditioning test rig, Duct able air conditioning test rig, cut section of various transmission, vapour compression refrigeration system, Direct and indirect type AC & Refrigeration and fault simulator
+
+Mechanics of Material Lab
+Mechanical of Material Lab is currently engaging courses namely Fluid Mechanics & Hydraulic Machines (120314/190314) for Mechanical and Automobile branches respectively. This lab is run in conjunction with the theory course 120319/190317 (Mechanical of Material) under the first Department Core Subject. Mechanics of Materials is one of the important subjects in Mechanical as well as in Automotive Engineering. It is the physical science that looks at the reaction of a body to movement and deformation due to mechanical, thermal, and other loads.
+Major Equipment: Universal Testing Machine, Rockwell Hardness Testing Machine, Extensometer, Fatigue Testing Machine, Pendulum Impact Tester, Surface Roughness Tester, Bending Moment Apparatus, Shear force Apparatus)
+
+Fluid Mechanics Lab
+Fluid Mechanics & Fluid Machines Lab is currently engaging courses namely Fluid Mechanics & Hydraulic Machines (120314/190314) for Mechanical and Automobile branches respectively.
+Major Equipments: Venturimeter Apparatus, Orificemeter Apparatus, Notch Apparatus, Metacentric Height Apparatus, Pipe Friction Apparatus, Bernoulli’s Apparatus, Centrifugal Pump Test Rig, Reciprocating Pump Test Rig, Pelton Turbine Test Rig, Francis Turbine Test Rig, Wind Tunnel (300x300 mm section)
+
+Heat & Mass Transfer Lab
+Heat and Mass Transfer laboratory provides fundamental and industrial knowledge about modes of heat and mass transfer, like conduction, convection, radiation, mass transfer, and their application. The experimental setups in this laboratory are a part of the curriculum for third-year undergraduate students undertaking the course “Heat and Mass Transfer”. To enhance the practical knowledge of industrial equipment, students perform the practical on Shell-&-Tube heat exchanger, Parallel flow heat exchanger, finding Conductivity of metal rod and insulating powder, experiments to determine convective heat transfer coefficient in various materials, the performance of pin fin of various materials apparatus and experiment to understand Kirchhoff’s and Stefan Boltzman laws.
+
+Dynamics of Machine Lab
+Dynamics of Machine Lab is currently engaging courses namely Theory of Machine-I & Theory of Machine-II for Mechanical and Automobile branches respectively.
+The following apparatus is there in the Dynamics of Machine Lab: Governors Apparatus, Gyroscopic Apparatus, Moment of inertia Apparatus, Dynamometer Apparatus, Clutch Apparatus, Brakes Apparatus, Four bar mechanism, and slider crank mechanism.
+
+CAD/CAM Lab
+CAD/CAM Lab is engaging courses namely Design of Machine Elements (120402), Machine design (120515), and Software lab 120315/190315 for Mechanical and Automobile Engineering students. Following software and machines are there in COMPUTER-AIDED DESIGN AND COMPUTER-AIDED MANUFACTURING LAB.
+Software: AutoCAD, CATIA, ANSYS
+Major Equipment: 3D Printer, CNC Lathe, CNC Milling Machine, Robotic Arm, 25 Computers
+
+Basic Mechanical Engineering Lab
+Mechanical Engineering is often considered the most basic type of engineering work. It is probably the first branch of engineering which has vast applications in all fields. Mechanical engineers were responsible for Industrial Revolution and innovations like the steam engine, internal combustion engines, turbines, compressors, pneumatic machines, machine tools, refrigeration, air conditioning systems, etc done by mechanical engineers. Therefore every student should know the basics of mechanical engineering.
+
+Workshop
+The workshop is currently engaging courses namely Manufacturing Practice, Manufacturing Process, and Production Lab, for Mechanical and Automobile branches respectively.
+Major Shops and Machines: Machine Shop, Carpentry Shop, Fitting Shop, Welding Shop, Moulding Shop, Smithy Shop, Sheet Metal Shop, Electro Chemical Machine/Air Plasma Cutting/MIG/Hydraulic Power Hexa/Profile Cutting Gas Cutting/Standard Type Centre Lathe Machine/Milling Machine/shaper Machine/Slotter Machine/Cylindrical Grinding Machine/Piller Type Drilling Machine/ Pedestal Grinder/ Bend Saw Machine/Circular Saw Machine/Universal Woodworking Machine/Wood Working Lathe Machine/Sand Paper Rolling Machine/Arc Welding Setup/Pedestal Drilling Machine/Electric Blower/Muffle Furnace.

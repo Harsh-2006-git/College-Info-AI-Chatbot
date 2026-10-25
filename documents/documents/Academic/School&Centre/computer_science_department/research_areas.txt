@@ -1,0 +1,37 @@
+Research Areas - Department of Computer Science & Engineering
+
+Computer Vision & Image Processing / Artificial Intelligence
+Faculty Involved:
+- Dr. R.S. Jadon, Professor
+- Dr. Manish Dixit, Professor
+- Prof. Jaimala Jha, Assistant Professor
+- Dr. Parul Saxena, Assistant Professor
+- Prof. Hemlata Arya, Assistant Professor
+- Dr. Ranjeet Kumar Singh, Assistant Professor
+- Dr. Rohit Agrawal, Assistant Professor
+
+Data Mining / Sentiment Analysis
+Faculty Involved:
+- Dr. R.K. Gupta, Professor
+- Prof. Mahesh Parmar, Assistant Professor
+- Prof. Amit Kumar Manjhvar, Assistant Professor
+
+Adhoc Networks / Network Security / Internet of Things / Wireless Networks
+Faculty Involved:
+- Dr. Anshu Chaturvedi, Professor
+- Prof. Khushboo Agarwal, Assistant Professor
+- Dr. Gagandeep Kaur, Assistant Professor
+- Dr. Kuldeep Kumar Tripathi, Assistant Professor
+- Prof. Jigyasa Mishra, Assistant Professor
+
+Algorithm Design / Digital Forensics / Machine Learning / Deep Learning
+Faculty Involved:
+- Dr. R.R. Singh Makwana, Assistant Professor
+- Prof. Arun Kumar, Assistant Professor
+- Prof. Ankita Sengar, Assistant Professor
+
+Information Security / Network Security / Big Data Computing
+Faculty Involved:
+- Dr. Smita Parte, Assistant Professor
+- Prof. Kratika Sharma, Assistant Professor
+- Prof. Sapna Kushwah, Assistant Professor

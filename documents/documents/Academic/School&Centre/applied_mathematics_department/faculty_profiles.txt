@@ -1,0 +1,56 @@
+Department: School of Applied Mathematics
+Faculty Profiles
+
+1. Dr. Vikas Shinde
+Profile URL: https://web.mitsgwalior.in/faculty-profiles-apm/dr-vikas-shinde
+Designation: Professor & Dean
+Qualification: Ph.D.
+Area of Interest: Optimization Techniques, Soft Computing, System Reliability
+Phone No: 9425773073
+E-Mail: vpshinde@mitsgwalior.in
+
+2. Dr. D.K. Jain
+Profile URL: https://web.mitsgwalior.in/faculty-profiles-apm/dr-d-k-jain
+Designation: Professor
+Qualification: Ph.D., NET (UGC)
+Area of Interest: Special Functions
+E-Mail: ain_dkj@mitsgwalior.in
+
+3. Dr. J.K. Muthele
+Profile URL: https://web.mitsgwalior.in/faculty-profiles-apm/dr-j-k-muthele
+Designation: Associate Professor
+Qualification: Ph.D.
+Area of Interest: Queuing Theory
+Phone No: 9406587830
+E-Mail: jkmuthele@mitsgwalior.in
+
+4. Dr. Barkha Tiwari
+Profile URL: https://web.mitsgwalior.in/faculty-profiles-apm/dr-barkha-tiwari
+Designation: Assistant Professor
+Qualification: Ph.D. (NIT Raipur), Postdoc (Norwegian Institute for Water Research (NIVA), Norway)
+Area of Interest: Mathematical modelling, Mathematical Ecology and Ecotoxicology
+E-Mail: barkhatiwari@mitsgwalior.in
+
+5. Dr. Anand Pawar
+Profile URL: https://web.mitsgwalior.in/faculty-profiles-apm/dr-anand-pawar
+Designation: Assistant Professor
+Qualification: Ph.D. (MANIT Bhopal), M.Sc. (NIT Warangal), Integrated B.Sc. B.Ed. (RIE, Bhopal)
+Area of Interest: Computational Biology, Mathematical modelling and Numerical Simulation, Computational Neuroscience, Cell Signaling
+Mobile No: 8461957199
+E-Mail: anandpawar@mitsgwalior.in
+
+6. Dr. Dilip Kumar Mishra
+Profile URL: https://web.mitsgwalior.in/faculty-profiles-apm/dr-d-k-mishra
+Designation: Assistant Professor
+Qualification: Ph.D.
+Area of Interest: Operation Research (Soft Computing)
+Phone No: 9200186992
+E-Mail: mishradilip3826@mitsgwalior.in
+
+7. Dr. S. K. Bhardwaj
+Profile URL: https://web.mitsgwalior.in/faculty-profiles-apm/dr-santosh-bhardwaj
+Designation: Assistant Professor
+Qualification: Ph.D.
+Area of Interest: Mathematical Biology
+Phone No: 9927496501
+E-Mail: bhardwajsantosh@mitsgwalior.in

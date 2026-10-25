@@ -1,0 +1,9 @@
+Laboratories
+
+Basic Electrical & Electronics Engineering (BEEE) Lab
+Undergraduate First Year Lab: Major experiments are related to verification of KCL, KVL, Superposition theorem; Determination of choke coil inductance and resistance; Determination of efficiency and regulation of single phase transformer, SC and OC test on single phase transformer; DC Machine overview, use of Multimeter; Determination of Diode characteristics; Verification of truth table.
+Lab Manual / Details: https://web.mitsgwalior.in/images/Departments/electrical_engineering/Lab%20Manuals/Basic%20Electrical%20%20Electronics%20Lab.pdf
+
+Electrical Machines Lab
+Undergraduate Lab: Major experiments are related to parallel operation of two single phase transformer, direct load test on single phase transformer; Determination of internal and external characteristics of DC shunt generator, speed control of DC motor; No load and blocked rotor test on 3-phase squirrel cage and slip ring induction motor; Determination of OC and SC characteristics of alternators; Determination of regulation and alternator using synchronous impedance method and zero power factor method; Determination of V-curves of synchronous motor; Determination of direct axis and quadrature axis reactance of alternator using slip test.
+Lab Manual / Details: https://web.mitsgwalior.in/images/Departments/electrical_engineering/Lab%20Manuals/Lab%20Electrical%20Machines.pdf

@@ -1,0 +1,106 @@
+Department: Centre for Computer Science and Technology (CCST)
+Faculty Profiles
+
+1. DR. ABHISHEK DIXIT
+Profile URL: https://web.mitsgwalior.in/faculty-profiles-csbs-2/abhishek-dixit
+Designation: Assistant Professor & Head
+Qualification: B.E. (Hons) (CSE), M. Tech. (Hons) (IT), Ph. D. (CSE)
+Area of Interest: Data Mining, Hesitation Mining, Speech Recognition
+Phone No: 07000480998
+E-Mail: abhishekdixit@mitsgwalior.in
+
+2. DR. SAUMIL MAHESHWARI
+Profile URL: https://web.mitsgwalior.in/faculty-profiles-csbs-2/dr-saumil-maheshwari
+Designation: Assistant Professor
+Qualification: M.Tech. (Hons), Ph.D. (ABV-IIITM)
+Area of Interest: Machine Learning, Optimization Algorithms, Data Mining, Deep Learning
+Phone No: 09827352520
+E-Mail: saumil@mitsgwalior.in
+
+3. DR. DEVANSHU TIWARI
+Profile URL: https://web.mitsgwalior.in/faculty-profiles-csbs-2/dr-devanshu-tiwari
+Designation: Assistant Professor
+Qualification: B.E., M.Tech. (Hons) (CSE), Ph.D (CSE)
+Area of Interest: Image Processing, Artificial Intelligence
+Phone No: 9713840152
+E-Mail: devanshutiwari@mitsgwalior.in
+
+4. DR. TEJASWITA MISHRA
+Profile URL: https://web.mitsgwalior.in/faculty-profiles-csbs-2/dr-tejaswita-mishra
+Designation: Assistant Professor
+Qualification: B.E. (Hons) (CSE), M. Tech. (Hons) (CS), Ph. D. (CS)
+Area of Interest: Machine Learning, Data Analytics, Medical Image Processing, Artificial Intelligence
+Phone No: +91-9109985297
+E-Mail: tejaswita@mitsgwalior.in
+
+5. Dr. Shradha Dubey
+Profile URL: https://web.mitsgwalior.in/faculty-profiles-csbs-2/dr-shradha-dubey
+Designation: Assistant Professor
+Qualification: B.E. (Hons), M. Tech. (Hons), Ph. D. (AICTE-NDF)
+Area of Interest: Computer Vision, Artificial Intelligence, Deep Learning, Medical Image Processing
+Phone No: +91-8989695527
+E-Mail: shradhadubey@mitsgwalior.in
+
+6. Dr. Suchitra Agrawal
+Profile URL: https://web.mitsgwalior.in/faculty-profiles-csbs-2/dr-suchitra-agrawal
+Designation: Assistant Professor
+Qualification: Ph.D. (IIT Indore)
+Area of Interest: Machine Learning, Optimization Techniques
+Phone No: +91-6260008789
+E-Mail: suchitra@mitsgwalior.in
+
+7. Dr. Vivek Sharma
+Profile URL: https://web.mitsgwalior.in/faculty-profiles-csbs-2/dr-vivek-sharma
+Designation: Assistant Professor
+Qualification: B.E., M.Tech., Ph.D. (Malaviya National Institute of Technology Jaipur (MNIT))
+Area of Interest: Machine Learning, Deep Learning, Image Processing, Robotics
+Phone No: 9589518257
+E-Mail: viveksharma@mitsgwalior.in | vivek.mnitj.1512@gmail.com
+
+8. PROF. UTKARSH SHARMA
+Profile URL: https://web.mitsgwalior.in/faculty-profiles-csbs-2/utkarsh-sharma
+Designation: Assistant Professor
+Qualification: M. Tech (CSE)
+Area of Interest: Computer Networks, Artificial Intelligence, Cloud Computing
+Phone No: +91-8269149178
+E-Mail: utkarshsharma770@mitsgwalior.in
+
+9. PROF. ADITI SAMADHIYA
+Profile URL: https://web.mitsgwalior.in/faculty-profiles-csbs-2/prof-aditi-samadhiya
+Designation: Assistant Professor
+Qualification: M.Tech, Ph.D (Pursuing)
+Area of Interest: Machine Learning, Deep Learning, Noise Cancellation
+Phone No: 8147313719
+E-Mail: aditi.789.iti@mitsgwalior.in
+
+10. PROF. MITHUN SAHAY SHRIVASTAVA
+Profile URL: https://web.mitsgwalior.in/faculty-profiles-csbs-2/mr-mithun-sahay-shrivastava
+Designation: Assistant Professor
+Qualification: M.Tech.
+Area of Interest: Computer Network and VANET
+Phone No: +91-9584678787
+E-Mail: mithunsahaygwl@mitsgwalior.in
+
+11. PROF. ANIL KUMAR FATEHPURIA
+Profile URL: https://web.mitsgwalior.in/faculty-profiles-csbs-2/anilfatehpuria
+Designation: Assistant Professor
+Qualification: M.Tech., Ph.D. (Pursuing)
+Area of Interest: Machine Learning, Artificial Intelligence, Data Mining, Cloud Computing
+Phone No: +91-7470776600
+E-Mail: anilkumar@mitsgwalior.in
+
+12. PROF. KULDEEP SINGH RATHORE
+Profile URL: https://web.mitsgwalior.in/faculty-profiles-csbs-2/prof-kuldeep-singh-rathore
+Designation: Assistant Professor
+Qualification: B.E (CSE), M.TECH (CSE)
+Area of Interest: Data Mining
+Phone No: +91-9584882240
+E-Mail: kuldeeprathore22@mitsgwalior.in
+
+13. PROF. VANDANA JAISWAL
+Profile URL: https://web.mitsgwalior.in/faculty-profiles-csbs-2/prof-vandana-jaiswal
+Designation: Assistant Professor
+Qualification: B.Tech (Hons), M. Tech (Hons)
+Area of Interest: Sentiment Analyses, Machine Learning, Deep Learning
+Phone No: +91-9644986950
+E-Mail: jaiswalvandana@mitsgwalior.in

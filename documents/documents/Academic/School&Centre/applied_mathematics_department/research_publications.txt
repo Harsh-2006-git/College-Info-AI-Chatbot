@@ -1,0 +1,12 @@
+Department: School of Applied Mathematics
+Research Publications & Patents
+
+1. Jitendra Kumar & Vikas Shinde, "ASSESSMENT OF ENHANCING COST EFFICIENCY IN CLOUD COMPUTING SYSTEMS THROUGH QUEUEING MODELS", Jñānābha, Vol. 55 (2), pp. 123-134. DOI: https://doi.org/10.58250/jnanabha.2025.55214
+
+2. Dr. Anil Kumar, Dr. Jitendra Kumar, Dr. Vishwanath Jha, Dr. Apurav Radhakrishna Gupta, Dr. Praneeta Verma, "PORTABLE MATHEMATICAL COMPUTATION AND ANALYSIS DEVICE", Patent/Design IPR: Application No. 469683-001, Registration date 13/08/2025, Publication date 01/01/2026 under IPR by Govt. of India.
+Document Link: https://drive.google.com/file/d/1IdxGK9DCHDLJY5veHa_P8qMJUFM0DlyG/view?usp=sharing
+
+3. Dr. Anil Kumar, Dr. Javed M Idrasi, Dr. Jitendra Kumar, Dr. Vikas Shinde, Dr. D.K. Mishra, "AI Based Inventory Modeling and Supply Chain Optimization Device using Fuzzy Logic", Patent/Design IPR: Application No. 481614-001, Registration date 26.11.2025, Publication date 16/02/2026 under IPR by Govt. of India.
+Document Link: https://drive.google.com/file/d/1MlbicpoFoq8jzDf7PbWOtcjFhNlFLqn/view?usp=sharing
+
+4. P. Mishra, Megha Yadav, Adarsh Shrivastava, Barkha Tiwari, "Spatio-temporal dynamics of Schoener–Polis–Holt intraguild predation model", The European Physical Journal - Plus (EPJ Plus), 141.

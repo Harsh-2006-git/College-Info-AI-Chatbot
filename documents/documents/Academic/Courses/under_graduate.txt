@@ -1,0 +1,26 @@
+Academics
+Courses: https://web.mitsgwalior.in/academics/courses
+
+Under Graduate Programmes (B.Tech & B.Arch)
+Madhav Institute of Technology & Science (MITS), Gwalior
+
+Year of start | Name of Program | Intake
+1957 | B.Tech Civil Engineering | 60
+1957 | B.Tech Mechanical Engineering | 60
+1957 | B.Tech Electrical Engineering | 60
+1982 | B.Tech Electronics Engineering | 120
+1984 | B. Architecture | 40
+1994 | B.Tech Computer Science & Engineering | 120
+1996 | B.Tech Chemical Engineering | 30
+2000 | B.Tech Information Technology | 120
+2015 | B.Tech Electronics & Telecommunication Engineering | 120
+2020 | B.Tech Information Technology(Artificial Intelligence and Robotics) | 60
+2020 | B.Tech Internet of Things (IoT) | 60
+2020 | B.Tech Mathematics and Computing | 120
+2021 | B.Tech Artificial Intelligence(AI) and Data Science | 60
+2021 | B.Tech Artificial Intelligence and Machine Learning | 60
+2021 | B.Tech Computer Science and Design | 120
+2024 | B.Tech Computer Science & Business Systems | 60
+2024 | B.Tech Artificial Intelligence(AI) | 120
+2025 | B.Tech Computer science and Technology | 120
+2025 | B.Tech Electrical and Computer Engineering | 60

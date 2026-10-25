@@ -1,0 +1,40 @@
+R&D — Testing & Consultancy
+Madhav Institute of Technology & Science (MITS), Gwalior
+(Deemed to be University)
+
+OVERVIEW:
+MITS Gwalior is a recognized hub for industrial testing, calibration, design vetting, and technical consultancy services across Madhya Pradesh and Central India. The institute leverages its state-of-the-art laboratories and domain-expert faculty to deliver specialized consultancy for government bodies, public sector undertakings, and private enterprises.
+
+MAJOR CONSULTANCY DOMAINS & SERVICES:
+1. Civil & Structural Engineering:
+   - Soil investigation & geotechnical testing.
+   - Non-Destructive Testing (NDT) of concrete structures, bridges, and buildings.
+   - Material testing: cement, steel, coarse/fine aggregates, bitumen, and bricks.
+   - Structural design verification and vetting for public infrastructure projects.
+   - Third-party quality inspection and monitoring for government municipal corporations, PWD, NHAI, and smart city projects.
+
+2. Electrical & Electronics Engineering:
+   - Energy auditing and electrical power quality analysis.
+   - High-voltage testing and calibration of electrical instruments.
+   - Embedded systems and IoT prototyping for industrial automation.
+
+3. Mechanical Engineering:
+   - Vibration analysis, acoustic measurement, and dynamic balancing.
+   - Thermal efficiency analysis of boilers and heat exchangers.
+   - Material characterization, tensile testing, and hardness evaluation.
+
+4. Environmental & Chemical Engineering:
+   - Water and wastewater quality analysis (BOD, COD, heavy metals).
+   - Air pollution monitoring and environmental impact assessments.
+
+5. Computer Science & Information Technology:
+   - Enterprise software design, security auditing, and cloud infrastructure setup.
+   - AI-driven analytics, automation, and computer vision solutions.
+
+KEY CLIENTELE & COLLABORATORS:
+- Smart City Gwalior
+- National Highways Authority of India (NHAI)
+- MP Public Works Department (PWD) & Municipal Corporations
+- MP Urja Vikas Nigam & MP Discoms
+- Defence Research and Development Establishment (DRDE)
+- Private construction and manufacturing firms across the region.

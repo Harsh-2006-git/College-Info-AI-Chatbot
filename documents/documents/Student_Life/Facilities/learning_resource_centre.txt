@@ -1,0 +1,47 @@
+Student Life — Facilities
+Learning Resource Centre (Central Library)
+Madhav Institute of Technology & Science (MITS), Gwalior
+
+Overview:
+Welcome to the Central Library, Madhav Institute of Technology & Science — a very special place on the MITS campus with its rich collection of books and journals in the field of Engineering and Architecture related disciplines. The Central Library currently houses around 1,00,000 books, comprising textbooks and reference books for Engineering Graduates (UG), Postgraduates (PG), and Ph.D. curriculum in Civil Engineering, Mechanical Engineering, Electronics, Electrical, Computer Science & Information Technology, and Architecture disciplines. The library collection also includes documents in Computer Science, History of Science, Fiction, Stories, General books, Encyclopaedias, Dictionaries, and Magazines.
+
+Digital Library & RFID Automation:
+The Central Library recently automated its library services; in the Gwalior region, MITS Central Library is the first to implement RFID technology with international security standards (ISO-15693 / ISO 18000-3), operating on 13.56 MHz. In the last 12 months, more than 38,651 books were issued to various UG/PG students. It is an effective automated system used worldwide for managing library collections and providing enhanced services to users, offering benefits such as:
+- Theft control and misplaced reading material tracking
+- Sorting, inventory accuracy, and stock verification procedures
+- Security control, video surveillance, and Smart Card integration
+All books are tagged with the latest RFID technology. For issuing books, students present their Smart Card at the circulation counter. Upon transaction completion, students receive issue/return status via SMS on their mobile or can check transaction status on their individual dashboard under the "My Books Issued Status" tab.
+
+Archive Section:
+The Library maintains an archive section of rare and vintage books dating back to 1950. This valuable collection caters to the needs of research scholars. The library also houses a rich collection of over 1,000 M.Tech Dissertations and Ph.D. theses.
+
+Key Services:
+- Circulation: Weekly branch-wise issue and return facility so all students can avail the collection.
+- Open Access System: Facilitates students to search and browse required material directly on the shelves.
+- Reprographic Services: Photocopy services provided on demand.
+- Computer Lab: Dedicated computer lab with 15 computers inside the library for accessing E-books, E-journals, and online resources. High-speed Wi-Fi is available in and around the library.
+- E-Journals: Subscribes to international e-journal databases covering 620+ titles across engineering disciplines: (a) IEEE (b) ASME (c) ASCE (d) ScienceDirect. Central Library also subscribes to print national and international journals. E-journals are accessible 24/7 across the campus via a dedicated leased line.
+
+Library Timings:
+- Working Hours: 10:00 AM to 8:30 PM on all working days.
+
+Integrated Library Management System (ILMS):
+- Software: Koha (Version: 3.18)
+- Nature of Automation: Fully Automated (Automated in 2014 with RFID & Institute ERP integration; Koha adopted in 2016)
+- Features: Web-based ILS with MariaDB/MySQL back end, MARC cataloguing, Z39.50/SRU support, Web 2.0 (tagging, RSS, comments), union catalogue, online circulation, barcode/RFID, and member card printing.
+
+Library Rules & Loan Privileges:
+- General category students: 5 books for 4 weeks (renewable for another 4 weeks if not reserved).
+- SC/ST category students: 7 books for 4 weeks (renewable for another 4 weeks if not reserved).
+- Overdue Fine: Rs. 1/- per day per book (excludes 2nd & 3rd Saturdays, Sundays, and state government holidays). If fine exceeds book value, rules for loss of books apply.
+
+Lost Book Recovery Rules:
+1. Replace with the latest edition of the material plus an additional charge of Rs. 100/- towards RFID tag and administrative costs; OR
+2. Pay the cost of the latest edition plus Rs. 100/- towards RFID tag and administrative costs; OR
+3. If out of print or rare, pay twice (2x) the cost of the book plus Rs. 100/- towards RFID tag and administrative costs.
+
+E-Resource Links & Portals:
+1. User Manual Tata-McGraw Hill: https://mitsgwalior.in/login/upload/Tmh.pdf
+2. User Manual Pearson Publication: https://mitsgwalior.in/login/upload/Pearson.pdf
+3. User Manual Multi-publisher Books: https://mitsgwalior.in/login/upload/Mutlipublishers.pdf
+4. E-Library Portal Login: https://mits-rgpv.refread.com/#/home

@@ -1,0 +1,35 @@
+Department: Engineering Mathematics & Computing (Department of Mathematics & Computing)
+Research Areas
+
+The vision of the department is to impart knowledge of mathematics and computer sciences that serve to groom the academic potential of student and abreast with recent technological developments. With respect to potential areas of research of the Department in order to commercialize the research outcomes through development of products or services are:
+1. Fluid Dynamics
+2. Population Dynamics
+3. Queuing theory
+4. Statistical Techniques
+5. Special functions
+
+--- APPLICATIONS AND CURRENT RESEARCH WORK ---
+
+1. Fluid Dynamics
+The study of fluid dynamics yields different methods to understand weather predictions (weather forecasting), blood circulation, ocean currents, air conditioning systems, wind turbines, and rocket engines, etc. The current areas of research in fluid dynamics are Non-Newtonian Fluid Dynamics, Biological Fluid Dynamics, Microhydrodynamics, Hydrodynamic Instability and Transition to Turbulence, Geophysical and Environmental Fluid Dynamics (GEFD), Biological fluid Flows, and Nanofluid flow.
+
+2. Population Dynamics
+The understanding of population dynamics enables us to know the relative importance of competition for resources and predation in ecological communities. It is an area of mathematics used to model and study the age and size composition of populations as dynamical systems. The current areas of research in population dynamics are management of natural resources, preserving biodiversity, cases of COVID-19, demography (Global Family Change (GFC)), Human resources and endowment, etc.
+
+3. Queuing Theory
+Queuing theory is a branch of operational research (optimization engineering) that deals with the study of queues (waiting lines). The mathematical model of a queuing system enables us to predict waiting time and length of the queue. The application of queuing theory can be seen in scheduling (viz. jobs of machines, programs on computer, patients in hospital, etc.), traffic flow (aircraft, vehicles, telecommunication, etc.), and facility design (post offices, supermarkets, banks, etc.). The current research areas of queuing theory are in construction management, hospital pharmacy performance (controlling and monitoring medication), air defence missile weapon systems, etc.
+
+4. Statistical Techniques
+Statistical techniques apply to descriptive statistics (dealing with properties of sample and population data) and inferential statistics (testing hypotheses and making conclusions). The current areas of research in statistical techniques are data mining and statistical analysis, data engineering, database management and architecture, business intelligence, and engineering and market data analysis.
+
+5. Special Functions
+Special functions lie in mathematical physics, which includes functions like gamma functions, beta functions, hypergeometric functions, Meijer G-function, Legendre's and Bessel's functions, Whittaker functions, Riemann zeta function and their extensions, etc. Current areas of special functions are in fractional calculus, astronomy, cardiac pacemaking function, analytic number theory, and coherent states, etc.
+
+--- SUMMARY OF FOCUSED RESEARCH AREAS ---
+
+S.No. | Focused Area | Applications | Current Research Topics
+1 | Fluid Dynamics | Weather predictions (weather forecasting), blood circulation, ocean currents, air conditioning systems, wind turbines, and rocket engines | Non-Newtonian Fluid Dynamics, Biological Fluid Dynamics, Microhydrodynamics, Hydrodynamic Instability and Transition to Turbulence, Geophysical and Environmental Fluid Dynamics (GEFD), Biological fluid Flows, Nanofluid flow
+2 | Population Dynamics | Competition for resources and predation in ecological communities | Management of natural resources, preserving biodiversity, cases of COVID-19, demography (Global Family Change (GFC)), Human resources and endowment, etc.
+3 | Queuing Theory | Scheduling (machine jobs, computer programs, hospital patients), traffic flow (aircraft, vehicles, telecommunications), facility design (post offices, supermarkets, banks) | Construction management, hospital pharmacy performance (controlling and monitoring medication), air defence missile weapon system, etc.
+4 | Statistical Techniques | Sample and population data, hypothesis testing, and drawing conclusions | Data mining and statistical analysis, data engineering, database management and architecture, business intelligence, and engineering and market data analysis
+5 | Special Functions | Mathematical physics, astronomy, quantum theory | Fractional calculus, astronomy, cardiac pacemaking function, analytic number theory, and coherent states, etc.

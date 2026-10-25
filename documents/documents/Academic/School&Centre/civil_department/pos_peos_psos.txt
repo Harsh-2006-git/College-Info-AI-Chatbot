@@ -1,0 +1,23 @@
+Programme Educational Objectives (PEOs)
+PEO I The graduate of the program will have successful career in various domains of civil engineering.
+PEO II The graduate of the program will be able to practice civil engineering in infrastructure industries, public sector undertakings and as an entrepreneur.
+PEO III The graduate of the program will be able to pursue higher education for knowledge enhancement.
+PEO IV The graduate of the program will be able to exhibit leadership skills, team spirit and ethical practices.
+
+Program Outcomes (POs)
+PO I Engineering Knowledge: The graduate will be able to apply knowledge of mathematics, science & design principles to solve the problems in civil engineering.
+PO II Problem Analysis: The graduate will be able to identify, formulate and analyse engineering problems with substantial conclusions using analytical tools appropriate to civil engineering.
+PO III Design/Development of Solutions: The graduate will be able to design civil engineering systems within realistic constraints to meet desired needs of economy, environment, society, health and safety.
+PO IV Conduct Investigations of Complex Problems: The graduate will be able to conduct investigations of complex problems by use of research based knowledge & methods including experimentation, interpretation of data & synthesis of information to provide valid conclusion.
+PO V Modern Tool Usage: The graduate will be able to use the technical skills and modern engineering / computational tools for broadly defining engineering activities.
+PO VI The Engineer and Society: The graduate will be able to assess safety & legal issues and the consequent responsibilities relevant to the professional civil engineering practice.
+PO VII Environment and Sustainability: The graduate will be able to understand the impact of the professional civil engineering solutions in relation to societal needs, environmental concern & sustainable development.
+PO VIII Ethics: The graduate will be able to understand the importance of professional ethics and norms of civil engineering practice.
+PO IX Individual and Team work: The graduate will be able to function effectively as a member or leader in diverse teams
+PO X Communication: The graduate will be able to communicate effectively with engineering community and society at large by being able to comprehend and write effective reports, prepare documentation and make effective presentation.
+PO XI Project management and Finance: The graduate will be able to demonstrate knowledge of management and financial principles to civil engineering projects.
+PO XII Life-long Learning: The graduate will be able to engage in lifelong learning & adapt to rapid changes in civil engineering and its allied areas.
+
+Program Specific Outcomes (PSO)
+PSO I The graduate will be able practice codal provisions like IRC, IS, NBC, CPHEEO manuals for planning & designing of civil infrastructures.
+PSO II The graduate will be able to understand the importance of uncertainty & risk involved in infrastructure projects and subsequently propose the solutions.

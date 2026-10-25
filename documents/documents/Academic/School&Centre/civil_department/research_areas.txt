@@ -1,0 +1,19 @@
+Research Areas and Faculty Involved
+
+Construction Technology & Management, Strategies and Tendering, Sustainability and Circularity in Civil Engineering, Construction Process Management and Systems Engineering in Construction
+Faculty: Dr M K Trivedi, Dr S K Jain, Dr Sanjay Tiwari, Prof A K Dwivedi, Prof G Bhadoriya, Prof. Aditya Agarwal
+
+Environmental Engineering, pollution control, industrial hygiene, radiation protection, hazardous waste management, toxic materials control, recycling, water supply, wastewater management, storm water management, solid waste disposal, public health and land management.
+Faculty: Dr M K Trivedi, Prof A K Saxena, Prof Aditya Agarwal, Dr Prachi Singh
+
+Structure Engineering, structural dynamics, bridge engineering, wind induced vibration & control, non-destructive techniques, passive and semi-active control of buildings, performance based seismic design, system identification & structural health monitoring, seismic damage assessment, finite element mesh generation, optimization, retrofitting of structures, spectral finite element methods, structural reliability, fluid-structure interaction, seismic analysis of concrete dam, cost-effective housing.
+Faculty: Dr S K Jain, Dr Sanjay Tiwari, Dr Hemant Shrivastava, Dr Abhilash Shukla
+
+Water Resources, meso-scale distributed hydrological modeling, satellite remote sensing and GIS for water resources management, computational river hydraulics and its applications, watershed and irrigation management, flow through porous media, stochastic sub-surface hydrology, rainfall modeling, modeling & simulation in free surface flow, heuristic method in reservoir optimization, GIS based watershed modeling, Dam Break Analysis
+Faculty: Dr M K Trivedi, Dr. Prachi Singh, Dr Mali Shivashankar
+
+Engineering Materials, Durability studies in concrete, Sustainable construction materials, Corrosion of steel, Reinforcement and Protection Measures, High Performance Concrete, Non-destructive Testing of Concrete Structures, pavement materials, pre-cast concrete block pavement, cast-in-situ concrete block pavement, pavement design, structural and functional evaluation of pavements, traffic engineering and issues related to road safety.
+Faculty: Dr Abhilash Shukla, Dr. Hemant Shrivastava, Dr. Reema Sharma, Prof G Bhadoriya
+
+Geotechnical Engineering, soil behavior, shallow and deep foundations, reinforced soil structures, landslides, constitutive modeling, soil dynamics, analysis and design of machine foundations, engineering seismology, wave propagation, seismic site characterization, seismic soil-structure interaction, seismic stability of slopes and retaining walls, design of offshore foundations, field instrumentation and testing, ground improvement techniques, geo-environmental engineering.
+Faculty: Dr. Mohit Kumar, Dr. Raghvendra Sahu, Dr. Rohit Ralli

@@ -1,0 +1,81 @@
+Achievements & Placements — Department of Information Technology (IT)
+=====================================================================
+
+Student Internships with Stipend Highlights
+-------------------------------------------
+- Archit Agarwal: Nurture.farm — Rs. 60,000/month stipend (PPO offered)
+- Abhishek Singh: Kloudspot Inc — Rs. 25,000/month stipend (PPO offered)
+- Mohit Shrivastava: SIMPLIFY WORKFORCE PRIVATE LIMITED, Hyderabad — Rs. 25,000/month stipend
+- Abi Soni: NEWGEN SOFTWARE PVT. LTD., Navi Mumbai — Rs. 20,000/month stipend (PPO offered)
+- Ayush Sharma: NEWGEN SOFTWARE PVT. LTD., Navi Mumbai — Rs. 20,000/month stipend (PPO offered)
+- Manish Kumar: Greendeck, Indore — Rs. 20,000/month stipend
+- Rahul Rajput: Leading Bird Web Services Pvt. Ltd. — Rs. 20,000/month stipend (PPO offered)
+- Abhay Shakya: Zonolith Technologies Pvt. Ltd., Bangalore — Rs. 16,000/month stipend
+- Harsh Soni: Omikron Technology Pvt. Ltd., Kolkata — Rs. 10,000/month stipend
+- Dheeraj Kushwah / Ishaan Jain / Neeraj Gopal Verma: Infosys — Rs. 10,000/month stipend (PPO offered)
+- Ruchi Chetwani: Tiger Analytics, Chennai — Rs. 10,000/month stipend (PPO offered)
+- Danish Khan / Himanshu Baghel / Himanshu Kushwah / Jyoti Chaudhary / Kshitiz Agrawal / Shivansh Shrivastava / Sakshi Sharma / Surabhi Soni / Sumit Sharma / Soniya Mehto / Ritika Choudhary / Rishita Dwivedi / Nishant Rajput: Persistent Systems, Pune — Rs. 10,000/month stipend (PPO offered)
+- Shashank Maheshwari: Virtusa Consulting Services Pvt Ltd — Rs. 6,500/month stipend
+- Ankit Lohia: Plus 91 Labs — Rs. 5,000/month stipend
+- Ashutosh Singh Rana: React JS Developer Intern at DIPC Tech Pvt. Ltd. — Rs. 5,000/month stipend
+- Ankita Gupta / Srajan Jain / Yashit Shrivastava / Anushree Singh: WIPRO — PPO offered
+- Additional internships: Abhijeet Rajput (Regirk Services), Anushka Pateriya (Plus91Labs), Ashad Khan (Skill Vertex), Devansh Sharma (Kloudspot Inc), Eshan Sharma (MPSEDC), Naman Sahu (TechCiti), Prajjwal Patel (Foxaisr), Rishabh Raghuvanshi (Built IT Tech), Rohit Gour (Stallion Archisys), Shaantanu Agarwal (Praedico Global Research), Tanisha Nigam (Kabadi Techno).
+
+
+Infosys MoU & Springboard Program
+---------------------------------
+Infosys and Madhav Institute of Technology & Science Gwalior entered into a Memorandum of Understanding (MoU) in 2024 to enrich the technical education process and jointly enhance education quality for students and faculty in Information Technology.
+- Infosys Springboard: Shares proven courseware, methodology, and education experiences to groom industry-ready engineers.
+- Springboard Portal: https://www.infosys.com/about/springboard.html
+
+Certifications Completed by Students under Infosys Springboard:
+- Dhruv Saxena: Basics of Python (27 July 2022)
+- Soumya Kushwaha: Python Programmer Certification, Computer Vision 101, Introduction to AI, Introduction to Data Science, Introduction to NLP, Introduction to RPA (2022)
+- Tanisha Parihar: Complete Web Development Course 2.0 (28 Oct 2022)
+- Saloni Bindal: Python Programming Certification (12 Jan 2022)
+- Sumit Mishra: Complete Web Development Course 2.0 (27 Oct 2022)
+- Saurabh Singh Gurjar: Essentials of Cloud Computing (19 May 2023)
+- Vaibhav Raj Singh: Fundamentals of Information Security, HTML - The Language (Jan 2023)
+
+Infosys Internship:
+- Saloni Bindal successfully completed the Infosys Springboard Internship Program on "Wingspan Analytics" (Feb 2022 to May 2022) at Infosys.
+
+
+Faculty Enablement Programs (FEP) Attended
+------------------------------------------
+- Dr. Vikram Rajpoot: Java Programming (Nov 2022)
+- Dr. Dhananjay Bisen: Python Programming (Oct 2022)
+- Dr. Bhagat Singh Raghuwanshi: Introduction to Artificial Intelligence (Nov 2022)
+- Dr. Aditya Dubey: Angular (Nov 2022)
+- Dr. Sanjiv Sharma, Mr. Mir Shahnawaz Ahmad, Mr. Mahesh Parmar: Python Programming through INFYTQ Platform (June 2020)
+- Dr. Sanjeev Khanna, Dr. Saurabh Bhattacharya, Ms. Sweta Singh: Soft Skills Webinar Series (June-July 2020)
+- Mr. Punit Kumar Johari, Mr. Abhilash Sonker, Mr. Rajeev K. Singh: InfyTQ using Python and DBMS (July 2020)
+- Mr. Rajeev Singh, Mr. Amit Manjhwar: User Interface Technology (Jan-Feb 2018)
+- Department of IT secured Second Rank in Offline Campus Connect Programme "Prarambh".
+
+
+Faculty Honors, Awards & Recognitions
+-------------------------------------
+- Dr. Vikram Rajpoot: Received "Certificate of Recognition" on MITS DAY (10th March 2023) for publishing four papers in SCIE Indexed Journals; Session Chair at IEEE ISCON 2023 (GLA University Mathura); Session Chair at IEEE TRIBES-2021 (IIIT Naya Raipur).
+- Dr. Abhishek Dixit: Received "Certificate of Recognition" on MITS DAY (10th March 2023) for publishing two papers in SCIE Indexed Journals; Session Chair at IEEE ISCON 2023.
+- Dr. Saumil Maheshwari: "Certificate of Recognition" on MITS DAY for being in the Top 1% of NPTEL DBMS course; Session Chair at IEEE IATMSI-2022 (ABV-IIITM Gwalior); Certificate of recognition for Faculty Feedback Index FFI > 4.25 in DBMS and Data Structures.
+- Dr. Akhilesh Tiwari: Nominated Member of Board of Management (BoM) at MGCGV Chitrakoot (2021-2024); Certificate of Recognition on MITS Day for Highest Administrative Efficiency Index AEI (8.56/10); Certificate of Recognition for preparing Phase-II flexible curriculum conforming to NEP-2020; General Chair & Technical Session Chair at ICSISCET 2021.
+
+
+NPTEL / ATAL / Coursera / Swayam Certifications by Faculty
+---------------------------------------------------------
+- Dr. Vikram Rajpoot: Qualified 4 NITTTR multidisciplinary courses; NPTEL "Theory of Computation" (July-Oct 2022).
+- Dr. Abhishek Dixit: Qualified 4 NITTTR multidisciplinary courses; NPTEL "Design and Analysis of Algorithms" (Elite Silver, 88%); NPTEL "Intellectual Property Rights" (Elite); NPTEL-AICTE FDP on Patent Drafting for Beginners (77%).
+- Prof. Abhilash Sonker: NPTEL "Cryptography and Network Security"; ATAL FDP on "Software Testing: Emerging Trends" (Manipal University Jaipur); ATAL FDP on "Quantum Computing Algorithms and Machine Learning" (RVCE); International STTP on Blockchain for Digital Transformation (CBIT Hyderabad).
+- Dr. Saumil Maheshwari: NPTEL "Database Management System" (Elite Silver, 82%); Swayam/NPTEL "Intellectual Property Rights"; Swayam/NPTEL "Design and Analysis of Algorithms"; NPTEL-AICTE FDP on Patent Drafting for Beginners (78%).
+- Prof. Neha Bhardwaj: ATAL Online Elementary FDP on "Blockchain Technologies and Its Applications" (Manipal Institute of Technology); ATAL Online Advanced FDP on "IoT & Cyber Security" (Institute of Engineering & Management).
+- Prof. Punit Kumar Johari: ATAL FDP on "IoT and its Applications" (School of IT, RGPV).
+
+
+Expert Talks Delivered by Faculty Outside MITS
+----------------------------------------------
+- Dr. Saumil Maheshwari: Lecture on "Digital India" at Govt. PG College Guna (27 June 2023); Webinar on "AI & Machine Learning" at Shri Ram College of Engineering & Management (06-Aug-2021).
+- Dr. Sanjiv Sharma: Lecture on "Digital India" at Govt. PG College Guna (27 June 2023).
+- Dr. Akhilesh Tiwari: Delivered 3 expert lectures in ATAL FDP on "Data Sciences" at Devi Ahilya Vishwavidyalaya (DAVV) Indore (4-8 Oct 2021).
+- Dr. Vikram Rajpoot: Session Chair in IEEE TRIBES-2021 (IIIT Naya Raipur).
+- Mr. Rajeev Kumar Singh: Attended 1-week FDP on "Demystifying Intellectual Property for Research Integrity and Economic Development" at DTU Delhi (March 2023).

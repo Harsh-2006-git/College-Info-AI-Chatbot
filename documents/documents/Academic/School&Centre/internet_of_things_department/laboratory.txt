@@ -1,0 +1,48 @@
+Department: Centre for Internet of Things (CIoT)
+Laboratories
+
+All laboratories can be viewed at: https://sites.google.com/mitsgwalior.in/centre-for-iot-mitsgwalior/home?authuser=1
+
+1. Centre of Excellence for IoT
+Faculty Incharge: Dr. Praveen Bansal, Dr. Bhavna Rathore
+Details: https://sites.google.com/mitsgwalior.in/centre-for-iot-mitsgwalior/home?authuser=1
+
+2. Embedded Control of Electric Motor Lab
+Faculty Incharge: Dr. Praveen Bansal, Dr. Saurabh Rajput
+Details: https://sites.google.com/mitsgwalior.in/centre-for-iot-mitsgwalior/home?authuser=1
+
+3. IoT Protocol and Application Lab with LORAWAN Technology
+Faculty Incharge: Dr. Bhavna Rathore, Dr. Priyanka Garg
+Details: https://sites.google.com/mitsgwalior.in/centre-for-iot-mitsgwalior/home?authuser=1
+
+4. Industry 4.0 and Industrial IoT Lab
+Faculty Incharge: Dr. Praveen Bansal, Dr. Gaurav Khare
+Details: https://sites.google.com/mitsgwalior.in/centre-for-iot-mitsgwalior/home?authuser=1
+
+5. Product Design, Development, and Fabrication Lab
+Faculty Incharge: Dr. Praveen Bansal, Dr. Murli Manohar
+Details: https://sites.google.com/mitsgwalior.in/centre-for-iot-mitsgwalior/home?authuser=1
+
+6. Electronics System and Thinking Lab
+Faculty Incharge: Dr. Praveen Bansal, Dr. Kaushal Pratap Sengar
+Details: https://sites.google.com/mitsgwalior.in/centre-for-iot-mitsgwalior/home?authuser=1
+
+7. Basic Electrical and Electronics Lab
+Faculty Incharge: Dr. Saurabh Rajput, Dr. Gaurav Khare
+Details: https://sites.google.com/mitsgwalior.in/centre-for-iot-mitsgwalior/home?authuser=1
+
+8. Sensor Technology Lab
+Faculty Incharge: Dr. Priyanka Garg, Dr. Nookala Venu
+Details: https://sites.google.com/mitsgwalior.in/centre-for-iot-mitsgwalior/home?authuser=1
+
+9. Digital Electronics and Logic Design Lab
+Faculty Incharge: Dr. Praveen Bansal, Dr. Gaurav Khare
+Details: https://sites.google.com/mitsgwalior.in/centre-for-iot-mitsgwalior/home?authuser=1
+
+10. Microprocessor and Embedded Lab
+Faculty Incharge: Dr. Bhavna Rathore, Dr. Priyanka Garg
+Details: https://sites.google.com/mitsgwalior.in/centre-for-iot-mitsgwalior/home?authuser=1
+
+11. Project Lab
+Faculty Incharge: Dr. Yashwant Sawle, Dr. Nookala Venu
+Details: https://sites.google.com/mitsgwalior.in/centre-for-iot-mitsgwalior/home?authuser=1

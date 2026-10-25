@@ -62,15 +62,26 @@ def init_services():
     _vector_store = VectorStore(persist_directory=chroma_dir, embedding_model=_embedding_model)
     _retriever = Retriever(vector_store=_vector_store)
     
-    # Auto-seed predefined knowledge base if collection is empty (e.g. freshly cloned or new production container)
+    # Auto-seed combined knowledge base if collection is empty (e.g. freshly cloned or new production container)
     try:
         if _vector_store.count_chunks() == 0:
-            print("Vector store is empty! Auto-seeding predefined MITS knowledge base...")
+            print("Vector store is empty! Auto-seeding combined MITS knowledge base...")
             from langchain_core.documents import Document
-            from app.knowledge_base_data import PREDEFINED_KNOWLEDGE_BASE
-            seed_docs = []
-            for fname, content in PREDEFINED_KNOWLEDGE_BASE.items():
-                seed_docs.append(
+            from pathlib import Path
+            import json
+
+            cache_file = Path(__file__).resolve().parent.parent / "knowledge_data" / "all_chunks_cache.json"
+            if cache_file.exists():
+                cached_data = json.loads(cache_file.read_text(encoding="utf-8"))
+                seed_chunks = [
+                    Document(page_content=item["content"], metadata=item.get("metadata", {}))
+                    for item in cached_data
+                ]
+                added = _vector_store.add_documents(seed_chunks)
+                print(f"Successfully auto-seeded {added} pre-chunked items from all_chunks_cache.json into vector store.")
+            else:
+                from app.knowledge_base_data import PREDEFINED_KNOWLEDGE_BASE
+                seed_docs = [
                     Document(
                         page_content=content,
                         metadata={
@@ -82,11 +93,12 @@ def init_services():
                             "source": str(fname)
                         }
                     )
-                )
-            if seed_docs:
-                chunks = _chunker.split_documents(seed_docs)
-                added = _vector_store.add_documents(chunks)
-                print(f"Successfully auto-seeded {added} chunks into production vector store.")
+                    for fname, content in PREDEFINED_KNOWLEDGE_BASE.items()
+                ]
+                if seed_docs:
+                    chunks = _chunker.split_documents(seed_docs)
+                    added = _vector_store.add_documents(chunks)
+                    print(f"Successfully auto-seeded {added} chunks into production vector store.")
     except Exception as e:
         print(f"Notice: Auto-seeding vector store skipped or error: {e}")
 
@@ -394,9 +406,12 @@ async def get_knowledge_domain_content(domain_id: str):
     raw_text = PREDEFINED_KNOWLEDGE_BASE.get(fname)
     
     if raw_text is None:
-        # Fallback to file system if present
-        data_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), "../../../data"))
-        fpath = os.path.join(data_dir, fname)
+        # Fallback to documents directory
+        root_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), "../../.."))
+        docs_dir = os.path.join(root_dir, "documents", "documents")
+        if not os.path.exists(docs_dir):
+            docs_dir = os.path.join(root_dir, "documents")
+        fpath = os.path.join(docs_dir, fname)
         if os.path.exists(fpath):
             try:
                 with open(fpath, "r", encoding="utf-8", errors="ignore") as f:

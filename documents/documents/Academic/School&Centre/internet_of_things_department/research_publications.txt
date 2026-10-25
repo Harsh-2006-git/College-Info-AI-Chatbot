@@ -1,0 +1,100 @@
+Department: Centre for Internet of Things (CIoT)
+Research Publications — Significant Publications SCI/UGC/SCOPUS
+
+--- JOURNAL PUBLICATIONS ---
+
+1. Abhishek Narwaria, and Arka Prokash Mazumdar, "SD-MoMa: ANN-Based Mobility Prediction and Adaptive Handover Management in SDWSN," Cluster Computing, Vol. 28, no. 6, pp. 1-15, 2025.
+
+2. S. Chatterjee, S. Ghosh, S. Chakrabarti and A. Mohapatra, "Data-Driven Bayesian Framework to Mitigate Smart Meter Asynchrony in Forecasting Aided Distribution System State Estimation," IEEE Transactions on Instrumentation and Measurement, Vol. 74, No. 1, PP. 1-12, June 2025. DOI: 10.1109/TIM.2025.3577850.
+
+3. Dasari Rohith, Praneet Saurabh & Dhananjay Bisen, "An integrated approach to apple leaf disease detection: leveraging convolutional neural networks for accurate diagnosis". Multimed Tools Appl (2025). https://doi.org/10.1007/s11042-025-20735-z. (Scopus, Q1).
+
+4. S. Bhattacharya, E. Koley, M. Manohar, & S. Ghosh. "Protection of AC, DC, and Hybrid Microgrids: State-of-the-Art Review, Challenges, and Scope". IETE Technical Review, 1–16. https://doi.org/10.1080/02564602.2025.2473574 (SCIE).
+
+5. Bansal, P., Singh, A. Solar PV integrated simplified multilevel inverter configuration for power quality improvement using multilayer Gamma filter. Electr Eng (2024). https://doi.org/10.1007/s00202-024-02654-8 (SCIE-Springer).
+
+6. Vivek Saxena, Saibal Manna, Saurabh Kumar Rajput, Praveen Kumar, Bhupender Sharma, Mohammed H. Alsharif, Mun-Kyeom Kim, Navigating the complexities of distributed generation: Integration, challenges, and solutions, Elsevier Energy Reports, Volume 12, 2024, Pages 3302-3322, ISSN 2352-4847 (SCIE Publication). https://doi.org/10.1016/j.egyr.2024.09.017
+
+7. Vivek Saxena & Saurabh Kumar Rajput (2024). Solar Power and Demand Response for Greening Indian Lignite Power Plants: A CO2 Reduction Initiative. Acta Scientiarum. Technology, 46(1), e69511 (SCIE Publication).
+
+8. Aditya Dubey et al. (2024). Identifying lung cancer: A review on classification and detection. Traitement du Signal, Vol. 41, No. 4, pp. 2023-2034. https://doi.org/10.18280/ts.410431.
+
+9. Praveen Bansal & Alka Singh (2024) Control of DSTATCOM with Parallel Tangent Method Based Adaptive Control Algorithm under Distorted Grid Conditions, Electric Power Components and Systems. DOI: 10.1080/15325008.2024.2314208 (SCI Journal).
+
+10. Praveen Bansal, Shishir Dixit, Saket Gupta, Majed A. Alotaibi, Hasmat Malik, Fausto Pedro García Márquez, A robust modified notch filter based SOGI-PLL approach to control multilevel inverter under distorted grid, Ain Shams Engineering Journal, Volume 15, Issue 5, 2024, 102675, ISSN 2090-4479. https://doi.org/10.1016/j.asej.2024.102675. (SCI Journal).
+
+11. Dr. Murli Manohar, "An intelligent protection scheme for DC microgrid using Hilbert–Huang transform with robustness against PV intermittency and DER outage" published in Electrical Engineering, Springer (SCI Journal). https://doi.org/10.1007/s00202-024-02332-9.
+
+12. Aditya Dubey et al., Usage of Statistical Techniques to Monitor the Performance of Wind Turbines. IAJIT, 2024, 21(2), pp. 338–349. doi: 10.34028/iajit/21/2/15. (SCIE Publication).
+
+13. Kaushal Pratap Sengar, Kandasamy Chandrasekaran, "Transient analysis of earthing electrodes considering soil ionization phenomenon under lightning impulse condition." Electrical Engineering (2023). https://doi.org/10.1007/s00202-023-02111-y Electronic ISSN: 1432-0487, (SCI Indexed) Springer-Verlag GmbH Germany.
+
+14. Kaushal Pratap Sengar, Kandasamy Chandrasekaran, "Analysis of grounding system transient with consideration of soil ionization and mutual coupling effect." Springer's Journal of Electrical Systems and Information Technology 10, 53 (2023). https://doi.org/10.1186/s43067-023-00120-2.
+
+15. Subrat Tripathi, Kaushal Pratap Sengar, Praveen Bansal, "Development and Analysis of IoT-Based Smart Healthcare Monitoring System" 1st International Conference on Emerging Technologies and Applications (ETAEE-2023, 21-22nd December 2023), NIT Raipur, C.G (In Print- CRC Press, Taylor & Francis Group).
+
+16. Varshali Jaiswal, Preetam Suman, Dhananjay Bisen, An improved ensembling techniques for prediction of breast cancer tissues. Multimedia Tools and Application (2023). https://doi.org/10.1007/s11042-023-16949-8.
+
+17. Varshali Jaiswal, Varsha Sharma, Dhananjay Bisen, Modified Deep-Convolution Neural Network Model for Flower Images Segmentation and Predictions, Multimedia Tools and Applications. https://doi.org/10.1007/s11042-023-16530-3.
+
+18. Dr. Nookala Venu, et al. "Deep Learning Neural Networks for The Identification of Arousals Related To Respiratory Events Using Polysomnographic EEG Signals" (Accepted for Publication), Journal of Intelligent & Fuzzy Systems, E-ISSN: 1875-8967, (SCI/Scopus/WoS Indexed), Publisher: IOS Press.
+
+19. Dr. Nookala Venu, et al. "Optimization of the process of identifying sleep-disordered breathing based on CNN and LSTM recurrent neural networks using PSG EEG signals" (Accepted for Publication), Journal of Intelligent & Fuzzy Systems, E-ISSN: 1875-8967, (SCI/Scopus/WoS Indexed), Publisher: IOS Press.
+
+20. A. Singh, S. K. Rajput and A. Gantayet, "Grid Connected Rooftop PV Plant Economic Analysis Using Present Time Frame Methodology," 2023 International Conference in Advances in Power, Signal, and Information Technology (APSIT), Bhubaneswar, India, 2023, pp. 800-805. doi: 10.1109/APSIT58554.2023.10201656.
+
+21. Shishir Dixit, Pushpendra Singh, Jyotsna Ogale, Praveen Bansal, Yashwant Sawle, Energy Management in Microgrids with Renewable Energy Sources and Demand Response, Computers and Electrical Engineering, Volume 110, 2023, 108848, ISSN 0045-7906 (SCI).
+
+--- CONFERENCE PUBLICATIONS ---
+
+22. Mishra, R. K., Rajput, S. K., Mishra, V., & Pandit, M. (2025). Impact of elevated PV module temperature on transformer loading and life for grid connected PV-based EV charging system. International Journal of Ambient Energy, 46(1). https://doi.org/10.1080/01430750.2025.2507132 (SCOPUS Journal).
+
+23. A. Lodhi and P. Bansal, "Experimental Realization of Single Phase 5-Level Switched Symmetrical Multilevel Inverter using OPAL-RT," in Proc. 2025 10th IEEE Int. Students' Conf. Electr., Electron. Comput. Sci. (SCEECS), Bhopal, India, 2025, pp. 1–6, doi: 10.1109/SCEECS64059.2025.10940926.
+
+24. A. Lodhi and P. Bansal, "Synthesis of PEMFC with RDC Multilevel Inverters by Real-Time Testing using OPAL-RT," in Proc. 2025 3rd Int. Conf. Power Eng. Intell. Syst. (PEIS), Uttarakhand, India, 2025. [Certificate Received].
+
+25. A. Lodhi and P. Bansal, "Real Time IoT-Powered Air Standard Smart Monitoring," in Proc. 2025 3rd Int. Conf. Artif. Intell. Sustain. Innov. (ICAISI), India, 2025. [Certificate Received].
+
+26. S. Alam, Aditya Dubey and D. Bisen, "An Ensemble-Based Framework for Enhanced Missing Data Imputation," 2025 IEEE 14th International Conference on Communication Systems and Network Technologies, 2025, pp. 647-651.
+
+27. Kaushal Pratap Sengar, K. Chandrasekaran "Modeling the Effect of Soil Ionization on Grounding System Dynamics during Transient Events" in 2nd International Conference on Advancements in Power, Communication, and Intelligent Systems (APCI 2025), held on 27–28 June 2025 at GCE, Kannur, Kerala, India.
+
+28. Mausam Yadav, Kaushal Pratap Sengar "Transient Analysis of Wind Turbine Grounding Electrodes Considering Soil Ionization Phenomenon". In 3rd International Conference on "Power Engineering and Intelligence System (PEIS 2025)" held at NIT Uttarakhand, India during March 08-09, 2025. (Scopus).
+
+29. Dr. Aditya Dubey presented paper titled "Challenges and Opportunities in Digital Image Watermarking" in International Conference on Pioneering Developments in Computer Science & Digital Technologies (IC²SDT 2024) technically sponsored by IEEE and organized by Department of CSE at NIT Delhi on 02/08/2024.
+
+30. Yadav, K. Gupta and S. K. Rajput, "Optimizing Power Grid Operations with IoT-Based Distribution Transformer Monitoring System," 2024 IEEE International Students' Conference on Electrical, Electronics and Computer Science (SCEECS), Bhopal, India, 24-25 Feb, 2024, pp. 1-6, doi: 10.1109/SCEECS61402.2024.10481946.
+
+31. Kumar, S. Chandravanshi, M. Pandit, N. Paliwal and S. K. Rajput, "Efficiency of dye-sensitized solar cells is impacted by the incorporation of a light-scattering layer," 2024 IEEE SCEECS, Bhopal, India, 24-25 Feb, 2024, pp. 1-5, doi: 10.1109/SCEECS61402.2024.10482106.
+
+32. Kulshreshtha, S. K. Rajput, N. Paliwal and M. Pandit, "Machine Learning based Prediction of Rooftop PV Power Generation in Composite Climate Condition," International Conference on Sustainable Power and Energy Research, NIT Warangal (01-03 March, 2024).
+
+33. Sagwal, S.N. Singh, J. Ramkumar, S. K. Rajput, "Comparative study of data-driven short term forecasting techniques in electricity price prediction", International Conference on Green Energy and Sustainable Technology (ICGEST-2023), NIT Kurukshetra.
+
+34. K. Mishra, S. K. Rajput, V. Mishra, R. Dev, "Impact of Elevated PV Module Temperature on Grid Overloading in Rooftop Photovoltaic Powered EV Battery Charging Systems", International Conference on Advancement in Energy (Urja Sangam), MNNIT Allahabad Prayagraj (18-20 Dec, 2023).
+
+35. Nikita Yadav, Rahul Sharma, Yashwant Sawle, Economic Analysis of Renewable Energy Systems for Rural Electrification, Renewable Power for Sustainable Growth. Proceedings of ICRP 2023. https://doi.org/10.1007/978-981-99-6749-0_55.
+
+36. R. Sharma, Y. Sawle et al., Assessing the feasibility and optimizing capacity for solar-wind hybrid renewable energy systems for remote area, 2023 Innovations in Power and Advanced Computing Technologies (i-PACT), University of Malaya and VIT Vellore.
+
+37. R. Sharma, Y. Sawle et al., Towards Energy Independence: Optimizing PV/Diesel/Wind Hybrid Systems with HOMER, International Conference on Computational Intelligence and Smart Technologies in Electrical Engineering, NIT Durgapur, December 16-17, 2023.
+
+38. Solanki, P. Singh, M. Pandit, Y. Sawle, Optimal sizing of off-grid hybrid renewable energy system for different batteries using HOMER-Pro, SIGMAA 2023, 14-15 December 2023.
+
+39. N. Mittal, B. Rathore, Y. Sawle et al., Approach for Automatic Irrigation with Farm Security Using Arduino, SIGMAA 2023, 14-15 December 2023.
+
+40. Dr. Nookala Venu, et al. "Analysis of Visual Expression of Light and Color in Movies Based on Wavelet Neural Network," 2nd International Conference (Virtual) on Smart Technologies for Smart Nation (SmartTechCon 2023), Amity Global Institute, Singapore, 18-19 October 2023, (Scopus), Publisher: IEEE.
+
+41. Dr. Nookala Venu, et al. "Analysis of Visual Communication Effect of Color In Print Advertising Design Based on Decision Tree Classification Algorithm," 2nd International Conference (Virtual) on Smart Technologies for Smart Nation (SmartTechCon 2023), Amity Global Institute, Singapore, 18-19 October 2023, (Scopus), Publisher: IEEE.
+
+--- BOOK CHAPTERS / BOOKS ---
+
+42. Saurabh Kumar Rajput, Mukta Singh, Dharmendra Dheer (2025), Power quality analysis of Rooftop grid connected PV in composite climate: A Case Study, Chapter-13, in Book: Photovoltaic Modules: Fundamentals, Modelling, Performance Analysis and Control, Taylor & Francis, CRC Press. https://books.google.co.in/books?id=125rEQAAQBAJ&lpg=PA333&lr=lang_en&pg=PA333
+
+43. Dr. Manjaree Pandit, Dr. Nikhil Paliwal, Dr. Saurabh Kumar Rajput and Dr. Trilok Pratap Singh, Edited Book "Smart Engineering Technology and Management (Proceeding of ISCMCTR-2023)". https://scholar.google.co.in/citations?view_op=view_citation&hl=en&user=qiGJc6MAAAAJ&sortby=pubdate&citation_for_view=qiGJc6MAAAAJ:Fu2w8maKXqMC
+
+44. Dr. Nookala Venu, et al. "Fundamentals of Artificial Intelligence: for beginners," ISBN No. 978-93-5757-724-3, Publisher: Scientific International Publishing House (SIPH), October, 2023.
+
+45. Dr. Nookala Venu, et al. "Fundamental of Machine Learning: for beginners," ISBN No. 978-93-5757-918-6, Publisher: Scientific International Publishing House (SIPH), October, 2023.
+
+46. Dr. Nookala Venu, et al. "Fundamental of Internet of Things," ISBN No. 978-93-5757-801-1, Publisher: Scientific International Publishing House (SIPH), October, 2023.

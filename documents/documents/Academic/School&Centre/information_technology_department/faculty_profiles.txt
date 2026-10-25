@@ -1,0 +1,111 @@
+Faculty Profiles — Department of Information Technology (IT)
+=============================================================
+
+1. Dr. Akhilesh Tiwari
+   - Designation: Professor & Head of Department (IT)
+   - Qualification: B.E., M.Tech. (Hons) (IT), Ph.D.
+   - Area of Interest: Data Mining, Terrorist Network Mining, Pattern Warehousing
+   - Phone Number: 9407204907
+   - E-Mail: atiwari@mitsgwalior.in
+   - Profile Link: https://web.mitsgwalior.in/faculty-profiles-it-2/dr-akhilesh-tiwari12
+
+2. Dr. Sanjiv Sharma
+   - Designation: Associate Professor
+   - Qualification: B.E. (IT), M.Tech. (IT), Ph.D.
+   - Area of Interest: Data Mining & Analytics, Social Network Analysis
+   - Phone Number: 9407243740
+   - E-Mail: dr.sanjiv@mitsgwalior.in
+   - Profile Link: https://web.mitsgwalior.in/faculty-profiles-it-2/dr-sanjiv-sharma
+
+3. Dr. Punit Kumar Johari
+   - Designation: Associate Professor & Dean
+   - Qualification: B.Tech., M.Tech. (IT), Ph.D. (IT)
+   - Area of Interest: Computer Vision, Deep Learning, Machine Learning, Data Mining
+   - Phone Number: 0751-2409399
+   - E-Mail: pkjohari@mitsgwalior.in
+   - Profile Link: https://web.mitsgwalior.in/faculty-profiles-it-2/punit-kumar-johari
+
+4. Dr. Abhilash Sonker
+   - Designation: Associate Professor
+   - Qualification: Ph.D. (IT)
+   - Area of Interest: Computer Networks, Information Security, Machine Learning
+   - E-Mail: abhilashsonkerit@mitsgwalior.in
+   - Profile Link: https://web.mitsgwalior.in/faculty-profiles-it-2/abhilash-sonker
+
+5. Prof. Vikas Sejwar
+   - Designation: Assistant Professor
+   - Qualification: M.Tech.
+   - Area of Interest: Computer Networks
+   - Phone Number: 8770294756
+   - E-Mail: vikassejwar@mitsgwalior.in
+   - Profile Link: https://web.mitsgwalior.in/faculty-profiles-it-2/vikas-sejwar
+
+6. Prof. Neha Bhardwaj
+   - Designation: Assistant Professor
+   - Qualification: Ph.D. (Pursuing, IIITM Gwalior), M.E. (IET, DAVV Indore)
+   - Area of Interest: Computer Networks, Information Security, Reliability Engineering
+   - Phone Number: 9926663664
+   - E-Mail: nehabhardwaj@mitsgwalior.in
+   - Profile Link: https://web.mitsgwalior.in/faculty-profiles-it-2/neha-bhardwaj
+
+7. Dr. R.K. Singh (Rajeev Kumar Singh)
+   - Designation: Assistant Professor
+   - Qualification: Ph.D. (Computer Science & Engineering)
+   - Area of Interest: Software Engineering, Image Processing
+   - E-Mail: rajeevkumar@mitsgwalior.in
+   - Profile Link: https://web.mitsgwalior.in/faculty-profiles-it-2/rajeev-k-singh
+
+8. Dr. Vikram Rajpoot
+   - Designation: Assistant Professor
+   - Qualification: Ph.D. (IT)
+   - Area of Interest: Data Mining, Machine Learning
+   - Phone Number: 9098686144
+   - E-Mail: vikramraj@mitsgwalior.in
+   - Profile Link: https://web.mitsgwalior.in/faculty-profiles-it-2/dr-vikram-rajpoot
+
+9. Dr. Gulshan Soni
+   - Designation: Assistant Professor
+   - Qualification: Ph.D. (CSE, Pondicherry University), M.E. (CSE, NITTTR Chandigarh), B.Tech. (IT, NIT Raipur), UGC-NET Qualified (Dec 2024)
+   - Area of Interest: Wireless Body Area Networks (WBANs), IoT, Blockchain Technology
+   - Phone Number: 7587416809
+   - E-Mail: gulshansoni@mitsgwalior.in
+   - Profile Link: https://web.mitsgwalior.in/faculty-profiles-it-2/dr-gulshan-soni
+
+10. Prof. Aradhana Saxena
+    - Designation: Assistant Professor
+    - Qualification: Ph.D. (CSE, Specialization in NLP - NIT Tiruchirappalli), M.Tech. (CSE, Specialization in Information Security - ABV-IIITM Gwalior), B.E. (CSE - MITS Gwalior), GATE Qualified (2007, 2008, 2012, 2020)
+    - Area of Interest: Natural Language Processing
+    - E-Mail: aradhana@mitsgwalior.in
+    - Profile Link: https://web.mitsgwalior.in/faculty-profiles-it-2/prof-aradhana-saxena
+
+11. Prof. Surbhi Gupta
+    - Designation: Assistant Professor
+    - Qualification: B.E., M.E. (Hons) (IT)
+    - Area of Interest: Cloud Computing, Networking
+    - Phone Number: 8962317450
+    - E-Mail: surbhigupta968@mitsgwalior.in
+    - Profile Link: https://web.mitsgwalior.in/faculty-profiles-it-2/surbhi-gupta
+
+12. Prof. Shubham Sharma
+    - Designation: Assistant Professor
+    - Qualification: M.Tech., Ph.D. (Pursuing)
+    - Area of Interest: Internet of Things (IoT), Machine Learning, Deep Learning
+    - Phone Number: 9479809326
+    - E-Mail: shubham6618@mitsgwalior.in
+    - Profile Link: https://web.mitsgwalior.in/faculty-profiles-it-2/shubham-sharma
+
+13. Prof. Kumud Dixit
+    - Designation: Assistant Professor
+    - Qualification: B.E., M.E. (CSE)
+    - Area of Interest: Networking, Data Mining
+    - Phone Number: 8827524841
+    - E-Mail: kumuddixit20@mitsgwalior.in
+    - Profile Link: https://web.mitsgwalior.in/faculty-profiles-it-2/ms-kumud-dixit
+
+14. Prof. Tanuja Sharma
+    - Designation: Assistant Professor
+    - Qualification: M.Tech.
+    - Area of Interest: Data Structure, Cryptography, Artificial Intelligence
+    - Phone Number: 7000030248
+    - E-Mail: Sharma.tanuja015@mitsgwalior.in
+    - Profile Link: https://web.mitsgwalior.in/faculty-profiles-it-2/tanuja-sharma

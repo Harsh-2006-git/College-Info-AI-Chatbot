@@ -1,0 +1,102 @@
+Faculty Profiles — Department of Electronics and Telecommunication Engineering
+=============================================================================
+
+1. Dr. P. K. Singhal
+   - Designation: Professor (Mentor Professor, School of Electronics)
+   - Qualification: Ph.D.
+   - Area of Interest: Microwave Engineering, Antenna & Wave Propagation
+   - Phone Number: 9425341555
+   - E-Mail: pks_65@mitsgwalior.in
+   - Profile Link: https://web.mitsgwalior.in/faculty-profiles-elte/dr-p-k-singhal-2
+
+2. Dr. Vandana Vikas Thakare
+   - Designation: Professor and Dean
+   - Qualification: Ph.D.
+   - Area of Interest: Microwave Engineering, Antenna and Neural Networks
+   - Phone Number: 0751-2409355
+   - E-Mail: vandana@mitsgwalior.in
+   - Profile Link: https://web.mitsgwalior.in/faculty-profiles-elte/dr-vandana-vikas-thakare-2
+
+3. Dr. Karuna Markam
+   - Designation: Associate Professor
+   - Qualification: Ph.D.
+   - Area of Interest: Communication Engineering & Signal Processing, Digital Communication
+   - E-Mail: karuna_markam@mitsgwalior.in
+   - Profile Link: https://web.mitsgwalior.in/faculty-profiles-elte/dr-karuna-markam-2
+
+4. Prof. Pooja Sahoo
+   - Designation: Assistant Professor
+   - Qualification: Master in Engineering (M.E.), Ph.D. (Pursuing)
+   - Area of Interest: Electronics Engineering, Antenna Design
+   - E-Mail: sahu.pooja2009@mitsgwalior.in
+   - Profile Link: https://web.mitsgwalior.in/faculty-profiles-elte/prof-pooja-sahoo-2
+
+5. Prof. D K Parsediya
+   - Designation: Assistant Professor
+   - Qualification: Master of Technology (M.Tech.), Ph.D. (Pursuing)
+   - Area of Interest: Mechatronics, Antenna Theory & Design
+   - Phone Number: +91-8989474070
+   - E-Mail: parsediyadeep@mitsgwalior.in
+   - Profile Link: https://web.mitsgwalior.in/faculty-profiles-elte/dr-d-k-parsedia
+
+6. Dr. Rahul Dubey
+   - Designation: Assistant Professor
+   - Qualification: Ph.D., M.Tech., B.E.
+   - Area of Interest: Signal Processing, Machine Learning, Data Science
+   - Phone Number: +91-9165577117
+   - E-Mail: rahul@mitsgwalior.in
+   - Profile Link: https://web.mitsgwalior.in/faculty-profiles-elte/dr-rahul-dubey-2
+
+7. Dr. Deepak Batham
+   - Designation: Assistant Professor
+   - Qualification: Ph.D.
+   - Area of Interest: Optical Communication and Networking, Control Systems
+   - Phone Number: 9755395903
+   - E-Mail: dbatham@mitsgwalior.in
+   - Profile Link: https://web.mitsgwalior.in/faculty-profiles-elte/dr-deepak-batham-2
+
+8. Dr. Varun Sharma
+   - Designation: Assistant Professor
+   - Qualification: Ph.D., M.Tech., B.E.
+   - Area of Interest: Nano-electronics, VLSI Design
+   - E-Mail: varuns@mitsgwalior.in
+   - Profile Link: https://web.mitsgwalior.in/faculty-profiles-elte/dr-varun-sharma-2
+
+9. Dr. Shubhi Kansal
+   - Designation: Assistant Professor
+   - Qualification: Ph.D.
+   - Area of Interest: Image Processing, Biomedical Signal Processing, Machine Learning
+   - Phone Number: 7827822996
+   - E-Mail: shubhik@mitsgwalior.in
+   - Profile Link: https://web.mitsgwalior.in/faculty-profiles-elte/dr-shubhi-kansal-2
+
+10. Dr. Nidhi Saxena
+    - Designation: Assistant Professor
+    - Qualification: Ph.D. (MNIT Jaipur), Post-Doctoral Fellow (IIT Roorkee)
+    - Area of Interest: Image Processing, Signal Processing, Neural Networks, Satellite Image Processing, Robotics, Quantum Computing
+    - E-Mail: nidhisaxena@mitsgwalior.in
+    - Profile Link: https://web.mitsgwalior.in/faculty-profiles-elte/dr-nidhi-saxena
+
+11. Dr. Himanshu Singh
+    - Designation: Assistant Professor
+    - Qualification: Ph.D. (Gold Medalist) (IIITDM Jabalpur), M.Tech. (IIITDM Jabalpur), B.E. (Hons.) (MITS Gwalior)
+    - Area of Interest: Image Processing and Computer Vision Applications, Digital Signal Processing, Machine Learning & Deep Learning, Biomedical Signal Processing, Evolutionary Techniques
+    - Phone Number: 9424072768
+    - E-Mail: himanshu@mitsgwalior.in
+    - Profile Link: https://web.mitsgwalior.in/faculty-profiles-elte/dr-himanshu-singh
+
+12. Dr. Yogesh Kumar
+    - Designation: Assistant Professor
+    - Qualification: M.Tech., Ph.D. (IIT-BHU, Varanasi)
+    - Area of Interest: Fabrication of Semiconductor devices for photodetection, Biosensing, Gas sensors, Solar cells, VLSI Design
+    - Phone Number: 8574742959
+    - E-Mail: yogeshkumar@mitsgwalior.in
+    - Profile Link: https://web.mitsgwalior.in/faculty-profiles-elte/dr-yogesh-kumar
+
+13. Dr. Rajkumar Jatav
+    - Designation: Assistant Professor
+    - Qualification: Ph.D. (IIT-BHU Varanasi), M.E. (Hons.) (SGSITS Indore), B.E.
+    - Area of Interest: RF & Microwave Engineering
+    - Phone Number: +91-8109692824
+    - E-Mail: rajkumar@mitsgwalior.in
+    - Profile Link: https://web.mitsgwalior.in/faculty-profiles-elte/dr-rajkumar-jatav

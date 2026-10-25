@@ -1,0 +1,16 @@
+Department: School of Applied Mathematics
+Madhav Institute of Technology & Science (MITS), Gwalior
+
+Department Vision:
+To be a school of excellence in Applied Mathematics by imparting high-quality mathematical education, fostering analytical and critical thinking, promoting interdisciplinary research, and developing innovative solutions to engineering, scientific, and societal challenges.
+
+Department Mission:
+- Impart quality education in applied mathematics with emphasis on engineering applications and computational techniques.
+- Foster analytical and critical thinking, innovation, and interdisciplinary research to solve complex engineering problems.
+- Develop mathematical modelling, analytical reasoning, and computational skills through modern tools and experiential learning.
+- Encourage professional ethics, lifelong learning, entrepreneurship, and collaboration with industry and research organizations.
+
+About the Department:
+The School of Applied Mathematics is dedicated to providing a strong foundation in mathematical sciences and their practical applications across engineering, technology, science, and interdisciplinary domains. The School offers high-quality education in core areas such as calculus, linear algebra, differential equations, probability, statistics, numerical methods, optimization, and computational mathematics. With a focus on analytical thinking, mathematical modeling, and problem-solving, the School prepares students to address complex real-world challenges. 
+
+Faculty members actively engage in teaching, research, and consultancy in emerging areas, fostering innovation and interdisciplinary collaboration. Through a blend of academic excellence and research-driven learning, the School of Applied Mathematics plays a vital role in supporting the academic and research activities of the Institute while equipping students with the quantitative skills required for higher studies, research, and professional careers.

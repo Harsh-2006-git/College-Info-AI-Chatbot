@@ -1,0 +1,22 @@
+Research Areas — Department of Information Technology (IT)
+============================================================
+
+1. Artificial Intelligence, Data Science, Machine Learning, Deep Learning, Optimization Algorithms
+   - Specific Domains: Imbalanced Learning, Image Processing using AI Techniques, Statistical Data Analysis and Visualization, Real-Time Data Analysis and Predictions, Feature Engineering, Exploratory Data Analysis
+   - Faculty Names: Dr. Saumil Maheshwari, Dr. Vikram Rajpoot
+
+2. Data Mining, Social Networks, Big Data
+   - Specific Domains: Terrorist Network Mining, Data Mining and Analytics, Social Network Analysis, Hesitation Mining, Speech Recognition
+   - Faculty Names: Dr. Sanjiv Sharma, Dr. Punit Kumar Johari, Dr. Saumil Maheshwari, Dr. Abhishek Dixit, Dr. Vikram Rajpoot
+
+3. Computer Vision, Image Processing, Biometrics
+   - Specific Domains: Applications of Digital Image Processing, Signal Processing, Neural Networks, Satellite Image Processing, Medical Image Processing, Remote Sensing / Drone Image Processing
+   - Faculty Names: Dr. Punit Kumar Johari, Mr. Rajeev Kumar Singh, Dr. Nidhi Saxena
+
+4. Computer Networks, Information Security, Ad-hoc Networks, Wireless Sensor Networks, Mobile Computing
+   - Specific Domains: Analysis and Evaluation of Wired Networks, Analysis and Evaluation of Wireless Networks & 5G networks, Malicious activity detection and prevention in networks, Security in Ad-Hoc Networks
+   - Faculty Names: Mr. Vikas Sejwar, Dr. Abhilash Sonker, Ms. Neha Bhardwaj
+
+5. AI and Robotics
+   - Specific Domains: Human-Robot interactions, Autonomous and connected smart vehicles, Robotics Motion Planning, Robot Perception and Manipulation
+   - Faculty Names: Dr. Nidhi Saxena

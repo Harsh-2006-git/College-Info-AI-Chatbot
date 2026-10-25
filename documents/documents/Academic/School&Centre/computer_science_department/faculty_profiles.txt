@@ -1,0 +1,118 @@
+### Dr. Manish Dixit
+Profile URL: https://web.mitsgwalior.in/faculty-profiles-cse-2/dr-manish-dixit-2
+Designation: Professor & Dean, School of CSE
+Qualification: Ph.D.
+Area of Interest: Image Processing, Artificial Intelligence
+Phone No: 0751-2409356
+E-Mail: dixitmits@mitsgwalior.in
+
+### Dr. R. K. Gupta
+Profile URL: https://web.mitsgwalior.in/faculty-profiles-cse-2/dr-r-k-gupta-2
+Designation: Professor
+Qualification: Ph.D.
+Area of Interest: Data Mining
+E-Mail: rkg@mitsgwalior.in
+
+### Dr. Khushboo Agarwal
+Profile URL: https://web.mitsgwalior.in/faculty-profiles-cse-2/khushboo-agarwal3
+Designation: Assistant Professor & Head CSE
+Qualification: Ph.D. (Computer Science and Engineering)
+Area of Interest: Image Processing, Wireless Network
+Phone No: Not Available
+E-Mail: ka.agarwals@mitsgwalior.in
+
+### Prof. Jaimala Jha
+Profile URL: https://web.mitsgwalior.in/faculty-profiles-cse-2/jaimala-jha-2
+Designation: Assistant Professor
+Qualification: M.Tech.
+Area of Interest: Image Processing
+Phone No: 9907313413
+E-Mail: jaimala.jha@mitsgwalior.in
+
+### Prof. Amit Kumar Manjhvar
+Profile URL: https://web.mitsgwalior.in/faculty-profiles-cse-2/amit-kumar-manjhvar
+Designation: Assistant Professor
+Qualification: M.Tech.
+Area of Interest: Data Mining/Machine Learning
+Phone No: 7987704987
+E-Mail: amitkumar@mitsgwalior.in
+
+### Dr. Ranjeet Kumar Singh
+Profile URL: https://web.mitsgwalior.in/faculty-profiles-cse-2/dr-ranjeet-kumar-singh-2
+Designation: Assistant Professor
+Qualification: Ph.D. (National Institute of Technology, Jamshedpur), GATE Qualified
+Area of Interest: Image Watermarking, Image Processing
+Phone No: 6201037963
+E-Mail: ranjeets@mitsgwalior.in
+
+### Dr. Smita Parte
+Profile URL: https://web.mitsgwalior.in/faculty-profiles-cse-2/smita-parte-2
+Designation: Assistant Professor
+Qualification: Ph.D. (IET DAVV, Indore, MP), M.E. (SGSITS, Indore, MP), B.E. (SGSITS, Indore, MP), GATE and UGC NET-JRF Qualified
+Area of Interest: Information Security, Artificial Intelligence
+Phone No: 9907525480
+E-Mail: smita@mitsgwalior.in
+
+### Dr. Praphula Kumar Jain
+Profile URL: https://web.mitsgwalior.in/faculty-profiles-cse-2/dr-praphula-kumar-jain
+Designation: Assistant Professor
+Qualification: Ph.D. [IIT (ISM), Dhanbad], M.Tech. [IIT (ISM), Dhanbad], & B.E. [RGPV Bhopal], GATE Qualified 2011, 2012, 2013, 2015, 2018, 2019
+Area of Interest: Machine Learning, Deep Learning, Natural Language Processing, Data Science, Theory of Computation
+Phone No: +91-9752450951
+E-Mail: praphulajain@mitsgwalior.in, praphulajn1@gmail.com
+
+### Dr. Kirti Raj Bhatele
+Profile URL: https://web.mitsgwalior.in/faculty-profiles-cse-2/dr-kirti-raj-bhatele
+Designation: Assistant Professor
+Qualification: B.E., M.Tech. (Hons) (IT), PGDCL, Ph.D (IT)
+Area of Interest: Medical Imaging and AI, Deep Transfer Learning
+Phone No: +91 8823872288
+E-Mail: kirtiraj@mitsgwalior.in
+
+### Dr. Saurabh Agarwal
+Profile URL: https://web.mitsgwalior.in/faculty-profiles-cse-2/dr-saurabh-agarwal
+Designation: Assistant Professor
+Qualification: Ph.D (ABV-IIITM, Gwl), UGC-NET, GATE
+Area of Interest: Medical Imaging, Computer Vision, Deep Learning, AI/ML
+Phone No: 8109964724
+E-Mail: saurabhagarwal@mitsgwalior.in
+
+### Dr. Pooja Mishra
+Profile URL: https://web.mitsgwalior.in/faculty-profiles-cse-2/pooja-mishra
+Designation: Assistant Professor
+Qualification: B.E. (Hons), M.Tech. (Hons), Ph.D (CSE), ABV-IIITM Gwalior (MP), GATE-Qualified (2014, 2017)
+Area of Interest: Software Defined Wireless Sensor Network (SDWSN), Internet of Things (IoT), Network Optimization, Soft Computing techniques
+Phone No: 8959613395
+E-Mail: poojamishra@mitsgwalior.in
+
+### Dr. Lalita Agrawal
+Profile URL: https://web.mitsgwalior.in/faculty-profiles-cse-2/lalita-agrawal
+Designation: Assistant Professor
+Qualification: Ph.D (IIT Indore), M.Tech (MANIT Bhopal), GATE-Qualified
+Area of Interest: Internet of Things (IoT), Software-Defined Networks (SDNs), Edge Computing, Beyond 5G and 6G Networks, Formal Methods (Discrete Event Systems), Game-Theoretic Applications
+Phone No: 9479809326
+E-Mail: lalita@mitsgwalior.in
+
+### Prof. Mona Pandey Sharma
+Profile URL: https://web.mitsgwalior.in/faculty-profiles-cse-2/mona-pandey-sharma
+Designation: Assistant Professor
+Qualification: M.Tech.(H), Ph.D Pursuing
+Area of Interest: Machine Learning, Ensemble Learning
+Phone No: 9340999410
+E-Mail: monap2508@mitsgwalior.in
+
+### Prof. Manisha Pathak
+Profile URL: https://web.mitsgwalior.in/faculty-profiles-cse-2/manisha-pathak
+Designation: Assistant Professor
+Qualification: M.Tech.
+Area of Interest: Machine Learning, Data Base Management System, Artificial Intelligence
+Phone No: 9691206039
+E-Mail: manisha.pits1995@mitsgwalior.in
+
+### Prof. Yamini Richhariya
+Profile URL: https://web.mitsgwalior.in/faculty-profiles-cse-2/yamini-richhariya
+Designation: Assistant Professor
+Qualification: M.Tech
+Area of Interest: Data mining
+Phone No: 9754656068
+E-Mail: yaminirichhariya@mitsgwalior.in

@@ -1,0 +1,38 @@
+Department: Chemical Engineering Department
+Laboratories
+
+1. Chemical Reaction Engineering Lab
+Major Equipment: Plug Flow Reactor (Straight Tube Type), Continuous Stirred Tank Reactor (C.S.T.R.), Emulsion Polymerization Reactor, Isothermal Batch Reactor.
+View More Details: https://web.mitsgwalior.in/images/Departments/chemical_engineering/Laboratories/CRE1.pdf
+
+2. Mass Transfer Lab
+Major Equipment: Wetted Wall Column, Solid Liquid Extraction (Packed Bed Type), Distillation Column-I, Distillation Column-II, Liquid-Liquid Extraction (Plane) with Compressor, Liquid-Liquid Extraction (Packed Bed Column), Adsorption Apparatus.
+View More Details: https://web.mitsgwalior.in/images/Departments/chemical_engineering/Laboratories/MT.pdf
+
+3. Heat Transfer Lab
+Major Equipment: Stefan-Boltzmann Apparatus, Thermal Conductivity of Metal Rod Apparatus, Emissivity Measuring Apparatus, Single Effect Evaporator, Double Pipe Heat Exchanger, Shell & Tube Heat Exchanger.
+View More Details: https://web.mitsgwalior.in/images/Departments/chemical_engineering/Laboratories/HT.pdf
+
+4. Fluid Particle Mechanics Lab
+Major Equipment: Plate & Frame Filter Press, Thickener, Ball Mill, Hammer Mill, Jaw Crusher, Sieve Shaker, Sedimentation Studies Apparatus.
+View More Details: https://web.mitsgwalior.in/images/Departments/chemical_engineering/Laboratories/FPM.pdf
+
+5. Fluid Mechanics Lab
+Major Equipment: Venturimeter, Orificemeter, Rotameter Test Rig, Notches & Weirs Set up, Losses in Pipe Fittings, Pressure Drop through Packed Bed.
+View More Details: https://web.mitsgwalior.in/images/Departments/chemical_engineering/Laboratories/FM.pdf
+
+6. Process Control Lab
+Major Equipment: Interacting & Non-Interacting Tank System, Characteristics of PID Controller, Level Control Trainer, Flow Control Trainer.
+View More Details: https://web.mitsgwalior.in/images/Departments/chemical_engineering/Laboratories/PC.pdf
+
+7. Computer Lab
+Labs Conducted: Computational Methods in Chemical Engineering Lab, Process Modeling & Simulation Lab, Process Computation Lab.
+View More Details: https://web.mitsgwalior.in/images/Departments/chemical_engineering/Laboratories/Computer%20lab.pdf
+
+8. Chemical Synthesis Lab
+Experiments Conducted: Manufacture of Phenol Formaldehyde Resin, Making of Urea Formaldehyde Resin, Testing Water quality parameters (Hardness, Acidity, Alkalinity, Total Dissolved Solids, Total Suspended Solids), Iodine Number of Edible Oils.
+View More Details: https://web.mitsgwalior.in/images/Departments/chemical_engineering/Laboratories/CS.pdf
+
+9. Chemical Process Calculations Lab
+Experiments Conducted: Proximate Analysis of Coal, Redwood Viscometer, Dühring's Plot, Crystallization of Copper Sulphate.
+View More Details: https://web.mitsgwalior.in/images/Departments/chemical_engineering/Laboratories/CPC.pdf

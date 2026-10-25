@@ -1,0 +1,177 @@
+Software Development Club (SDC) — Madhav Institute of Technology & Science (MITS), Gwalior
+Official Website: https://sdc.mitsgwalior.in/
+Contact Email: sdc@mitsgwalior.in
+Motto: Where innovation meets collaboration | { Building the future, one commit at a time }
+
+================================================================================
+ABOUT SDC
+================================================================================
+Who We Are:
+A community of passionate developers, innovators, and tech enthusiasts building the future together at MITS Gwalior.
+
+Our Mission:
+To empower students with practical software development skills, foster innovation through collaborative projects, and bridge the gap between academic learning and industry requirements. We believe in learning by doing and growing together as a community.
+
+Our Vision:
+To become the leading platform for student developers to learn, collaborate, and innovate. We envision a future where every student has the skills and confidence to build amazing software that solves real-world problems and makes a positive impact.
+
+What We Do (Activities):
+- Workshops: Regular coding workshops and tech talks on the latest technologies.
+- Hackathons: Organize and participate in competitive coding events and campus hackathons.
+- Mentorship: Peer-to-peer learning and guidance from experienced members and alumni.
+- Open Source: Contribute to open source projects and build strong developer portfolios.
+- Campus Portals: Build and maintain core digital infrastructure, automation tools, and portals for MITS Gwalior.
+
+SDC By The Numbers:
+- 50+ Members
+- 10+ Live Deployed Production Projects
+- 5+ Events Organized
+- 20+ Tech Stacks
+- 1000+ Active Student & Faculty Users
+- 99.9% Infrastructure Uptime
+
+Tech Stack & Technologies Mastered:
+- Modern Stack: React, Next.js, Node.js, Django, TypeScript
+- Production Ready: Docker, Kubernetes, Git, CI/CD
+- Full Stack & Databases: MongoDB, PostgreSQL, Tailwind CSS, Three.js
+
+================================================================================
+ALL SDC FEATURED PROJECTS & LIVE CAMPUS PORTALS (20 TOTAL)
+================================================================================
+1. NEC Registration Portal
+   - Description: NEC course registration tool used by MITS Gwalior students.
+   - Portal URL: https://nec.mitsweb.in/
+   - Built By: Amit Singh Rajawat (2024), Ananya Jain (2026), Anuj Rathor (2025), Anurag Dubey (2024), Shivam Singh (2025)
+
+2. College Level Counselling (CLC)
+   - Description: Digital portal that helps MITS conduct its college-level admissions counselling fast and easily.
+   - Portal URL: https://clc.mitsgwalior.in/
+   - Built By: Naveen Mittal (2024), Rahul Rawat (2025)
+
+3. Library Management System
+   - Description: Tool helping students and library staff to manage library book records and resources effortlessly.
+   - Portal URL: https://library.mitsgwalior.in/
+   - Built By: Naveen Mittal (2024)
+
+4. Net Auth
+   - Description: Authentication and authorization system for high-speed campus internet access.
+   - Portal URL: https://net.mitsgwalior.in/
+   - Built By: Sanskar Gupta (2024)
+
+5. Exam Seating Arrangement System (eSitting)
+   - Description: Intelligent seating allocation tool that arranges students so that adjacent students do not have the same exam subject.
+   - Portal URL: https://esitting.mitsgwalior.in/
+   - Built By: Anuj Rathor (2025), Naveen Mittal (2024), Nishank Shakyawar (2024), Rishabh Nayak (2024), Shivam Singh (2025)
+
+6. XamDru - MITS Online Exam Portal
+   - Description: AI-based secure platform for conducting online examinations.
+   - Portal URL: https://examportal.mitsgwalior.in/
+   - Built By: Rahul Rawat (2025)
+
+7. NBN MITS (NbN Desk)
+   - Description: Official digital platform of MITS for generating NOC (No Objection Certificate), Bonafide Certificate, and No-Dues certificates with streamlined approvals and tracking.
+   - Portal URL: https://nbn.mitsgwalior.in/
+   - Built By: Amit Manmode (2028), Ayan Ahmed Khan (2027), Suyash Agarwal (2025)
+
+8. Network Management System MITS (NMS-MITS)
+   - Description: Campus network monitoring, analytics, and management system.
+   - Portal URL: https://nms.mitsgwalior.in/
+   - Built By: Devyash Rasela (2027), Suyash Sharma (2027), Utkarsh Gupta (2025)
+
+9. Competitive Programming Analytics Platform (CPTrack)
+   - Description: Analytics platform for tracking and benchmarking competitive programming ratings and contest submissions.
+   - Portal URL: https://cptrack.mitsgwalior.in/
+   - Built By: Vaibhav Sharma (2027)
+
+10. Digital Certificate System (DCS)
+    - Description: Digital verification and issuance system for certificates awarded at MITS events.
+    - Portal URL: https://dcs.mitsgwalior.in/
+    - Built By: Vaibhav Sharma (2027)
+
+11. Grade Moderation System (GMS)
+    - Description: Automated workflow tool for academic grade moderation.
+    - Portal URL: https://gms.mitsgwalior.in/
+    - Built By: Vaibhav Sharma (2027)
+
+12. Aarunya Pass
+    - Description: Online pass booking and entry QR verification system for the annual MITS cultural festival Aarunya.
+    - Portal URL: https://aarunyapass.mitsgwalior.in/
+    - Built By: Amul Agarwal (2026), Harshit Varshney (2026)
+
+13. HackOrbit 2025
+    - Description: Fast, immersive hackathon registration and contest platform built using Next.js, TypeScript, Tailwind CSS, and Three.js.
+    - Portal URL: https://hackathon.mitsgwalior.in/
+    - Built By: Ayan Ahmed Khan (2027)
+
+14. MITStudy
+    - Description: Official student resource platform offering fast, organized, and verified academic notes and previous year questions (PYQs).
+    - Portal URL: https://mitstudy.mitsgwalior.in/
+    - Built By: Anuj Shrivastava (2027)
+
+15. Software Development Club (SDC) Website
+    - Description: Modern full-stack platform built with React and Node.js to showcase club projects, manage student developer portfolios, and provide an interactive dashboard.
+    - Portal URL: https://sdc.mitsgwalior.in/
+    - Built By: Ayan Ahmed Khan (2027), Naveen Mittal (2024)
+
+16. MITS Cloud File Portal
+    - Description: Public and departmental file storage and sharing portal organized by academic session and department.
+    - Portal URL: https://cloud.mitsgwalior.in/
+    - Built By: Ayan Ahmed Khan (2027)
+
+17. SAR Management System
+    - Description: Centralized digital platform streamlining Self Assessment Report (SAR) documentation, submissions, approvals, and NBA/NAAC accreditation reporting.
+    - Portal URL: https://sar.mitsgwalior.in/
+    - Built By: Anuj Shrivastava (2027)
+
+18. MITS Alumni Portal
+    - Description: Platform connecting current students and faculty with distinguished MITS alumni across industries.
+    - Portal URL: https://alumni.mitsgwalior.in/
+    - Built By: Harsh Manmode (2028)
+
+19. MITS Scholarship Portal
+    - Description: Centralized platform for students to explore available state, national, and institute scholarships, verify documents, and track applications.
+    - Portal URL: https://scholarship.mitsgwalior.in/
+    - Built By: Ayan Ahmed Khan (2027)
+
+20. OFP - Offline Fee Portal
+    - Description: Simplifies the bank loan fee process for students through a unified dashboard for secure UTR submission, semester-wise payment tracking, bank loan verification, and document downloads.
+    - Portal URL: https://ofp.mitsgwalior.in/
+    - Built By: Palash Rai (2028)
+
+================================================================================
+SDC TEAM ROSTER BY BATCH
+================================================================================
+Batch 2028:
+- Amit Manmode
+- Palash Rai
+- Harsh Manmode
+
+Batch 2027:
+- Ayan Ahmed Khan
+- Anuj Shrivastava
+- Suyash Sharma
+- Devyash Rasela
+- Vaibhav Sharma
+
+Batch 2026:
+- Ananya Jain
+- Amul Agarwal
+- Harshit Varshney
+
+Batch 2025:
+- Suyash Agarwal
+- Anuj Rathor
+- Shivam Singh
+- Utkarsh Gupta
+- Rahul Rawat
+
+Batch 2024:
+- Naveen Mittal
+- Sanskar Gupta
+- Rishabh Nayak
+- Amit Singh Rajawat
+- Anurag Dubey
+- Nishank Shakyawar
+
+Website Creator & Lead:
+Crafted with dedication by Ayan Ahmed Khan (Batch 2027).

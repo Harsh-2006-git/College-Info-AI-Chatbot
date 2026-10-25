@@ -33,7 +33,7 @@ export default function ChatWindow({ messages, isTyping, onUploadClick, document
     <div ref={containerRef} className="flex-1 overflow-y-auto min-h-0 scroll-smooth">
       <div className="flex flex-col pb-6">
         {messages.map((message) => (
-          <MessageBubble key={message.id} message={message} theme={theme} />
+          <MessageBubble key={message.id} message={message} theme={theme} onSendMessage={onSendMessage} />
         ))}
         
         {isTyping && (

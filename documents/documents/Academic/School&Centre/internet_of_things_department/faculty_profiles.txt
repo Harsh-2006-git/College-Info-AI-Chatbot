@@ -1,0 +1,134 @@
+Department: Centre for Internet of Things (CIoT)
+Faculty Profiles
+
+1. Dr. Praveen Bansal
+Profile URL: https://web.mitsgwalior.in/faculty-profiles-iot-2/praveen-bansal
+Designation: Associate Professor and Dean, Centre for IoT
+Qualification: M.Tech (MANIT, Bhopal), Ph.D. (DTU, Delhi)
+Area of Interest: Power Quality, Grid Connected Systems, Multilevel Inverters, IoT
+Phone No: 9827577549
+E-Mail: pbansal444@mitsgwalior.in
+
+2. Dr. Saurabh Kumar Rajput
+Profile URL: https://web.mitsgwalior.in/faculty-profiles-iot-2/saurabh-kumar-rajput
+Designation: Assistant Professor
+Qualification: Ph.D. (NIT Patna), M.Tech. (IIT Delhi), B.Tech. (UPTU Lucknow)
+Area of Interest: Performance and Economic Analysis of Rooftop PV integrated Low Voltage Distribution Power System, Industrial Energy Auditing & Management
+Phone No: +91-9555969573
+E-Mail: saurabh9march@mitsgwalior.in
+LinkedIn: https://www.linkedin.com/in/dr-saurabh-rajput-b8805a70/
+
+3. Dr. Bhavna Rathore
+Profile URL: https://web.mitsgwalior.in/faculty-profiles-iot-2/bhavna-rathore-ee
+Designation: Assistant Professor
+Qualification: Ph.D. IIT Kanpur | M.Tech DTU Delhi | B.E. SGSITS Indore
+Area of Interest: Impact of renewable energy source integration on power system stability
+Phone No: 7275765537
+E-Mail: rathore.puja@mitsgwalior.in
+
+4. Dr. Kaushal Pratap Sengar
+Profile URL: https://web.mitsgwalior.in/faculty-profiles-iot-2/dr-kaushal-pratap-sengar
+Designation: Assistant Professor
+Qualification: PhD, NIT Raipur
+Area of Interest: Application of IoT in Electrical Engineering, Optimization Techniques, High Voltage Engineering
+Phone No: 7581831949
+E-Mail: kaushalsengar@mitsgwalior.in
+
+5. Dr. Murli Manohar
+Profile URL: https://web.mitsgwalior.in/faculty-profiles-iot-2/dr-murli-manohar
+Designation: Assistant Professor
+Qualification: PhD (NIT Raipur)
+Area of Interest: Microgrid protection, Renewable Energy Resources, Electric Vehicle Technology, Application of soft computing and data mining in power system protection
+Phone No: 9907016922
+E-Mail: murlimanohar@mitsgwalior.in
+
+6. Dr. Soumyajit Ghosh
+Profile URL: https://web.mitsgwalior.in/faculty-profiles-iot-2/dr-soumyajit-ghosh
+Designation: Assistant Professor
+Qualification: B.Tech (WBUT), M.E (Jadavpur University), PhD (Jadavpur University), PDF (IIT Kanpur)
+Area of Interest: Smart-grid operation and control, AI and machine learning application in power systems, load monitoring using IoT devices and energy management
+Phone No: 7980640226
+E-Mail: soumyajit@mitsgwalior.in
+
+7. Dr. Aftab Ahmed Ansari
+Profile URL: https://web.mitsgwalior.in/faculty-profiles-iot-2/dr-aftab-ahmed-ansari
+Designation: Assistant Professor
+Qualification: Ph.D.
+Area of Interest: Model Predictive Control, Grid Connected Systems, IoT
+Phone No: 8878425322
+E-Mail: aftabansari@mitsgwalior.in
+
+8. Dr. Dhananjay Bisen
+Profile URL: https://web.mitsgwalior.in/faculty-profiles-iot-2/dr-dhananjay-bisen
+Designation: Assistant Professor
+Qualification: B.E., M.Tech., Ph.D.
+Area of Interest: Computer Programming, Data Science, Machine Learning, Deep Learning
+Phone No: 9993331506
+E-Mail: dhananjay@mitsgwalior.in
+
+9. Dr. Nookala Venu
+Profile URL: https://web.mitsgwalior.in/faculty-profiles-iot-2/dr-nookala-venu
+Designation: Assistant Professor
+Qualification: M.Tech., Ph.D., Post Doctoral Fellow (PDF), M.Tech. (ABV-IIITM Gwalior Under QIP in Data Science & Quantum Computing)
+Area of Interest: Internet of Things, Quantum Computing, Data Science, Machine Learning, Deep Learning, Signal & Image Processing
+Phone No: 8328208665
+E-Mail: venunookala@mitsgwalior.in
+
+10. DR. PRIYANKA GARG
+Profile URL: https://web.mitsgwalior.in/faculty-profiles-iot-2/dr-priyanka-garg
+Designation: Assistant Professor
+Qualification: Ph.D., Delhi Technological University
+Area of Interest: Metamaterial-based microwave absorbers, antennas, sensors, IoT/Robotics
+E-Mail: priyankagarg@mitsgwalior.in
+
+11. Dr. Namita Arya
+Profile URL: https://web.mitsgwalior.in/faculty-profiles-iot-2/dr-namita-arya
+Designation: Assistant Professor
+Qualification: Post-Doc (Abroad), Ph.D.
+Area of Interest: IoT, Circuit Designing, VLSI Design
+Phone No: +91-8279535987
+E-Mail: namitaarya@mitsgwalior.in
+
+12. Dr. Rupam Srivastava
+Profile URL: https://web.mitsgwalior.in/faculty-profiles-iot-2/dr-rupam-srivastava
+Designation: Assistant Professor
+Qualification: Ph.D. (MNNIT Allahabad, Prayagraj)
+Area of Interest: SPR-based Optical Sensors
+E-Mail: rupamsrivastava@mitsgwalior.in
+
+13. Dr. Nandkishor Joshi
+Profile URL: https://web.mitsgwalior.in/faculty-profiles-iot-2/dr-nandkishor-joshi
+Designation: Assistant Professor
+Qualification: PhD (IIT, Roorkee)
+Area of Interest: Computer Network, Wireless Communication, Artificial Intelligence
+E-Mail: nandkishore@mitsgwalior.in
+
+14. Dr. Abhishek Sharma
+Profile URL: https://web.mitsgwalior.in/faculty-profiles-iot-2/dr-abhishek-sharma
+Designation: Assistant Professor
+Qualification: Post Doc (UCSB, IITK), PhD (IIITDM Jabalpur)
+Area of Interest: Load Forecasting, Energy Modeling, Application of IoT in Electrical Engineering
+Phone No: 7503804859
+E-Mail: abhisheksharma@mitsgwalior.in
+
+15. Dr. Sanjay Dhanka
+Profile URL: https://web.mitsgwalior.in/faculty-profiles-iot-2/dr-sanjay-dhanka
+Designation: Assistant Professor
+Qualification: PhD (SLIET Longowal (CFTI)), M.Tech (Gold Medal with Honours), B.Tech (RTU Kota)
+Area of Interest: Artificial Intelligence, Machine Learning, Deep Learning, Biomedical Engineering, Healthcare
+E-Mail: sanjaydhanka@mitsgwalior.in
+
+16. Dr. Bikramjit Basumatary
+Profile URL: https://web.mitsgwalior.in/faculty-profiles-iot-2/dr-bikramjit-basumatary
+Designation: Assistant Professor
+Qualification: M.Tech (NIT, AP), Ph.D. (CIT, Kokrajhar)
+Area of Interest: Computational nanoelectronics, Semiconductor Device, Internet of Things
+E-Mail: bikramjit@mitsgwalior.in
+
+17. Prof. Anuj Lodhi
+Profile URL: https://web.mitsgwalior.in/faculty-profiles-iot-2/prof-anuj-lodhi
+Designation: Assistant Professor
+Qualification: B.E., M.Tech., Ph.D. (Pursuing)
+Area of Interest: Power Quality, Multi-Level Inverters, Internet of Things
+Phone No: 8839593696
+E-Mail: anuj.lodhi123@mitsgwalior.in

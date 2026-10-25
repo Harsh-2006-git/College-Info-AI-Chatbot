@@ -1,0 +1,44 @@
+Department: Centre for Internet of Things (CIoT)
+Research Areas
+
+Area of Interest: Power Quality, Grid Connected Systems, Multilevel Inverters
+Faculty: Dr. Praveen Bansal
+
+Area of Interest: Data Science, IoT Data Analytics, Machine Learning
+Faculty: Dr. Dhananjay Bisen
+
+Area of Interest: Impact of renewable energy source integration on power system stability
+Faculty: Dr. Bhavna Rathore
+
+Area of Interest: Performance and Economic Analysis of Rooftop PV Integrated Low Voltage Distribution Power System, Industrial Energy Auditing & Management
+Faculty: Dr. Saurabh Kumar Rajput
+
+Area of Interest: Internet of Things, Data Mining, Big Data
+Faculty: Dr. Aditya Dubey
+
+Area of Interest: Metamaterial-based microwave absorbers, Antennas, Sensors, IoT/Robotics
+Faculty: Dr. Priyanka Garg
+
+Area of Interest: Signal & Image Processing, Mobile Ad-hoc Networks, Internet of Things
+Faculty: Dr. Nookala Venu
+
+Area of Interest: Application of IoT in Electrical Engineering, Optimization Techniques, High Voltage Engineering
+Faculty: Dr. Kaushal Pratap Sengar
+
+Area of Interest: Microgrid protection, Renewable Energy Resources, Application of soft computing, Data mining in power system protection
+Faculty: Dr. Murli Manohar
+
+Area of Interest: Data-Driven Cyber-Resilient Power System Operation
+Faculty: Dr. Gaurav Khare
+
+Area of Interest: Non-intrusive load monitoring and its applications in smart-grid operation and control, AI and machine learning applications in power systems, Load monitoring using IoT devices, control of FOPDT and SOPDT processes, Energy management in smart home
+Faculty: Dr. Soumyajit Ghosh
+
+Area of Interest: Solar photovoltaic, Renewable energy, Dye-sensitized solar cell
+Faculty: Dr. Geetam Shukla
+
+Area of Interest: Internet of Things, Circuit Designing, VLSI Design
+Faculty: Dr. Namita Arya
+
+Area of Interest: Model Predictive Control, Grid Connected Systems
+Faculty: Dr. Aftab Ahmed Ansari

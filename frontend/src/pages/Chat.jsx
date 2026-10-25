@@ -28,6 +28,15 @@ export default function Chat() {
     });
   };
 
+  // Synchronize documentElement dark class with theme
+  useEffect(() => {
+    if (theme === 'dark') {
+      document.documentElement.classList.add('dark');
+    } else {
+      document.documentElement.classList.remove('dark');
+    }
+  }, [theme]);
+
   const location = useLocation();
 
   const { documents, isDeleting, deleteDoc, upload, process } = useDocuments();

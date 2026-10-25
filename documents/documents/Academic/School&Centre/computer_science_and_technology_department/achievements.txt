@@ -1,0 +1,17 @@
+Department: Centre for Computer Science and Technology (CCST)
+Student Achievements and Awards
+
+Name of Student | Branch | Event & Organizer | Level & Category | Title of Achievement | Result / Position | Date
+Risikesh Singh Bhadoria (BTCB25O1105), Shivansh Pathak (BTCB25O1121) | Computer Science & Business Systems | Project Exhibition, MITS DU | University | Development of Community Driven Civic Problem Resolution Platform | Third Position | 02-06-2026
+Sumit Suryawanshi (BTCB25O1130) | Computer Science & Business Systems | AICTE | National (Technical) | Best performing Team - IDE Bootcamp (Edition 3 - Phase 2) | Winner (1st Position) | 24-04-2026
+Praman Jain (BTCB24O1047) | Computer Science & Business Systems | IEEE Student Chapter, IIITM Gwalior | National (Academic) | Data Science & Machine Learning track winner at Hacksagon 2026 | Winner (1st Position) | 22-04-2026
+Ajay Meena (BTTC25O1007) | Computer Science & Technology | ABV IIITM Gwalior | National (Technical) | Hacksagon (Hackathon) | Top Performer (Runner-up) | 05-04-2026
+Rajpal Gurjar (BTTC26O1060) | Computer Science & Technology | Inter department kabaddi tournament MITS-DU | University (Sports) | MITS Sports meet 2025-26 | Winner (1st Position) | 20-03-2026
+Harshal Rajpoot (BTCB25O1057) | Computer Science & Business Systems | Inter department kabaddi tournament MITS-DU | University (Sports) | MITS Sports meet 2025-26 | Winner (1st Position) | 17-03-2026
+Ramkrishan Singh Tomar (BTCB25O1102) | Computer Science & Business Systems | Rashtraay (Street play society of MITS) | University (Cultural) | Srijan | Runner-up (2nd Position) | 21-02-2026
+Ajay Meena (BTTC25O1007) | Computer Science & Technology | Hacksagon (Hackathon), ABV IIITM Gwalior | University (Technical) | Hackathon, Hackignite 1.0 | 3rd Position | 05-12-2025
+Pal Gupta (BTCB24O1045) | Computer Science & Business Systems | Udbhav Utsav-2025 | International (Cultural) | Udbhav Sports and Cultural Association Gwalior | Runner-up (2nd Position) | 29-10-2025
+Shriyanshi Gupta (BTCB24O1065) | Computer Science & Business Systems | Udbhav Utsav-2025 | International (Cultural) | Udbhav Sports and Cultural Association Gwalior | Runner-up (2nd Position) | 29-10-2025
+Shriyanshi Gupta (BTCB24O1065) | Computer Science & Business Systems | Infotsav'25, ABV IIITM Gwalior | University (Cultural) | INFOTSAV'25 | Winner (1st Position) | 12-10-2025
+Divyani Singh Baghel (BTCB25O1051) | Computer Science & Business Systems | National Service Scheme (MITS DU) | University (Cultural) | Cultural Competitions September 2025 | Winner (1st Position) | 14-09-2025
+Ajay Meena (BTTC25O1007) | Computer Science & Technology | ISBM Bangalore | National (Technical) | Quick Quest | Winner (1st Position) | 11-06-2025

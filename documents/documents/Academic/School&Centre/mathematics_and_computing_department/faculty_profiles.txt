@@ -1,0 +1,49 @@
+Department: Engineering Mathematics & Computing (Department of Mathematics & Computing)
+Faculty Profiles
+
+1. Dr. Dheeraj Kumar Dixit
+Profile URL: https://web.mitsgwalior.in/faculty-profiles-emc-2/dr-dheeraj-kumar-dixit
+Designation: Assistant Professor & Head
+Qualification: Ph.D. (MANIT, Bhopal)
+Area of Interest: Data Science, NLP, Machine Learning, Deep Learning, and Data Structure and Algorithms
+Phone No: 8871932025
+E-Mail: dheerajdixit@mitsgwalior.in, dheeraj.dixit26@gmail.com
+
+2. Dr. Minakshi Poonia
+Profile URL: https://web.mitsgwalior.in/faculty-profiles-emc-2/dr-minakshi-poonia
+Designation: Assistant Professor
+Qualification: Ph.D. (IIT Roorkee), NET (CSIR-JRF), GATE
+Area of Interest: Computational Fluid Dynamics, Finite Element Method, Non-Newtonian Flow, Heat and Mass Transfer
+Phone No: 9389522592
+E-Mail: minakshi@mitsgwalior.in
+
+3. Dr. DIVYA CHATURVEDI
+Profile URL: https://web.mitsgwalior.in/faculty-profiles-emc-2/dr-divya-chaturvedi
+Designation: Assistant Professor
+Qualification: Ph.D.
+Area of Interest: Mathematical Modelling of Ecological Systems
+Phone No: 8602565012
+E-Mail: divyac@mitsgwalior.in
+
+4. Dr. Monika Dandotiya
+Profile URL: https://web.mitsgwalior.in/faculty-profiles-emc-2/dr-monika-dandotiya
+Designation: Assistant Professor
+Qualification: B.E. (Hons), M. Tech. (Hons), Ph.D.
+Area of Interest: Information Security, Software-Defined Networking (SDN), Machine Learning, Deep Learning
+Phone No: 8319781973
+E-Mail: monikadandotiya@mitsgwalior.in
+
+5. VIVEK SHARMA
+Profile URL: https://web.mitsgwalior.in/faculty-profiles-emc-2/vivek-sharma
+Designation: System Analyst
+Qualification: B.E., DAC, M.Tech
+Area of Interest: Computer Networks, High Performance Computing, Unix Servers & ICT
+Phone No: 8302507788
+E-Mail: viveks@mitsgwalior.in
+
+6. Ms. Monika Vyas
+Profile URL: https://web.mitsgwalior.in/faculty-profiles-emc-2/ms-monika-vyas
+Designation: Assistant Professor
+Qualification: Ph.D. Pursuing (IIIT Kota), M. Tech, B.Tech
+Area of Interest: Robotics, Machine Learning and Deep Learning
+E-Mail: monikavyas@mitsgwalior.in

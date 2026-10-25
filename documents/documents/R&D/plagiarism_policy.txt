@@ -1,0 +1,22 @@
+R&D — Plagiarism Policy & Academic Integrity
+Madhav Institute of Technology & Science (MITS), Gwalior
+(Deemed to be University)
+
+POLICY OVERVIEW:
+MITS Gwalior maintains the highest standards of academic integrity and ethics in scientific research, dissertations, theses, and publications. Plagiarism checks are mandatory prior to the submission of any Master's dissertation, Ph.D. thesis, project report, or research manuscript.
+
+PLAGIARISM REGULATIONS, GUIDELINES & DIRECT LINKS:
+--------------------------------------------------------------------------------
+Sr. No. | Document Title | Resource Link
+--------------------------------------------------------------------------------
+1 | About Plagiarism & Ethical Guidelines | https://mitsgwalior.in/login/upload/about%20Plagiarism.pdf
+2 | UGC Regulation 2018 (Promotion of Academic Integrity and Prevention of Plagiarism in Higher Educational Institutions) | https://mitsgwalior.in/login/upload/UGC%20Regulation%20Regulation%202018.pdf
+3 | Institute and Department-wise Academic Integrity Panels & Committees | https://mitsgwalior.in/login/upload/Various%20Committees.pdf
+4 | Plagiarism Limit & Permissible Similarity Index for M.E./M.Tech Dissertation, Ph.D. Thesis & Publications | https://mitsgwalior.in/login/upload/Guideline%20M.E.%20Dissertation.pdf
+5 | Rules & Regulations regarding Project Report / Dissertation Preparation and Submission (M.Tech / MUP) | https://mitsgwalior.in/login/upload/Mtechmuprules%20(2%20files%20merged).pdf
+6 | Turnitin Anti-Plagiarism Software Login Portal | https://www.turnitin.com/login_page.asp?lang=en_us
+
+SIMILARITY THRESHOLDS & VERIFICATION:
+- All research scholars, PG students, and faculty members must submit an official similarity report generated via Turnitin / Urkund (Ouriginal) along with their dissertation/thesis submission.
+- The similarity index must remain strictly within the prescribed limit (generally <= 10% excluding bibliography and standard methods as per UGC guidelines).
+- Manuscripts exceeding permissible thresholds are returned to the candidate for revision and re-evaluation.
